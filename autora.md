@@ -24,9 +24,7 @@ permalink: /autora/
 - Abogada (2007) _-no en ejercicio_.
 - Notaria (2013) _-no en ejercicio_.
 
-&nbsp;
 ---
-&nbsp;
 
 [YouTube](https://youtube.com/channel/UCVBUKfDOcDMaxybQ0Ntk1Ww)
 <br />
