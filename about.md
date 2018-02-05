@@ -7,10 +7,10 @@ permalink: /about/
 
 ### Trabajo:
 - Docente universitaria de Introducción a la Programación Imperativa y Programación Imperativa ([UNNOBA](http://www.unnoba.edu.ar)).
-- Senior Software Quality Engineer (en el ámbito privado).
+- Senior Software Quality Engineer (ámbito privado).
 
  
-### Formación académica universitaria:
+### Universidad:
 
 [UNNOBA](http://www.unnoba.edu.ar):
 - Licenciatura en Sistemas (en curso).
