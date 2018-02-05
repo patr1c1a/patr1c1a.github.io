@@ -14,14 +14,13 @@ Para indicar que un número es negativo, se antepone el operador de resta (-), p
 
 &nbsp;
 
-#### División
+## División
 
 Además de la división expresada por medio de la barra es posible obtener sólo la parte entera o sólo el resto. Para obtener la parte entera se utiliza el operador **div** y para el resto se utiliza el operador **mod**. Estos operadores sólo funcionan sobre datos de tipo entero.
 
 Ejemplos de los resultados obtenidos mediante la división con cada uno de los tres operadores (dividiendo, en este ejemplo, 328 entre 6):
 
-<pre><code>
-328 / 6 = 5.4666666667E+01
+<pre><code>328 / 6 = 5.4666666667E+01
 328 div 6 = 54
 328 mod 6 = 4
 </code></pre>
@@ -29,7 +28,7 @@ Los operadores div y mod pueden servir a varios fines, para manipular datos num�
 
 &nbsp;
 
-#### Decimales
+## Decimales
 
 Obsérvese que el primer resultado del ejemplo anterior (un número real) se expresa por medio de un número con exponente. Para evitar una impresión por pantalla de este tipo y limitar la cantidad de dígitos decimales a visualizar, se deben colocar dos puntos seguidos de la cantidad de dígitos a incluir de la parte entera, y otros dos puntos seguidos de la cantidad de decimales. Por ejemplo:
   
@@ -41,7 +40,7 @@ registro en el que se necesita que el número almacenado ocupe obligatoriamente 
 
 &nbsp;
 
-#### Funciones aritméticas
+## Funciones aritméticas
 
 |Función|Descripción|Tipo del parámetro|Tipo del valor de retorno|
 |-------|--------|---------|---------|
@@ -58,7 +57,7 @@ registro en el que se necesita que el número almacenado ocupe obligatoriamente 
 
 &nbsp;
 
-#### Número aleatorio
+## Número aleatorio
 
 Para generar un número aleatorio se utiliza la función **random**, que recibe un parámetro representando el valor máximo del rango en que debe generarse el número, tomando como valor mínimo al 0. Por ejemplo, con _random(100)_ se obtendrá un número al azar entre 0 y 100.
 
