@@ -3,7 +3,7 @@ description: Un blog con material que escribo para mis cursos de programación y
 author: Patricia E. Miguel
 logo: /blog/static/img/avatar.png
 github: https://github.com/patr1c1a
-about: Artículos sobre fundamentos de programación y otras yerbas
+about: Artículos introductorios de programación y otras yerbas
 
 baseurl: "https://patr1c1a.github.io/blog"
 url: "https://patr1c1a.github.io/blog"
