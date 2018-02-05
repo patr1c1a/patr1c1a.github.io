@@ -10,7 +10,6 @@ permalink: /autora/
 - Senior Software Quality Engineer (ámbito privado).
 
 &nbsp;
----
 &nbsp;
 
  
@@ -29,7 +28,7 @@ permalink: /autora/
 ---
 &nbsp;
 
-<i class="fab fa-youtube"></i> [YouTube](https://youtube.com/channel/UCVBUKfDOcDMaxybQ0Ntk1Ww)
+[YouTube](https://youtube.com/channel/UCVBUKfDOcDMaxybQ0Ntk1Ww)
 <br />
 [LinkedIn](https://www.linkedin.com/in/patriciamiguel)
 <br />
