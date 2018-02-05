@@ -1,18 +1,14 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
-  },
-  {
-    "icon": "fa-twitter",
-    "link": ""
+    "icon": "fa-youtube",
+    "link": "https://www.youtube.com/channel/UCVBUKfDOcDMaxybQ0Ntk1Ww/videos"
   },
   {
     "icon": "fa-linkedin",
-    "link": ""
+    "link": "http://linkedin.com/in/patriciamiguel"
   },
   {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "icon": "fa-envelope",
+    "link": "mailto:contacto@patriciaemiguel.com"
   }
 ]
