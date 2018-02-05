@@ -4,8 +4,28 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+[YouTube](https://youtube.com/channel/UCVBUKfDOcDMaxybQ0Ntk1Ww)
+<br />
+[LinkedIn](https://www.linkedin.com/in/patriciamiguel)
+<br />
+[Email](mailto:contacto@patriciaemiguel.com)
 
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
+---
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+### Trabajo:
+- Docente universitaria de Introducción a la Programación Imperativa y Programación Imperativa ([UNNOBA](http://www.unnoba.edu.ar)).
+- Senior Software Quality Engineer (en el ámbito privado).
+
+ 
+### Formación académica universitaria:
+
+[UNNOBA](http://www.unnoba.edu.ar):
+- Licenciatura en Sistemas (en curso).
+- Analista de Sistemas (2014).
+- Programadora Universitaria (2014).
+
+[UNLP](http://www.jursoc.unlp.edu.ar):
+- Abogada (2007) _-no en ejercicio_.
+- Notaria (2013) _-no en ejercicio_.
+
