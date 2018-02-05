@@ -6,9 +6,9 @@
     "layout": "post"
   },
   {
-    "text": "Enlaces externos",
+    "text": "Enlaces",
     "url": "/enlaces/",
-    "icon": "fa-external-link-alt",
+    "icon": "fa-link",
   },
   {
     "text": "XML Feed",
@@ -17,7 +17,7 @@
     "target": _blank
   },
   {
-    "text": "Sobre la autora",
+    "text": "Autora",
     "url": "/about/",
     "icon": "fa-female"
   }
