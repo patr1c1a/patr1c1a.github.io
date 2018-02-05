@@ -15,10 +15,10 @@
     "url": "/feed.xml",
     "icon": "fa-feed",
     "target": _blank
-  }
+  },
   {
     "text": "Sobre la autora",
     "url": "/about/",
     "icon": "fa-female"
-  },
+  }
 ]
