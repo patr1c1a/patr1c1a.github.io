@@ -1,29 +1,14 @@
 [
   {
-    "text": "Home",
+    "text": "Inicio",
     "url": "/",
     "icon": "fa-home",
     "layout": "post"
   },
   {
-    "text": "About",
-    "url": "/about/",
-    "icon": "fa-comments"
-  },
-  {
-    "text": "Projects",
-    "url": "/projects",
-    "icon": "fa-desktop"
-  },
-  {
-    "text": "Resume",
+    "text": "Enlaces externos",
     "url": "/#",
-    "icon": "fa-graduation-cap",
-  },
-  {
-    "text": "Github",
-    "url": "/#",
-    "icon": "fa-github"
+    "icon": "fa-external-link-alt",
   },
   {
     "text": "XML Feed",
@@ -31,4 +16,9 @@
     "icon": "fa-feed",
     "target": _blank
   }
+  {
+    "text": "Sobre la autora",
+    "url": "/about/",
+    "icon": "fa-female"
+  },
 ]
