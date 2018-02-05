@@ -2,7 +2,7 @@
 layout: post
 title: En construcción
 date: 2018-02-05 11:30:00
-categories: others
+categories: otros
 published: true
 ---
 
