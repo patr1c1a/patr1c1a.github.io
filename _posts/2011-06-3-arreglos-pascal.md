@@ -26,12 +26,12 @@ Acceso al quinto elemento del vector para asignarle un valor: <code>arreglo[5] :
 
 Por supuesto, como el vector fue declarado de números enteros, sólo podrá asignársele valores enteros. De la misma forma, debido a que se utilizaron números para determinar el índice, se accederá colocando un número en los corchetes. Si el índice del vector fuera de caracteres (por ejemplo, de 'a' hasta 'z'), el quinto elemento debería ser referenciado de la siguiente forma: <code>arreglo['e'] := 700;</code>
 
-También puede referenciarse al índice por medio de una variable que coincida con el tipo de dato utilizado para el índice. En caso de que el índice sea numérico, podría utilizarse una variable de tipo _integer_ como índice. Esta es la forma en que generalmente se hará referencia a una posición del vector. Por ejemplo, si se deseara rellenar el vector anterior con el número 0 en cada una de sus 50 posiciones, se podría declarar una variable de tipo entero y llenar el vector utilizando una [estructura iterativa]({% post_url 2011-06-2-estructuras-de-control-pascal %}):
+También puede referenciarse al índice por medio de una variable que coincida con el tipo de dato utilizado para el índice. En caso de que el índice sea numérico, podría utilizarse una variable de tipo _integer_ como índice. Esta es la forma en que generalmente se hará referencia a una posición del vector. Por ejemplo, si se deseara rellenar el vector anterior con el número 0 en cada una de sus 50 posiciones, se podría declarar una variable de tipo entero y llenar el vector utilizando una estructura iterativa:
 
 <pre>for i := 1 to 50 do
    arreglo[i] := 0;</pre>
 
-Debe recordarse que Pascal es fuertemente tipado, por lo que no pueden asignarse tipos de datos diferentes entre sí. Por lo que, de ser necesario rellenar un vector con la repetición de un número entero, no podría asignarse este número directamente al vector (<code>arreglo:=0</code>), ya que el arreglo es de un tipo _array_ y el número es de tipo _integer_. En cambio, el vector en cada una de sus posiciones sí contiene datos de tipo integer, por lo que es perfectamente posible asignar como se hizo en el ejemplo iterativo anterior. Esto es un efecto de la [abstracción]({% post_url 2015-06-20-abstraccion %}).
+Debe recordarse que Pascal es fuertemente tipado, por lo que no pueden asignarse tipos de datos diferentes entre sí. Por lo que, de ser necesario rellenar un vector con la repetición de un número entero, no podría asignarse este número directamente al vector (<code>arreglo:=0</code>), ya que el arreglo es de un tipo _array_ y el número es de tipo _integer_. En cambio, el vector en cada una de sus posiciones sí contiene datos de tipo integer, por lo que es perfectamente posible asignar como se hizo en el ejemplo iterativo anterior. Esto es un efecto de la abstracción.
 
 &nbsp;
 
