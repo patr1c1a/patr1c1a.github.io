@@ -52,29 +52,29 @@ Esta matriz de 5 filas y 3 columnas correspondería a un esquema gráfico como e
 <col width="70%" />
 </colgroup>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td border="1">&nbsp;</td>
+<td border="1">&nbsp;</td>
+<td border="1">&nbsp;</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td border="1">&nbsp;</td>
+<td border="1">&nbsp;</td>
+<td border="1">&nbsp;</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td border="1">&nbsp;</td>
+<td border="1">&nbsp;</td>
+<td border="1">&nbsp;</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td border="1">&nbsp;</td>
+<td border="1">&nbsp;</td>
+<td border="1">&nbsp;</td>
 </tr>
 <tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
+<td border="1">&nbsp;</td>
+<td border="1">&nbsp;</td>
+<td border="1">&nbsp;</td>
 </tr>
 </table>
 Un elemento en una matriz se referencia con todos sus índices: <code>arreglo[4,1]</code> corresponde a la cuarta fila, primera columna.
