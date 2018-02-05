@@ -10,6 +10,7 @@ permalink: /autora/
 - Senior Software Quality Engineer (ámbito privado).
 
 &nbsp;
+---
 &nbsp;
 
  
@@ -24,9 +25,11 @@ permalink: /autora/
 - Abogada (2007) _-no en ejercicio_.
 - Notaria (2013) _-no en ejercicio_.
 
+&nbsp;
 ---
+&nbsp;
 
-[YouTube](https://youtube.com/channel/UCVBUKfDOcDMaxybQ0Ntk1Ww)
+<i class="fab fa-youtube"></i> [YouTube](https://youtube.com/channel/UCVBUKfDOcDMaxybQ0Ntk1Ww)
 <br />
 [LinkedIn](https://www.linkedin.com/in/patriciamiguel)
 <br />
