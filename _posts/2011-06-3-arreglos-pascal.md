@@ -45,7 +45,7 @@ La declaración del tipo es muy similar a la de un vector con la diferencia de q
 <pre><code>type matriz = array [1..5, 1..3] of integer;</code></pre>
 
 Esta matriz de 5 filas y 3 columnas correspondería a un esquema gráfico como el siguiente:
-![tabla de 5 filas y 3 columnas](/assets/2011-06-3-arreglos-pascal-img1.png);
+![tabla de 5 filas y 3 columnas](/assets/2011-06-3-arreglos-pascal-img1.jpg)
 
 Un elemento en una matriz se referencia con todos sus índices: <code>arreglo[4,1]</code> corresponde a la cuarta fila, primera columna.
 
