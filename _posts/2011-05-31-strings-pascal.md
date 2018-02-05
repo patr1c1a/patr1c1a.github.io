@@ -11,6 +11,7 @@ Debido a que en Pascal los strings son una sucesión de caracteres que se almace
 Debe tenerse en cuenta que, implícitamente, un string tiene un índice numérico para cada carácter, comenzando por el 1:
 
 |H|o|l|a| |M|u|n|d|o|
+|---|---|---|---|---|---|---|---|---|---|
 |1|2|3|4|5|6|7|8|9|10|
 
 &nbsp;
