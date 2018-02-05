@@ -46,12 +46,37 @@ La declaración del tipo es muy similar a la de un vector con la diferencia de q
 
 Esta matriz de 5 filas y 3 columnas correspondería a un esquema gráfico como el siguiente:
 
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-
+<table>
+<colgroup>
+<col width="30%" />
+<col width="70%" />
+</colgroup>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+</table>
 Un elemento en una matriz se referencia con todos sus índices: <code>arreglo[4,1]</code> corresponde a la cuarta fila, primera columna.
 
 Para recorrer una matriz, es necesario utilizar estructuras iterativas anidadas, ya que por un lado se debe recorrer el índice de las filas y, por otro, el de las columnas:
