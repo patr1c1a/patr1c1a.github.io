@@ -3,7 +3,7 @@ layout: post
 title: Tipos de datos en Pascal
 date: 2011-05-28T19:12:00.000Z
 categories: pascal
-published: false
+published: true
 ---
 
 Pascal es un lenguaje de programación fuertemente tipado que tiene algunos tipos de datos predefinidos y otros que pueden ser definidos por el usuario.
