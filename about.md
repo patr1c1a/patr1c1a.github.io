@@ -4,14 +4,6 @@ title: About
 permalink: /about/
 ---
 
-[YouTube](https://youtube.com/channel/UCVBUKfDOcDMaxybQ0Ntk1Ww)
-<br />
-[LinkedIn](https://www.linkedin.com/in/patriciamiguel)
-<br />
-[Email](mailto:contacto@patriciaemiguel.com)
-
----
-
 
 ### Trabajo:
 - Docente universitaria de Introducción a la Programación Imperativa y Programación Imperativa ([UNNOBA](http://www.unnoba.edu.ar)).
@@ -29,3 +21,10 @@ permalink: /about/
 - Abogada (2007) _-no en ejercicio_.
 - Notaria (2013) _-no en ejercicio_.
 
+---
+
+[YouTube](https://youtube.com/channel/UCVBUKfDOcDMaxybQ0Ntk1Ww)
+<br />
+[LinkedIn](https://www.linkedin.com/in/patriciamiguel)
+<br />
+[Email](mailto:contacto@patriciaemiguel.com)
