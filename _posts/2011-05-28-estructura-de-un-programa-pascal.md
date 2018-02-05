@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Estructura de un programa en Pascal
-date: 2015-06-12 19:12:00
+date: 2011-05-28 19:12:00
 categories: pascal
 published: true
 ---
