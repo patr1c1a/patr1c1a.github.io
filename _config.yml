@@ -3,11 +3,11 @@ description: Material que escribo para mis cursos de programación y otras cosil
 author: Patricia E. Miguel
 logo: /blog/static/img/avatar.png
 github: https://github.com/patr1c1a
-about: Material que escribo para mis cursos de programación y otras cosillas que se me ocurren. No English version (these are mostly teaching resources I create).
+about: Artículos para mis cursos en la universidad y otras cosillas que se me ocurren. No English version (these are mostly teaching resources I create).
 #Artículos introductorios de programación y otras yerbas
 
-baseurl: "https://patr1c1a.github.io"
-url: "https://patr1c1a.github.io"
+baseurl: "https://patriciaemiguel.com"
+url: "https://patriciaemiguel.com"
 
 allowsearch: true
 
