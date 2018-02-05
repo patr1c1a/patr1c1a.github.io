@@ -10,7 +10,7 @@ Debido a que en Pascal los strings son una sucesión de caracteres que se almace
 
 Debe tenerse en cuenta que, implícitamente, un string tiene un índice numérico para cada carácter, comenzando por el 1:
 
-![string con sus índices](/assets/2011-05-31-strings-pascal-img1.jpg);
+![string con sus índices](/assets/2011-05-31-strings-pascal-img1.jpg)
 
 &nbsp;
 
