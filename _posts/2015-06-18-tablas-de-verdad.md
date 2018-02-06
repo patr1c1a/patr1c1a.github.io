@@ -99,7 +99,7 @@ La característica de la disyunción es que sólo es F cuando ambos operandos so
 
 La característica de la negación es que invierte el valor de verdad de la proposición.
 
-## IMPLICACÓN
+## IMPLICACIÓN
 
 ![tabla de implicación](/assets/2015-06-18-tablas-de-verdad-img8.jpg)
 
