@@ -133,7 +133,3 @@ Cuando **p** es Falso y **q** es Verdadero, **p ![operador bicondicional](/asset
 Cuando **p** es Falso y **q** es Falso, **p ![operador bicondicional](/assets/2015-06-18-tablas-de-verdad-img2.jpg) q** es Verdadero
 
 La característica de la doble implicación es que sólo es V cuando ambos operadores tienen el mismo valor de verdad.
-
-
-
-When **p** is true and **q** is true, **p ![and](/assets/2015-06-18-tablas-de-verdad-img3.jpg) q** is also true.
