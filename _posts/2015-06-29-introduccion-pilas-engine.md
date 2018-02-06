@@ -8,7 +8,7 @@ published: true
 
 Pilas Engine es un [motor](https://es.wikipedia.org/wiki/Motor_de_videojuego) para programar videojuegos de manera sencilla y sólo con conocimientos básicos de programación.
 
-Para poder utilizar Pilas y no morir en el intento, es necesario manejar algunos conceptos iniciales de programación, como los [tipos de datos](/conceptos/2015/06/18/tipos-de-datos.html), las [estructuras de control](/conceptos/2015/06/28/estructuras-de-control.html) y [funciones](/conceptos/2015/06/23/funciones.html).
+Para poder utilizar Pilas y no morir en el intento, es necesario manejar algunos conceptos iniciales de programación, como los [tipos de datos](/conceptos/2015/06/18/tipos-de-datos.html), las [estructuras de control](/conceptos/2015/06/23/estructuras-de-control.html) y [funciones](/conceptos/2015/06/23/funciones.html).
 
 Y, a pesar de que está pensado para principiantes, para hacer algo "serio" seguramente será necesario investigar algunas cosas específicas de Pilas, para lograr lo que sea que se esté construyendo. Para ello, hay documentación oficial en español que puede consultarse acá:
 
