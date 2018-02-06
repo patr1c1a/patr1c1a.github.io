@@ -4,6 +4,7 @@ title: Autora
 permalink: /autora/
 ---
 
+![desc]({{ site.url }}/assets/2015-06-17-empezando-a-programar-img1.jpg)
 
 ### Trabajo:
 - Docente universitaria de Introducción a la Programación Imperativa y Programación Imperativa ([UNNOBA](http://www.unnoba.edu.ar)).
