@@ -190,26 +190,25 @@ En el _for_ indicamos que la variable **i** va a iterar entre los valores 1 y 12
 A continuación, agregaremos funcionalidad al evento Click del botón "Aceptar": le vamos a decir que muestre un MessageBox que, basándose en la edad de la persona (mayor o menor de 21 años) le indique si puede continuar o no. Además, en el Label "invisible" que se encuentra al lado del que dice "Capacidad" (lblResultado) aparecerá la palabra "capaz" si tiene 21 años o más, o "incapaz" si tiene menos. El código es el siguiente:
 
 <pre><code>Private Sub btnAceptar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnAceptar.Click 
-    Dim edad As Integer 
-    edad = CInt(cboEdad.SelectedItem) 
-    If edad &gt;= 21 Then
-        lblResultado.Text = "capaz" 
-        MessageBox.Show("Mayor de edad. Puede continuar completando los datos para obtener su crédito por US$ 1 millón", "Verificación", MessageBoxButtons.OK, MessageBoxIcon.Information) 
-    Else 
+    Dim edad As Integer
+    edad = CInt(cboEdad.SelectedItem)
+    If edad > 21 Then
+        lblResultado.Text = "capaz"
+        MessageBox.Show("Mayor de edad. Puede continuar completando los datos para obtener su crédito por US$ 1 millón", "Verificación", MessageBoxButtons.OK, MessageBoxIcon.Information)
+    Else
         lblResultado.Text = "incapaz" 
-        MessageBox.Show("Menor de edad. Lamentablemente no puede obtener un crédito por US$ 1 millón", "No pasa la verificación", MessageBoxButtons.OK, MessageBoxIcon.Hand) 
-    End If 
+        MessageBox.Show("Menor de edad. Lamentablemente no puede obtener un crédito por US$ 1 millón", "No pasa la verificación", MessageBoxButtons.OK, MessageBoxIcon.Hand)
+    End If
 End Sub</code></pre>
 
 Analicémoslo:
 
-<code>Dim edad As Integer</code> declara una variable de tipo entero. La utilizaremos para almacenar la edad que seleccionó el usuario, ya que el ComboBox devuelve datos de tipo Object (una clase global que engloba a todas las clases de objetos), y se hará necesario convertir ese Object a un dato de tipo Integer. Esto se logra con la siguiente línea: <code>edad = CInt(cboEdad.SelectedItem)</code>. Los métodos para convertir ("cast") datos de un tipo a otro, son los siguientes: CBool | CByte | CChar | CDate | CDec |CDbl | CInt | CLng | CObj | CShort | CSng | CStr.
+<code>Dim edad As Integer</code> declara una variable de tipo entero. La utilizaremos para almacenar la edad que seleccionó el usuario, ya que el ComboBox devuelve datos de tipo Object (una clase global que engloba a todas las clases de objetos), y se hará necesario convertir ese Object a un dato de tipo Integer. Esto se logra con la siguiente línea: <code>edad = CInt(cboEdad.SelectedItem)</code>. Los métodos para convertir ("cast") datos de un tipo a otro, son los siguientes: CBool, CByte, CChar, CDate, CDec, CDbl, CInt, CLng, CObj, CShort, CSng, CStr.
 
 Luego comparamos la edad ingresada por el usuario contra el número 21 con un <code>If edad > 21 Then</code>. Si la evaluación de esa condición da como resultado True, se ejecuta el bloque de código que sigue, a saber:
 
 <pre><code>lblResultado.Text = "capaz" 
-MessageBox.Show("Mayor de edad. Puede continuar completando los datos para obtener su crédito por US$ 1 millón", "Verificación", MessageBoxButtons.OK, MessageBoxIcon.Information)
-</code></pre>
+MessageBox.Show("Mayor de edad. Puede continuar completando los datos para obtener su crédito por US$ 1 millón", "Verificación", MessageBoxButtons.OK, MessageBoxIcon.Information)</code></pre>
 
 Es decir, al _Label_ vacío (lblResultado) se le asigna el texto "capaz" en su propiedad _Text_. A continuación, se muestra un _MessageBox_, que recibe los siguientes parámetros, en este orden: _String_ con el texto que muestra el cuadro, _String_ con el título del cuadro, botones que aparecen en el cuadro (llamando a _MessageBoxButtons_ para elegir el/los botones), ícono que muestra el cuadro (llamando a _MessageBoxIcon_ para elegir el ícono).
 
