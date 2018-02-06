@@ -12,7 +12,7 @@ En Python, el módulo "turtle" ya viene incorporado con la instalación básica 
 
 La tortuga en Python siempre empieza "mirando" hacia la derecha y, a medida que camina, deja una línea dibujada. Si se la hace caminar hacia adelante, empezará haciendo una línea de izquierda a derecha.
 
-Algunas órdenes básicas de Turtle (hay muchas más):
+## Algunas órdenes básicas de Turtle (hay muchas más):
 
 <table>
   <tr>
@@ -88,6 +88,8 @@ Algunas órdenes básicas de Turtle (hay muchas más):
     </td>
   </tr>
 </table>
+
+## Ejemplos:
 
 Veamos algunos ejemplos de código para dibujar formas geométricas. Para interpretar código, una buena idea es seguirlo en papel, respetando las instrucciones en el orden en que están escritas.
 
