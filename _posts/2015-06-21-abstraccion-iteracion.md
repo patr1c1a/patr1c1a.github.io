@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Abstracción en una iteración fija (for)
-date: 2015-06-20 19:00:00
+date: 2015-06-21 19:00:00
 categories: conceptos
 published: true
 ---
