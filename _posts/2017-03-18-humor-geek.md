@@ -3,7 +3,7 @@ layout: post
 title: Humor y reflexiones geek
 date: 2017-03-18 15:00:00
 categories: otros
-published: false
+published: true
 ---
 
 ## Cuando se olvidan de equiparar mayúsculas y minúsculas
