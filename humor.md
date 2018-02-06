@@ -2,20 +2,21 @@
 layout: page
 title: Humor y reflexiones geek
 permalink: /humor/
+published: false
 ---
 
 > Ninguna de las siguientes imágenes me pertenece. Todas ellas fueron obtenidas de la web. En caso de que el autor de alguna de ellas requiera su remoción de este blog, puede [comunicarse conmigo](mailto:contacto@patriciaemiguel.com) a esos efectos.
 
 ## Cuando se olvidan de equiparar mayúsculas y minúsculas
 
-![humor](assets/2017-03-18-humor-geek-img1.jpg)
+![humor](/assets/2017-03-18-humor-geek-img1.jpg)
 
 Y por esto es que siempre se debe convertir la entrada del usuario (bien a mayúsculas o minúsculas) para comparar contra la forma convertida.
 
 ---
 ## El mundo visto por un programador orientado a objetos
 
-![humor](assets/2017-03-18-humor-geek-img2.jpg)
+![humor](/assets/2017-03-18-humor-geek-img2.jpg)
 
 ---
 ## Sandwich gratis para programadores
