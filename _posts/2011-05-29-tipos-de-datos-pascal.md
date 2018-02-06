@@ -60,6 +60,6 @@ Sumado a todo esto, algunos tipos de datos serán **ordinales** y otros no. Son 
 
 &nbsp;
 
-> _La presente información se presenta en base al compilador Turbo Pascal._
+> _La presente información está dada en base al compilador Turbo Pascal._
 
 &nbsp;
