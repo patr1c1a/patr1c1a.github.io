@@ -3,7 +3,7 @@ layout: post
 title: Humor y reflexiones geek
 date: 2015-08-16 15:00:00
 categories: otros
-published: true
+published: false
 ---
 
 > Ninguna de las siguientes imágenes me pertenece. Todas ellas fueron obtenidas de la web. En caso de que el autor de alguna de ellas requiera su remoción de este blog, puede [comunicarse conmigo](mailto:contacto@patriciaemiguel.com) a esos efectos.
