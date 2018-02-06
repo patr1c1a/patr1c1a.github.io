@@ -6,8 +6,8 @@ github: https://github.com/patr1c1a
 about: Artículos introductorios a la programación. [No English version, as these are mostly teaching resources].
 #Artículos introductorios de programación y otras yerbas
 
-baseurl: "https://http://patriciaemiguel.com/"
-url: "https://http://patriciaemiguel.com/"
+baseurl: "http://patriciaemiguel.com/"
+url: "http://patriciaemiguel.com/"
 
 allowsearch: true
 
