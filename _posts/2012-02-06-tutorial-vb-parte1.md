@@ -6,8 +6,6 @@ categories: tutoriales
 published: true
 ---
 
-> Este artículo fue escrito en 2011 y no ha sido revisado.
-
 ## Visual Studio: descargar versión gratuita y otras alternativas
 
 En la década del '90 Visual Basic 6.0 y su entorno de programación eran la herramienta visual preferida de los programadores principiantes. Hoy día el IDE (entorno integrado de desarrollo) ha evolucionado en Visual Studio, un excelente IDE que no sólo permite programar en una versión muy actualizada del lenguaje Visual Basic, sino también en C# (muy similar a Java), Visual C++ y otros lenguajes, incluidas aplicaciones web con ASP.NET y aplicaciones móviles. Aunque este entorno y los programas hechos con el framework .NET sólo corran en Windows (existen algunos intentos multiplataforma pero nada completo), el [índice tiobe](http://www.tiobe.com/tiobe_index?page=index) que muestra los lenguajes de programación más populares suele tener siempre a Visual Basic y C# entre los primeros puestos.
@@ -231,3 +229,5 @@ Hay muchísimas cosas más que pueden hacerse. Esto es sólo una introducción p
 Una excelente fuente de consulta es el [foro oficial de MSDN](https://social.msdn.microsoft.com/Forums/es-ES/home), donde puede buscarse información sobre cómo hacer diferentes cosas con Visual Studio, o preguntar sobre el tema si es que nadie lo preguntó antes.
 
 Por otra parte, siempre es muy útil consultar la documentación oficial de los lenguajes y frameworks que utilizamos. En este caso, dependerá de la versión del framework .NET que se utilice, pero [la documentación de VS2010 puede hallarse acá](https://msdn.microsoft.com/es-es/library/k1s94fta%28v=vs.100%29.aspx).
+
+En la [parte 2](/tutoriales/2012/02/06/tutorial-vb-parte2.html) haremos un programa de gestión de gastos, con conexión a base de datos.
