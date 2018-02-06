@@ -10,9 +10,7 @@ Estos son tipos definidos por el usuario, por lo que se debe crear primero el ti
 
 Tanto el subintervalo como el enumerado son tipos de datos ordinales. Es decir, los valores que adopten las variables de alguno de estos tipos tendrán un predecesor y un sucesor, que pueden obtenerse con las funciones _pred(valor)_ y _succ(valor)_.
 
-&nbsp;
-
-## **Subintervalo**
+## Subintervalo
 
 Este tipo de dato es simple (ya que cada variable sólo contendrá un valor) pero definido por el usuario. Lo que el usuario define, en este caso, es el rango de valores que una variable puede adoptar.
 
@@ -23,9 +21,8 @@ Por ejemplo, si se necesitara una variable que almacene dígitos entre el 0 y el
 
 Los subrangos brindan su utilidad en la creación de datos de tipo array, para la manipulación de índices.
 
-&nbsp;
 
-## **Enumerado**
+## Enumerado
 
 En este caso el programador especifica, uno a uno, los valores que puede adoptar el dato. Este tipo se convertirá en un tipo de dato ordinal, siendo el orden en que sean definidos los valores lo que determinará su posición. El primer valor asignado recibirá el número de orden 0, el siguiente el 1, luego el 2, etc. La sintaxis requiere que los valores sean encerrados entre paréntesis y separados por coma. Por ejemplo, para crear un tipo de dato llamado _presidente_ que permita almacenar como valores los nombres de los primeros cinco presidentes de Argentina, se utiliza la siguiente sintaxis:
 
@@ -62,7 +59,6 @@ siguiente:=succ(procer);</code></pre>
 
 En este caso, las variables _anterior_ y _siguiente_ son del tipo _presidente_ definido con anterioridad y, suponiendo que _procer_ contiene el valor "Urquiza", correspondiente a la posición 1, los valores que se almacenarán en ellas serán: _Rivadavia_ (posición 0) en _anterior_ y _Derqui_ (posición 2) en _siguiente_. Algo importante a considerar es que el valor en la posición 0 no tiene antecesor y el valor en la última posición no tiene sucesor.
 
-&nbsp;
 
 Incluso, podría crearse un subrango de un tipo enumerado. Por ejemplo:
 
@@ -71,4 +67,3 @@ Incluso, podría crearse un subrango de un tipo enumerado. Por ejemplo:
    laborables = lunes .. viernes;  
    finDeSemana = sabado .. domingo;</code></pre>
 
-&nbsp;
