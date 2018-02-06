@@ -6,4 +6,4 @@ categories: otros
 published: true
 ---
 
-> Este blog está siendo migrado desde su anterior hosting. El contenido estará disponible en los próximos días.
+> Este blog está siendo migrado desde su anterior hosting. El contenido completo estará disponible en los próximos días.
