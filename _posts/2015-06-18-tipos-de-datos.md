@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tipos de datos
-date: 2015-07-11 11:00:00
+date: 2015-06-18 11:00:00
 categories: conceptos
 published: true
 ---
