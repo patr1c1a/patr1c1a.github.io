@@ -11,6 +11,11 @@
     "icon": "fa-link",
   },
   {
+    "text": "Humor geek",
+    "url": "/humor/",
+    "icon": "fa-angle-double-right",
+  },
+  {
     "text": "XML Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
