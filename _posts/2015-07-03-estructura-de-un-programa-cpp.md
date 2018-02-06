@@ -16,17 +16,17 @@ Detalles de sintaxis importantes: los bloques de código se definen entre **llav
 
 Como detalle semántico, las variables deben declararse (indicando su tipo de datos) antes de utilizarse. También debe indicarse el tipo de valor de retorno de las funciones y el tipo de los parámetros que reciben (ya que C++ no es un lenguaje dinámico, como Python).
 
-Para poder utilizar funcionalidad de entrada/salida de datos, se importa la biblioteca _iostream_ colocando al principio #include <iostream>. Esto no es obligatorio, pero normalmente será necesario en la mayoría de los programas.
+Para poder utilizar funcionalidad de entrada/salida de datos, se importa la biblioteca _iostream_ colocando al principio <code>#include &lt;iostream&gt;</code>. Esto no es obligatorio, pero normalmente será necesario en la mayoría de los programas.
 
-De la misma forma, para utilizar strings se recomienda importar la biblioteca correspondiente, mediante #include <string>
+De la misma forma, para utilizar strings se recomienda importar la biblioteca correspondiente, mediante <code>#include &lt;string&gt;</code>
 
 
 _Ejemplo 1:_ "Hello World" en C++
 
-<pre><code>#include <iostream>
+<pre><code>#include &lt;iostream&gt;
 int main()
 {
-   std::cout << "Hello, world!\n";
+   std::cout &lt;&lt; "Hello, world!\n";
    return 0
 } </code></pre>
 
@@ -35,12 +35,12 @@ En este ejemplo, la función _main_ retorna el valor 0 (aunque esto no es impres
 
 _Ejemplo 2:_ para evitar tener que agregar _std::_ cada vez antes de _cin_, _cout_ y otras instrucciones, podemos definir el espacio de nombres _std_ (abreviatura de "standard").
 
-<pre><code>#include <iostream>
+<pre><code>#include &lt;iostream&gt;
 using namespace std;
 
 int main() 
 {
-    cout << "Hello, world!\n";
+    cout &lt;&lt; "Hello, world!\n";
     return 0; 
 } </code></pre>
 
@@ -73,25 +73,25 @@ Tanto _cin_ como _cout_ utilizan las entradas y salidas de datos estándar. Tamb
 
 ## cout
 
-_Ejemplo 4:_ La instrucción cout se utiliza seguida del operador de inserción **<<** que inserta en el stream estándar lo que sigue a continuación de ese operador.
+_Ejemplo 4:_ La instrucción cout se utiliza seguida del operador de inserción **&lt;&lt;** que inserta en el stream estándar lo que sigue a continuación de ese operador.
 
-<pre><code>cout << "esto se imprime en la pantalla";   // imprime el string literal en la pantalla
-cout << 45;                                 // imprime el entero literal en la pantalla
-cout << x;                                  // imprime el valor de x en la pantalla</code></pre>
+<pre><code>cout &lt;&lt; "esto se imprime en la pantalla";   // imprime el string literal en la pantalla
+cout &lt;&lt; 45;                                 // imprime el entero literal en la pantalla
+cout &lt;&lt; x;                                  // imprime el valor de x en la pantalla</code></pre>
 
 _Ejemplo 5:_ También se pueden encadenar datos para enviarse a la salida estándar e imprimirlos en pantalla, unos a continuación de otros, sin espacios.
 
-<pre><code>cout << "El valor de la variable x es: " << x << "y esto es un ejemplo";</code></pre>
+<pre><code>cout &lt;&lt; "El valor de la variable x es: " &lt;&lt; x &lt;&lt; "y esto es un ejemplo";</code></pre>
 
 _Ejemplo 6: cout_ no agrega automáticamente un salto de línea luego de imprimir (el cursor queda en la misma línea) y es necesario indicar expresamente que se comience una nueva línea, con _\n_.
 
-<pre><code>cout << "Esta oración...";
-cout << "...y esta otra se imprimen en una sola línea." << \n; 
-cout << "Esta cadena empieza en una nueva línea";</code></pre>
+<pre><code>cout &lt;&lt; "Esta oración...";
+cout &lt;&lt; "...y esta otra se imprimen en una sola línea." &lt;&lt; \n; 
+cout &lt;&lt; "Esta cadena empieza en una nueva línea";</code></pre>
 
 _Ejemplo 7:_ De forma similar a \n puede utilizarse _endl_, que también crea una nueva línea pero, además, elimina los contenidos del stream.
 
-<pre><code>cout << "Algo para imprimir." << endl;</code></pre>
+<pre><code>cout &lt;&lt; "Algo para imprimir." &lt;&lt; endl;</code></pre>
 
 ## cin
 
@@ -100,20 +100,20 @@ _cin_ lee de la entrada de datos estándar y coloca lo leído en el stream está
 _Ejemplo 8: cin_ se usa con el operador de extracción **`>>`** seguido por una variable donde se guardan los datos extraídos.
 
 <pre><code>int edad;
-cin >> edad;</code></pre>
+cin &gt;&gt; edad;</code></pre>
 
 Nótese que la variable edad se declaró (como de tipo entero -**int**-) antes de utilizarse. cin utiliza este tipo de la variable que encuentra luego del operador de extracción para saber cómo debe interpretar los datos leídos. El inconveniente que esto tiene es que, si los datos ingresados no son del tipo esperado (por ejemplo, la variable es de tipo _int_ pero el usuario ingresa letras), la extracción de los datos falla pero el programa continúa, lo cual produce resultados inesperados al intentar leer la variable posteriormente.
 
 _Ejemplo 9:_
 
-<pre><code>#include <iostream>
+<pre><code>#include &lt;iostream&gt;
 using namespace std;
      
 int main()
 {
     	int i;
-    	cin >> i;
-    	cout << "El valor ingresado es: " << i;
+    	cin &gt;&gt; i;
+    	cout &lt;&lt; "El valor ingresado es: " &lt;&lt; i;
     	return 0;
 }</code></pre>
 
@@ -121,16 +121,16 @@ En cuanto a los strings, _cin_ considera que los espacios en los strings cortan 
 
 _Ejemplo 10:_
 
-<pre><code>#include <iostream>
-#include <string>
+<pre><code>#include &lt;iostream&gt;
+#include &lt;string&gt;
 using namespace std;
 
 int main ()
 {
   string nombre;
-  cout << "Ingresa tu nombre: ";
+  cout &lt;&lt; "Ingresa tu nombre: ";
   getline (cin, nombre);
-  cout << "Hola " << nombre << ".\n";
+  cout &lt;&lt; "Hola " &lt; nombre &lt;&lt; ".\n";
   return 0;
 }</code></pre>
 
@@ -141,9 +141,9 @@ Si lo que queremos es escribir una estructura de control como _if_, _for_ o _whi
 _Ejemplo 11:_
 
 <pre><code>int edad;
-cout << "Ingresar edad de la persona: ";
-cin >> edad;
-if (edad >= 18)
-    cout << "\nLa persona es mayor de edad: ";
+cout &lt;&lt; "Ingresar edad de la persona: ";
+cin &gt;&gt; edad;
+if (edad &gt;= 18)
+    cout &lt;&lt; "\nLa persona es mayor de edad: ";
 else
-    cout << "\nLa persona es menor de edad: ";</code></pre>
+    cout &lt;&lt; "\nLa persona es menor de edad: ";</code></pre>
