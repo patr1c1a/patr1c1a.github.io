@@ -16,9 +16,9 @@ Detalles de sintaxis importantes: los bloques de código se definen entre **llav
 
 Como detalle semántico, las variables deben declararse (indicando su tipo de datos) antes de utilizarse. También debe indicarse el tipo de valor de retorno de las funciones y el tipo de los parámetros que reciben (ya que C++ no es un lenguaje dinámico, como Python).
 
-Para poder utilizar funcionalidad de entrada/salida de datos, se importa la biblioteca _iostream_ colocando al principio <code>#include \<iostream\></code>. Esto no es obligatorio, pero normalmente será necesario en la mayoría de los programas.
+Para poder utilizar funcionalidad de entrada/salida de datos, se importa la biblioteca _iostream_ colocando al principio ** #include <iostream>**. Esto no es obligatorio, pero normalmente será necesario en la mayoría de los programas.
 
-De la misma forma, para utilizar strings se recomienda importar la biblioteca correspondiente, mediante <code>#include \<string\></code>
+De la misma forma, para utilizar strings se recomienda importar la biblioteca correspondiente, mediante ** #include <string> **
 
 
 _Ejemplo 1:_ "Hello World" en C++
