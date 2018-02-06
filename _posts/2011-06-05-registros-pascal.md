@@ -49,7 +49,7 @@ De esta forma, pueden organizarse varios registros dentro de un arreglo ordenado
 
 A fines gráficos, el vector resultante de esta definición se podría graficar de la siguiente manera:
 
-![arreglo de empleados](/assets/2011-06-5-registros-pascal-img1.png)
+![arreglo de empleados](/assets/2011-06-5-registros-pascal-img1.jpg)
 
 En este caso, el nombre de la variable de tipo record será el de la variable de tipo array con su índice, seguido del punto y el nombre del campo: suponiendo que se declaró una variable llamada "arreglo" y que el índice se referencia con una variable entera "i", se puede acceder a cada campo de cada posición del arreglo de la siguiente forma:
 
