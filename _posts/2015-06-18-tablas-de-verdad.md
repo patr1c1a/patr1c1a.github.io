@@ -40,41 +40,38 @@ Una operación lógica se compone de operandos (proposiciones) y operadores. Med
 
 Los operadores lógicos (también llamados "conectores lógicos") usados para unir proposiciones son: AND ("y"), OR ("o"), NOT ("no"), IMPLICA, BICONDICIONAL ("si y sólo si"). Mediante ellos se forman proposiciones moleculares.
 
-El operador AND se representa mediante el símbolo ![operador and](/assets/2015-06-18-tablas-de-verdad-img3.jpg) y se utiliza para la operación **conjunción**.
+El operador AND se utiliza para la operación **conjunción** yse representa mediante el símbolo ![operador and](/assets/2015-06-18-tablas-de-verdad-img3.jpg)
 
-El operador OR se representa mediante el símbolo ![operador or](/assets/2015-06-18-tablas-de-verdad-img4.jpg) y se utiliza para la operación **disyunción**.
+El operador OR se utiliza para la operación **disyunción** y se representa mediante el símbolo ![operador or](/assets/2015-06-18-tablas-de-verdad-img4.jpg)
 
-El operador NOT se representa mediante el símbolo ![operador not](/assets/2015-06-18-tablas-de-verdad-img5.jpg) y se utiliza para la operación **negación**.
+El operador NOT se utiliza para la operación **negación** y se representa mediante el símbolo ![operador not](/assets/2015-06-18-tablas-de-verdad-img5.jpg)
 
-El operador IMPLICA se representa mediante el símbolo ![operador implicación](/assets/2015-06-18-tablas-de-verdad-img1.jpg) y se usa para la operación **implicación** (también llamada "**condicional**"). A la proposición que se coloca a la izquierda del operador se la llama "_antecedente_" y a la que se coloca a la derecha de la llama "_consecuente_". Esta operación no es conmutativa.
+El operador IMPLICA se usa para la operación **implicación** (también llamada "**condicional**"). A la proposición que se coloca a la izquierda del operador se la llama "_antecedente_" y a la que se coloca a la derecha de la llama "_consecuente_". Esta operación no es conmutativa. Se representa mediante el símbolo ![operador implicación](/assets/2015-06-18-tablas-de-verdad-img1.jpg)
 
-El operador BICONDICIONAL se representa mediante el símbolo ![operador bicondicional](/assets/2015-06-18-tablas-de-verdad-img2.jpg) y se usa para la operación **doble implicación** (también llamada "**equivalencia**").
+El operador BICONDICIONAL se usa para la operación **doble implicación** (también llamada "**equivalencia**") y se representa mediante el símbolo ![operador bicondicional](/assets/2015-06-18-tablas-de-verdad-img2.jpg)
 
-La negación es una operación unaria, porque involucra un único operando (proposición). El resto son binarias, porque involucran dos operandos.
-
-Además, pueden unirse más de dos proposiciones, usando más de un operador lógico.
+La negación es una operación unaria, porque involucra un único operando (proposición). El resto son binarias, porque involucran dos operandos. Además, pueden unirse más de dos proposiciones, usando más de un operador lógico.
 
 
 # Tabla de verdad de cada operador lógico
 
-Como dijimos, los operadores lógicos unen proposiciones. Entonces, al unir dos proposiciones, se obtiene una nueva proposición, cuyo valor de verdad dependerá de cuáles son concretamente los valores de verdad de las proposiciones unidas. Si, por ejemplo, hoy el día está soleado y además caluroso, podemos decir que la proposición "p" es **verdadera** y que la proposición "q" también es **verdadera**. Pero tenemos que ver qué pasa con la proposición "r", que está compuesta por "p ![operador and](/assets/2015-06-18-tablas-de-verdad-img3.jpg) q" (es decir, es una conjunción). Para averiguar cuál es ese resultado, se debe conocer el valor de verdad de p (que ya acordamos que, en este ejemplo es Verdadero), el valor de verdad de q (que, en este ejemplo es Falso) y la tabla de verdad de la conjunción. Si el operador lógico fuera ![operador or](/assets/2015-06-18-tablas-de-verdad-img4.jpg) ("o") usaríamos la tabla de verdad de la disyunción, y así siempre usando la tabla de la operación correspondiente.
+Como dijimos, los operadores lógicos unen proposiciones. Entonces, al unir dos proposiciones, se obtiene una nueva proposición, cuyo valor de verdad dependerá de cuáles son concretamente los valores de verdad de las proposiciones unidas. Si, por ejemplo, hoy el día está soleado y además caluroso, podemos decir que la proposición "p" es **verdadera** y que la proposición "q" también es **verdadera**. Pero tenemos que ver qué pasa con la proposición "r", que está compuesta por "p **AND** q" (es decir, es una conjunción). Para averiguar cuál es ese resultado, se debe conocer el valor de verdad de p (que ya acordamos que, en este ejemplo es Verdadero), el valor de verdad de q (que, en este ejemplo es Falso) y la tabla de verdad de la conjunción. Si el operador lógico fuera **OR** usaríamos la tabla de verdad de la disyunción, y así siempre usando la tabla de la operación correspondiente.
 
 Las tablas de las operaciones, de acuerdo a las distintas posibles combinaciones de los valores de verdad de los operandos, son las siguientes:
 
-&nbsp;
 
 ## CONJUNCIÓN
 ![tabla de conjunción](/assets/2015-06-18-tablas-de-verdad-img6.jpg)
 
 Esto se lee:
   
-Cuando **p** es Verdadero y **q** es Verdadero, **p ![operador and](/assets/2015-06-18-tablas-de-verdad-img3.jpg) q** es Verdadero
+Cuando **p** es Verdadero y **q** es Verdadero, **p Y q** es Verdadero
   
-Cuando **p** es Verdadero y **q** es Falso, **p ![operador and](/assets/2015-06-18-tablas-de-verdad-img3.jpg) q** es Falso
+Cuando **p** es Verdadero y **q** es Falso, **p Y q** es Falso
   
-Cuando **p** es Falso y **q** es Verdadero, **p ![operador and](/assets/2015-06-18-tablas-de-verdad-img3.jpg) q** es Falso
+Cuando **p** es Falso y **q** es Verdadero, **p Y q** es Falso
   
-Cuando **p** es Falso y **q** es Falso, **p ![operador and](/assets/2015-06-18-tablas-de-verdad-img3.jpg) q** es Falso
+Cuando **p** es Falso y **q** es Falso, **p Y q** es Falso
 
 La característica de la conjunción es que sólo es V cuando ambos operandos son V.
 
@@ -85,13 +82,13 @@ La característica de la conjunción es que sólo es V cuando ambos operandos so
 
 Esto se lee:
   
-Cuando **p** es Verdadero y **q** es Verdadero, **p ![operador or](/assets/2015-06-18-tablas-de-verdad-img4.jpg) q** es Verdadero
+Cuando **p** es Verdadero y **q** es Verdadero, **p Ó q** es Verdadero
   
-Cuando **p** es Verdadero y **q** es Falso, **p ![operador or](/assets/2015-06-18-tablas-de-verdad-img4.jpg) q** es Verdadero
+Cuando **p** es Verdadero y **q** es Falso, **p Ó q** es Verdadero
   
-Cuando **p** es Falso y **q** es Verdadero, **p ![operador or](/assets/2015-06-18-tablas-de-verdad-img4.jpg) q** es Verdadero
+Cuando **p** es Falso y **q** es Verdadero, **p Ó q** es Verdadero
   
-Cuando **p** es Falso y **q** es Falso, **p ![operador or](/assets/2015-06-18-tablas-de-verdad-img4.jpg) q** es Falso
+Cuando **p** es Falso y **q** es Falso, **p Ó q** es Falso
 
 La característica de la disyunción es que sólo es F cuando ambos operandos son F.
 
@@ -108,13 +105,13 @@ La característica de la negación es que invierte el valor de verdad de la prop
 
 Esto se lee:
   
-Cuando **p** es Verdadero y **q** es Verdadero, **p ![operador implicación](/assets/2015-06-18-tablas-de-verdad-img1.jpg) q** es Verdadero
+Cuando **p** es Verdadero y **q** es Verdadero, **p IMPLICA q** es Verdadero
   
-Cuando **p** es Verdadero y **q** es Falso, **p ![operador implicación](/assets/2015-06-18-tablas-de-verdad-img1.jpg) q** es Verdadero
+Cuando **p** es Verdadero y **q** es Falso, **p IMPLICA q** es Verdadero
   
-Cuando **p** es Falso y **q** es Verdadero, **p ![operador implicación](/assets/2015-06-18-tablas-de-verdad-img1.jpg) q** es Verdadero
+Cuando **p** es Falso y **q** es Verdadero, **p IMPLICA q** es Verdadero
   
-Cuando **p** es Falso y **q** es Falso, **p ![operador implicación](/assets/2015-06-18-tablas-de-verdad-img1.jpg) q** es Falso
+Cuando **p** es Falso y **q** es Falso, **p IMPLICA q** es Falso
 
 La característica de la implicación es que sólo es F cuando el antecedente es V y el consecuente es F.
 
@@ -124,12 +121,12 @@ La característica de la implicación es que sólo es F cuando el antecedente es
 
 Esto se lee:
   
-Cuando **p** es Verdadero y **q** es Verdadero, **p ![operador bicondicional](/assets/2015-06-18-tablas-de-verdad-img2.jpg) q** es Verdadero
+Cuando **p** es Verdadero y **q** es Verdadero, **p SI Y SOLO SI q** es Verdadero
   
-Cuando **p** es Verdadero y **q** es Falso, **p ![operador bicondicional](/assets/2015-06-18-tablas-de-verdad-img2.jpg) q** es Falso
+Cuando **p** es Verdadero y **q** es Falso, **p SI Y SOLO SI q** es Falso
   
-Cuando **p** es Falso y **q** es Verdadero, **p ![operador bicondicional](/assets/2015-06-18-tablas-de-verdad-img2.jpg) q** es Falso
+Cuando **p** es Falso y **q** es Verdadero, **p SI Y SOLO SI q** es Falso
   
-Cuando **p** es Falso y **q** es Falso, **p ![operador bicondicional](/assets/2015-06-18-tablas-de-verdad-img2.jpg) q** es Verdadero
+Cuando **p** es Falso y **q** es Falso, **p SI Y SOLO SI q** es Verdadero
 
 La característica de la doble implicación es que sólo es V cuando ambos operadores tienen el mismo valor de verdad.
