@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tipos subrango y enumerado en Pascal
-date: 2011-06-1 19:00:00
+date: 2011-06-01 19:00:00
 categories: pascal
 published: true
 ---
