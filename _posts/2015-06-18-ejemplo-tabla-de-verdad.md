@@ -6,4 +6,6 @@ categories: conceptos
 published: true
 ---
 
+En este video efectuamos un breve repaso de la tabla de verdad de cada operación y examinamos cómo obtener la tabla de verdad de una proposición con más de un conector lógico.
+
 {% include youtubePlayer.html id="iHuBuwOmIV8" %}
