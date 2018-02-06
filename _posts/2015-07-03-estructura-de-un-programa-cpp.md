@@ -28,7 +28,7 @@ int main()
 {
    std::cout << "Hello, world!\n";
    return 0
-}</code></pre>
+} </code></pre>
 
 En este ejemplo, la función _main_ retorna el valor 0 (aunque esto no es imprescindible para que el programa compile). Normalmente se utiliza el número 0 para indicar que no hubo error. Es decir, esta función retornará 0 si llega a ejecutarse hasta el final sin ningún error.
 
@@ -42,7 +42,7 @@ int main()
 {
     cout << "Hello, world!\n";
     return 0; 
-}</code></pre>
+} </code></pre>
 
 La directiva "using" indica que se use ese espacio de nombres cada vez que sea necesario.
 
