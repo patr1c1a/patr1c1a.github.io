@@ -1,12 +1,10 @@
 ---
 layout: post
-title: C++ - Struct como elemento de arreglos estáticos
+title: Video - Struct como elemento de arreglos estáticos
 date: 2016-09-21 19:00:00
 categories: cpp
 published: true
 ---
-
-[Video]
 
 Breve explicación de cómo utilizar,en C++, arreglos estáticos cuyos elementos sean de un tipo struct.
 
