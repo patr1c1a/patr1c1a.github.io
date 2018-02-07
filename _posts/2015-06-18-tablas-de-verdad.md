@@ -3,7 +3,7 @@ layout: post
 title: Tablas de verdad
 date: 2015-06-18 10:00:00
 categories: conceptos
-tags: logica proposiciones condiciones
+tags: lógica proposiciones condiciones
 published: true
 ---
 
