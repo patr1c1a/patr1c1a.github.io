@@ -3,6 +3,7 @@ layout: post
 title: Lenguajes de bajo y alto nivel
 date: 2016-03-29 19:00:00
 categories: conceptos
+tags: lenguajes
 published: true
 ---
 
