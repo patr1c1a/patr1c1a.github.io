@@ -3,7 +3,7 @@ layout: post
 title: Diseño de un algoritmo
 date: 2015-06-20 19:00:00
 categories: conceptos
-tags: algoritmos resolucion_problemas
+tags: algoritmos resolución_problemas
 published: true
 ---
 
