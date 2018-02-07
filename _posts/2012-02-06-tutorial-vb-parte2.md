@@ -49,7 +49,7 @@ Para crear una nueva tabla -esta vez para los ingresos- repetiremos el proceso, 
 Ya tenemos la base de datos creada y ahora sólo resta programar la interfaz visual para trabajar con ella.
 
 
-## **La interfaz con el usuario**
+## La interfaz con el usuario
 
 En la creación de la interfaz se utilizarán los conocimientos básicos para trabajar con formularios y objetos de VB.NET, vistos en la [primera parte](/tutoriales/2012/02/06/tutorial-vb-parte1.html), por lo que no se volverán a explicar en forma detallada.
 
