@@ -3,6 +3,7 @@ layout: post
 title: POO - Ocultamiento de los datos
 date: 2016-01-09 19:00:00
 categories: poo
+tags: objetos
 published: true
 ---
 
