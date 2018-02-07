@@ -22,3 +22,13 @@ published: true
   </div>
 {% endfor %}
 </div>
+
+
+<div>
+{% assign tags = page.tags | split:&nbsp; %}
+<ul>
+    {% for tag in tags %}
+    <li>{{ tag }}</li>
+    {% endfor %}
+</ul>
+</div>
