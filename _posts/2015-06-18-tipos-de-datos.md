@@ -3,6 +3,7 @@ layout: post
 title: Tipos de datos
 date: 2015-06-18 11:00:00
 categories: conceptos
+tags: datos variables tipos tipos_primitivos string
 published: true
 ---
 
