@@ -10,11 +10,10 @@ Debido a que en Pascal los strings son una sucesión de caracteres que se almace
 
 Debe tenerse en cuenta que, implícitamente, un string tiene un índice numérico para cada carácter, comenzando por el 1:
 
-![string con sus índices](/assets/2011-05-31-strings-pascal-img1.jpg)
+![string con sus índices]({{ site.url }}/assets/2011-05-31-strings-pascal-img1.jpg)
 
-&nbsp;
 
-## **Length**
+## Length
 
 Esta función recibe como argumento un string y devuelve un valor de tipo integer con la longitud del string.
 
@@ -24,9 +23,9 @@ _Ejemplo:_
 
 donde _longitud_ es un integer y _cadena_ es un string. Si, por ejemplo, la variable _cadena_ contuviera el valor 'hola mundo', entonces la función length devolverá el valor 10, ya que la variable tiene 10 caracteres. La asignación hace que la variable llamada _longitud_ almacene este número de caracteres retornado por _length_.
 
-&nbsp;
 
-## **Pos**
+
+## Pos
 
 Recibe como argumento un sub-string y un string, y devuelve un integer representando la posición de inicio del primero dentro del segundo. Si no se encuentra, devuelve cero. Debido a que un string está compuesto por caracteres, es posible pasarle como parámetro un único carácter, en cuyo caso retornará la posición en que éste se encuentra dentro del string. Si se encuentra más de una vez, sólo retorna la posición de la primera ocurrencia.
 
@@ -37,9 +36,9 @@ posicion := pos('hola', cadena);</code></pre>
 
 donde _posicion_ es un integer y _cadena_ es un string dentro del cual se buscarán los sub-strings.
 
-&nbsp;
 
-## **Copy**
+
+## Copy
 
 Recibe como argumentos un string y dos enteros y devuelve un valor de tipo string. Permite extraer parte del string que se pasa como parámetro, comenzando en la posición que se le pasa como segundo parámetro, y extrayendo tantos caracteres como el tercer parámetro indique.
 
@@ -49,7 +48,7 @@ _Ejemplo:_
 
 donde _cadena_ y _subcadena_ son strings. Si la variable _cadena_ contiene el valor 'hola mundo', esta función retorna la subcadena 'mundo'.
 
-&nbsp;
+
 
 ## LowerCase
 
@@ -61,7 +60,7 @@ _Ejemplo:_
 
 En este caso, en la variable _minuscula_ queda almacenando el valor "hola".
 
-&nbsp;
+
 
 ## UpperCase
 
@@ -73,4 +72,4 @@ _Ejemplo:_
 
 En este caso, en la variable _mayuscula_ queda almacenando el valor "HOLA".
 
-&nbsp;
+
