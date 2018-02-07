@@ -3,6 +3,7 @@ layout: post
 title: Buenas prácticas de programación
 date: 2015-10-23 19:00:00
 categories: conceptos
+tags: buenas_prácticas
 published: true
 ---
 
