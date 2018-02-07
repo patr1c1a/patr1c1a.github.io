@@ -3,6 +3,7 @@ layout: post
 title: Compiladores e intérpretes, lenguajes compilados e interpretados
 date: 2016-03-30 19:00:00
 categories: conceptos
+tags: bajo_nivel lenguajes
 published: true
 ---
 
