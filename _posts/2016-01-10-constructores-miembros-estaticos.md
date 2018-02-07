@@ -25,7 +25,7 @@ En Java:
 
 En Python:
 
-<pre><code>laura = Estudiante();</code></pre>
+<pre><code>laura = Estudiante()</code></pre>
 
 El constructor de una clase tiene la particularidad de que lleva como nombre el mismo de la clase. Puede recibir parámetros o no y dentro de su cuerpo puede inicializar atributos, ejecutar otros métodos y realizar cualquier tarea que un método pueda realizar.
 
