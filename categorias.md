@@ -26,7 +26,7 @@ published: true
 
 <div>
 <ul>
-  {% for tags in page.tags %}
+  {% for tags in site.tags %}
     <li>{{ tags }}</li>
   {% endfor %}
 </ul>
