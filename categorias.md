@@ -5,9 +5,9 @@ permalink: /categorias/
 published: true
 ---
 
-<div id="archives">
+<div>
 {% for category in site.categories %}
-  <div class="archive-group">
+  <div>
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
