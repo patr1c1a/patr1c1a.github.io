@@ -2,7 +2,7 @@
 layout: post
 title: Codificar, compilar y depurar C++
 date: 2015-07-04 19:00:00
-categories: cpp
+categories: c++
 published: true
 ---
 
