@@ -3,6 +3,7 @@ layout: post
 title: Paso a paso - programa de escritorio en Visual Basic, parte 1
 date: 2012-02-06 19:00:00
 categories: tutoriales
+tags: objetos .net visual_basic visual_studio eventos
 published: true
 ---
 
