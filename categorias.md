@@ -5,15 +5,20 @@ permalink: /categorias/
 published: true
 ---
 
-    <hr />
-    {% for category in site.categories %}
-        {% capture category_slug %}{{ category | first }}{% endcapture %}
-        {% for c_slug in category_slug %}
-            {% if c_slug == page.categories %}
-                <button class="btn btn-sm btn-primary btn-raised">{{ c_slug }}</button>
-            {% else %}
-                <a href="{{ site.baseurl }}/category/{{ c_slug }}" class="btn btn-sm btn-default btn-raised">{{ c_slug }}</a>
-            {% endif %}
-        {% endfor %}
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+    
+    <h3 class="category-head">{{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
     {% endfor %}
-    <hr />
+  </div>
+{% endfor %}
+</div>
