@@ -6,10 +6,6 @@ categories: ejercicios cpp
 published: true
 ---
 
-El programa sigue el paradigma imperativo y sólo almacena los datos en memoria, ya que el objetivo es ejercitar la lógica y no hacer un programa real.
-
-[Descargar código](/assets/2017-10-20-ejercicio-listas-vectores-mapas-codigo.cpp)
-
 ## Temas:
 
 * Análisis de enunciado
@@ -20,6 +16,9 @@ El programa sigue el paradigma imperativo y sólo almacena los datos en memoria,
 * Mapas
 * Validaciones
 
+[Descargar código](/assets/2017-10-20-ejercicio-listas-vectores-mapas-codigo.cpp)
+
+El programa sigue el paradigma imperativo y sólo almacena los datos en memoria, ya que el objetivo es ejercitar la lógica y no hacer un programa real.
 
 
 {% include youtubePlayer.html id="GtzjM2mnjdc" %}
