@@ -25,9 +25,11 @@ published: true
 
 
 <div>
-<ul>
-  {% for tags in site.tags %}
-    <li>{{ tags }}</li>
-  {% endfor %}
-</ul>
+{
+    "tags": [
+        {% for tag in site.tags %}
+        "{{ tag | first }}"{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    ]
+}
 </div>
