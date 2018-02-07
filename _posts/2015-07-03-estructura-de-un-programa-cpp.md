@@ -3,6 +3,7 @@ layout: post
 title: Estructura de un programa de consola en C++
 date: 2015-07-03 19:00:00
 categories: c++
+tags: paradigma_imperativo
 published: true
 ---
 
