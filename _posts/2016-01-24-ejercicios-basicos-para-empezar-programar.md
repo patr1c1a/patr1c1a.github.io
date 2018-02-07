@@ -26,7 +26,7 @@ print((valor1+valor2+valor3)/3)</code></pre>
 * **Java**
 
 <pre><code>import java.util.Scanner;
-    public class prueba {
+public class prueba {
         public static void main(String[] args) {
             Scanner entrada = new Scanner(System.in);
             double valor1;
@@ -46,9 +46,9 @@ print((valor1+valor2+valor3)/3)</code></pre>
 * **C++**
 
 <pre><code>#include &lt;iostream&gt;
-    using namespace std;
-    int main()
-    {
+using namespace std;
+int main()
+{
         double valor1;
         double valor2;
         double valor3;
@@ -60,7 +60,7 @@ print((valor1+valor2+valor3)/3)</code></pre>
         cin &gt;&gt; valor3;
         cout &lt;&lt; (valor1+valor2+valor3)/3 &lt;&lt; endl;
         return 0;
-    }</code></pre>
+}</code></pre>
 
 ---
 
@@ -83,7 +83,7 @@ print("Total a pagar: $", total)</code></pre>
 * **Java**
 
 <pre><code>import java.util.Scanner;
-    public class Restaurante {
+public class Restaurante {
         public static void main(String[] args) {
             Scanner entrada = new Scanner(System.in);
             double comida;
@@ -101,15 +101,15 @@ print("Total a pagar: $", total)</code></pre>
             System.out.println("Total a pagar: $" + total);
             entrada.close();
         }
-    }</code></pre>
+}</code></pre>
 
 
 * **C++**
 
 <pre><code>#include &lt;iostream&gt;
-    using namespace std;
-    int main()
-    {
+using namespace std;
+int main()
+{
         double comida;
         double porcentaje_cubierto;
         double porcentaje_propina;
@@ -124,7 +124,7 @@ print("Total a pagar: $", total)</code></pre>
         double total=comida+valor_cubierto+valor_propina;
         cout &lt;&lt; "Total a pagar: $" &lt;&lt; total &lt;&lt; endl;
         return 0;
-    }</code></pre>
+}</code></pre>
 
 ---
 
@@ -138,7 +138,7 @@ print("Total a pagar: $", total)</code></pre>
 >
 > Con estos datos, debe calcularse cuánta gente va a caber en el estadio para un recital determinado, para saber cuántas entradas tiene que mandar a imprimir. El empresario, cada vez que use el programa, va a ingresar la cantidad de metros cuadrados que tiene el estadio que contrató, la cantidad de gente que cabe en las tribunas y el porcentaje de espacio ocupado por el escenario.
 >
-> Luego, él quiere saber cuánto dinero ingresaría si vende todas las entradas disponibles, sabiendo que el 30% de las entradas vendidas son "entradas vip" y el resto son "entradas comunes". El empresario ingresa el precio de cada tipo de entrada cuando usa el programa.</div> 
+> Luego, él quiere saber cuánto dinero ingresaría si vende todas las entradas disponibles, sabiendo que el 30% de las entradas vendidas son "entradas vip" y el resto son "entradas comunes". El empresario ingresa el precio de cada tipo de entrada cuando usa el programa.
 
 ### Resolución - ejercicio 3
           
@@ -155,9 +155,9 @@ También hay datos que van a ir cambiando con cada ejecución del programa (depe
 * El porcentaje de espacio que ocupa el escenario.
 * La cantidad de gente que cabe en las tribunas.
 
-Los datos que no tenemos y necesitamos que el usuario ingrese se tienen que pedir con cada ejecución del programa, mediante un </em><strong><em>input</em></strong><em> y guardándolos en variables de los tipos adecuados.
+Los datos que no tenemos y necesitamos que el usuario ingrese se tienen que pedir con cada ejecución del programa, mediante un input y guardándolos en variables de los tipos adecuados.
 
-Ahora ya podemos empezar a calcular la primera incógnita: </em><strong><em>"cuánta gente va a caber en el estadio para un recital determinado"</em></strong><em>. La segunda todavía no se puede resolver porque, para saber cuánto ganaría si vende todas las entradas, primero hay que saber cuántas entradas en total pueden venderse (o sea, cuánta gente en total cabe para un recital).
+Ahora ya podemos empezar a calcular la primera incógnita: "cuánta gente va a caber en el estadio para un recital determinado". La segunda todavía no se puede resolver porque, para saber cuánto ganaría si vende todas las entradas, primero hay que saber cuántas entradas en total pueden venderse (esto es, cuánta gente en total cabe para un recital).
 
 Así que, para saber cuánta gente cabe, hay que ver que, del espacio disponible que tenemos (los metros cuadrados totales del estadio), hay partes que no se pueden usar: un 20% que es donde van las tribunas y otro porcentaje que es donde va el escenario (que no lo sabemos pero lo va a decir el usuario cuando use el programa). Entonces, al espacio total disponible le restamos esos dos porcentajes, para saber cuántos metros cuadrados nos van quedando disponibles. Luego multiplicamos esos metros cuadrados que nos quedan x 4, porque en cada metro cuadrado entran 4 personas. Pero también sabemos que en las tribunas entra una cantidad de gente que el usuario va a ingresar al usar el programa (se guarda en una variable), así que sumamos esa cantidad (la variable). Con eso sabemos ya cuánta gente cabe y, por ende, cuántas entradas pueden venderse.
 
@@ -168,7 +168,10 @@ Puede ser útil graficar los datos que tenemos o que vamos a obtener del usuario
 Ya podemos calcular la segunda incógnita: "cuánto dinero ingresaría si vende todas las entradas disponibles", porque ya sabemos cuántas entradas tenemos disponibles y los precios los va a ingresar el usuario con la ejecución del programa.
 
 Sabemos que, de esa cantidad total de entradas que pueden venderse, un 30% se cobra a un precio y el 70% restante se cobra a otro precio. Así que calculamos el 30% y el 70% del total de entradas que pueden venderse. Como los precios son ingresados por el usuario, seguramente necesitemos guardarlos en variables también. Luego podemos multiplicar cada precio por la cantidad que le corresponde de entradas y sumamos ambos resultados para saber cuál es el total de dinero que va a ingresar si se logran vender todas las entradas.</pre>
-      
+
+
+
+* **Python**
 
 <pre><code>dimensiones=float(input("Dimensiones del estadio (en m2): "))
 PORCENTAJETRIBUNAS=20
@@ -225,9 +228,7 @@ public class prueba {
 * **C++**
 
 <pre><code>#include &lt;iostream&gt;
-
 using namespace std;
-
 int main()
 {
     double dimensiones;
