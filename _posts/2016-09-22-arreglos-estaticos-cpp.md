@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Ejercicio de arreglos estáticos en C++
+title: Video - Ejercicio de arreglos estáticos en C++
 date: 2016-09-22 19:00:00
 categories: ejercicios cpp
 published: true
 ---
-
-[Video]
 
 Temas: análisis de enunciado, modularización, validaciones, arreglos estáticos, búsqueda, inserción ordenada.
   
