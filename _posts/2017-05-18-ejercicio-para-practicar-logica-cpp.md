@@ -2,7 +2,7 @@
 layout: post
 title: Ejercicio de programación para practicar lógica (C++)
 date: 2017-05-18 19:00:00
-categories: ejercicios
+categories: ejercicios, cpp
 published: true
 ---
 
