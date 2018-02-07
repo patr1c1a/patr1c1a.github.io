@@ -3,6 +3,7 @@ layout: post
 title: Video - Resolución de ejercicio con listas, vectores, mapas
 date: 2017-10-20 19:00:00
 categories: ejercicios c++
+tags: punteros paradigma_imperativo video
 published: true
 ---
 
