@@ -3,6 +3,7 @@ layout: post
 title: La tortuga (Python para principiantes)
 date: 2015-08-18 19:00:00
 categories: python
+tags: resolución_problemas
 published: true
 ---
 
