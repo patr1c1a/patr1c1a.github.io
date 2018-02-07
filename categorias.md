@@ -25,10 +25,9 @@ published: true
 
 
 <div>
-{% assign tags = page.tags | split:&nbsp; %}
 <ul>
-    {% for tag in tags %}
-    <li>{{ tag }}</li>
-    {% endfor %}
+  {% for tags in page.tags %}
+    <li>{{ tags }}</li>
+  {% endfor %}
 </ul>
 </div>
