@@ -3,7 +3,7 @@ layout: post
 title: Video - Struct como elemento de arreglos estáticos
 date: 2016-09-21 19:00:00
 categories: c++
-tags: arreglos bajo_nivel objetos video
+tags: arreglos paradigma_imperativo video
 published: true
 ---
 
