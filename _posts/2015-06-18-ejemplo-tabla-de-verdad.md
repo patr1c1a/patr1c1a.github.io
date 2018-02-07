@@ -3,6 +3,7 @@ layout: post
 title: Video - Ejemplo de tabla de verdad
 date: 2015-06-18 10:30:00
 categories: conceptos
+tags: lógica proposiciones condiciones
 published: true
 ---
 
