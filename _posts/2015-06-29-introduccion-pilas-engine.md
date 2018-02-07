@@ -3,6 +3,7 @@ layout: post
 title: Introducción a Pilas Engine (motor de videojuegos en español para principiantes)
 date: 2015-06-29 19:00:00
 categories: python
+tags: objetos juegos
 published: true
 ---
 
