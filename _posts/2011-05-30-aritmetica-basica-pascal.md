@@ -3,6 +3,7 @@ layout: post
 title: Aritmética básica en Pascal
 date: 2011-05-30 19:00:00
 categories: pascal
+tags: paradigma_imperativo operaciones cociente resto aritmetica datos_primitivos 
 published: true
 ---
 
