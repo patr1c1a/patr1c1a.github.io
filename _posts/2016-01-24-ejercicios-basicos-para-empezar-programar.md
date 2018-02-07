@@ -142,7 +142,8 @@ int main()
 
 ### Resolución - ejercicio 3
           
-<pre>Imaginemos que el empresario es nuestro cliente y nos encarga que le programemos una herramienta para calcular algunas cosas cada vez que organice un recital. Es decir, partimos de la base de que el programa se va a usar en varios casos distintos (para varios recitales), y por eso tiene que tener la posibilidad de que el usuario le vaya ingresando distintos datos cada vez que lo quiera usar.
+_Cómo analizar la consigna:_
+Imaginemos que el empresario es nuestro cliente y nos encarga que le programemos una herramienta para calcular algunas cosas cada vez que organice un recital. Es decir, partimos de la base de que el programa se va a usar en varios casos distintos (para varios recitales), y por eso tiene que tener la posibilidad de que el usuario le vaya ingresando distintos datos cada vez que lo quiera usar.
 
 Leyendo el enunciado vemos que los resultados que el cliente necesita que arroje el programa (para los cuales vamos a necesitar ciertos cálculos o procesamiento, que después vemos) son: "cuánta gente va a caber en el estadio para un recital determinado" y "cuánto dinero ingresaría si vende todas las entradas disponibles". </em><em><em>Algunos datos son "fijos" o "constantes": el usuario (el empresario) ya sabe que eso no cambia. Éstos son:
 
@@ -167,8 +168,7 @@ Puede ser útil graficar los datos que tenemos o que vamos a obtener del usuario
 
 Ya podemos calcular la segunda incógnita: "cuánto dinero ingresaría si vende todas las entradas disponibles", porque ya sabemos cuántas entradas tenemos disponibles y los precios los va a ingresar el usuario con la ejecución del programa.
 
-Sabemos que, de esa cantidad total de entradas que pueden venderse, un 30% se cobra a un precio y el 70% restante se cobra a otro precio. Así que calculamos el 30% y el 70% del total de entradas que pueden venderse. Como los precios son ingresados por el usuario, seguramente necesitemos guardarlos en variables también. Luego podemos multiplicar cada precio por la cantidad que le corresponde de entradas y sumamos ambos resultados para saber cuál es el total de dinero que va a ingresar si se logran vender todas las entradas.</pre>
-
+Sabemos que, de esa cantidad total de entradas que pueden venderse, un 30% se cobra a un precio y el 70% restante se cobra a otro precio. Así que calculamos el 30% y el 70% del total de entradas que pueden venderse. Como los precios son ingresados por el usuario, seguramente necesitemos guardarlos en variables también. Luego podemos multiplicar cada precio por la cantidad que le corresponde de entradas y sumamos ambos resultados para saber cuál es el total de dinero que va a ingresar si se logran vender todas las entradas.
 
 
 * **Python**
