@@ -3,6 +3,7 @@ layout: post
 title: POO - Constructores y miembros estáticos
 date: 2016-01-10 19:00:00
 categories: poo
+tags: objetos
 published: true
 ---
 
