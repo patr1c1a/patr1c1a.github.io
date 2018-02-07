@@ -16,9 +16,9 @@ Hacen que el curso del programa se bifurque en una u otra dirección dependiendo
 
 ## Selección simple: IF - THEN - ELSE ("si" - "entonces" - "si no")
 
-Evalúa una proposición y efectúa una acción si el resultado es verdadero, con el siguiente formato: **si proposición=verdadera entonces ejecutar acción**.
+Evalúa una proposición y efectúa una acción si el resultado es verdadero, con el siguiente formato: <code>si proposición=verdadera entonces ejecutar acción</code>.
 
-De manera opcional, se puede establecer una acción a realizar para el caso de que la proposición evaluada resulte falsa: **si proposición=verdadera entonces ejecutar acción 1. Si no, ejecutar acción 2**.
+De manera opcional, se puede establecer una acción a realizar para el caso de que la proposición evaluada resulte falsa: <code>si proposición=verdadera entonces ejecutar acción 1. Si no, ejecutar acción 2</code>.
 
 La sintaxis en Pascal es la siguiente:
 
@@ -54,7 +54,7 @@ En este caso, la sentencia "if" también evaluará el valor de verdad de la cond
 
 ##  Selección múltiple: CASE ("caso")
   
-Se utiliza para seleccionar una opción de entre varias. Es una forma de evitar múltiples "if". La expresión a evaluar es llamada "selector" y consta de la palabra "**case**" seguida de una **variable** de tipo ordinal y la palabra reservada "**of**". Luego se establece una lista de sentencias de acuerdo a diferentes valores que puede adoptar la variable (los "casos"). Opcionalmente, se puede establecer un bloque "**else**" para el caso de que la variable adopte un valor que no coincida con ninguna de las sentencias de la lista. Finalizada la estructura del case se coloca un "end;" (en este caso no se corresponde con ningún "begin"). El formato es el siguiente:
+Se utiliza para seleccionar una opción de entre varias. Es una forma de evitar múltiples "if". La expresión a evaluar es llamada "selector" y consta de la palabra **case** seguida de una **variable** de tipo ordinal y la palabra reservada **of**. Luego se establece una lista de sentencias de acuerdo a diferentes valores que puede adoptar la variable (los "casos"). Opcionalmente, se puede establecer un bloque **else** para el caso de que la variable adopte un valor que no coincida con ninguna de las sentencias de la lista. Finalizada la estructura del case se coloca un "end;" (en este caso no se corresponde con ningún "begin"). El formato es el siguiente:
 
 <pre><code>case variable_ordinal of
     valor1: sentencia 1;
