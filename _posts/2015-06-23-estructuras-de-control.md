@@ -3,7 +3,7 @@ layout: post
 title: Estructuras de control
 date: 2015-06-23 19:00:00
 categories: conceptos
-tags: programacion_imperativa selección bucles loops if case switch for while
+tags: paradigma_imperativo selección bucles loops if case switch for while
 published: true
 ---
 
