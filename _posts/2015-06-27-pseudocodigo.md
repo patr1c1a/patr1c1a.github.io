@@ -3,6 +3,7 @@ layout: post
 title: Pseudocódigo
 date: 2015-06-27 19:00:00
 categories: conceptos
+tags: algoritmos resolución_problemas
 published: true
 ---
 
