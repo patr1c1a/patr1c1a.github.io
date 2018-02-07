@@ -3,6 +3,7 @@ layout: post
 title: Funciones
 date: 2015-06-23 19:00:00
 categories: conceptos
+tags: funciones resolución_problemas algoritmos abstracción
 published: true
 ---
 
