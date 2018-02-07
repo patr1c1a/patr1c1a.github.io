@@ -3,6 +3,7 @@ layout: post
 title: Ejemplo de diagrama UML, interpretación e implementación
 date: 2016-01-09 19:00:00
 categories: poo
+tags: objetos uml resolución_problemas herramientas
 published: true
 ---
 
