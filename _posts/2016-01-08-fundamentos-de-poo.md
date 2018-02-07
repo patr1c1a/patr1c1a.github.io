@@ -3,6 +3,7 @@ layout: post
 title: Fundamentos de la Programación Orientada a Objetos
 date: 2016-01-08 19:00:00
 categories: poo
+tags: objetos resolución_problemas
 published: true
 ---
 
