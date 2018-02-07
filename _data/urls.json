@@ -6,6 +6,11 @@
     "layout": "post"
   },
   {
+    "text": "Por categoría",
+    "url": "/categorias/",
+    "icon": "fa-tag",
+  },
+  {
     "text": "Enlaces",
     "url": "/enlaces/",
     "icon": "fa-link",
