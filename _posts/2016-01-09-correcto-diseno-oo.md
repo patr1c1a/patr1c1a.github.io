@@ -3,6 +3,7 @@ layout: post
 title: Pautas para un correcto diseño orientado a objetos
 date: 2016-01-09 19:00:00
 categories: poo
+tags: resolución_problemas objetos
 published: true
 ---
 
