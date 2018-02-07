@@ -3,10 +3,22 @@ layout: post
 title: Construcción de un algoritmo
 date: 2015-06-20 19:00:00
 categories: conceptos
-tags: algoritmos, resolucion_problemas
+tags: algoritmos resolución_problemas
 published: true
 ---
 
+## Los algoritmos resuelven problemas
+
+Hoy en día, los algoritmos son automáticamente asociados a una computadora pero, en verdad, no son más que una serie de pasos bien definidos para resolver un problema. Y eso que hoy parece tan obvio, en épocas pasadas no lo era (¿será por eso que en la Edad Media no había computadoras?).
+
+Allá por el siglo XVI, un señor llamado _René Descartes_ publicó una obra que tituló "**El Discurso del método para dirigir bien la razón y buscar la verdad en las ciencias**". Esa obra permitió que hoy en día se piensen y resuelvan los problemas de manera científica y metódica, que es exactamente lo que tenemos que hacer al construir un algoritmo. El genial Alejandro Dolina, en uno de sus programas radiales, resumió así los cuatro puntos principales de esta obra de Descartes:
+* No dar por cierto lo que no parece evidente.
+* Dividir un problema en tantas partes como sea posible.
+* Buscar primero las soluciones a los problemas más fáciles.
+* Revisar las conclusiones, para ver si no hemos "metido la pata".
+
+
+## Resolviendo problemas con la computadora
 
 La computadora sólo sabe hacer operaciones aritméticas, operaciones lógicas y buscar cosas en la memoria, pero los lenguajes de alto nivel suelen tener muchas cosas construidas para que no tengamos que "reinventar la rueda" cada vez que empezamos a programar algo. Entonces, en un lenguaje como Java, C# o Python no necesitamos "decirle" a la computadora cómo obtener la longitud de un string, porque es una funcionalidad que el lenguaje ya provee. Pero, por ejemplo, si necesitamos saber si un número es par o impar, sí será necesario "decirle" a la computadora cómo. Para eso tenemos que buscar una estrategia: pensar qué características tienen los números pares que los distinguen de los impares. Entonces se podría usar la técnica de dividir al número por 2 y ver si el resto de la división es igual a cero (número par) o si el resto es distinto de cero (número impar).
 
@@ -14,7 +26,7 @@ Para indicarle estas cosas a la computadora puede que haya más de una forma vá
 
 Otras veces hay que usar operaciones más complejas que una simple operación aritmética. Para eso podemos utilizar [módulos](/conceptos/2015/06/20/abstraccion-y-modularizacion.html) ([funciones](/conceptos/2015/06/23/funciones.html), subprogramas, [métodos](/poo/2016/01/07/programacion-orientada-a-objetos.html), o el nombre específico según el lenguaje).
 
-A veces, el lenguaje que estamos usando o sus librerías externas ya tienen funcionalidad agregada que podemos usar. Por ejemplo, podría darse que un lenguaje tuviera una función _par(número)_ que, dado un número, devuelva _True_ si éste es par o _False_ si es impar. Por esto es importante aprender a investigar la documentación del lenguaje y recordar que, la mayoría de las veces, los nombres de las funciones estarán en inglés (en vez de "par" la función podría llamarse "even", que es la misma palabra en inglés).
+A veces, el lenguaje que estamos usando o sus bibliotecas externas ya tienen funcionalidad agregada que podemos usar. Por ejemplo, podría darse que un lenguaje tuviera una función _par(número)_ que, dado un número, devuelva _True_ si éste es par o _False_ si es impar. Por esto es importante aprender a investigar la documentación del lenguaje y recordar que, la mayoría de las veces, los nombres de las funciones estarán en inglés (en vez de "par" la función podría llamarse "even", que es la misma palabra en inglés).
 
 
 ## Ejemplo práctico:
