@@ -9,7 +9,7 @@ published: true
 
 ## Los algoritmos resuelven problemas
 
-Hoy en día, los algoritmos son automáticamente asociados a una computadora pero, en verdad, no son más que una serie de pasos bien definidos para resolver un problema. Y eso que hoy parece tan obvio, en épocas pasadas no lo era (¿será por eso que en la Edad Media no había computadoras?).
+Hoy en día, los algoritmos son automáticamente asociados a algo que se hace en una computadora pero, en verdad, no son más que una serie de pasos bien definidos para resolver un problema. Y eso que hoy parece tan obvio, en épocas pasadas no lo era (¿será por eso que en la Edad Media no había computadoras?).
 
 Allá por el siglo XVI, un señor llamado _René Descartes_ publicó una obra que tituló "**El Discurso del método para dirigir bien la razón y buscar la verdad en las ciencias**". Esa obra permitió que hoy en día se piensen y resuelvan los problemas de manera científica y metódica, que es exactamente lo que tenemos que hacer al construir un algoritmo. El genial Alejandro Dolina, en uno de sus programas radiales, resumió así los cuatro puntos principales de esta obra de Descartes:
 * No dar por cierto lo que no parece evidente.
