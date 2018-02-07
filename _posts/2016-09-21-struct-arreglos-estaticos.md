@@ -6,6 +6,8 @@ categories: cpp
 published: true
 ---
 
+[Video]
+
 Breve explicación de cómo utilizar,en C++, arreglos estáticos cuyos elementos sean de un tipo struct.
 
 {% include youtubePlayer.html id="Sgp_7c0G48k" %}
