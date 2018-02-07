@@ -3,6 +3,7 @@ layout: post
 title: Qué es POO (Programación Orientada a Objetos)
 date: 2016-01-07 19:00:00
 categories: poo
+tags: objetos
 published: true
 ---
 
