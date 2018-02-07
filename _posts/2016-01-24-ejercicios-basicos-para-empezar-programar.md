@@ -143,9 +143,10 @@ int main()
 ### Resolución - ejercicio 3
           
 _Cómo analizar la consigna:_
+
 Imaginemos que el empresario es nuestro cliente y nos encarga que le programemos una herramienta para calcular algunas cosas cada vez que organice un recital. Es decir, partimos de la base de que el programa se va a usar en varios casos distintos (para varios recitales), y por eso tiene que tener la posibilidad de que el usuario le vaya ingresando distintos datos cada vez que lo quiera usar.
 
-Leyendo el enunciado vemos que los resultados que el cliente necesita que arroje el programa (para los cuales vamos a necesitar ciertos cálculos o procesamiento, que después vemos) son: "cuánta gente va a caber en el estadio para un recital determinado" y "cuánto dinero ingresaría si vende todas las entradas disponibles". </em><em><em>Algunos datos son "fijos" o "constantes": el usuario (el empresario) ya sabe que eso no cambia. Éstos son:
+Leyendo el enunciado vemos que los resultados que el cliente necesita que arroje el programa (para los cuales vamos a necesitar ciertos cálculos o procesamiento, que después vemos) son: "cuánta gente va a caber en el estadio para un recital determinado" y "cuánto dinero ingresaría si vende todas las entradas disponibles". Algunos datos son "fijos" o "constantes": el usuario (el empresario) ya sabe que eso no cambia. Éstos son:
 
 * Que por metro cuadrado de espacio disponible caben 4 personas.
 * Que las tribunas ocupan 20% del espacio del estadio.
@@ -162,7 +163,7 @@ Ahora ya podemos empezar a calcular la primera incógnita: "cuánta gente va a c
 
 Así que, para saber cuánta gente cabe, hay que ver que, del espacio disponible que tenemos (los metros cuadrados totales del estadio), hay partes que no se pueden usar: un 20% que es donde van las tribunas y otro porcentaje que es donde va el escenario (que no lo sabemos pero lo va a decir el usuario cuando use el programa). Entonces, al espacio total disponible le restamos esos dos porcentajes, para saber cuántos metros cuadrados nos van quedando disponibles. Luego multiplicamos esos metros cuadrados que nos quedan x 4, porque en cada metro cuadrado entran 4 personas. Pero también sabemos que en las tribunas entra una cantidad de gente que el usuario va a ingresar al usar el programa (se guarda en una variable), así que sumamos esa cantidad (la variable). Con eso sabemos ya cuánta gente cabe y, por ende, cuántas entradas pueden venderse.
 
-Puede ser útil graficar los datos que tenemos o que vamos a obtener del usuario para hacerse una mejor idea mental de cómo calcular:
+Puede ser útil graficar los datos que tenemos o que vamos a obtener del usuario para hacernos una mejor idea mental de cómo calcular:
 
 ![diagrama]({{ site.url }}/assets/2016-01-24-ejercicios-basicos-para-empezar-programar-img1.png)
 
