@@ -5,29 +5,28 @@ permalink: /categorias/
 published: true
 ---
 
-<div>
-<h2> CATEGORÍAS:</h2>
-{% for category in site.categories %}
-  <div>
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <h3 class="category-head">{{ category_name }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-    </article>
-    {% endfor %}
-  </div>
-{% endfor %}
-</div>
-
----
-
-<div>
-<h2> TAGS:</h2>
-        {% for tag in site.tags %}
-            {% capture tag_name %}{{ tag | first }}{% endcapture %}
-            <a name="{{ tag_name}}">{{ tag_name}}</a>
-            "{{ tag | first }}"{% unless forloop.last %},{% endunless %}
+    <hr />
+    {% for category in site.categories %}
+        {% capture category_slug %}{{ category | first }}{% endcapture %}
+        {% for c_slug in category_slug %}
+            {% if c_slug == page.categories %}
+                <button class="btn btn-sm btn-primary btn-raised">{{ c_slug }}</button>
+            {% else %}
+                <a href="{{ site.baseurl }}/category/{{ c_slug }}" class="btn btn-sm btn-default btn-raised">{{ c_slug }}</a>
+            {% endif %}
         {% endfor %}
-</div>
+    {% endfor %}
+    <hr />
+
+<ul>
+  {% assign sorted_tags = site.tags | sort %}
+  {% for tag in sorted_tags %}
+    {% assign t = tag | first %}
+    {% assign posts = tag | last %}
+    <li id="{{ t }}-item">
+      <a href onclick="filter('{{ t }}'); return false;">{{ t }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
