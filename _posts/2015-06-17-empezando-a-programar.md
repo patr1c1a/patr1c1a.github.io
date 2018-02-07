@@ -3,7 +3,7 @@ layout: post
 title: Empezando a programar
 date: 2015-06-17 11:00:00
 categories: conceptos
-tags: 
+tags: paradigmas lenguajes
 published: true
 ---
 Programar es dar instrucciones a una computadora para que solucione algún problema. Mediante la programación, junto a varios otros componentes (análisis, diseño, arquitectura, pruebas) se pueden crear sistemas de software.
