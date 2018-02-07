@@ -3,6 +3,7 @@ layout: post
 title: Infografía - descarga y uso de Python IDLE
 date: 2015-06-28 19:00:00
 categories: python
+tags: herramientas
 published: true
 ---
 
