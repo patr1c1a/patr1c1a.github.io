@@ -5,12 +5,6 @@ permalink: /categorias/
 published: true
 ---
 
-{% if page.categories.size > 0 %}
-                <span class="categories">
-                  &raquo; 
-                  {% for category in page.categories %}
-                    <a href="{{ site.baseurl }}/category/{{ category }}">{{ category }}</a>
-                    {% if forloop.last == false %}, {% endif %}
-                  {% endfor %}
-                </span>
-{% endif %}
+{% for category in site.categories %}
+    <li><a href="{{category.url}}"><strong>{{category|first}}</strong></a></li>
+{% endfor %}
