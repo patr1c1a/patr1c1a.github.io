@@ -3,6 +3,7 @@ layout: post
 title: Abstracción en una iteración fija (for)
 date: 2015-06-21 19:00:00
 categories: conceptos
+tags: bucles, loops, for, abstracción
 published: true
 ---
 
