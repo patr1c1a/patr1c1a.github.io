@@ -3,6 +3,7 @@ layout: post
 title: Manejo de strings en Pascal
 date: 2011-05-31 19:00:00
 categories: pascal
+tags: paradigma_imperativo string datos variables
 published: true
 ---
 
