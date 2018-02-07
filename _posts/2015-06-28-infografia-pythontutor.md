@@ -3,6 +3,7 @@ layout: post
 title: Infografía - Python Tutor (intérprete Python online)
 date: 2015-06-28 19:00:00
 categories: python
+tags: intérprete online
 published: true
 ---
 
