@@ -3,7 +3,7 @@ layout: post
 title: Tipos de datos en Pascal
 date: 2011-05-29T19:12:00.000Z
 categories: pascal
-tags: paradigma_imperativo tipos datos
+tags: paradigma_imperativo tipos datos variables
 published: true
 ---
 
