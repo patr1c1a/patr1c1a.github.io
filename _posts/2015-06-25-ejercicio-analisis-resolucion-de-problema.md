@@ -3,6 +3,7 @@ layout: post
 title: Caso práctico - Análisis y resolución de un problema
 date: 2015-06-25 19:00:00
 categories: ejercicios
+tags: algoritmos resolución_problemas paradigma_imperativo
 published: true
 ---
 
