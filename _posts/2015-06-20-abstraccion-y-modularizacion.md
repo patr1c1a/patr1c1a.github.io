@@ -3,15 +3,15 @@ layout: post
 title: Abstracción y modularización
 date: 2015-06-20 19:00:00
 categories: conceptos
+tags: abstracción buenas_prácticas resolución_problemas paradigma_imperativo
 published: true
 ---
-
 
 Cuando se divide un programa en módulos, la intención es crear una resolución de un problema "grande" a través de soluciones a cada una de sus partes por separado, para luego integrarlas a todas.
 
 Un módulo puede ser cualquier parte de un programa que se encuentra "separada": es decir, para su utilización deberemos referir a esa otra parte, que se encuentra en otro lugar. En algunos casos se llama módulo a otros archivos; así, podríamos tener un programa grande dividido en varios archivos (por ejemplo, en el caso de un juego, un archivo para la pantalla de inicio, otro para la ayuda y otro para el juego concretamente). En otras ocasiones se denomina módulo a porciones de código que pueden estar o no dentro del mismo archivo donde se utilizan; tal es el caso de los subprogramas, rutinas, funciones, procedimientos, métodos. Es a este último tipo de módulos que nos referiremos en este artículo.
 
-Según el lenguaje y el tipo de módulo del que estemos hablando, un módulo podría retornar un valor o no retornar nada (en Python este "nada" se representa con el valor "None", en Java se representa con "void", que indican que no hay ningún valor).
+Según el lenguaje y el tipo de módulo del que estemos hablando, un módulo podría retornar un valor o no retornar nada (en Python este "nada" se representa con el valor <code>None</code>, en Java se representa con <code>void</code>, que indican que no hay ningún valor).
 
 Donde en el código aparece una llamada (o "invocación") a una función, nosotros vemos esa abstracción, pero la computadora ve una indicación para ejecutar el código de la función y obtener un resultado. Entonces, cuando aparece una invocación a una función, se puede decir que, de manera abstracta, esa instrucción de invocación se "reemplaza" por el valor que la función retorna.
 
@@ -46,7 +46,7 @@ Ahora, para lograr que la variable _condición_ contenga _True_ si la condición
 
 <pre><code>condición = evaluarNúmero(num)</code></pre>
 
-Sabemos, entonces, que la función llamada **evaluarNúmero(num)** se dedicará a comprobar si la condición se cumple o no, y retornará un valor booleano. Pero podemos dedicarnos a construir el resto del programa, dejando la función para después, y así escribir:
+Sabemos, entonces, que la función llamada <code>evaluarNúmero(num)</code> se dedicará a comprobar si la condición se cumple o no, y retornará un valor booleano. Pero podemos dedicarnos a construir el resto del programa, dejando la función para después, y así escribir:
 
 <pre><code>num = int(input())
 condición = evaluarNúmero(num)
