@@ -3,6 +3,7 @@ layout: post
 title: Qué son las variables
 date: 2015-06-18 11:00:00
 categories: conceptos
+tags: datos tipos variables
 published: true
 ---
 
