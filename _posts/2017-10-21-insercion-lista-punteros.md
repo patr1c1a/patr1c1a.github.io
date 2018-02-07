@@ -3,6 +3,7 @@ layout: post
 title: Video - Inserción en lista de punteros
 date: 2017-10-21 19:00:00
 categories: ejercicios c++
+tags: puntero paradigma_imperativo video
 published: true
 ---
 
