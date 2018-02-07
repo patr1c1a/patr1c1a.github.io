@@ -3,6 +3,7 @@ layout: post
 title: Arreglos en Pascal
 date: 2011-06-03 19:00:00
 categories: pascal
+tags: paradigma_imperativo tipos datos variables arreglos colecciones
 published: true
 ---
 
