@@ -15,7 +15,7 @@ Siguiendo las [pautas de diseño UML](/poo/2016/01/09/correcto-diseno-oo.html), 
 
 ## Diagrama:
 
-![diagrama uml completo]({{ site.url }}/assets/2016-01-09-ejemplo-uml-img2.png)
+[![diagrama uml completo]({{ site.url }}/assets/2016-01-09-ejemplo-uml-img2.png)](/assets/2016-01-09-ejemplo-uml-img2.png)
 
 ## Interpretación:
 
