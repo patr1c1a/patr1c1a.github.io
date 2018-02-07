@@ -3,6 +3,7 @@ layout: post
 title: Video - Ejercicio de arreglos estáticos en C++
 date: 2016-09-22 19:00:00
 categories: ejercicios c++
+tags: arreglos bajo_nivel paradigma_imperativo video
 published: true
 ---
 
