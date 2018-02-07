@@ -9,8 +9,6 @@ published: true
 {% for category in site.categories %}
   <div>
     {% capture category_name %}{{ category | first }}{% endcapture %}
-
-    
     <h3 class="category-head">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
@@ -26,6 +24,8 @@ published: true
 <div>
 TAGS:
         {% for tag in site.tags %}
-        "{{ tag | first }}"{% unless forloop.last %},{% endunless %}
+            {% capture tag_name %}{{ tag | first }}{% endcapture %}
+            <a name="{{ tag_name}}">{{ tag_name}}</a>
+            "{{ tag | first }}"{% unless forloop.last %},{% endunless %}
         {% endfor %}
 </div>
