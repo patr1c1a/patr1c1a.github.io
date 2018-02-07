@@ -6,6 +6,7 @@ published: true
 ---
 
 <div>
+<h2> CATEGORÍAS:</h2>
 {% for category in site.categories %}
   <div>
     {% capture category_name %}{{ category | first }}{% endcapture %}
@@ -20,9 +21,10 @@ published: true
 {% endfor %}
 </div>
 
+---
 
 <div>
-TAGS:
+<h2> TAGS:</h2>
         {% for tag in site.tags %}
             {% capture tag_name %}{{ tag | first }}{% endcapture %}
             <a name="{{ tag_name}}">{{ tag_name}}</a>
