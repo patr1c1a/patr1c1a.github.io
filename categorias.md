@@ -17,16 +17,3 @@ published: true
         {% endfor %}
     {% endfor %}
     <hr />
-
-<ul>
-  {% assign sorted_tags = site.tags | sort %}
-  {% for tag in sorted_tags %}
-    {% assign t = tag | first %}
-    {% assign posts = tag | last %}
-    <li id="{{ t }}-item">
-      <a href onclick="filter('{{ t }}'); return false;">{{ t }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-
