@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C++ - Struct como elemento de arreglos estáticos (con código de ejemplo)
+title: C++ - Struct como elemento de arreglos estáticos
 date: 2016-09-21 19:00:00
 categories: cpp
 published: true
