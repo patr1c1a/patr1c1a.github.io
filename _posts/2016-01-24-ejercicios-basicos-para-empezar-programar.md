@@ -3,6 +3,7 @@ layout: post
 title: Ejercicios básicos para empezar a programar
 date: 2016-01-24 19:00:00
 categories: ejercicios
+tags: resolución_problemas algoritmos
 published: true
 ---
 
