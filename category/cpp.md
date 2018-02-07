@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: cpp
-title: CPP
+categories: C++
+title: C++
 permalink: /category/cpp
 ---
