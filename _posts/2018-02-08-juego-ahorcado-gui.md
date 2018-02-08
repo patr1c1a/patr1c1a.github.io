@@ -15,7 +15,7 @@ El IDE utilizado es Qt Creator (en su versión 2.7.2). Puede descargarse gratuit
 
 Breve explicación del juego: en “el ahorcado” (“hangman” en inglés) se debe adivinar una palabra al azar. Para esto, en cada turno el jugador dice una letra del alfabeto que él supone es parte de la palabra. Si la letra no se encuentra en la palabra, se dibuja una parte de un hombrecito ahorcado (un poco truculento por ser un juego para niños, pero es así). Si la letra forma, efectivamente, parte de la palabra, no se dibuja ninguna parte y el jugador avanza. Las partes del ahorcado son 6: la cabeza, el tronco, los dos brazos y las dos piernas, por lo que el jugador tiene 5 chances de equivocarse.
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img0.png)
+![ilustración]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img0.png)
 
  
 ## Diseño y algoritmo
@@ -46,88 +46,88 @@ No se distinguen mayúsculas, minúsculas, vocales acentuadas o con diéresis (e
 
 Para comenzar con el desarrollo, en Qt Creator ir a **File > New file or project > Applications > Qt Gui Application** y continuar con el asistente hasta el final, dejando las opciones por defecto (podemos darle un nombre al proyecto).
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img1.png)
+![crear proyecto]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img1.png)
 
 El proyecto tendrá una carpeta “Headers” para los archivos de encabezados, una carpeta “Sources” para los archivos de código fuente y una carpeta “Forms” para los archivos de la interfaz gráfica (“gui”) con la primera ventana ya creada.
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img2.png)
+![archivos del proyecto]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img2.png)
 
-“Espiando” la implementación de la función main que da inicio al programa podremos ver que instancia una de estas ventanas y luego la muestra, con el siguiente código:
+“Espiando” la implementación de la función main que da inicio al programa podremos ver que primero instancia una de estas ventanas y luego la muestra, con el siguiente código:
 
     MainWindow w;
     w.show();
 
 Haciendo doble click sobre el archivo mainwindow.ui (o el nombre correspondiente si se lo hemos cambiado) se abrirá la pantalla de diseño donde podremos ver la primera ventana del programa, además de una extensa variedad de herramientas a su izquierda (con un filtro superior que permite buscar):
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img3.png)
+![pantalla de diseño]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img3.png)
 
 En la parte inferior derecha pueden verse las propiedades del elemento gráfico actualmente seleccionado (en este caso, el único existente: la ventana -o formulario-), también con una opción de filtro para buscar. Todas estas propiedades pueden modificarse mediante el código, pero desde este menú es posible también hacerlo mediante la interfaz gráfica.
 
 Con un click en la opción “palette” podemos modificar los colores:
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img4.png)
+![paleta de colores]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img4.png)
 
 También podremos cambiarle el nombre a la ventana editando la propiedad “windowTitle”:
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img5.png)
+![nombre de la ventana]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img5.png)
 
 Mediante las agarraderas de las esquinas es posible ampliar o reducir el tamaño de la ventana inicial, aunque también es posible modificar numéricamente el ancho y alto utilizando la propiedad “geometry”.
 
 En el panel de la izquierda se encuentran todos los elementos que es posible agregar, agrupados en categorías. Para agregarlos, basta con arrastrarlos desde este panel hasta el formulario. En este caso, agregaremos dos “label” (en la categoría “display widgets”), tres “radio button” (en la categoría “buttons”) y un “push button” (en la categoría “buttons”).
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img6.png)
+![componentes agregados]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img6.png)
 
 Para cambiar los textos basta con hacer doble click sobre el elemento. Por ejemplo, en un label pondremos el título “El ahorcado” y en otro pondremos “elegir nivel”. En los radio buttons pondremos los 3 niveles posibles: fácil, medio, difícil. Y en el push button pondremos “Jugar!”.
 
 Para editar las propiedades de los textos, hacer click sobre el elemento deseado y, desde el panel inferior derecho, click en los “...” de la propiedad “font” para elegir un tipo y tamaño de fuente.
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img7.png)
+![propiedades de los textos]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img7.png)
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img8.png)
+![propiedades de los textos]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img8.png)
 
 Pero el texto es sólo un elemento decorativo. Para programar, lo que nos interesa es el nombre de cada uno de estos objetos. Si hacemos click sobre alguno de ellos para seleccionarlo, veremos en el panel de propiedades su “objectName” y podremos cambiarlo por algún otro nombre que represente de qué objeto se trata.
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img9.png)
+![nombre del objeto]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img9.png)
 
-Es conveniente darle un nombre a cada objeto que aparece en la pantalla, porque de esta manera los identificaremos en el código cuando les agreguemos funcionalidad. Excepcionalmente, a los objetos que no tendrán funcionalidad (como el título, por ejemplo) podríamos dejarles el nombre por defecto (en el caso de los objetos de clase QLabel -es decir, los que aparecen como “label” en la caja de herramientas- el nombre sería algo como “label”, “label_2”, “label_3”, etc.).
+Es conveniente darle un nombre a cada objeto que aparece en la pantalla, porque de esta manera los identificaremos en el código cuando les agreguemos funcionalidad. Excepcionalmente, a los objetos que no tendrán funcionalidad (como el título, por ejemplo) podríamos dejarles el nombre por defecto (en el caso de los objetos de la [clase](/poo/2016/01/07/programacion-orientada-a-objetos.html) _QLabel_ -es decir, los que aparecen como “label” en la caja de herramientas- el nombre sería algo como “label”, “label_2”, “label_3”, etc.).
 
-> En este punto vale mencionar algo que se llama “notación húngara” y que consiste en poner como nombre el tipo de objeto de que se trate, seguido de una palabra que lo identifique. Por ejemplo, el botón que inicia el juego y cuyo texto indica “Jugar!” podría llamarse “btnJugar”. Muchos defenestran este tipo de práctica por considerarla engorrosa y redundante ya que los IDEs modernos indican toda la información necesaria (¿obviando considerar que no siempre el código se leerá dentro de un IDE, tal vez?). Por otra parte, en los días del “auto-completado” uno podría recordar que había un botón en alguna parte pero sin saber su nombre exacto… ¡ah! pero sabe que el nombre comenzaba con “btn”, lo cual basta y sobra para que nuestro maravilloso IDE nos muestre todos los objetos que hemos creado y que comienzan con ese nombre. Por otra parte, y especialmente con las variables que no son parte de la interfaz gráfica, ante cualquier cambio de tipo de la variable habría que también cambiar el nombre y esto sería muy poco conveniente. En fin, queda a gusto del consumidor, pero seguir buenas prácticas de programación siempre es importante.
+> En este punto vale mencionar algo que se llama “notación húngara” y que consiste en poner como nombre el tipo de objeto de que se trate, seguido de una palabra que lo identifique. Por ejemplo, el botón que inicia el juego y cuyo texto indica “Jugar!” podría llamarse “btnJugar”. Muchos defenestran este tipo de práctica por considerarla engorrosa y redundante ya que los IDEs modernos indican toda la información necesaria (¿obviando considerar que no siempre el código se leerá dentro de un IDE, tal vez?). Por otra parte, en los días del “auto-completado” uno podría recordar que había un botón en alguna parte pero sin saber su nombre exacto... ¡ah! pero sabe que el nombre comenzaba con “btn”, lo cual basta y sobra para que nuestro maravilloso IDE nos muestre todos los objetos que hemos creado y que comienzan con ese nombre. Por otra parte, y especialmente con las variables que no son parte de la interfaz gráfica, ante cualquier cambio de tipo de la variable habría que también cambiar el nombre y esto sería muy poco conveniente. En fin, queda a gusto del consumidor, pero seguir buenas prácticas de programación siempre es importante.
 
-A los radio buttons de selección de nivel los nombré “nivelFacil”, “nivelMedio” y “nivelDificil” y al botón le puse el ObjectName “comenzar”. A la ventana principal le dejé el objectName por defecto, “MainWindow”.
+A los _radio buttons_ de selección de nivel los nombré “nivelFacil”, “nivelMedio” y “nivelDificil” y al botón le puse el _ObjectName_ “comenzar”. A la ventana principal le dejé el _ObjectName_ por defecto, “MainWindow”.
 
-Si abrimos el archivo .ui en modo edición podremos ver que cada propiedad tiene su correspondiente en etiquetas XML y esto va modificándose a medida que cambiamos los valores en el panel de propiedades:
+Si abrimos el archivo .ui en modo edición podremos ver que cada propiedad tiene su correspondiente en etiquetas _XML_, y esto va modificándose a medida que cambiamos los valores en el panel de propiedades:
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img10.png)
+![propiedades en el código]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img10.png)
 
 Estos archivos XML serán luego convertidos a encabezados C++ durante la compilación.
 
 Ahora habrá que agregar una nueva ventana para el juego en sí, que se abrirá al elegir el nivel y presionar el botón “Jugar”. Para esto, hacer click derecho sobre el nombre del proyecto y seleccionar “Add New”:
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img11.png)
+![nueva ventana]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img11.png)
 
-Luego, en “Qt” > “Qt Designer Form Class” > Widget. Yo le puse el nombre “Juego” a esta ventana y dejé todo lo demás por defecto. Automáticamente se crearán 3 archivos: juego.h, juego.cpp y juego.ui. Este último es el responsable de la interfaz gráfica.
+Luego, en **Qt > Qt Designer Form Class > Widget**. Yo le puse el nombre “Juego” a esta ventana y dejé todo lo demás por defecto. Automáticamente se crearán 3 archivos: <code>juego.h</code>, <code>juego.cpp</code> y <code>juego.ui</code>. Este último es el responsable de la interfaz gráfica.
 
 Usaremos una serie de imágenes que corresponde a cada oportunidad de adivinar la palabra, es decir, al “ahorcado” a medida que se va armando. Están disponibles para ser descargadas en [este archivo zip (click para descargar)](/assets/2018-02-08-juego-ahorcado-gui-archivoimgs.zip). La particularidad es que tienen todas la misma dimensión, con lo cual será fácil reemplazar cada una con una nueva cuando el usuario pierda una oportunidad de adivinar.
 
-Una forma sencilla de agregar imágenes es usando la propiedad pixmap de los elementos de tipo label. Para agregar la primera imagen (la horca vacía), colocar un label en la ventana de juego y darle el objectName “horca”. Luego por código se podrá editar esta propiedad mediante el [método](/poo/2016/01/07/programacion-orientada-a-objetos.html) `setPixmap()`. Pero también necesitamos tener las imágenes en una colección de “recursos”, de manera que podamos seleccionarlas desde ahí para insertarlas en el label. Los recursos se compilan dentro del ejecutable y pueden accederse en tiempo de ejecución.
+Una forma sencilla de agregar imágenes es usando la propiedad pixmap de los elementos de tipo label. Para agregar la primera imagen (la horca vacía), colocar un _label_ en la ventana de juego y darle el objectName “horca”. Luego por código se podrá editar esta propiedad mediante el [método](/poo/2016/01/07/programacion-orientada-a-objetos.html) `setPixmap()`. Pero también necesitamos tener las imágenes en una colección de “recursos”, de manera que podamos seleccionarlas desde ahí para insertarlas en el label. Los recursos se compilan dentro del ejecutable y pueden accederse en tiempo de ejecución.
 
-Para crear una colección de recursos hacer click derecho sobre el nombre del proyecto (en modo edición) > New > seleccionar, dentro de la categoría Qt, la opción “Qt Resource File”; darle el nombre “recursos” y dejar lo demás por defecto. En el proyecto se agregará una carpeta llamada “Resources” con el archivo “recursos.qrc” (que no es más que un archivo XML). Hacer click sobre este archivo y luego Add > Add prefix (que agrega una ruta para los recursos). Colocar “/imagenes” en el campo “Prefix”.
+Para crear una colección de recursos hacer click derecho sobre el **nombre del proyecto (en modo edición) > New > seleccionar, dentro de la categoría Qt, la opción “Qt Resource File”**; darle el nombre “recursos” y dejar lo demás por defecto. En el proyecto se agregará una carpeta llamada “Resources” con el archivo `recursos.qrc` (que no es más que un archivo XML). Hacer click sobre este archivo y luego Add > Add prefix (que agrega una ruta para los recursos). Colocar “/imagenes” en el campo “Prefix”.
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img12.png)
+![colección de recursos]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img12.png)
 
-Una vez hecho esto, se pueden agregar archivos desde Add > Add Files, y así seleccionaremos cada una de las imágenes del ahorcado.
+Una vez hecho esto, se pueden agregar archivos desde **Add > Add Files**, y así seleccionaremos cada una de las imágenes del ahorcado.
 
-Ahora sí, clickeando sobre el label colocado previamente, llamado “horca”, es posible acceder a la propiedad pixmap y ver los recursos. Si esto no fuera así, será necesario reiniciar Qt Creator.
+Ahora sí, clickeando sobre el label colocado previamente, llamado “horca”, es posible acceder a la propiedad _pixmap_ y ver los recursos. Si esto no fuera así, será necesario reiniciar Qt Creator.
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img13.png)
+![ver recursos]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img13.png)
 
 Seleccionar como imagen inicial la de la horca vacía, ya que así comienza el juego. Luego, mediante el código, se cambiará esta imagen por la correspondiente a medida que el juego avance. Para que se pueda ver la imagen será necesario agrandar este label (arrastrando y soltando desde las agarraderas de las esquinas o bien mediante la propiedad _geometry_).
 
-Además, agregar un Combo Box (dentro de “Input Widgets”) con el ObjectName “alfabeto” para mostrar las letras del alfabeto, más un _Push Button_ con el texto “Adivinar” para jugar y el ObjectName “adivinar”. Más adelante se les dará funcionalidad.
+Además, agregar un _Combo Box_ (dentro de “Input Widgets”) con el _ObjectName_ “alfabeto” para mostrar las letras del alfabeto, más un _Push Button_ con el texto “Adivinar” para jugar y el _ObjectName_ “adivinar”. Más adelante se les dará funcionalidad.
 
 El aspecto de la ventana será aproximadamente este:
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img14.png)
+![ventana de juego]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img14.png)
 
 ## Desarrollo: funcionalidad
 
@@ -135,13 +135,13 @@ El aspecto de la ventana será aproximadamente este:
 
 Volviendo a _MainWindow_ (la ventana principal del juego), seleccionar el radio button de nivel medio y buscar entre sus propiedades la llamada _checked_ para activarla. Esto hará que este nivel sea el seleccionado por defecto.
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img15.png)
+![nivel seleccionado por defecto]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img15.png)
 
 La característica principal de un radio button es que nunca hay uno solo y que son auto-excluyentes (seleccionando uno se desactiva el que estuviera seleccionado previamente, ya que sólo uno por vez puede estar activo). Este es el comportamiento por defecto, indicado por la propiedad _autoExclusive_.
 
 A continuación daremos funcionalidad al botón “comenzar”. Para esto utilizaremos _eventos_, que no son más que acciones que disparan la ejecución de cierto código. Dentro de Qt se llama “slot” al método que ejecuta este tipo de acciones. Por esto, daremos click derecho al botón y seleccionaremos **Go to slot > clicked()**, de manera que el framework genere automáticamente la estructura de este método y lo deje listo para insertar nuestro código.
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img16.png)
+![botón comenzar]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img16.png)
 
 Nos encontraremos con el siguiente método vacío dentro del archivo `mainwindow.cpp`:
 
@@ -156,7 +156,7 @@ Y, como habíamos dicho, la declaración de este método se agregará también d
 
 Antes de poder darle funcionalidad a este botón (la de que, al hacer click, se abra la ventana de juego), debemos incluir el archivo de cabecera de la nueva ventana que se abrirá. Para esto, dentro del archivo `mainwindow.h` incluiremos `juego.h` y también crearemos un puntero a un objeto de la clase Juego:
 
-![]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img17.png)
+![incluir archivo de cabecera]({{site.baseurl}}/assets/2018-02-08-juego-ahorcado-gui-img17.png)
 
 Ahora, volviendo al slot on_comenzar_clicked() dentro de mainwindow.cpp, agregar el siguiente código:
 
