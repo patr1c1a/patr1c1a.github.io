@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Juego en terminal - El Ahorcado
-date: 2011-05-28 19:12:00
+date: 2017-05-28 19:12:00
 categories: c++
 tags: paradigma_imperativo juegos proyectos
 published: true
