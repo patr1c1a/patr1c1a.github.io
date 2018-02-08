@@ -62,14 +62,14 @@ El código que se provee para completar tiene varias partes ya resueltas y otras
 
 ### Archivos de cabecera incluidos
 
-<pre><code>#include <iostream>
-#include <set>
-#include <vector>
-#include <fstream>
-#include <string>
-#include <ctime>
-#include <cstdlib>
-#include <climits></code></pre>
+<pre><code>#include &lt;iostream>
+#include &lt;set>
+#include &lt;vector>
+#include &lt;fstream>
+#include &lt;string>
+#include &lt;ctime>
+#include &lt;cstdlib>
+#include &lt;climits></code></pre>
 
 
 ### Constantes y objetos utilizados
@@ -79,16 +79,16 @@ const int PERDEDOR=0;
 const string ARCHIVO_PALABRAS="palabras.txt";
 
 struct Palabras{
-    vector<string> nivel1;
-    vector<string> nivel2;
-    vector<string> nivel3;
+    vector&lt;string> nivel1;
+    vector&lt;string> nivel2;
+    vector&lt;string> nivel3;
 };
 
 struct Jugada{
     unsigned int nivel;
     unsigned int intentos=6;
     string palabra;
-    set<char> letrasAdivinadas;
+    set&lt;char> letrasAdivinadas;
     bool ganador=false;
     string palabraArriesgada;
     char ultimaLetraArriesgada;
@@ -120,16 +120,16 @@ RETORNO: objeto Palabras con vectores de palabras de acuerdo al nivel si el arch
 (si algún archivo no existe, el vector queda vacío).
 */
 Palabras cargarPalabras(){
-    vector<string> palabrasNivel1, palabrasNivel2, palabrasNivel3;
+    vector&lt;string> palabrasNivel1, palabrasNivel2, palabrasNivel3;
     string palabra;
     if (existeArchivo(ARCHIVO_PALABRAS)) {
         ifstream archivo(ARCHIVO_PALABRAS);
         if (archivo.is_open()) {
             while (getline(archivo, palabra)) {
-                if (palabra.length()<=7)
+                if (palabra.length()&lt;=7)
                     palabrasNivel1.push_back(palabra);
                 else
-                    if ((palabra.length()>7) && (palabra.length()<=11))
+                    if ((palabra.length()>7) && (palabra.length()&lt;=11))
                         palabrasNivel2.push_back(palabra);
                     else
                         palabrasNivel3.push_back(palabra);
@@ -149,10 +149,10 @@ Palabras cargarPalabras(){
 FUNCIÓN: seleccionarPalabra
 PROPÓSITO: Selecciona de manera aleatoria un elemento de un vector de strings y lo retorna.
 PARÁMETROS:
-    vector<string> : vector con palabras.
+    vector&lt;string> : vector con palabras.
 RETORNO: Palabra seleccionada al azar.
 */
-string seleccionarPalabra(vector<string> palabras){
+string seleccionarPalabra(vector&lt;string> palabras){
     srand(time(NULL));
     int indice = rand() % palabras.size();
     return palabras[indice];
@@ -168,40 +168,40 @@ PARÁMETROS:
 void mostrarDibujo(int intentos){
     switch (intentos){
     case 6:
-        cout << "__________\n|         |\n|\n|\n|\n|\n|";
+        cout &lt;&lt; "__________\n|         |\n|\n|\n|\n|\n|";
         break;
     case 5:
-        cout << "__________\n|         |\n|         0\n|\n|\n|\n|";
+        cout &lt;&lt; "__________\n|         |\n|         0\n|\n|\n|\n|";
         break;
     case 4:
-        cout << "__________\n|         |\n|         0\n|         |\n|\n|\n|";
+        cout &lt;&lt; "__________\n|         |\n|         0\n|         |\n|\n|\n|";
         break;
     case 3:
-        cout << "__________\n|         |\n|         0\n|        /|\n|\n|\n|";
+        cout &lt;&lt; "__________\n|         |\n|         0\n|        /|\n|\n|\n|";
         break;
     case 2:
-        cout << "__________\n|         |\n|         0\n|        /|\\\n|\n|\n|";
+        cout &lt;&lt; "__________\n|         |\n|         0\n|        /|\\\n|\n|\n|";
         break;
     case 1:
-        cout << "__________\n|         |\n|         0\n|        /|\\\n|        /\n|\n|";
+        cout &lt;&lt; "__________\n|         |\n|         0\n|        /|\\\n|        /\n|\n|";
         break;
     case PERDEDOR:
-        cout << " _________\n|         |\n|         0\n|        /|\\\n|        / \\\n|\n|\n";
+        cout &lt;&lt; " _________\n|         |\n|         0\n|        /|\\\n|        / \\\n|\n|\n";
         break;
     case GANADOR:
-        cout << "__________\n|         |\n|         \n|        \n|      0\n|     \\|/\n|     / \\\n";
+        cout &lt;&lt; "__________\n|         |\n|         \n|        \n|      0\n|     \\|/\n|     / \\\n";
         break;
     }
-    cout << endl;
+    cout &lt;&lt; endl;
 }
 
 int main(){
     Palabras palabras=cargarPalabras();
     int nivel;
     bool errorDeTipoIngresado;
-    set<int> opcionesValidas{0,1,2,3};
+    set&lt;int> opcionesValidas{0,1,2,3};
 
-    std::cout << R"(
+    std::cout &lt;&lt; R"(
                  8888888888 888
                  888        888                     __________
                  888        888                    |         |
@@ -221,16 +221,16 @@ int main(){
                  .d888888 888  888 888  888 888    888      .d888888 888  888 888  888
                  888  888 888  888 Y88..88P 888    Y88b.    888  888 Y88b 888 Y88..88P
                  "Y888888 888  888  "Y88P"  888     "Y8888P" Y888888  "Y88888  "Y88P"
-    )" << '\n';
+    )" &lt;&lt; '\n';
 
     do{
-        cout << "\n\tSeleccionar Nivel:" << endl;
-        cout << "\t\t1: Facil" << endl;
-        cout << "\t\t2: Medio" << endl;
-        cout << "\t\t3: Dificil" << endl;
-        cout << "\t0: Salir\n" << endl;
+        cout &lt;&lt; "\n\tSeleccionar Nivel:" &lt;&lt; endl;
+        cout &lt;&lt; "\t\t1: Facil" &lt;&lt; endl;
+        cout &lt;&lt; "\t\t2: Medio" &lt;&lt; endl;
+        cout &lt;&lt; "\t\t3: Dificil" &lt;&lt; endl;
+        cout &lt;&lt; "\t0: Salir\n" &lt;&lt; endl;
 
-        cout << "--Opcion seleccionada: ";
+        cout &lt;&lt; "--Opcion seleccionada: ";
         cin >> nivel;
         errorDeTipoIngresado = cin.fail();
         cin.clear();
@@ -242,7 +242,7 @@ int main(){
                 break;
             case 1:
                 if (palabras.nivel1.empty()){
-                    cout << "\tERROR: No hay palabras para ese nivel." << endl;
+                    cout &lt;&lt; "\tERROR: No hay palabras para ese nivel." &lt;&lt; endl;
                 }
                 else{
                     controlarJuego(nivel, palabras.nivel1);
@@ -250,7 +250,7 @@ int main(){
                 break;
             case 2:
                 if (palabras.nivel2.empty()){
-                    cout << "\tERROR: No hay palabras para ese nivel." << endl;
+                    cout &lt;&lt; "\tERROR: No hay palabras para ese nivel." &lt;&lt; endl;
                 }
                 else{
                     controlarJuego(nivel, palabras.nivel2);
@@ -258,7 +258,7 @@ int main(){
                 break;
             case 3:
                 if (palabras.nivel3.empty()){
-                    cout << "\tERROR: No hay palabras para ese nivel." << endl;
+                    cout &lt;&lt; "\tERROR: No hay palabras para ese nivel." &lt;&lt; endl;
                 }
                 else{
                     controlarJuego(nivel, palabras.nivel3);
@@ -278,7 +278,7 @@ int main(){
 PROPÓSITO: Mostrar el juego en el estado actual. Por cada letra adivinada, si la letra existe en la palabra se muestra en el lugar correspondiente, en caso contrario, se muestra un guión bajo " _ ".
 PARÁMETROS:
     string : palabra en juego.
-    set<char> : letras ya adivinadas por el usuario.</pre>
+    set&lt;char> : letras ya adivinadas por el usuario.</pre>
 
 
 <pre>FUNCIÓN: trim
@@ -298,8 +298,8 @@ RETORNO: string con la cadena convertida.</pre>
 <pre>FUNCIÓN: todasLasLetrasAdivinadas
 PROPÓSITO: Verificar si el usuario ya adivinó todas las letras de la palabra.
 PARÁMETROS:
-    set<char> : letras ya arriesgadas.
-    set<char> : letras en la palabra.
+    set&lt;char> : letras ya arriesgadas.
+    set&lt;char> : letras en la palabra.
 RETORNO: true si todas las letras de la palabra fueron adivinadas, false en caso contrario.</pre>
 
 
@@ -331,7 +331,7 @@ PROPÓSITO: Ofrecer al usuario la posibilidad de "adivinar" una letra.
 Si la letra ya había sido usada previamente (esté o no en la palabra) se imprime un mensaje y se pide otra.
 Se valida que el dato ingresado sea una letra y no otro tipo de carácter.
 PARÁMETROS:
-    const set<char>* : puntero al conjunto de letras ya arriesgadas.
+    const set&lt;char>* : puntero al conjunto de letras ya arriesgadas.
 RETORNO: letra elegida por el usuario.</pre>
 
 
@@ -350,7 +350,7 @@ Luego controla el orden del desarrollo del juego (una jugada continúa mientras 
 Mientras la jugada continúa, se muestra la cantidad de intentos restantes, el dibujo de la horca en el estado actual, la palabra a adivinar (con guiones en las letras no adivinadas). Luego se da la opción de arriesgar una letra o la palabra entera. Si la cantidad de intentos se redujo (porque no acertó la letra), se muestra un mensaje que lo indique. Si la letra arriesgada era correcta, se muestra un mensaje que lo indique. Una vez finalizada la jugada, si el campo ganador está en true significa que acertó todas las letras o que arriesgó una palabra y acertó, y se muestra el dibujo correspondiente al estado GANADOR y un mensaje, y el juego termina. Si la jugada finalizó con el campo ganador en falso, se muestra el dibujo correspondiente al estado PERDEDOR y un mensaje, y el juego termina.
 PARÁMETROS:
     int : nivel del juego.
-    vector<string> : palabras del nivel seleccionado</pre>
+    vector&lt;string> : palabras del nivel seleccionado</pre>
 
 
 ## Mejoras posibles
