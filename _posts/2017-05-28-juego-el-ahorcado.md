@@ -55,6 +55,10 @@ El juego termina cuando:
 
 Para ejecutar el juego se debe iniciar el programa ahorcado.exe, siempre teniendo el archivo palabras.txt en el mismo directorio que ahorcado.exe. El ejecutable fue generado bajo el estándar C++11, utilizando el IDE [Qt Creator](www.qt.io/download-open-source).
 
+Para probar la ejecución del programa durante su desarrollo, es necesario incluir el archivo <code>palabras.txt</code> en el directorio donde se encuentra el código fuente. Encontrarás a <code>palabras.txt</code> dentro del archivo del proyecto, junto con el ejecutable. Por ejemplo, utilizando un IDE como Qt Creator, el directorio del código fuente contiene al archivo <code>palabras.txt</code> de la siguiente forma:
+
+![directorio del código fuente]({{ site.url }}/assets/2017-05-28-juego-el-ahorcado-img1.png)
+
 
 ## Código
 
@@ -355,7 +359,7 @@ PARÁMETROS:
 
 ## Mejoras posibles
 
-El desafío terminado logra un juego un poco sencillo, al que pueden agregársele varias mejoras. ¿Te animás a investigarlo e implementarlas por tu cuenta?
+El desafío terminado logra un juego con la funcionalidad básica, al que podrían agregársele algunas mejoras. ¿Te animás a investigarlo e implementarlas por tu cuenta?
 
 * Una vez utilizada una palabra en una jugada, evitar que vuelva a utilizarse hasta que el programa se cierre.
 * Soporte de caracteres no ascii estándar (letra ‘ñ’ y vocales acentuadas o con diéresis)
