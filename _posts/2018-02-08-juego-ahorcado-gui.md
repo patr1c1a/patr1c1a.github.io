@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Juego en C++ - El ahorcado (con interfaz gráfica)
-date: {}
+date: 2018-02-08
 categories: c++
 tags: juegos objetos proyectos
 published: false
+
 ---
 ## Introducción
 
