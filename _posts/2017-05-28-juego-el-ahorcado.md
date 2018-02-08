@@ -12,7 +12,7 @@ published: true
 El desafío consiste en programar un juego en terminal de texto, utilizando C++. La idea es practicar lógica y algoritmia utilizando structs, vectores y conjuntos.
 
 Primero necesitarás [descargar el archivo](/assets/2017-05-28-juego-el-ahorcado-proyecto.zip). Este archivo contiene tres cosas:
-* el desafío, que es un archivo .cpp para completar. En él verás la estructura del programa ya planteada y algunas indicaciones para que escribas tu código. Este código es el que deberás usar en tu proyecto dentro del IDE.
+* el desafío, que es un archivo .cpp para completar. En él verás la estructura del programa ya planteada y algunas indicaciones para que escribas tu código. Este código es el que deberás usar en tu proyecto como punto de partida.
 * el ejecutable para que veas cómo debería funcionar el programa cuando completes el desafío (contiene 2 archivos: un exe y un txt que el programa necesita para funcionar; sólo deberás descomprimirlos en una misma carpeta y ejecutar el exe).
 * el código fuente completo del ejecutable (¡no vale "espiarlo" antes de intentar el desafío!).
 
