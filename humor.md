@@ -122,3 +122,8 @@ _-Vos debés ser divertido en las LAN parties.-
 ![dato]({{ site.url }}/assets/2017-03-18-humor-geek-img17.jpg)
 
 _Fuentes: NASA, Quora, Wikipedia._
+
+---
+## Que compile no significa que funcione bien...
+
+![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img18.jpg)
