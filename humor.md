@@ -7,6 +7,41 @@ published: true
 
 > Ninguna de las siguientes imágenes me pertenece. Todas ellas fueron obtenidas de la web. En caso de que el autor de alguna de ellas requiera su remoción de este blog, puede [comunicarse conmigo](mailto:contacto@patriciaemiguel.com) a esos efectos.
 
+
+## El error más común...
+
+![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img19.jpg)
+
+---
+
+## Que compile no significa que funcione bien...
+
+![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img18.jpg)
+
+---
+## Código de bajo nivel
+
+![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img16.jpg)
+
+_Traducción del texto de la imagen: "Margaret Hamilton, directora del departamento de ingeniería del proyecto Apollo, posa junto al código que escribió a mano y que fue usado para llevar a la humanidad a la Luna [1969]"._
+
+_Traducción de los comentarios:_
+
+_-Buena suerte buscando el punto y coma que falta._
+
+_-No hay punto y comas en la programación mediante tarjetas perforadas._
+
+_-Vos debés ser divertido en las LAN parties.-
+
+---
+## Líneas de código usadas en la construcción de las grandes tecnologías
+
+![dato]({{ site.url }}/assets/2017-03-18-humor-geek-img17.jpg)
+
+_Fuentes: NASA, Quora, Wikipedia._
+
+---
+
 ## Cuando se olvidan de equiparar mayúsculas y minúsculas
 
 ![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img1.jpg)
@@ -100,30 +135,3 @@ Aunque la lógica esté perfecta, los algoritmos sean hermosos, no haya ni un so
 ![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img15.jpg)
 
 Cuando escribimos código, entendemos perfectamente qué hicimos y por qué. Pero otras personas no pueden leer nuestra mente. Ni siquiera nosotros mismos podemos leerla al cabo de unas semanas...
-
----
-## Código de bajo nivel
-
-![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img16.jpg)
-
-_Traducción del texto de la imagen: "Margaret Hamilton, directora del departamento de ingeniería del proyecto Apollo, posa junto al código que escribió a mano y que fue usado para llevar a la humanidad a la Luna [1969]"._
-
-_Traducción de los comentarios:_
-
-_-Buena suerte buscando el punto y coma que falta._
-
-_-No hay punto y comas en la programación mediante tarjetas perforadas._
-
-_-Vos debés ser divertido en las LAN parties.-
-
----
-## Líneas de código usadas en la construcción de las grandes tecnologías
-
-![dato]({{ site.url }}/assets/2017-03-18-humor-geek-img17.jpg)
-
-_Fuentes: NASA, Quora, Wikipedia._
-
----
-## Que compile no significa que funcione bien...
-
-![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img18.jpg)
