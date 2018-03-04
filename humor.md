@@ -13,6 +13,8 @@ published: true
 
 ![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img20.jpg)
 
+_Traducción del texto de la imagen: "Nunca tendrás que pasar parámetros si todas las variables son globales_
+
 [Click acá para ver por qué usar variables globales es una mala práctica](/conceptos/2015/10/23/buenas-practicas-programacion.html)
 
 ---
@@ -20,6 +22,8 @@ published: true
 ## El error más común...
 
 ![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img19.jpg)
+
+_Traducción del diálogo en la imagen: "Oh, no, ¡los robots nos están matando! Pero, ¿por qué? ¡¡Nunca los programamos para esto!!"_
 
 ---
 
