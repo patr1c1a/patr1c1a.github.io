@@ -11,7 +11,7 @@ published: true
 
 ## Cómo programar mal
 
-![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img19.jpg)
+![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img20.jpg)
 
 [Click acá para ver por qué usar variables globales es una mala práctica](/conceptos/2015/10/23/buenas-practicas-programacion.html)
 
