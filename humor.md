@@ -8,6 +8,15 @@ published: true
 > Ninguna de las siguientes imágenes me pertenece. Todas ellas fueron obtenidas de la web. En caso de que el autor de alguna de ellas requiera su remoción de este blog, puede [comunicarse conmigo](mailto:contacto@patriciaemiguel.com) a esos efectos.
 
 
+
+## Cómo programar mal
+
+![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img19.jpg)
+
+[Click acá para ver por qué usar variables globales es una mala práctica](/conceptos/2015/10/23/buenas-practicas-programacion.html)
+
+---
+
 ## El error más común...
 
 ![humor]({{ site.url }}/assets/2017-03-18-humor-geek-img19.jpg)
