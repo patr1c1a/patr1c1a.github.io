@@ -44,7 +44,7 @@ _-Buena suerte buscando el punto y coma que falta._
 
 _-No hay punto y comas en la programación mediante tarjetas perforadas._
 
-_-Vos debés ser divertido en las LAN parties.-
+_-Vos debés ser divertido en las LAN parties._
 
 ---
 ## Líneas de código usadas en la construcción de las grandes tecnologías
