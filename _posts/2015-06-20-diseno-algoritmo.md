@@ -12,7 +12,7 @@ Diseñar un algoritmo es armar una solución para un problema o desafío a super
 
 Imaginemos que el desafío es construir una mesa. Entonces empezamos a planificar qué herramientas y materiales podemos usar y qué estrategias aplicar para construir la mesa con esas herramientas y materiales que tenemos disponibles.
 
-Como herramientas y materiales podríamos decidir usar un martillo de cierto tamaño, una sierra, lija de determinado grosor, clavos, pegamento, madera de un tipo particular. Esto sería equivalente a elegir el lenguaje de programación más adecuado, el IDE, el compilador, etc. Por ejemplo, el lenguaje podría ser Python, el IDE ser “IDLE”, y el compilador ser el de Python 3.4.
+Como herramientas y materiales podríamos decidir usar un martillo de cierto tamaño, una sierra, lija de determinado grosor, clavos, pegamento, madera de un tipo particular. Esto sería equivalente a elegir el lenguaje de programación más adecuado, el IDE, el compilador o intérprete, etc. Por ejemplo, el lenguaje podría ser Python, el IDE ser “IDLE”, y el intérprete será el de Python 3.6.5.
 
 Las estrategias de construcción se pueden equiparar a la parte de armar el algoritmo. Primero vamos a empezar por el esqueleto (la estructura general) para después ir ahondando en los detalles. Es importante tener en cuenta que acá no vamos a ver los detalles de implementación, sino que vamos a expresar en lenguaje coloquial lo que queremos hacer.
 
