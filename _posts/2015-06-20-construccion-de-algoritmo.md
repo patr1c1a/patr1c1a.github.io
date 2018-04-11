@@ -35,13 +35,13 @@ Construir un programa que reciba números (de cualquier cantidad de dígitos) a 
 
 Este enunciado podría analizarse de la siguiente forma:
 
-  * Mi programa va a leer números del teclado hasta que se ingrese uno negativo. ¿Cómo le digo a la computadora que un número es negativo? Haciendo que verifique si es menor a cero.
+  * Mi programa va a leer números del teclado hasta que se ingrese uno negativo. ¿Cómo le digo a la computadora que un número es negativo? Puedo usar la estrategia de verificar si el número es menor a cero.
   * Para que el usuario pueda ingresar más de un número voy a tener que hacer una repetición (también llamada "iteración", "ciclo", "bucle", "loop"&#8230;), porque es una parte del código que se va a ejecutar exactamente igual todas las veces, así que no tiene sentido escribir muchas veces lo mismo. Y como no sé cuántos números va a ingresar el usuario, necesitaré usar una repetición condicional. Entonces voy a usar una estructura "while" ("mientras"), y la condición para que un número se procese va a ser que sea mayor o igual a 0 (es decir, que no sea negativo).
   * ¿Qué cosas voy a poner dentro de la repetición? Voy a tener que ver qué cosas es necesario hacer más de una vez y cuáles no. Las que voy a tener que repetir son: 
       * Leer un número del teclado
-      * Ver si ese número tiene el dígito 0. No importa cuántas veces lo tiene, ya que la consigna no pide contar cuántas veces aparece el dígito 0 sino cuántos de los números lo contienen. Ahora voy a tener que buscar la forma de "decirle" a la computadora cuándo un número tiene al 0 entre sus dígitos. Como esto no es una operación simple (como era la de verificar si el número es negativo), podría decir que voy a construir una función que tome el número que el usuario ingresó y devuelva "True" si el dígito 0 aparece en el número ó "False" si no aparece. Pero, como ahora estoy viendo la estructura general, me preocuparé más adelante de construir la función. Solamente tengo en cuenta que la voy a hacer, que esa función necesita el número para trabajar y va a retornar un valor booleano (True o False).
+      * Ver si ese número tiene el dígito 0. No importa cuántas veces lo tiene, ya que la consigna no pide contar cuántas veces aparece el dígito 0 sino cuántos de los números lo contienen. Ahora voy a tener que buscar la forma de "decirle" a la computadora cuándo un número tiene al 0 entre sus dígitos. Como esto no es una operación simple (como era la de verificar si el número es negativo), podría decir que voy a construir una función que tome el número que el usuario ingresó y devuelva "True" si el dígito 0 aparece en el número ó "False" si no aparece. Pero, como ahora estoy viendo la estructura general, me preocuparé más adelante de construir la función. Solamente tengo en cuenta que la voy a hacer, que esa función necesita el número para trabajar y que va a retornar un valor booleano (True o False).
       * Si el número tenía el dígito cero, entonces deberé incrementar un contador. Sería el equivalente a contar con los dedos, pero la computadora, por ahora, ¡no tiene manos! Así que voy a necesitar algo para que la computadora vaya contando. Entonces sé que voy a tener que usar una variable numérica que sirva como contador. La tendré que inicializar en cero para que empiece a contar desde el principio y no desde cualquier lado.
-  * Al usar una estructura "while" tengo que tener en cuenta de que la iteración debe interrumpirse en algún momento (para que el programa no siga ejecutándose por siempre sin darnos un resultado). El enunciado dice que, si un número no cumple la condición de corte (o sea, si el número ingresado por el usuario es negativo) no debemos procesarlo, y tenemos dos maneras de hacer esto:
+  * Al usar una estructura "while" tengo que tener en cuenta que la iteración debe interrumpirse en algún momento (para que el programa no siga ejecutándose por siempre sin darnos un resultado). El enunciado dice que, si un número no cumple la condición de corte (o sea, si el número ingresado por el usuario es negativo) no debemos procesarlo, y tenemos dos maneras de hacer esto:
 
 <pre><code>while condición</code></pre>
 
@@ -49,14 +49,14 @@ Este enunciado podría analizarse de la siguiente forma:
 
 <pre><code>while True</code></pre>
 
-  *   * Si queremos usar la primera forma (**while condición**), deberemos pedir al usuario que ingrese el número antes del bucle while y poner al lado de la palabra "while" la condición para que se evalúe. Luego debemos recordar que, como el ingreso del número se hizo por fuera del bucle, deberemos repetir esta instrucción dentro del while (como última instrucción del bucle) para que el número que ingresa el usuario pueda ir cambiando. Esto es:
+   * Si queremos usar la primera forma (**while condición**), deberemos pedir al usuario que ingrese el número antes del bucle while y poner al lado de la palabra "while" la condición para que se evalúe. Luego debemos recordar que, como el ingreso del número se hizo por fuera del bucle, deberemos repetir esta instrucción dentro del while (como última instrucción del bucle) para que el número que ingresa el usuario pueda ir cambiando. Esto es:
 
 <pre><code>número=int(input("Ingrese un número: "))
 while número >= 0:
     #instrucciones del bucle
     número=int(input("Ingrese un número: "))</code></pre>
 
-  * Si queremos usar la segunda forma (**while True**), sólo será necesario hacer una única vez la instrucción que le pide al usuario ingresar el número, y lo haremos como primer paso dentro del bucle. Pero después debemos recordar evaluar la condición (si el número es o no negativo) y, si la condición de corte se cumple, usamos **break** para interrumpir el bucle. Como nos piden no procesar el último dato (el que corta el bucle, es decir, el número negativo), necesitamos interrumpirlo antes de que ese número se procese. Entonces, la evaluación de la condición debe hacerse antes de procesar:
+   * Si queremos usar la segunda forma (**while True**), sólo será necesario hacer una única vez la instrucción que le pide al usuario ingresar el número, y lo haremos como primer paso dentro del bucle. Pero después debemos recordar evaluar la condición (si el número es o no negativo) y, si la condición de corte se cumple, usamos **break** para interrumpir el bucle. Como nos piden no procesar el último dato (el que corta el bucle, es decir, el número negativo), necesitamos interrumpirlo antes de que ese número se procese. Entonces, la evaluación de la condición debe hacerse antes de procesar:
 
 <pre><code>while True:
     número=int(input("Ingrese un número: "))
