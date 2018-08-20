@@ -4,9 +4,11 @@ title: Juego en C++ - El ahorcado (con interfaz gráfica)
 date: 2018-02-08
 categories: c++
 tags: juegos objetos proyectos
-published: false
+published: true
 
 ---
+# (ARTÍCULO EN PROGRESO)
+
 ## Introducción
 
 En el proyecto descripto en este artículo se usó el framework para C++ Qt 5.1.0 para generar la interfaz gráfica.
