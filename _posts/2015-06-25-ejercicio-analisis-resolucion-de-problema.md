@@ -13,7 +13,7 @@ El problema a resolver es el siguiente:
 > <br />**a.** Si se ingresó más cantidad de letras mayúsculas que minúsculas o a la inversa. Si la cantidad es igual, también se debe informar. 
 > <br />**b.** Cantidad de dígitos numéricos ingresados entre 1 y 8.
 > <br />**c.** Cantidad de ocurrencias de cada una de las letras del abecedario (sin importar sin son mayúsculas o minúsculas y sin contar letras acentuadas). Por ejemplo, si la secuencia es: **a, 6, *, ?, A, u, a, 1** la cantidad de ocurrencias de la letra "a" será 3, mientras que la cantidad de ocurrencias de la letra "u" será 1.
-> <br />**d. Cuál es la letra que apareció más cantidad de veces (sin importar si es mayúscula o minúscula).
+> <br />**d.** Cuál es la letra que apareció más cantidad de veces (sin importar si es mayúscula o minúscula).
 
 
 Para poder escribir el código en el lenguaje en que se haya decidido trabajar, se debe hacer un análisis del problema y de las posibles técnicas para resolverlo. Las técnicas pueden depender de las herramientas que provea el lenguaje concreto que se usará, pero hay ciertas herramientas que son comunes a la mayoría de los lenguajes imperativos.
