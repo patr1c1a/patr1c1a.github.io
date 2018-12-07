@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video - Descargar a instalar Qt Creator
+title: Video - Descargar e instalar Qt Creator
 date: 2018-08-20 16:00:00
 categories: c++
 tags: ide video
