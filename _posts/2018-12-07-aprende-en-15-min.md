@@ -12,10 +12,11 @@ published: true
 
 {% include youtubePlayer.html id="IV_OxGH8ZYE" %}
 
-Descarga el documento de práctica [desde acá]({{ site.url }}/assets/2018-12-07-aprende-en-15-min-ejercicios.pdf)
 
 # Temas tratados en el video-tutorial
 
 * Sección 1: Entrada/salida de datos. Variables. Tipos de datos.
 * Sección 2: Selección. Repetición.
 * Sección 3: Funciones.
+
+Descarga el documento de práctica [desde acá]({{ site.url }}/assets/2018-12-07-aprende-en-15-min-ejercicios.pdf)
