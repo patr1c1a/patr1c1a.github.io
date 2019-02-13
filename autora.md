@@ -27,6 +27,10 @@ permalink: /autora/
 
 [YouTube](https://youtube.com/channel/UCVBUKfDOcDMaxybQ0Ntk1Ww)
 <br />
-[LinkedIn](https://www.linkedin.com/in/patriciamiguel)
+[Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos)
 <br />
-[Email](mailto:contacto@patriciaemiguel.com)
+[Twitter](https://twitter.com/Programacion_0)
+<br />
+[Instagram](https://www.instagram.com/programaciondesdecero/)
+<br />
+[Email](mailto:programaciondesdecero@patriciaemiguel.com)
