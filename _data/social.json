@@ -4,8 +4,16 @@
     "link": "https://www.youtube.com/channel/UCVBUKfDOcDMaxybQ0Ntk1Ww/videos"
   },
   {
-    "icon": "fa-linkedin",
-    "link": "http://linkedin.com/in/patriciamiguel"
+    "icon": "fa-twitter",
+    "link": "https://twitter.com/Programacion_0"
+  },
+  {
+    "icon": "fa-facebook",
+    "link": "https://www.facebook.com/ProgramacionDesdeCeroParaTodos"
+  },
+    {
+    "icon": "fa-instagram",
+    "link": "https://www.instagram.com/programaciondesdecero/"
   },
   {
     "icon": "fa-envelope",
