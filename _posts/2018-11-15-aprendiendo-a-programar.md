@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Videos - aprendiendo a programar desde cero
-date: 2018-03-04
+date: 2018-11-15
 categories: conceptos ejercicios
 tags: algoritmo bucle if while selección
 published: true
