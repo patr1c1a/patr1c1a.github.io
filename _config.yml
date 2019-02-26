@@ -1,10 +1,9 @@
 title: Programación desde cero
-description: Artículos introductorios a la programación que escribo para mis cursos en la universidad y otras cosillas que se me ocurren.
+description: Artículos y videos sobre programación, especialmente para principiantes.
 author: Patricia E. Miguel
 logo: /static/img/avatar.png
 github: https://github.com/patr1c1a
-about: Artículos que escribo para mis cursos de introducción a la programación en la universidad y otras cosillas que se me ocurren.
-#Artículos introductorios de programación y otras yerbas
+about: Artículos y videos sobre programación, especialmente para principiantes.
 
 baseurl: "http://patriciaemiguel.com"
 url: "http://patriciaemiguel.com"
