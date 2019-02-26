@@ -25,7 +25,7 @@ permalink: /autora/
 
 ---
 
-[YouTube](https://youtube.com/channel/UCVBUKfDOcDMaxybQ0Ntk1Ww)
+[YouTube](https://www.youtube.com/c/Programaciondesdecero)
 <br />
 [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos)
 <br />
