@@ -8,5 +8,5 @@ published: true
 ---
 
 
-{% include youtubePlayer.html id="PBChlAXf1j0&list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb" %}
+{% include youtubePlaylist.html videoid="PBChlAXf1j0" playlistid="PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb" %}
 
