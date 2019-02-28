@@ -8,4 +8,4 @@ permalink: /encuesta/
 
 
 
-{% include googleform.html formid="1FAIpQLSdX_YpazohlonutVztWMt-H5XMeKoo_l1WX0ZFfox1w0xEBLw" %}
+{% include formEncuesta.html %}
