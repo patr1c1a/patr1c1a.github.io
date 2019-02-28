@@ -8,4 +8,4 @@ permalink: /encuesta/
 
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdX_YpazohlonutVztWMt-H5XMeKoo_l1WX0ZFfox1w0xEBLw/viewform?embedded=true" width="640" height="839" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+{% include googleform.html formid="1FAIpQLSdX_YpazohlonutVztWMt-H5XMeKoo_l1WX0ZFfox1w0xEBLw" %}
