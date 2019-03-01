@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Encuesta
-permalink: /encuesta/
+permalink: /encuesta
 ---
 
 
