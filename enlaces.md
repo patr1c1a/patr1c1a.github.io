@@ -82,7 +82,7 @@ permalink: /enlaces/
 
 
 ### Principiantes:
-- <a href="http://pilasbloques.program.ar" target="_blank">Pilas Bloques (proyecto iniciado por un desarrollador argentino, apuntado a conceptos básicos de programación)</a>
+- <a href="http://pilasbloques.program.ar" target="_blank">Pilas Bloques</a>
 - <a href="https://codecombat.com/" target="_blank">CodeCombat</a>
 - <a href="http://appinventor.mit.edu/explore/index-2.html#" target="_blank">MIT App inventor</a>
 - <a href="https://anvil.works/" target="_blank">Anvil - Drag&Drop Python web app builder</a>
