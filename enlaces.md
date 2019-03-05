@@ -147,7 +147,6 @@ Algunos estudiantes se frustran al encontrarse con obstáculos para iniciarse en
 - <a href="http://www2.caminos.upm.es/Departamentos/matematicas/Fdistancia/PIE/Problemas/ESTRATEGIAS%20HEUR%C3%8DSTICAS.pdf" target="_blank">Estrategias heurísticas (PDF)</a>
 - <a href="https://www.youtube.com/watch?v=EYG1XvNUZF0" target="_blank">Claves para plantear problemas de matemáticas (video)</a>
 - <a href="http://pastorcortes.net/992/pensar-fuera-de-la-caja/" target="_blank">Pensar fuera de la caja</a>
-- <a href="http://www.brainbox.uy/" target="_blank">BrainBox &#8211; Juegos, acertijos y desafíos</a>
 
 ### Resolución de problemas (programación):
 - <a href="http://www.eduteka.org/analisisproblemas.php" target="_blank">Herramienta para analizar problemas</a>
