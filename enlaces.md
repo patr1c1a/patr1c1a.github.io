@@ -10,7 +10,8 @@ permalink: /enlaces/
 ### Comunidades y foros de consulta:
 - <a href="http://stackoverflow.com" target="_blank">Stack overflow</a>
 - <a href="https://es.stackoverflow.com"  target="_blank">Stack overflow, comunidad en español</a>
-- <a href="https://codereview.stackexchange.com" target="_blank">Code Review (revisión de código)</a> 
+- <a href="https://codereview.stackexchange.com" target="_blank">Code Review</a> 
+- <a href="https://www.100daysofcode.com/" target="_blank">#100DaysOfCode</a>
  
 ### Desafíos y práctica de programación: 
 - <a href="https://leetcode.com/" target="_blank">Leetcode</a>
@@ -20,12 +21,25 @@ permalink: /enlaces/
 - <a href="https://exercism.io/" target="_blank">Exercism</a>
 - <a href="https://www.coderbyte.com/" target="_blank">CoderByte</a>
 - <a href="https://projecteuler.net/" target="_blank">Project Euler</a>
+- <a href="http://codekata.com/" target="_blank">Code Kata</a>
 - <a href="https://www.spoj.com/" target="_blank">Sphere Online Judge</a>
 
-## "Hackathons" y Competencias de programación:
+### Repositorios de archivos, versionado y contribución al open source:
+- <a href="https://github.com" target="_blank">Github</a>
+- <a href="https://about.gitlab.com/" target="_blank">GitLab</a>
+- <a href="https://bitbucket.org/product" target="_blank">BitBucket</a>
+- <a href="https://sourceforge.net/" target="_blank">SourceForge</a>
+
+### Estándares y novedades:
+- <a href="https://www.w3.org/" target="_blank">World Wide Web Consortium (W3C)</a>
+- <a href="https://www.ieee.org/" target="_blank">IEEE (Institute of Electrical and Electronics Engineers)</a>
+- <a href="https://www.ietf.org/standards/rfcs/" target="_blank">RFC ("Requests For Comments")</a>
+
+### "Hackathons" y competencias:
 - <a href="https://www.hackathon.com/" target="_blank">Hackathon.com</a>
 - <a href="https://challengerocket.com/hackathons-and-challenges.html" target="_blank">Hackathons and coding challenges</a>
 - <a href="https://codingcompetitions.withgoogle.com/" target="_blank">Competencias de programación de Google</a>
+- <a href="https://www.mercadolibre.com.ar/itchallenge/" target="_blank">MercadoLibre IT Challenge (desafíos anuales)</a>
 - <a href="https://www.topcoder.com/challenges/" target="_blank">TopCoder</a>
 - <a href="https://www.codechef.com/" target="_blank">CodeChef</a>
 - <a href="https://register.codingcontest.org/" target="_blank">Coding Contest</a>
@@ -42,16 +56,10 @@ permalink: /enlaces/
 - <a href="http://www.mercedes-benz-challenge.com/" target="_blank">Mercedes Benz Digital Challenge</a>
 - <a href="https://aerolab.co/coding-challenge?medium" target="_blank">AeroLab Coding Challenge</a>
 
-## Repositorios de archivos, versionado y contribución al open source:
-- <a href="https://github.com" target="_blank">Github</a>
-- <a href="https://about.gitlab.com/" target="_blank">GitLab</a>
-- <a href="https://bitbucket.org/product" target="_blank">BitBucket</a>
-- <a href="https://sourceforge.net/" target="_blank">SourceForge</a>
-
-## Estándares y novedades:
-- <a href="https://www.w3.org/" target="_blank">World Wide Web Consortium (W3C)</a>
-- <a href="https://www.ieee.org/" target="_blank">IEEE (Institute of Electrical and Electronics Engineers)</a>
-- <a href="https://www.ietf.org/standards/rfcs/" target="_blank">RFC ("Requests For Comments")</a>
+### Contribución a open source:
+- <a href="https://openhatch.org/" target="_blank">OpenHatch</a>
+- <a href="https://up-for-grabs.net/#/" target="_blank">Up for grabs</a>
+- <a href="http://simpledeveloper.com/open-source-projects/" target="_blank">Simple developer: open source projects to contribute to</a>
 
 ---
 
@@ -69,6 +77,9 @@ permalink: /enlaces/
 - <a href="https://bento.io/" target="_blank">Bento</a>
 - <a href="https://mva.microsoft.com/" target="_blank">Microsoft Virtual Academy</a>
 - <a href="https://learnxinyminutes.com/" target="_blank">Learn X in Y minutes</a>
+- <a href="https://www.education-ecosystem.com/" target="_blank">Education Ecosystem</a>
+- <a href="https://www.kaggle.com/" target="_blank">Kaggle - data science</a>
+
 
 ### Principiantes:
 - <a href="http://pilasbloques.program.ar" target="_blank">Pilas Bloques (proyecto iniciado por un desarrollador argentino, apuntado a conceptos básicos de programación)</a>
@@ -94,7 +105,6 @@ permalink: /enlaces/
 - <a href="https://gdevelop-app.com/" target="_blank">Gdevelop</a>
 - <a href="http://make.gamefroot.com/" target="_blank">GameFroot</a>
 
-
 ---
 
 ## Trabajo
@@ -106,7 +116,7 @@ permalink: /enlaces/
 - <a href="https://www.fiverr.com/" target="_blank">Fiverr</a>
 - <a href="https://www.utest.com/" target="_blank">uTest (Quality Assurance)</a>
 
-## Entrenamiento para entrevistas laborales:
+### Entrenamiento para entrevistas laborales:
 - <a href="https://30secondsofinterviews.org/" target="_blank">30 seconds of interviews</a>
 - <a href="https://interviewing.io/" target="_blank">interviewing.io</a>
 - <a href="https://www.geeksforgeeks.org/a-must-do-free-interview-preparation-course-by-geeksforgeeks/" target="_blank">Geeks for Geeks - free interview preparation course</a>
@@ -120,7 +130,7 @@ permalink: /enlaces/
 
 ---
 
-## Principiantes
+## Conceptos y habilidades necesarias para programar
 Algunos estudiantes se frustran al encontrarse con obstáculos para iniciarse en la programación. En general, se debe a que necesitan reforzar sus habilidades de razonamiento lógico, técnicas de resolución de problemas, operaciones matemáticas, idioma inglés, entre otros. Los enlaces listados en esta sección apuntan a ayudar con estas cuestiones.
 
 ### Aprender o practicar inglés:
