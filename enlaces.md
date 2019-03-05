@@ -24,7 +24,7 @@ permalink: /enlaces/
 - <a href="http://codekata.com/" target="_blank">Code Kata</a>
 - <a href="https://www.spoj.com/" target="_blank">Sphere Online Judge</a>
 
-### Repositorios de archivos, versionado y contribución al open source:
+### Repositorios de archivos y versionado:
 - <a href="https://github.com" target="_blank">Github</a>
 - <a href="https://about.gitlab.com/" target="_blank">GitLab</a>
 - <a href="https://bitbucket.org/product" target="_blank">BitBucket</a>
