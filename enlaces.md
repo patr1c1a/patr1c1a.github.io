@@ -9,12 +9,12 @@ permalink: /enlaces/
 
 ### Comunidades y foros de consulta:
 - <a href="http://stackoverflow.com" target="_blank">Stack overflow</a>
-- <a href="https://es.stackoverflow.com”  target="_blank">Stack overflow, comunidad en español</a>
+- <a href="https://es.stackoverflow.com"  target="_blank">Stack overflow, comunidad en español</a>
 - <a href="https://codereview.stackexchange.com" target="_blank">Code Review (revisión de código)</a> 
  
 ### Desafíos y práctica de programación: 
-- <a href=”https://leetcode.com/" target="_blank">Leetcode</a>
-- <a href=”https://www.hackerrank.com/" target="_blank">HackerRank</a>
+- <a href="https://leetcode.com/" target="_blank">Leetcode</a>
+- <a href="https://www.hackerrank.com/" target="_blank">HackerRank</a>
 - <a href="https://www.codewars.com/" target="_blank">CodeWars</a>
 - <a href="https://py.checkio.org/" target="_blank">Py.CheckIo - Python practise online</a>
 
@@ -26,7 +26,7 @@ permalink: /enlaces/
 - <a href="https://www.w3resource.com/" target="_blank">Web development tutorials</a>
 
 ## Competencias de programación:
-- <a href=”https://codingcompetitions.withgoogle.com/" target="_blank">Competencias de programación de Google</a>
+- <a href="https://codingcompetitions.withgoogle.com/" target="_blank">Competencias de programación de Google</a>
 
 ## Estándares y novedades:
 - <a href="https://www.w3.org/" target="_blank">World Wide Web Consortium (W3C)</a>
