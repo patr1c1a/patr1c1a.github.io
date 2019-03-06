@@ -26,32 +26,22 @@ Dadas las variables a = 186 y b = 24, escribí las instrucciones necesarias para
 
 ### 2
 Utilizá las operaciones matemáticas más apropiada para obtener, del número 16823,
-
-a) Sólo el último dígito (el 3)
-
-b) Los dos últimos dígitos (el 23)
-
-c) Los 3 últimos dígitos (el 823)
-
-d) Todos los dígitos, excepto el último (1682)
-
-e) El primer dígito (el 1)
-
-f) Los dos primeros dígitos (el 16)
+<br>a) Sólo el último dígito (el 3)
+<br>b) Los dos últimos dígitos (el 23)
+<br>c) Los 3 últimos dígitos (el 823)
+<br>d) Todos los dígitos, excepto el último (1682)
+<br>e) El primer dígito (el 1)
+<br>f) Los dos primeros dígitos (el 16)
 
 [Descargar el archivo]({{ site.url }}/assets/tp1-ej7_GUI.zip)
 
 
 ### 3
 Dadas las variables str1 = "Juan" y str2 = "Pérez", ¿cómo harías para mostrar...
-
-a) Las dos cadenas concatenadas, mostrando apellido y nombre? Ejemplo: "Pérez Juan"
-
-b) Las dos cadenas concatenadas pero separadas por ", "? Ejemplo: "Pérez, Juan"
-
-c) nombre y apellido
-
-d) "¡Bienvenido, Juan Pérez!"
+<br>a) Las dos cadenas concatenadas, mostrando apellido y nombre? Ejemplo: "Pérez Juan"
+<br>b) Las dos cadenas concatenadas pero separadas por ", "? Ejemplo: "Pérez, Juan"
+<br>c) nombre y apellido
+<br>d) "¡Bienvenido, Juan Pérez!"
 
 [Descargar el archivo]({{ site.url }}/assets/tp1-ej11_GUI.zip)
 
@@ -64,62 +54,39 @@ Teniendo las siguientes variables:
 <br>\>>> cadena4 = " lo más divertido"
 <br>\>>> cadena5 = " de primer año"
 <br>\>>> cadena6 = " ..."
-
 Resolver:
-
-a) Construir la cadena "Bienvenidos esto es de primer año lo más divertido... IPI".
-
-b) ¿En qué posición de la cadena anterior está la palabra "primer"?
-
-c) Buscar la primera posición en que aparece la letra "e" en cadena1.
-
-d) Si buscás la letra "n" en cadena1, ¿qué resultado dará? ¿Por qué?
-
-e) Obtener True o False para saber si cadena6 contiene espacios.
-
-f) ¿Qué resultado se obtiene al buscar la letra "d" en cadena4[:6]? ¿Por qué?
-
-g) ¿Cuántos espacios tiene la cadena construida en el punto a?
+<br>a) Construir la cadena "Bienvenidos esto es de primer año lo más divertido... IPI".
+<br>b) ¿En qué posición de la cadena anterior está la palabra "primer"?
+<br>c) Buscar la primera posición en que aparece la letra "e" en cadena1.
+<br>d) Si buscás la letra "n" en cadena1, ¿qué resultado dará? ¿Por qué?
+<br>e) Obtener True o False para saber si cadena6 contiene espacios.
+<br>f) ¿Qué resultado se obtiene al buscar la letra "d" en cadena4[:6]? ¿Por qué?
+<br>g) ¿Cuántos espacios tiene la cadena construida en el punto a?
 
 [Descargar el archivo]({{ site.url }}/assets/tp1-ej12_GUI.zip)
 
 
 ### 5
 Si tenemos la cadena texto = 'No sé bien qué día es hoy', indicá cómo obtener:
-
-a) La cadena 'qué día' a partir de la variable texto.
-
-b) Los primeros 5 caracteres de texto.
-
-c) Los últimos 5 caracteres de texto.
-
-d) Los caracteres ubicados en las posiciones pares de texto.
-
-e) La cadena 'ye né' a partir de texto.
-
-f) Cuántas ocurrencias de la letra 'e' existen en texto (incluir la 'e' con y sin acentos)
+<br>a) La cadena 'qué día' a partir de la variable texto.
+<br>b) Los primeros 5 caracteres de texto.
+<br>c) Los últimos 5 caracteres de texto.
+<br>d) Los caracteres ubicados en las posiciones pares de texto.
+<br>e) La cadena 'ye né' a partir de texto.
+<br>f) Cuántas ocurrencias de la letra 'e' existen en texto (incluir la 'e' con y sin acentos)
 
 [Descargar el archivo]({{ site.url }}/assets/tp1-ej17_GUI.zip)
 
 
 ### 6
 Dadas las cadenas:
-
-a = '  Python es un lenguaje amigable para empezar a aprender programación   '
-
-b = '        nociones básicas de  '
-
-a) ¿Cuál es la longitud de la cadena a?
-
-b) ¿En qué posición se encuentra  la palabra 'amigable'?
-
-c) ¿Cómo harías para obtener una rebanada de la cadena a que contenga la palabra "Programación" (con la "p" en mayúscula)
-
-d) ¿Cómo harías para eliminar los blancos a izquierda y derecha de b?
-
-e) ¿Cómo harías para armar la expresión 'Python es un lenguaje amigable para empezar a aprender nociones básicas de programación'?
-
-f) Convertí la cadena 'amigable' a mayúsculas y cambiala en la expresión del punto e). Deberá quedar: 'Python es un lenguaje AMIGABLE para empezar a aprender nociones básicas de programación'
+<br>a = '  Python es un lenguaje amigable para empezar a aprender programación   '
+<br>b = '        nociones básicas de  '
+<br>a) ¿Cuál es la longitud de la cadena a?
+<br>b) ¿En qué posición se encuentra  la palabra 'amigable'?
+<br>c) ¿Cómo harías para obtener una rebanada de la cadena a que contenga la palabra "Programación" (con la "p" en mayúscula)
+<br>d) ¿Cómo harías para eliminar los blancos a izquierda y derecha de b?
+<br>e) ¿Cómo harías para armar la expresión 'Python es un lenguaje amigable para empezar a aprender nociones básicas de programación'?
+<br>f) Convertí la cadena 'amigable' a mayúsculas y cambiala en la expresión del punto e). Deberá quedar: 'Python es un lenguaje AMIGABLE para empezar a aprender nociones básicas de programación'
 
 [Descargar el archivo]({{ site.url }}/assets/tp1-ej19_GUI.zip)
-
