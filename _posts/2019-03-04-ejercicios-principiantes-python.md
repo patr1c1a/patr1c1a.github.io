@@ -7,8 +7,9 @@ tags: resolución_problemas algoritmos python
 published: true
 ---
 
-Estos ejercicios cubren temas básicos como: operaciones matemáticas, booleanas y con strings; if-else; for; while; funciones.
+Estos ejercicios cubren temas básicos como: operaciones matemáticas, booleanas y con strings; entrada/salida de datos en pantalla; if-else; for; while; funciones.
 
+&nbsp;
 ## Herramientas
 Podés resolver los ejercicios descargando Python y generando, por cada ejercicio, un archivo con extensión .py y ejecutándolo mediante el intérprete de Python. Sin embargo, también es posible resolver los ejercicios en cualquier intérprete de Python online, sin necesidad de descargar nada, por ejemplo: [Repl.it](https://repl.it/languages/python3). Cada ejercicio de esta página constituye un programa.
 
@@ -51,7 +52,7 @@ a=18
 ### 1
 <details> 
   <summary>Escribí un programa que solicite al usuario que ingrese su nombre. El nombre se debe almacenar en una variable llamada nombre.
-A continuación se debe mostrar en pantalla el texto “Ahora estás en la matrix, _[usuario]_”, donde “_[usuario]_” se reemplazará por el nombre que el usuario haya ingresado.</summary>
+A continuación se debe mostrar en pantalla el texto “Ahora estás en la matrix, *[usuario]*”, donde “*[usuario]*” se reemplazará por el nombre que el usuario haya ingresado.</summary>
 <br>Solución:
 <pre><code>nombre=input("Tu nombre:")
     print("Ahora estás en la matrix,", nombre)
