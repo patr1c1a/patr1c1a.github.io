@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ejercicios de programación para principiantes, resueltos en Python
-date: 2019-03-04 19:00:00
+date: 2019-02-24 19:00:00
 categories: ejercicios
 tags: resolución_problemas algoritmos python
 published: true
