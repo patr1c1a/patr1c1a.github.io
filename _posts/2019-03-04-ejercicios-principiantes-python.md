@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Ejercicios de programación para principiantes, resueltos en Python
-date: 2018-12-20 19:00:00
+date: 2019-03-04 19:00:00
 categories: ejercicios
 tags: resolución_problemas algoritmos python
 published: true
 ---
 
 ## Herramientas
-Podés resolver los ejercicios descargando Python y generando, por cada ejercicio, un archivo con extensión .py y ejecutándolo mediante el intérprete de Python. Sin embargo, también es posible resolver los ejercicios en cualquier intérprete de Python online, sin necesidad de descargar nada, por ejemplo: Repl.it(https://repl.it/languages/python3). Cada ejercicio de esta página constituye un programa.
+Podés resolver los ejercicios descargando Python y generando, por cada ejercicio, un archivo con extensión .py y ejecutándolo mediante el intérprete de Python. Sin embargo, también es posible resolver los ejercicios en cualquier intérprete de Python online, sin necesidad de descargar nada, por ejemplo: [Repl.it](https://repl.it/languages/python3). Cada ejercicio de esta página constituye un programa.
 
 &nbsp;
 ## Importante
@@ -30,6 +30,7 @@ Haciendo click sobre cada ejercicio se desplegará su solución. Es importante t
 
 # Sección 1
 **Entrada/salida de datos - Variables - Tipos de datos**
+&nbsp;
 
 **Código de ejemplo**
 <pre><code>Variable=5
@@ -48,16 +49,17 @@ a=18
 ### 1
 <details> 
   <summary>Escribí un programa que solicite al usuario que ingrese su nombre. El nombre se debe almacenar en una variable llamada nombre.
-A continuación se debe mostrar en pantalla el texto “Ahora estás en la matrix, _[usuario]_”, donde “_[usuario]_” se reemplazará por el nombre que el usuario haya ingresado.
-
-*Ejemplo de ejecución:*
-> **Tu nombre:** _Patricia_
-> <br> **Ahora estás en la matrix, Patricia**</summary>
+A continuación se debe mostrar en pantalla el texto “Ahora estás en la matrix, _[usuario]_”, donde “_[usuario]_” se reemplazará por el nombre que el usuario haya ingresado.</summary>
 <br>Solución:
 <pre><code>nombre=input("Tu nombre:")
     print("Ahora estás en la matrix,", nombre)
         print("Ahora estás en la matrix,", nombre)</code></pre>
 </details>
+
+*Ejemplo de ejecución:*
+> **Tu nombre:** _Patricia_
+> <br> **Ahora estás en la matrix, Patricia**
+
 
 ---
 
@@ -76,13 +78,7 @@ n2=float(input())
 
 ### 2
 <details> 
-  <summary>Escribí un programa que solicite al usuario ingresar un número con decimales y almacenalo en una variable. A continuación, el programa debe solicitar al usuario que ingrese un número entero y guardarlo en otra variable. En una tercera variable se deberá guardar el resultado de la suma de los dos números ingresados por el usuario. Por último, se debe mostrar en pantalla el texto “El resultado de la suma es _[suma]_”, donde “_[suma]_” se reemplazará por el resultado de la operación.
-
-*Ejemplo de ejecución:*
-> **Primer número:** _14.2_
-> <br> **Segundo número:** _19_
-> <br> **El resultado de la suma es 33.2**
-</summary>
+  <summary>Escribí un programa que solicite al usuario ingresar un número con decimales y almacenalo en una variable. A continuación, el programa debe solicitar al usuario que ingrese un número entero y guardarlo en otra variable. En una tercera variable se deberá guardar el resultado de la suma de los dos números ingresados por el usuario. Por último, se debe mostrar en pantalla el texto “El resultado de la suma es _[suma]_”, donde “_[suma]_” se reemplazará por el resultado de la operación.</summary>
 <br>Solución:
 <pre><code>a=float(input("Primer número:"))
 b=int(input("Segundo número:"))
@@ -90,18 +86,16 @@ c=a+b
 print("El resultado de la suma es", c)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Primer número:** _14.2_
+> <br> **Segundo número:** _19_
+> <br> **El resultado de la suma es 33.2**
+
 
 ### 3
 <details> 
   <summary>Escribí un programa que solicite al usuario dos números y los almacene en dos variables. En otra variable, almacená el resultado de la suma de esos dos números y luego mostrá ese resultado en pantalla.
 <br>A continuación, el programa debe solicitar al usuario que ingrese un tercer número, el cual se debe almacenar en una nueva variable. Por último, mostrá en pantalla el resultado de la multiplicación de este nuevo número por el resultado de la suma anterior.
-
-*Ejemplo de ejecución:*
-> **Ingresá un número:** _1_
-> <br> **Ingresá otro número:** _2_
-> <br> **Suman: 3**
-> <br> **Ingresá un nuevo número:** _3_
-> <br> **Multiplicación de la suma por el último número: 9**
 </summary>
 <br>Solución:
 <pre><code>n1=int(input("Ingresá un número:"))
@@ -111,6 +105,13 @@ print("Suman:", suma)
 n3=int(input("Ingresá un nuevo número:"))
 print("Multiplicación de la suma por el último número:",suma*n3)</code></pre>
 </details>
+
+*Ejemplo de ejecución:*
+> **Ingresá un número:** _1_
+> <br> **Ingresá otro número:** _2_
+> <br> **Suman: 3**
+> <br> **Ingresá un nuevo número:** _3_
+> <br> **Multiplicación de la suma por el último número: 9**
 
 ---
 
@@ -125,11 +126,6 @@ a+=1
 ### 4
 <details> 
   <summary>Escribí un programa que solicite al usuario ingresar la cantidad de kilómetros recorridos por una motocicleta y la cantidad de litros de combustible que consumió durante ese recorrido. Mostrar el consumo de combustible por kilómetro.
-
-*Ejemplo de ejecución:*
-> Kilómetros recorridos: 260
-> <br> **Litros de combustible gastados:** _12.5_
-> <br> **El consumo por kilómetro es de 20.8**
 </summary>
 <br>Solución:
 <pre><code>kilometros=float(input("Kilómetros recorridos:"))
@@ -137,31 +133,29 @@ litros=float(input("Litros de combustible gastados:"))
 print("El consumo por kilómetro es de", kilometros/litros)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> Kilómetros recorridos: 260
+> <br> **Litros de combustible gastados:** _12.5_
+> <br> **El consumo por kilómetro es de 20.8**
+
 
 
 ### 5
 <details> 
-  <summary>Escribí un programa que solicite al usuario el ingreso de una temperatura en escala Fahrenheit (debe permitir decimales) y le muestre el equivalente en grados Celsius. La fórmula de conversión que se usa para este cálculo es: _Celsius = (5/9) * (Fahrenheit-32)_
-    
-*Ejemplo de ejecución:*
-> **Ingresá una temperatura expresada en Farenheit:** _75_
-> <br> **23.88888888888889**
-</summary>
+  <summary>Escribí un programa que solicite al usuario el ingreso de una temperatura en escala Fahrenheit (debe permitir decimales) y le muestre el equivalente en grados Celsius. La fórmula de conversión que se usa para este cálculo es: _Celsius = (5/9) * (Fahrenheit-32)_</summary>
 <br>Solución:
 <pre><code>Fahrenheit=float(input("Ingresá una temperatura expresada en Fahrenheit:"))
 print((5/9) * (Fahrenheit-32))</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Ingresá una temperatura expresada en Farenheit:** _75_
+> <br> **23.88888888888889**
+
 
 ### 6
 <details> 
   <summary>Escribí un programa que solicite al usuario ingresar tres números para luego mostrarle el promedio de los tres. 
-    
-*Ejemplo de ejecución:*
-> **Primer número:** _8.5_
-> <br> **Segundo número:** _10_
-> <br> **Tercer número:** _5.5_
-> <br> **El promedio de los tres es 8.0**
 </summary>
 <br>Solución:
 <pre><code>n1=float(input("Primer número:"))
@@ -169,20 +163,26 @@ n2=float(input("Segundo número:"))
 n3=float(input("Tercer número:"))
 print("El promedio de los tres es", (n1+n2+n3)/3)</code></pre>
 </details>
+    
+*Ejemplo de ejecución:*
+> **Primer número:** _8.5_
+> <br> **Segundo número:** _10_
+> <br> **Tercer número:** _5.5_
+> <br> **El promedio de los tres es 8.0**
 
 
 ### 7
 <details> 
   <summary>Escribí un programa que solicite al usuario un número y le reste el 15%, almacenando todo en una única variable. A continuación, mostrar el resultado final en pantalla. 
-    
-*Ejemplo de ejecución:*
-> **Ingresá un número:** _260_
-> <br> **Descontando el 15% queda: 221.0**
 </summary>
 <br>Solución:
 <pre><code>numero=int(input("Ingresá un número:"))
 print("Descontando el 15% queda:", numero-(numero*15)/100)</code></pre>
 </details>
+    
+*Ejemplo de ejecución:*
+> **Ingresá un número:** _260_
+> <br> **Descontando el 15% queda: 221.0**
 
 ---
 
@@ -199,11 +199,6 @@ print(cadena)
 ### 8
 <details> 
   <summary>Escribí un programa que solicite al usuario el ingreso de dos palabras, las cuales se guardarán en dos variables distintas. A continuación, almacená en una variable la concatenación de la primera palabra, más un espacio, más la segunda palabra. Mostrá este resultado en pantalla. 
-    
-*Ejemplo de ejecución:*
-> **Primera palabra:** _derribando_
-> <br> **Segunda palabra:** _muros_
-> <br> **derribando muros**
 </summary>
 <br>Solución:
 <pre><code>palabra1=input("Primera palabra:")
@@ -211,6 +206,11 @@ palabra2=input("Segunda palabra:")
 frase=palabra1+" "+palabra2
 print(frase)</code></pre>
 </details>
+    
+*Ejemplo de ejecución:*
+> **Primera palabra:** _derribando_
+> <br> **Segunda palabra:** _muros_
+> <br> **derribando muros**
 
 ---
 
@@ -221,6 +221,7 @@ i=6
 print(frase[i])
 
 #El operador [ ] (corchetes) permite obtener un carácter a partir de un string. La posición del carácter se indica entre los corchetes, ya sea ingresando directamente el número, con una variable que contenga un número o con una operación que de como resultado un número. Siempre, el primer carácter de un string estará ubicado en la posición 0.</code></pre>
+
 
 **Código de ejemplo**
 <pre><code>frase="Estoy programando"
@@ -237,13 +238,6 @@ print(ultimo_caracter)
   <summary>Escribí un programa que solicite al usuario el ingreso de un texto y almacene ese texto en una variable. A continuación, mostrar en pantalla la primera letra del texto ingresado.
 Luego, solicitar al usuario que ingrese un número positivo menor a la cantidad de caracteres que tiene el texto que ingresó (por ejemplo, si escribió la palabra “HOLA”, tendrá que ser un número entre 0 y 4) y almacenar este número en una variable llamada _indice_.
 <br>Mostrar en pantalla el carácter del texto ubicado en la posición dada por _indice_.
-
-*Ejemplo de ejecución:*
-> **Ingresá un texto:** _En un lugar de la Mancha, de cuyo nombre no quiero acordarme..._
-> <br> **El carácter en primer lugar es: E**
-> <br> **Ingresá un número positivo menor a 63**
-> <br> _7_
-> <br> **El carácter en esa posición es: u**
 </summary>
 <br>Solución:
 <pre><code>cadena=input("Ingresá un texto:")
@@ -252,6 +246,13 @@ print("Ingresá un número positivo menor a", len(cadena))
 indice=int(input())
 print("El carácter en esa posición es:", cadena[indice])</code></pre>
 </details>
+
+*Ejemplo de ejecución:*
+> **Ingresá un texto:** _En un lugar de la Mancha, de cuyo nombre no quiero acordarme..._
+> <br> **El carácter en primer lugar es: E**
+> <br> **Ingresá un número positivo menor a 63**
+> <br> _7_
+> <br> **El carácter en esa posición es: u**
 
 ---
 
@@ -267,15 +268,15 @@ print(a != b)
 ### 10
 <details> 
   <summary>Escribí un programa que solicite al usuario que ingrese cuántos shows musicales ha visto en el último año y almacene ese número en una variable. A continuación mostrar en pantalla un valor de verdad (True o False) que indique si el usuario ha visto más de 3 shows.
-
-*Ejemplo de ejecución:*
-> **Shows vistos en el último año:** _3_
-> <br> **False**
 </summary>
 <br>Solución:
 <pre><code>shows=int(input("Shows vistos en el último año:"))
 print(shows>3)</code></pre>
 </details>
+
+*Ejemplo de ejecución:*
+> **Shows vistos en el último año:** _3_
+> <br> **False**
 
 ---
 
@@ -290,10 +291,6 @@ print(58273//10)
 ### 11
 <details> 
   <summary>Escribí un programa que le solicite al usuario ingresar una fecha formada por 8 números, donde los primeros dos representan el día, los siguientes dos el mes y los últimos cuatro el año (_DDMMAAAA_). Este dato debe guardarse en una variable con tipo int (número entero). Finalmente, mostrar al usuario la fecha con el formato _DD / MM / AAAA_.
-
-*Ejemplo de ejecución:*
-> **Fecha en formato DDMMAAAA:** _16112017_
-> <br> **16 / 11 / 2017**
 </summary>
 <br>Solución:
 <pre><code>fecha=int(input("Fecha en formato DDMMAAAA:"))
@@ -303,20 +300,23 @@ mes=(fecha//10000)%100
 print(dia,"/",mes,"/",año)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Fecha en formato DDMMAAAA:** _16112017_
+> <br> **16 / 11 / 2017**
+
 
 ### 12
 <details> 
   <summary>Escribí un programa para solicitar al usuario el ingreso de un número entero y que luego imprima un valor de verdad dependiendo de si el número es par o no. Recordar que un número es par si el resto, al dividirlo por 2, es 0.
-
-*Ejemplo de ejecución:*
-> **Número entero:** _7254_
-> <br> **True**
 </summary>
 <br>Solución:
 <pre><code>numero=int(input("Número entero:"))
 print((numero%2) == 0)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Número entero:** _7254_
+> <br> **True**
 
 ---
 
@@ -331,11 +331,6 @@ print(a>100  and  a!=1000)
 ### 13
 <details> 
   <summary>Escribí un programa que le solicite al usuario su edad y la guarde en una variable. Que luego solicite la cantidad de artículos comprados en una tienda y la guarde en otra variable. Finalmente, mostrar en pantalla un valor de verdad (True o False) que indique si el usuario es mayor de 18 años de edad y además compró más de 1 artículo.
-
-*Ejemplo de ejecución:*
-> **Tu edad:** _32_
-> <br> **Artículos comprados:** _1_
-> <br> **False**
 </summary>
 <br>Solución:
 <pre><code>edad=int(input("Tu edad:"))
@@ -343,21 +338,26 @@ articulos=int(input("Artículos comprados:"))
 print((edad>18) and (articulos>1))</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Tu edad:** _32_
+> <br> **Artículos comprados:** _1_
+> <br> **False**
+
 ---
 
 ### 14
 <details> 
   <summary>Escribí un programa que, dada una cadena de texto por el usuario, imprima True si la cantidad de caracteres en la cadena es un número impar, o False si no lo es.
-
-*Ejemplo de ejecución:*
-> **Ingresá una frase:** _Era el mejor de los tiempos, era el peor de los tiempos._
-> <br> **True**
 </summary>
 <br>Solución:
 <pre><code>cadena=input("Ingresá una frase:")
 longitud=len(cadena)
 print(longitud%2 == 0)</code></pre>
 </details>
+
+*Ejemplo de ejecución:*
+> **Ingresá una frase:** _Era el mejor de los tiempos, era el peor de los tiempos._
+> <br> **True**
 
 ---
 
@@ -372,11 +372,6 @@ print(longitud%2 == 0)</code></pre>
 ### 15
 <details> 
   <summary>Escribí un programa que le pida al usuario ingresar dos palabras y las guarde en dos variables, y que luego imprima True si la primera palabra es menor que la segunda o False si no lo es. 
-
-*Ejemplo de ejecución:*
-> **Una palabra:** _complejidad_
-> <br> **Otra palabra:** _algoritmo_
-> <br> **False**
 </summary>
 <br>Solución:
 <pre><code>palabra1=input("Una palabra:")
@@ -384,15 +379,15 @@ palabra2=input("Otra palabra:")
 print(palabra1<palabra2)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Una palabra:** _complejidad_
+> <br> **Otra palabra:** _algoritmo_
+> <br> **False**
+
 
 ### 16
 <details> 
   <summary>Escribí un programa para pedir al usuario su nombre y luego el nombre de otra persona, almacenando cada nombre en una variable. Luego mostrar en pantalla un valor de verdad que indique si: los nombres de ambas personas comienzan con la misma letra ó si terminan con la misma letra. Por ejemplo, si los nombres ingresados son _María_ y _Marcos_, se mostrará True, ya que ambos comienzan con la misma letra. Si los nombres son _Ricardo_ y_ Gonzalo_ se mostrará True, ya que ambos terminan con la misma letra. Si los nombres son _Florencia_ y _Lautaro_ se mostrará False, ya que no coinciden ni la primera ni la última letra.
-
-*Ejemplo de ejecución:*
-> **Tu nombre:** _Alfredo_
-> <br> **Otro nombre:** _Eduardo_
-> <br> **True**
 </summary>
 <br>Solución:
 <pre><code>nombre1=input("Tu nombre:")
@@ -402,6 +397,11 @@ posicion_final_nombre2=len(nombre2)-1
 print((nombre1[0] == nombre2[0]) or (nombre1[posicion_final_nombre1] == nombre2[posicion_final_nombre2]))</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Tu nombre:** _Alfredo_
+> <br> **Otro nombre:** _Eduardo_
+> <br> **True**
+
 
 &nbsp;
 ---
@@ -409,7 +409,7 @@ print((nombre1[0] == nombre2[0]) or (nombre1[posicion_final_nombre1] == nombre2[
 
 # Sección 2
 **Bloques - Selección - Repeticiones**
-
+&nbsp;
 **Código de ejemplo**
 <pre><code>x=10
 if x!=0:
@@ -422,16 +422,17 @@ if x!=0:
 ### 17
 <details> 
   <summary>Escribí un programa que, dado un número entero, muestre su valor absoluto. Recordá que, para los números positivos su valor absoluto es igual al número (el valor absoluto de 52 es 52), mientras que, para los negativos, su valor absoluto es el número multiplicado por -1 (el valor absoluto de -52 es 52).
-
-*Ejemplo de ejecución:*
-> **Número:** _-12_
-> <br> **Valor absoluto: 12**
 </summary>
 <br>Solución:
 <pre><code>numero=int(input("Número:"))
 if numero<0:
     numero=numero*-1
 print("Valor absoluto:", numero)</code></pre>
+</details> 
+
+*Ejemplo de ejecución:*
+> **Número:** _-12_
+> <br> **Valor absoluto: 12**
 
 ---
 
@@ -449,11 +450,6 @@ else:
 ### 18
 <details> 
   <summary>Escribí un programa que solicite al usuario el ingreso de dos números diferentes y muestre en pantalla al mayor de los dos.
-
-*Ejemplo de ejecución:*
-> **Un número:** _592_
-> <br> **Otro número distinto:** _1726:
-> <br> **1726 es mayor**
 </summary>
 <br>Solución:
 <pre><code>numero1=int(input("Un número:"))
@@ -464,14 +460,15 @@ else:
     print(numero2, "es mayor")</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Un número:** _592_
+> <br> **Otro número distinto:** _1726:
+> <br> **1726 es mayor**
+
 
 ### 19
 <details> 
   <summary>Escribí un programa que solicite al usuario una letra y, si es una vocal, muestre el mensaje “Es vocal”. Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle que no se puede procesar el dato.
-
-*Ejemplo de ejecución:*
-> **Letra:** _o_
-> <br> **Es vocal**
 </summary>
 <br>Solución:
 <pre><code>letra=input("Letra:")
@@ -483,16 +480,14 @@ else:
 </code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Letra:** _o_
+> <br> **Es vocal**
+
 
 ### 20
 <details> 
   <summary>Escribí un programa para solicitar al usuario tres números y mostrar en pantalla al menor de los tres.
-
-*Ejemplo de ejecución:*
-> **Primer número:** _20_
-> <br> **Segundo número:** _30_
-> <br> **Tercer número:** _10_
-> <br> **Menor: 10**
 </summary>
 <br>Solución:
 <pre><code>n1=int(input("Primer número:"))
@@ -509,6 +504,12 @@ else:
     else:
         print("Menor:", n3)</code></pre>
 </details>
+
+*Ejemplo de ejecución:*
+> **Primer número:** _20_
+> <br> **Segundo número:** _30_
+> <br> **Tercer número:** _10_
+> <br> **Menor: 10**
 
 ---
 
@@ -532,11 +533,6 @@ else:
 ### 21
 <details> 
   <summary>Escribí un programa que solicite ingresar un nombre de usuario y una contraseña. Si el nombre es “Gwenevere” y la contraseña es “excalibur”, mostrar en pantalla “Usuario y contraseña correctos. Puede ingresar a Camelot”. Si el nombre o la contraseña no coinciden, mostrar “Acceso denegado”.
-
-*Ejemplo de ejecución:*
-> **Nombre de usuario:** _gwen_
-> <br> **Contraseña:** _excalibur_
-> <br> **Acceso denegado**
 </summary>
 <br>Solución:
 <pre><code>nombre=input("Nombre de usuario:")
@@ -547,14 +543,15 @@ else:
     print("Acceso denegado")</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Nombre de usuario:** _gwen_
+> <br> **Contraseña:** _excalibur_
+> <br> **Acceso denegado**
+
 
 ### 22
 <details> 
   <summary>Escribí un programa que permita saber si un año es bisiesto. Para que un año sea bisiesto debe ser divisible por 4 y no debe ser divisible por 100, excepto que también sea divisible por 400.
-
-*Ejemplo de ejecución:*
-> **Año:** _2020_
-> <br> **Bisiesto**
 </summary>
 <br>Solución:
 <pre><code>anio=int(input("Año:"))
@@ -567,6 +564,10 @@ else:
     print("No bisiesto")
 </code></pre>
 </details>
+
+*Ejemplo de ejecución:*
+> **Año:** _2020_
+> <br> **Bisiesto**
 
 ---
 
@@ -584,12 +585,6 @@ for x in range(10):
 ### 23
 <details> 
   <summary>Escribí un programa que le solicite al usuario un número entero y muestre todos los números correlativos entre el 1 y el número ingresado por el usuario.
-
-*Ejemplo de ejecución:*
-> **Ingresá un número:** _3_
-> <br> **1**
-> <br> **2**
-> <br> **3**
 </summary>
 <br>Solución:
 <pre><code>numero=int(input("Ingresá un número:"))
@@ -597,13 +592,16 @@ for i in range(1,numero+1):
    print(i)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Ingresá un número:** _3_
+> <br> **1**
+> <br> **2**
+> <br> **3**
+
 
 ### 24
 <details> 
   <summary>Escribí un programa que muestre la sumatoria de todos los números entre el 0 y el 100.
-
-*Ejemplo de ejecución:*
-> **Sumatoria: 5050**
 </summary>
 <br>Solución:
 <pre><code>total=0
@@ -612,18 +610,13 @@ for i in range(101):
 print("Sumatoria:", total)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Sumatoria: 5050**
+
 
 ### 25
 <details> 
   <summary>Escribí un programa que, dado un número por el usuario, muestre todos sus divisores positivos. Recordá que un divisor es aquel que divide al número de forma exacta (con resto 0).
-
-*Ejemplo de ejecución:*
-> **Número:** _14_
-> <br> **Divisores:**
-> <br> **1**
-> <br> **2**
-> <br> **7**
-> <br> **14**
 </summary>
 <br>Solución:
 <pre><code>numero=int(input("Número:"))
@@ -633,6 +626,13 @@ for n in range(1,numero+1):
         print(n)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Número:** _14_
+> <br> **Divisores:**
+> <br> **1**
+> <br> **2**
+> <br> **7**
+> <br> **14**
 
 ---
 
@@ -647,10 +647,6 @@ for n in range(1,numero+1):
 ### 26
 <details> 
   <summary>Escribí un programa que, dada una frase por el usuario, muestre la cantidad total de vocales (tanto mayúsculas como minúsculas) que contiene.
-
-*Ejemplo de ejecución:*
-> **Frase:** _Verde que te quiero verde_
-> <br> **Vocales: 11**
 </summary>
 <br>Solución:
 <pre><code>frase=input("Frase:")
@@ -662,22 +658,14 @@ for c in frase:
 print("Vocales:", cantidad)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Frase:** _Verde que te quiero verde_
+> <br> **Vocales: 11**
+
 
 ### 27
 <details> 
   <summary>Escribí un programa que muestre los primeros 10 números de la sucesión de Fibonacci. La sucesión comienza con los números 0 y 1 y, a partir de éstos, cada elemento es la suma de los dos números anteriores en la secuencia: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55…
-
-*Ejemplo de ejecución:*
-> **0**
-> <br> **1**
-> <br> **1**
-> <br> **2**
-> <br> **3**
-> <br> **5**
-> <br> **8**
-> <br> **13**
-> <br> **21**
-> <br> **34**
 </summary>
 <br>Solución:
 <pre><code>n1=0
@@ -691,14 +679,22 @@ for i in range(8):
     n2=n3</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **0**
+> <br> **1**
+> <br> **1**
+> <br> **2**
+> <br> **3**
+> <br> **5**
+> <br> **8**
+> <br> **13**
+> <br> **21**
+> <br> **34**
+
 
 ### 28
 <details> 
   <summary>Escribí un programa que, dado un número positivo, calcule y muestre su factorial. El factorial de un número se obtiene multiplicando todos los números enteros positivos que hay entre el 1 y ese número.
-
-*Ejemplo de ejecución:*
-> **Número:** _7_
-> <br> **Factorial: 5040**
 </summary>
 <br>Solución:
 <pre><code>numero=int(input("Número:"))
@@ -709,20 +705,14 @@ print("Factorial:", f)
 </code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Número:** _7_
+> <br> **Factorial: 5040**
+
 
 ### 29
 <details> 
   <summary>Escribí un programa que permita al usuario ingresar 6 números enteros, que pueden ser positivos o negativos. Al finalizar, mostrar la sumatoria de los números negativos y el promedio de los positivos. No olvides que no es posible dividir por cero, por lo que es necesario evitar que el programa arroje un error si no se ingresaron números positivos.
-
-*Ejemplo de ejecución:*
-> **Número:** _15_
-> <br> **Número:** _-12_
-> <br> **Número:** _5_
-> <br> **Número:** _10_
-> <br> **Número:** _-3_
-> <br> **Número:** _9_
-> <br> **Sumatoria de los negativos:  -15**
-> <br> **Promedio de los positivos:  9.75**
 </summary>
 <br>Solución:
 <pre><code>sumaPositivos=0
@@ -740,6 +730,16 @@ if cantidadPositivos!=0:
    print("Promedio de los positivos: ",sumaPositivos/cantidadPositivos)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Número:** _15_
+> <br> **Número:** _-12_
+> <br> **Número:** _5_
+> <br> **Número:** _10_
+> <br> **Número:** _-3_
+> <br> **Número:** _9_
+> <br> **Sumatoria de los negativos:  -15**
+> <br> **Promedio de los positivos:  9.75**
+
 ---
 
 **Código de ejemplo**
@@ -754,11 +754,6 @@ for caracter in cadena:
 ### 30
 <details> 
   <summary>Escribí un programa que permita al usuario ingresar una frase y luego un carácter (string de longitud 1) y luego muestre la frase ingresada, pero con todas las ocurrencias del carácter indicado por el usuario reemplazadas por “*”.
-
-*Ejemplo de ejecución:*
-> **Frase:** Aquí me pongo a cantar al compás de la vigüela_
-> <br> **Carácter:** _o_
-> <br> **Aquí me p*ng* a cantar al c*mpás de la vigüela**
 </summary>
 <br>Solución:
 <pre><code>frase=input("Frase:")
@@ -772,14 +767,15 @@ for c in frase:
 print(nueva)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Frase:** Aquí me pongo a cantar al compás de la vigüela_
+> <br> **Carácter:** _o_
+> <br> **Aquí me p*ng* a cantar al c*mpás de la vigüela**
+
 
 ### 31
 <details> 
   <summary>Escribí un programa que, dada una frase por el usuario, la muestre invertida.
-
-*Ejemplo de ejecución:*
-> **Frase:** _Sabía quién era esta mañana, pero he cambiado varias veces desde entonces_
-> <br> **secnotne edsed secev sairav odaibmac eh orep ,anañam atse are néiuq aíbaS**
 </summary>
 <br>Solución:
 <pre><code>frase=input("Frase:")
@@ -792,6 +788,9 @@ print(nueva)
 </code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Frase:** _Sabía quién era esta mañana, pero he cambiado varias veces desde entonces_
+> <br> **secnotne edsed secev sairav odaibmac eh orep ,anañam atse are néiuq aíbaS**
 
 ---
 
@@ -823,15 +822,6 @@ while numero != 0:
 ### 32
 <details> 
   <summary>Escribí un programa que permita al usuario ingresar los montos de las compras de un cliente (se desconoce la cantidad de datos que cargará, la cual puede cambiar en cada ejecución), cortando el ingreso de datos cuando el usuario ingrese el monto 0. Si ingresa un monto negativo, no se debe procesar y se debe pedir que ingrese un nuevo monto. Al finalizar, informar el total a pagar teniendo que cuenta que, si las ventas superan el monto total de 1000, se le debe aplicar un 10% de descuento.
-
-*Ejemplo de ejecución:*
-> **Monto de una venta: $** _100_
-> <br> **Monto de una venta: $** _300_
-> <br> **Monto de una venta:$** _-1_
-> <br> **Monto no válido.**
-> <br> **Monto de una venta: $** _2000_
-> <br> **Monto de una venta: $** _0_
-> <br> **Monto total a pagar: $ 2160.0**
 </summary>
 <br>Solución:
 <pre><code>total=0
@@ -846,19 +836,20 @@ if total>1000:
     total=total-(total*0.1)
 print("Monto total a pagar: $", total)</code></pre>
 </details>
+  
+*Ejemplo de ejecución:*
+> **Monto de una venta: $** _100_
+> <br> **Monto de una venta: $** _300_
+> <br> **Monto de una venta:$** _-1_
+> <br> **Monto no válido.**
+> <br> **Monto de una venta: $** _2000_
+> <br> **Monto de una venta: $** _0_
+> <br> **Monto total a pagar: $ 2160.0**
 
 
 ### 33
 <details> 
   <summary>Escribí un programa que permita al usuario ingresar una cantidad de números positivos indefinida (la cantidad que ingresará no se conoce y puede cambiar en cada ejecución), finalizando cuando ingresa el número 0 (que no se tendrá en cuenta). Una vez terminada la lectura de números, informar cuál fue el mayor de los números ingresados.
-
-*Ejemplo de ejecución:*
-> **Número:** _6_
-> <br> **Número:** _9_
-> <br> **Número:** _2_
-> <br> **Número:** _12_
-> <br> **Número:** _0_
-> <br> **Mayor número ingresado: 12**
 </summary>
 <br>Solución:
 <pre><code>mayor=-1
@@ -870,6 +861,14 @@ while n!=0:
 print("Mayor número ingresado:", mayor)
 </code></pre>
 </details>
+
+*Ejemplo de ejecución:*
+> **Número:** _6_
+> <br> **Número:** _9_
+> <br> **Número:** _2_
+> <br> **Número:** _12_
+> <br> **Número:** _0_
+> <br> **Mayor número ingresado: 12**
 
 
 ---
@@ -891,17 +890,6 @@ while len(caracter) != 1:
 <details> 
   <summary>Escribí un programa que pregunte al usuario si desea analizar calificaciones de alumnos y, sólo si responde “S” comenzará el procesamiento de los datos, hasta que el usuario ingrese algo diferente de “S”. Por cada alumno, permitir ingresar su calificación. Si es mayor a 4 el alumno está aprobado.
 Finalmente, mostrar “Porcentaje de alumnos aprobados: x %” (donde x es el porcentaje de aprobados sobre el total de calificaciones procesadas). También se debe imprimir “Promedio de los aprobados: y” (donde y es la calificación promedio, sólo de los alumnos aprobados).
-
-*Ejemplo de ejecución:*
-> **¿Analizar calificaciones? 'S' para 'sí':** _S_
-> <br> **Calificación de un alumno:** _9_
-> <br> **¿Continuar? 'S' para 'sí':** _S_
-> <br> **Calificación de un alumno:** _4_
-> <br> **¿Continuar? 'S' para 'sí':** _S_
-> <br> **Calificación de un alumno:** _8_
-> <br> **¿Continuar? 'S' para 'sí':** _N_
-> <br> **Porcentaje de alumnos aprobados: 66.66666666666667 %**
-> <br> **Promedio de los aprobados: 8.5**
 </summary>
 <br>Solución:
 <pre><code>aprobados=0
@@ -919,6 +907,17 @@ print("Porcentaje de alumnos aprobados:", (aprobados*100)/cantidad, "%")
 print("Promedio de los aprobados:", sumaAprobados/aprobados)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **¿Analizar calificaciones? 'S' para 'sí':** _S_
+> <br> **Calificación de un alumno:** _9_
+> <br> **¿Continuar? 'S' para 'sí':** _S_
+> <br> **Calificación de un alumno:** _4_
+> <br> **¿Continuar? 'S' para 'sí':** _S_
+> <br> **Calificación de un alumno:** _8_
+> <br> **¿Continuar? 'S' para 'sí':** _N_
+> <br> **Porcentaje de alumnos aprobados: 66.66666666666667 %**
+> <br> **Promedio de los aprobados: 8.5**
+
 ---
 
 **Código de ejemplo**
@@ -935,20 +934,6 @@ while n>0 and n%10!=0:
 ### 35
 <details> 
   <summary>Escribí un programa que solicite al usuario el ingreso de strings de longitud 1 (un solo carácter), uno por vez. La repetición finalizará cuando se ingrese un string que no tenga longitud 1, o cuando el string ingresado corresponda al dígito numérico 0. Al finalizar, mostrar el string completo que se formó con todos los caracteres ingresados y qué porcentaje de caracteres del total fueron la letra “a”.
-
-*Ejemplo de ejecución:*
-> **Escribí un carácter:** _L_
-> <br> **Escribí un carácter:** _9_
-> <br> **Escribí un carácter:** _a_
-> <br> **Escribí un carácter:** _4_
-> <br> **Escribí un carácter:** _A_
-> <br> **Escribí un carácter:** _0_
-> <br> **Escribí un carácter:** _N_
-> <br> **Escribí un carácter:** _a_
-> <br> **Escribí un carácter:** _a_
-> <br> **Escribí un carácter:** _5_
-> <br> **El string completo es: L9a4A0Naa**
-> <br> **Porcentaje de letras 'a': 33.333333333333336**
 </summary>
 <br>Solución:
 <pre><code>cadenaTotal=""
@@ -963,14 +948,24 @@ print("El string completo es:", cadenaTotal)
 print("Porcentaje de letras 'a':", (cantidad_a*100)/len(cadenaTotal))</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Escribí un carácter:** _L_
+> <br> **Escribí un carácter:** _9_
+> <br> **Escribí un carácter:** _a_
+> <br> **Escribí un carácter:** _4_
+> <br> **Escribí un carácter:** _A_
+> <br> **Escribí un carácter:** _0_
+> <br> **Escribí un carácter:** _N_
+> <br> **Escribí un carácter:** _a_
+> <br> **Escribí un carácter:** _a_
+> <br> **Escribí un carácter:** _5_
+> <br> **El string completo es: L9a4A0Naa**
+> <br> **Porcentaje de letras 'a': 33.333333333333336**
+
 
 ### 36
 <details> 
   <summary>Escribí un programa que, dado un número entero por el usuario (guardado como int), muestre la suma de todos sus dígitos. Recordá que vas a necesitar obtener cada uno de los dígitos por separado para poder sumarlos entre sí.
-
-*Ejemplo de ejecución:*
-> **Escribí un número:** _7124_
-> <br> **Suma de los dígitos: 14**
 </summary>
 <br>Solución:
 <pre><code>numero=int(input("Escribí un número:"))
@@ -982,23 +977,14 @@ while numero != 0:
 print("Suma de los dígitos:", total)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Escribí un número:** _7124_
+> <br> **Suma de los dígitos: 14**
+
 
 ### 37
 <details> 
   <summary>Escribí un programa para solicitar al usuario que ingrese números enteros positivos (la cantidad que ingresará no se conoce y la decide el usuario). La lectura de números finalizará cuando el usuario ingrese el número -1. Por cada número ingresado, mostrar la cantidad de dígitos pares y la cantidad de dígitos impares que tiene. Al finalizar, mostrar cuántos números múltiplos de 3 ingresó el usuario.
-
-*Ejemplo de ejecución:*
-> **Número (-1 para terminar el programa):** _123_
-> <br> **Dígitos pares: 1**
-> <br> **Dígitos impares: 2**
-> <br> **Número (-1 para terminar el programa):** _44_
-> <br> **Dígitos pares: 2**
-> <br> **Dígitos impares: 0**
-> <br> **Número (-1 para terminar el programa):** _9_
-> <br> **Dígitos pares: 0**
-> <br> **Dígitos impares: 1**
-> <br> **Número (-1 para terminar el programa):** _-1_
-> <br> **Se ingresaron 2 múltiplos de 3.**
 </summary>
 <br>Solución:
 <pre><code>multiplosDe3=0
@@ -1021,17 +1007,23 @@ while numero!=-1:
 print("Se ingresaron", multiplosDe3, "múltiplos de 3.")</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Número (-1 para terminar el programa):** _123_
+> <br> **Dígitos pares: 1**
+> <br> **Dígitos impares: 2**
+> <br> **Número (-1 para terminar el programa):** _44_
+> <br> **Dígitos pares: 2**
+> <br> **Dígitos impares: 0**
+> <br> **Número (-1 para terminar el programa):** _9_
+> <br> **Dígitos pares: 0**
+> <br> **Dígitos impares: 1**
+> <br> **Número (-1 para terminar el programa):** _-1_
+> <br> **Se ingresaron 2 múltiplos de 3.**
+
 
 ### 38
 <details> 
   <summary>Escribí un programa que solicite al usuario una cadena de caracteres (que puede contener letras, números o símbolos). Analizar la cadena para mostrar: cuántas letras del abecedario (minúsculas y mayúsculas) contiene, cuántos símbolos (caracteres que no son ni letras ni números), cuántos dígitos numéricos y, de los dígitos, cuántos son múltiplos de 4.
-
-*Ejemplo de ejecución:*
-> **Cadena de caracteres:** _1984 (novela de George Orwell)_
-> <br> **Cantidad de letras: 20**
-> <br> **Cantidad de dígitos numéricos: 4**
-> <br> **Cantidad de símbolos: 6**
-> <br> **Cantidad de múltiplos de 4: 2**
 </summary>
 <br>Solución:
 <pre><code>cadena=input("Cadena de caracteres:")
@@ -1057,22 +1049,17 @@ print ("Cantidad de símbolos:", cantidadSimbolos)
 print ("Cantidad de múltiplos de 4:", cantidadMultiplos4)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Cadena de caracteres:** _1984 (novela de George Orwell)_
+> <br> **Cantidad de letras: 20**
+> <br> **Cantidad de dígitos numéricos: 4**
+> <br> **Cantidad de símbolos: 6**
+> <br> **Cantidad de múltiplos de 4: 2**
+
 
 ### 39
 <details> 
   <summary>Escribí un programa que permita al usuario ingresar números que serán leídos como string (no como int o float) hasta que ingrese uno que sea múltiplo de 10 ó menor que 0 (que no será procesado). Se formarán dos strings, en los cuales se concatenarán los números ingresados, según el siguiente criterio: en un string se concatenarán todos los números que el usuario ingrese cuya cantidad de dígitos sea un múltiplo de 3. En el otro, se concatenarán todos los números que contengan el dígito 0. Si un número cumple ambas condiciones, debe concatenarse en ambos strings. En cada string, después de cada número concatenado debe colocarse el carácter “-”. Al finalizar, mostrar en pantalla ambos strings.
-
-*Ejemplo de ejecución:*
-> **Número:** _829
-> <br> **Número:** _102834_
-> <br> **Número:** _6_
-> <br> **Número:** _4307_
-> <br> **Número:** _23_
-> <br> **Número:** _1602357_
-> <br> **Número:** _5896_
-> <br> **Número:** _720_
-> <br> **Números cuya cantidad de dígitos es múltiplo de 3: 829-102834-**
-> <br> **Números que contienen el 0: 102834-4307-1602357-**
 </summary>
 <br>Solución:
 <pre><code>longitudes=""
@@ -1088,10 +1075,39 @@ print("Números cuya cantidad de dígitos es múltiplo de 3:", longitudes)
 print("Números que contienen el 0:", digito0)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Número:** _829
+> <br> **Número:** _102834_
+> <br> **Número:** _6_
+> <br> **Número:** _4307_
+> <br> **Número:** _23_
+> <br> **Número:** _1602357_
+> <br> **Número:** _5896_
+> <br> **Número:** _720_
+> <br> **Números cuya cantidad de dígitos es múltiplo de 3: 829-102834-**
+> <br> **Números que contienen el 0: 102834-4307-1602357-**
+
 
 ### 40
 <details> 
   <summary>Escribí un programa que permita al usuario ingresar títulos de libros por teclado, finalizando el ingreso al leerse el string “*” (asterisco). Cada vez que el usuario ingrese un string de longitud 1 que contenga sólo una barra “/” se considera que termina una línea. Por cada línea completa, informar cuántos dígitos numéricos (del 0 al 9) aparecieron en total (en todos los títulos de libros que componen en esa línea). Finalmente, informar cuántas líneas completas se ingresaron.
+</summary>
+<br>Solución:
+<pre><code>lineas=0
+digitos="0123456789"
+cantidadDigitos=0
+cadena=input("Cadena: ")
+while cadena!="*":
+    for caracter in cadena:
+        if caracter in digitos:
+            cantidadDigitos+=1
+    if cadena=="/":
+        lineas+=1
+        print("Aparecen ", cantidadDigitos, " dígitos en la línea")
+        cantidadDigitos=0
+    cadena=input("Cadena: ")
+print("Se leyeron ",lineas," líneas completas")</code></pre>
+</details>
 
 *Ejemplo de ejecución:*
 > **Cadena:** _Don Quijote de La Mancha_
@@ -1114,24 +1130,6 @@ print("Números que contienen el 0:", digito0)</code></pre>
 > <br> **Cadena:** _Los viajes de Gulliver_
 > <br> **Cadena:** _*_
 > <br> **Se leyeron  3  líneas completas**
-</summary>
-<br>Solución:
-<pre><code>lineas=0
-digitos="0123456789"
-cantidadDigitos=0
-cadena=input("Cadena: ")
-while cadena!="*":
-    for caracter in cadena:
-        if caracter in digitos:
-            cantidadDigitos+=1
-    if cadena=="/":
-        lineas+=1
-        print("Aparecen ", cantidadDigitos, " dígitos en la línea")
-        cantidadDigitos=0
-    cadena=input("Cadena: ")
-print("Se leyeron ",lineas," líneas completas")</code></pre>
-</details>
-
 
 &nbsp;
 ---
@@ -1139,7 +1137,7 @@ print("Se leyeron ",lineas," líneas completas")</code></pre>
 
 # Sección 3
 **Funciones**
-
+&nbsp;
 **Código de ejemplo**
 <pre><code>def promedio(x, y, z):
     return (x+y+z)/3
@@ -1158,20 +1156,6 @@ print("El promedio de los tres es:", promedio(n1,n2,n3))
 ### 41
 <details> 
   <summary>Escribí una función llamada _esPar_ que reciba como parámetro un número y retorne True si el número es par ó False si es impar. Utilizar esta función en un programa que solicite al usuario el ingreso de 10 números y que luego muestre, por separado, la suma de todos los pares y la suma de todos los impares.
-
-*Ejemplo de ejecución:*
-> **Número:** _620
-> <br> **Número:** _12993_
-> <br> **Número:** _230_
-> <br> **Número:** _7_
-> <br> **Número:** _18_
-> <br> **Número:** _9234_
-> <br> **Número:** _38_
-> <br> **Número:** _567_
-> <br> **Número:** _8146_
-> <br> **Número:** _32_
-> <br> **Suma de los pares: 18318**
-> <br> **Suma de los impares: 13567**
 </summary>
 <br>Solución:
 <pre><code></code>def esPar(numero):
@@ -1189,19 +1173,24 @@ print("Suma de los pares:", sumaPares)
 print("Suma de los impares:", sumaImpares)</pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Número:** _620
+> <br> **Número:** _12993_
+> <br> **Número:** _230_
+> <br> **Número:** _7_
+> <br> **Número:** _18_
+> <br> **Número:** _9234_
+> <br> **Número:** _38_
+> <br> **Número:** _567_
+> <br> **Número:** _8146_
+> <br> **Número:** _32_
+> <br> **Suma de los pares: 18318**
+> <br> **Suma de los impares: 13567**
+
 
 ### 42
 <details> 
   <summary>Escribí una función llamada_ sumatoriaDigitos_ que reciba como parámetro un número y retorne la suma de todos sus dígitos, reutilizando la estrategia utilizada en el ejercicio 36. Finalmente, escribir un programa que solicite al usuario ingresar varios números hasta que ingrese el número 100, con el cual cortará la repetición. Por cada número, mostrar la suma de sus dígitos, para lo cual se llamará a la función _sumatoriaDigitos_.
-
-*Ejemplo de ejecución:*
-> **Escribí un número:** _7124_
-> <br> **Suma de los dígitos:** _14_
-> <br> **Escribí un número:** _20_
-> <br> **Suma de los dígitos:** _2_
-> <br> **Escribí un número:** _916_
-> <br> **Suma de los dígitos:** _16_
-> <br> **Escribí un número:** _100_
 </summary>
 <br>Solución:
 <pre><code>def sumatoriaDigitos(numero):
@@ -1215,6 +1204,15 @@ print("Suma de los impares:", sumaImpares)</pre>
 n=int(input("Escribí un número:"))
 print("Suma de los dígitos:", sumatoriaDigitos(n))</code></pre>
 </details>
+
+*Ejemplo de ejecución:*
+> **Escribí un número:** _7124_
+> <br> **Suma de los dígitos:** _14_
+> <br> **Escribí un número:** _20_
+> <br> **Suma de los dígitos:** _2_
+> <br> **Escribí un número:** _916_
+> <br> **Suma de los dígitos:** _16_
+> <br> **Escribí un número:** _100_
 
 ---
 
@@ -1250,14 +1248,6 @@ print(mayorDeTres(n1,n2,n3))
 ### 43
 <details> 
   <summary>Escribí un programa que permita al usuario ingresar números enteros. La repetición terminará cuando el usuario ingrese un número para el cual la suma de sus dígitos sea mayor que 1000 ó múltiplo de 5. Finalmente, mostrar cuántos números impares ingresó el usuario antes de cortar la repetición. Reutilizar las funciones esPar y sumatoriaDigitos implementadas en los ejercicios anteriores.
-
-*Ejemplo de ejecución:*
-> **Escribí un número:** _16_
-> <br> **Escribí un número:** _922_
-> <br> **Escribí un número:** _1513_
-> <br> **Escribí un número:** _481_
-> <br> **Escribí un número:** _90_
-> <br> **Cantidad de impares: 2**
 </summary>
 <br>Solución:
 <pre><code>def esPar(numero):
@@ -1280,19 +1270,18 @@ while sumatoriaDigitos(n)<1000 and sumatoriaDigitos(n)%3!=0:
 print("Cantidad de impares:", cantidadImpares)</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Escribí un número:** _16_
+> <br> **Escribí un número:** _922_
+> <br> **Escribí un número:** _1513_
+> <br> **Escribí un número:** _481_
+> <br> **Escribí un número:** _90_
+> <br> **Cantidad de impares: 2**
+
 
 ### 44
 <details> 
   <summary>Escribí una función que reciba un string y retorne True si es un palíndromo (esto es, si se lee igual de izquierda a derecha o de derecha a izquierda), False en caso contrario. Utilizar esta función en un programa que permita al usuario ingresar palabras hasta que ingrese la palabra “fin” (suponer que todas las palabras son en minúsculas o todas en mayúsculas, de forma consistente). Al finalizar, mostrar la cantidad de palíndromos ingresados.
-
-*Ejemplo de ejecución:*
-> **Cadena: abba_
-> <br> **Cadena:** _m_
-> <br> **Cadena:** _luz_
-> <br> **Cadena:** _reconocer_
-> <br> **Cadena:** _golondrina_
-> <br> **Cadena:** _fin_
-> <br> **Cantidad de palíndromos: 3**
 </summary>
 <br>Solución:
 <pre><code>def palindromo(cadena):
@@ -1316,6 +1305,15 @@ while cadena != "fin":
     cadena=input("Cadena:")
 print("Cantidad de palíndromos:", cantidad)</code></pre>
 </details>
+
+*Ejemplo de ejecución:*
+> **Cadena: abba_
+> <br> **Cadena:** _m_
+> <br> **Cadena:** _luz_
+> <br> **Cadena:** _reconocer_
+> <br> **Cadena:** _golondrina_
+> <br> **Cadena:** _fin_
+> <br> **Cantidad de palíndromos: 3**
 
 ---
 
@@ -1342,16 +1340,6 @@ print("Mayor número ingresado:", mayor)
 ### 45
 <details> 
   <summary>Escribí un programa que permita al usuario ingresar números enteros hasta que ingrese uno cuyo dígito inicial sea el 9 (el cual no se procesará). Una vez terminada la repetición, mostrar cuántos de los números que el usuario ingresó tienen sólo dos divisores (para esto es posible reutilizar parte de la estrategia elaborada en el ejercicio 25).
-
-*Ejemplo de ejecución:*
-> **Número entero:** _167_
-> <br> **Número entero:** _11_
-> <br> **Número entero:** _821_
-> <br> **Número entero:** _38_
-> <br> **Número entero:** _292_
-> <br> **Número entero:** _3_
-> <br> **Número entero:** _954_
-> <br> **Tienen sólo 2 divisores: 4 números**
 </summary>
 <br>Solución:
 <pre><code>def primerDigito(numero):
@@ -1375,3 +1363,12 @@ while primerDigito(n)!=9:
 print("Tienen sólo 2 divisores:", cantidad, "números")</code></pre>
 </details>
 
+*Ejemplo de ejecución:*
+> **Número entero:** _167_
+> <br> **Número entero:** _11_
+> <br> **Número entero:** _821_
+> <br> **Número entero:** _38_
+> <br> **Número entero:** _292_
+> <br> **Número entero:** _3_
+> <br> **Número entero:** _954_
+> <br> **Tienen sólo 2 divisores: 4 números**
