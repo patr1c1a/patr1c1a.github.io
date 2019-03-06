@@ -16,8 +16,6 @@ Primero necesitarás [descargar el archivo](/assets/2018-05-29-juego-el-ahorcado
 * el programa principal con la estructura planteada (**ahorcado.py**).
 * el código de las funciones completo (¡no vale "espiarlo" antes de intentar el desafío!).
 
-[Descargá el archivo](/assets/2017-05-28-juego-el-ahorcado-proyecto.zip).
-
 
 ## El juego
 
