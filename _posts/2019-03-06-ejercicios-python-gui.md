@@ -15,7 +15,7 @@ El lenguaje de base es Python 3, con el framework TkInter para las interfaces gr
 
 Cada uno de los ejercicios consta de dos archivos (disponibles en un único archivo comprimido): **programa.py** y **operaciones.py**. El primero (programa.py) no debe ser modificado, ya que contiene el código que controla las propiedades de la vista.
 
-Para la resolución de cada ejercicio, descargar el archivo correspondiente y descomprimir *programa.py* y *operaciones.py* en la misma carpeta. A continuación, abrir *operaciones.py* y completar el código de acuerdo a la consigna. Finalmente, ejecutar programa.py.
+**Para la resolución de cada ejercicio, descargar el archivo correspondiente y descomprimir *programa.py* y *operaciones.py* en la misma carpeta. A continuación, abrir *operaciones.py* y completar el código de acuerdo a la consigna. Finalmente, ejecutar programa.py.**
 
 
 ### 1
