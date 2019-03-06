@@ -58,7 +58,7 @@ A continuación se debe mostrar en pantalla el texto “Ahora estás en la matri
         print("Ahora estás en la matrix,", nombre)</code></pre>
 </details>
 &nbsp;
-*Ejemplo de ejecución:*
+<br>*Ejemplo de ejecución:*
 > **Tu nombre:** _Patricia_
 > <br> **Ahora estás en la matrix, Patricia**
 
