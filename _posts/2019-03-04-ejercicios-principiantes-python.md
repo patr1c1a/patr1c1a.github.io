@@ -7,6 +7,8 @@ tags: resolución_problemas algoritmos python
 published: true
 ---
 
+Estos ejercicios cubren temas básicos como: operaciones matemáticas, booleanas y con strings; if-else; for; while; funciones.
+
 ## Herramientas
 Podés resolver los ejercicios descargando Python y generando, por cada ejercicio, un archivo con extensión .py y ejecutándolo mediante el intérprete de Python. Sin embargo, también es posible resolver los ejercicios en cualquier intérprete de Python online, sin necesidad de descargar nada, por ejemplo: [Repl.it](https://repl.it/languages/python3). Cada ejercicio de esta página constituye un programa.
 
