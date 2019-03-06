@@ -57,7 +57,7 @@ A continuación se debe mostrar en pantalla el texto “Ahora estás en la matri
     print("Ahora estás en la matrix,", nombre)
         print("Ahora estás en la matrix,", nombre)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Tu nombre:** _Patricia_
 > <br> **Ahora estás en la matrix, Patricia**
@@ -87,7 +87,7 @@ b=int(input("Segundo número:"))
 c=a+b
 print("El resultado de la suma es", c)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Primer número:** _14.2_
 > <br> **Segundo número:** _19_
@@ -107,7 +107,7 @@ print("Suman:", suma)
 n3=int(input("Ingresá un nuevo número:"))
 print("Multiplicación de la suma por el último número:",suma*n3)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Ingresá un número:** _1_
 > <br> **Ingresá otro número:** _2_
@@ -134,9 +134,9 @@ a+=1
 litros=float(input("Litros de combustible gastados:"))
 print("El consumo por kilómetro es de", kilometros/litros)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
-> Kilómetros recorridos: 260
+> **Kilómetros recorridos:** _260_
 > <br> **Litros de combustible gastados:** _12.5_
 > <br> **El consumo por kilómetro es de 20.8**
 
@@ -149,7 +149,7 @@ print("El consumo por kilómetro es de", kilometros/litros)</code></pre>
 <pre><code>Fahrenheit=float(input("Ingresá una temperatura expresada en Fahrenheit:"))
 print((5/9) * (Fahrenheit-32))</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Ingresá una temperatura expresada en Farenheit:** _75_
 > <br> **23.88888888888889**
@@ -165,7 +165,7 @@ n2=float(input("Segundo número:"))
 n3=float(input("Tercer número:"))
 print("El promedio de los tres es", (n1+n2+n3)/3)</code></pre>
 </details>
-    
+&nbsp;
 *Ejemplo de ejecución:*
 > **Primer número:** _8.5_
 > <br> **Segundo número:** _10_
@@ -181,7 +181,7 @@ print("El promedio de los tres es", (n1+n2+n3)/3)</code></pre>
 <pre><code>numero=int(input("Ingresá un número:"))
 print("Descontando el 15% queda:", numero-(numero*15)/100)</code></pre>
 </details>
-    
+&nbsp;
 *Ejemplo de ejecución:*
 > **Ingresá un número:** _260_
 > <br> **Descontando el 15% queda: 221.0**
@@ -208,7 +208,7 @@ palabra2=input("Segunda palabra:")
 frase=palabra1+" "+palabra2
 print(frase)</code></pre>
 </details>
-    
+&nbsp;
 *Ejemplo de ejecución:*
 > **Primera palabra:** _derribando_
 > <br> **Segunda palabra:** _muros_
@@ -248,7 +248,7 @@ print("Ingresá un número positivo menor a", len(cadena))
 indice=int(input())
 print("El carácter en esa posición es:", cadena[indice])</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Ingresá un texto:** _En un lugar de la Mancha, de cuyo nombre no quiero acordarme..._
 > <br> **El carácter en primer lugar es: E**
@@ -275,7 +275,7 @@ print(a != b)
 <pre><code>shows=int(input("Shows vistos en el último año:"))
 print(shows>3)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Shows vistos en el último año:** _3_
 > <br> **False**
@@ -301,7 +301,7 @@ dia=fecha//1000000
 mes=(fecha//10000)%100
 print(dia,"/",mes,"/",año)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Fecha en formato DDMMAAAA:** _16112017_
 > <br> **16 / 11 / 2017**
@@ -315,7 +315,7 @@ print(dia,"/",mes,"/",año)</code></pre>
 <pre><code>numero=int(input("Número entero:"))
 print((numero%2) == 0)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Número entero:** _7254_
 > <br> **True**
@@ -339,7 +339,7 @@ print(a>100  and  a!=1000)
 articulos=int(input("Artículos comprados:"))
 print((edad>18) and (articulos>1))</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Tu edad:** _32_
 > <br> **Artículos comprados:** _1_
@@ -356,7 +356,7 @@ print((edad>18) and (articulos>1))</code></pre>
 longitud=len(cadena)
 print(longitud%2 == 0)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Ingresá una frase:** _Era el mejor de los tiempos, era el peor de los tiempos._
 > <br> **True**
@@ -380,7 +380,7 @@ print(longitud%2 == 0)</code></pre>
 palabra2=input("Otra palabra:")
 print(palabra1<palabra2)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Una palabra:** _complejidad_
 > <br> **Otra palabra:** _algoritmo_
@@ -398,7 +398,7 @@ posicion_final_nombre1=len(nombre1)-1
 posicion_final_nombre2=len(nombre2)-1
 print((nombre1[0] == nombre2[0]) or (nombre1[posicion_final_nombre1] == nombre2[posicion_final_nombre2]))</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Tu nombre:** _Alfredo_
 > <br> **Otro nombre:** _Eduardo_
@@ -431,7 +431,7 @@ if numero<0:
     numero=numero*-1
 print("Valor absoluto:", numero)</code></pre>
 </details> 
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Número:** _-12_
 > <br> **Valor absoluto: 12**
@@ -461,10 +461,10 @@ if numero1>numero2:
 else:
     print(numero2, "es mayor")</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Un número:** _592_
-> <br> **Otro número distinto:** _1726:
+> <br> **Otro número distinto:** _1726_
 > <br> **1726 es mayor**
 
 
@@ -481,7 +481,7 @@ else:
         print("Es vocal")
 </code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Letra:** _o_
 > <br> **Es vocal**
@@ -506,7 +506,7 @@ else:
     else:
         print("Menor:", n3)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Primer número:** _20_
 > <br> **Segundo número:** _30_
@@ -544,7 +544,7 @@ if nombre=="Gwenevere" and password =="excalibur":
 else:
     print("Acceso denegado")</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Nombre de usuario:** _gwen_
 > <br> **Contraseña:** _excalibur_
@@ -566,7 +566,7 @@ else:
     print("No bisiesto")
 </code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Año:** _2020_
 > <br> **Bisiesto**
@@ -593,7 +593,7 @@ for x in range(10):
 for i in range(1,numero+1):
    print(i)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Ingresá un número:** _3_
 > <br> **1**
@@ -611,7 +611,7 @@ for i in range(101):
     total=total+i
 print("Sumatoria:", total)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Sumatoria: 5050**
 
@@ -627,7 +627,7 @@ for n in range(1,numero+1):
     if numero%n == 0:
         print(n)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Número:** _14_
 > <br> **Divisores:**
@@ -659,7 +659,7 @@ for c in frase:
         cantidad=cantidad+1
 print("Vocales:", cantidad)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Frase:** _Verde que te quiero verde_
 > <br> **Vocales: 11**
@@ -680,7 +680,7 @@ for i in range(8):
     n1=n2
     n2=n3</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **0**
 > <br> **1**
@@ -706,7 +706,7 @@ for i in range(1,numero+1):
 print("Factorial:", f)
 </code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Número:** _7_
 > <br> **Factorial: 5040**
@@ -731,7 +731,7 @@ print("Sumatoria de los negativos: ", sumaNegativos)
 if cantidadPositivos!=0:
    print("Promedio de los positivos: ",sumaPositivos/cantidadPositivos)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Número:** _15_
 > <br> **Número:** _-12_
@@ -768,7 +768,7 @@ for c in frase:
         nueva=nueva+c
 print(nueva)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Frase:** Aquí me pongo a cantar al compás de la vigüela_
 > <br> **Carácter:** _o_
@@ -789,7 +789,7 @@ while i>=0:
 print(nueva)
 </code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Frase:** _Sabía quién era esta mañana, pero he cambiado varias veces desde entonces_
 > <br> **secnotne edsed secev sairav odaibmac eh orep ,anañam atse are néiuq aíbaS**
@@ -838,7 +838,7 @@ if total>1000:
     total=total-(total*0.1)
 print("Monto total a pagar: $", total)</code></pre>
 </details>
-  
+&nbsp;
 *Ejemplo de ejecución:*
 > **Monto de una venta: $** _100_
 > <br> **Monto de una venta: $** _300_
@@ -863,7 +863,7 @@ while n!=0:
 print("Mayor número ingresado:", mayor)
 </code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Número:** _6_
 > <br> **Número:** _9_
@@ -908,7 +908,7 @@ while a == "S":
 print("Porcentaje de alumnos aprobados:", (aprobados*100)/cantidad, "%")
 print("Promedio de los aprobados:", sumaAprobados/aprobados)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **¿Analizar calificaciones? 'S' para 'sí':** _S_
 > <br> **Calificación de un alumno:** _9_
@@ -949,7 +949,7 @@ while (len(caracter)==1 and caracter!="0"):
 print("El string completo es:", cadenaTotal)
 print("Porcentaje de letras 'a':", (cantidad_a*100)/len(cadenaTotal))</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Escribí un carácter:** _L_
 > <br> **Escribí un carácter:** _9_
@@ -978,7 +978,7 @@ while numero != 0:
     numero=numero//10
 print("Suma de los dígitos:", total)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Escribí un número:** _7124_
 > <br> **Suma de los dígitos: 14**
@@ -1008,7 +1008,7 @@ while numero!=-1:
     numero=int(input("Número (-1 para terminar el programa):"))
 print("Se ingresaron", multiplosDe3, "múltiplos de 3.")</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Número (-1 para terminar el programa):** _123_
 > <br> **Dígitos pares: 1**
@@ -1050,7 +1050,7 @@ print ("Cantidad de dígitos numéricos:", cantidadDigitos)
 print ("Cantidad de símbolos:", cantidadSimbolos)
 print ("Cantidad de múltiplos de 4:", cantidadMultiplos4)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Cadena de caracteres:** _1984 (novela de George Orwell)_
 > <br> **Cantidad de letras: 20**
@@ -1076,7 +1076,7 @@ while int(numero)%10 != 0 and int(numero) >= 0:
 print("Números cuya cantidad de dígitos es múltiplo de 3:", longitudes)
 print("Números que contienen el 0:", digito0)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Número:** _829
 > <br> **Número:** _102834_
@@ -1110,7 +1110,7 @@ while cadena!="*":
     cadena=input("Cadena: ")
 print("Se leyeron ",lineas," líneas completas")</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Cadena:** _Don Quijote de La Mancha_
 > <br> **Cadena:** _Los 3 mosqueteros_
@@ -1174,7 +1174,7 @@ for i in range(10):
 print("Suma de los pares:", sumaPares)
 print("Suma de los impares:", sumaImpares)</pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Número:** _620
 > <br> **Número:** _12993_
@@ -1206,7 +1206,7 @@ print("Suma de los impares:", sumaImpares)</pre>
 n=int(input("Escribí un número:"))
 print("Suma de los dígitos:", sumatoriaDigitos(n))</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Escribí un número:** _7124_
 > <br> **Suma de los dígitos:** _14_
@@ -1271,7 +1271,7 @@ while sumatoriaDigitos(n)<1000 and sumatoriaDigitos(n)%3!=0:
     n=int(input("Escribí un número:"))
 print("Cantidad de impares:", cantidadImpares)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Escribí un número:** _16_
 > <br> **Escribí un número:** _922_
@@ -1307,9 +1307,9 @@ while cadena != "fin":
     cadena=input("Cadena:")
 print("Cantidad de palíndromos:", cantidad)</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
-> **Cadena: abba_
+> **Cadena:** _abba_
 > <br> **Cadena:** _m_
 > <br> **Cadena:** _luz_
 > <br> **Cadena:** _reconocer_
@@ -1364,7 +1364,7 @@ while primerDigito(n)!=9:
     n=int(input("Número entero:"))
 print("Tienen sólo 2 divisores:", cantidad, "números")</code></pre>
 </details>
-
+&nbsp;
 *Ejemplo de ejecución:*
 > **Número entero:** _167_
 > <br> **Número entero:** _11_
