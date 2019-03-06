@@ -12,6 +12,9 @@ permalink: /enlaces/
 - <a href="https://es.stackoverflow.com"  target="_blank">Stack overflow, comunidad en español</a>
 - <a href="https://codereview.stackexchange.com" target="_blank">Code Review</a> 
 - <a href="https://www.100daysofcode.com/" target="_blank">#100DaysOfCode</a>
+- <a href="https://www.reddit.com/r/webdev/" target="_blank">r/webdev (web development subreddit)</a>
+- <a href="https://www.reddit.com/r/programming/" target="_blank">r/programming (programming subreddit)</a>
+- <a href="https://dev.to/" target="_blank">dev.to</a>
  
 ### Desafíos y práctica de programación: 
 - <a href="https://leetcode.com/" target="_blank">Leetcode</a>
@@ -34,6 +37,8 @@ permalink: /enlaces/
 - <a href="https://www.w3.org/" target="_blank">World Wide Web Consortium (W3C)</a>
 - <a href="https://www.ieee.org/" target="_blank">IEEE (Institute of Electrical and Electronics Engineers)</a>
 - <a href="https://www.ietf.org/standards/rfcs/" target="_blank">RFC ("Requests For Comments")</a>
+- <a href="https://medium.com/topic/technology" target="_blank">Medium - Tech</a>
+
 
 ### "Hackathons" y competencias:
 - <a href="https://www.hackathon.com/" target="_blank">Hackathon.com</a>
@@ -80,7 +85,6 @@ permalink: /enlaces/
 - <a href="https://www.education-ecosystem.com/" target="_blank">Education Ecosystem</a>
 - <a href="https://www.kaggle.com/" target="_blank">Kaggle - data science</a>
 
-
 ### Principiantes:
 - <a href="http://pilasbloques.program.ar" target="_blank">Pilas Bloques</a>
 - <a href="https://codecombat.com/" target="_blank">CodeCombat</a>
@@ -104,6 +108,9 @@ permalink: /enlaces/
 - <a href="http://flowlab.io/" target="_blank">Flowlab Game Creator</a>
 - <a href="https://gdevelop-app.com/" target="_blank">Gdevelop</a>
 - <a href="http://make.gamefroot.com/" target="_blank">GameFroot</a>
+
+### Aplicaciones móviles:
+- <a href="https://developers.google.com/training/android/" target="_blank">Google Developers Training: Android</a>
 
 ---
 
