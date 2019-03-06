@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Videos - aprendiendo a programar desde cero
+title: Videos - aprendiendo los conceptos básicos de programación con Pilas Bloques
 date: 2018-11-15
 categories: conceptos ejercicios
 tags: algoritmo bucle if while selección
