@@ -39,6 +39,10 @@ permalink: /enlaces/
 - <a href="https://www.ietf.org/standards/rfcs/" target="_blank">RFC ("Requests For Comments")</a>
 - <a href="https://medium.com/topic/technology" target="_blank">Medium - Tech</a>
 
+### Contribución a open source:
+- <a href="https://openhatch.org/" target="_blank">OpenHatch</a>
+- <a href="https://up-for-grabs.net/#/" target="_blank">Up for grabs</a>
+- <a href="http://simpledeveloper.com/open-source-projects/" target="_blank">Simple developer: open source projects to contribute to</a>
 
 ### "Hackathons" y competencias:
 - <a href="https://www.hackathon.com/" target="_blank">Hackathon.com</a>
@@ -61,11 +65,6 @@ permalink: /enlaces/
 - <a href="http://www.mercedes-benz-challenge.com/" target="_blank">Mercedes Benz Digital Challenge</a>
 - <a href="https://aerolab.co/coding-challenge?medium" target="_blank">AeroLab Coding Challenge</a>
 
-### Contribución a open source:
-- <a href="https://openhatch.org/" target="_blank">OpenHatch</a>
-- <a href="https://up-for-grabs.net/#/" target="_blank">Up for grabs</a>
-- <a href="http://simpledeveloper.com/open-source-projects/" target="_blank">Simple developer: open source projects to contribute to</a>
-
 ---
 
 ## Sitios y aplicaciones para aprender programación
@@ -79,11 +78,11 @@ permalink: /enlaces/
 - <a href="https://medium.freecodecamp.org/" target="_blank">freeCodeCamp</a>
 - <a href="https://es.khanacademy.org/" target="_blank">Khan Academy</a>
 - <a href="https://www.w3schools.com/" target="_blank">W3Schools</a>
+- <a href="https://www.edx.org/course/subject/computer-science" target="_blank">EdX - real college courses</a>
 - <a href="https://bento.io/" target="_blank">Bento</a>
 - <a href="https://mva.microsoft.com/" target="_blank">Microsoft Virtual Academy</a>
 - <a href="https://learnxinyminutes.com/" target="_blank">Learn X in Y minutes</a>
 - <a href="https://www.education-ecosystem.com/" target="_blank">Education Ecosystem</a>
-- <a href="https://www.kaggle.com/" target="_blank">Kaggle - data science</a>
 
 ### Principiantes:
 - <a href="http://pilasbloques.program.ar" target="_blank">Pilas Bloques</a>
@@ -94,6 +93,9 @@ permalink: /enlaces/
 - <a href="https://code.org/" target="_blank">Hora del Código</a>
 - <a href="https://play.google.com/store/apps/details?id=com.sololearn" target="_blank">[Android] SoloLearn</a>
 - <a href="https://play.google.com/store/apps/details?id=com.cf.codigofacilitoapp" target="_blank">[Android] Código Facilito</a>
+
+### Aplicaciones móviles:
+- <a href="https://developers.google.com/training/android/" target="_blank">Google Developers Training: Android</a>
 
 ### Seguridad informática y hacking:
 - <a href="http://overthewire.org/wargames/" target="_blank">OverTheWire Wargames</a>
@@ -108,9 +110,14 @@ permalink: /enlaces/
 - <a href="http://flowlab.io/" target="_blank">Flowlab Game Creator</a>
 - <a href="https://gdevelop-app.com/" target="_blank">Gdevelop</a>
 - <a href="http://make.gamefroot.com/" target="_blank">GameFroot</a>
+- <a href="https://gamedevelopment.tutsplus.com/" target="_blank">envatotuts+ - game development</a>
 
-### Aplicaciones móviles:
-- <a href="https://developers.google.com/training/android/" target="_blank">Google Developers Training: Android</a>
+### Inteligencia artificial y data science:
+- <a href="https://www.kaggle.com/" target="_blank">Kaggle</a>
+- <a href="https://www.datacamp.com/" target="_blank">Datacamp</a>
+- <a href="https://www.dataquest.io/" target="_blank">Dataquest</a>
+- <a href="https://www.edx.org/course/subject/data-science" target="_blank">EdX data science courses</a>
+- <a href="https://www.kdnuggets.com/tutorials/index.html" target="_blank">Kdnuggets</a>
 
 ---
 
