@@ -52,7 +52,7 @@ a=18
 ### 1
 <details> 
   <summary>Escribí un programa que solicite al usuario que ingrese su nombre. El nombre se debe almacenar en una variable llamada nombre.
-A continuación se debe mostrar en pantalla el texto “Ahora estás en la matrix, *[usuario]*”, donde “*[usuario]*” se reemplazará por el nombre que el usuario haya ingresado.</summary>
+A continuación se debe mostrar en pantalla el texto “Ahora estás en la matrix, [usuario]”, donde “[usuario]” se reemplazará por el nombre que el usuario haya ingresado.</summary>
 <br>Solución:
 <pre><code>nombre=input("Tu nombre:")
     print("Ahora estás en la matrix,", nombre)
@@ -81,7 +81,7 @@ n2=float(input())
 
 ### 2
 <details> 
-  <summary>Escribí un programa que solicite al usuario ingresar un número con decimales y almacenalo en una variable. A continuación, el programa debe solicitar al usuario que ingrese un número entero y guardarlo en otra variable. En una tercera variable se deberá guardar el resultado de la suma de los dos números ingresados por el usuario. Por último, se debe mostrar en pantalla el texto “El resultado de la suma es _[suma]_”, donde “_[suma]_” se reemplazará por el resultado de la operación.</summary>
+  <summary>Escribí un programa que solicite al usuario ingresar un número con decimales y almacenalo en una variable. A continuación, el programa debe solicitar al usuario que ingrese un número entero y guardarlo en otra variable. En una tercera variable se deberá guardar el resultado de la suma de los dos números ingresados por el usuario. Por último, se debe mostrar en pantalla el texto “El resultado de la suma es [suma]”, donde “[suma]” se reemplazará por el resultado de la operación.</summary>
 <br>Solución:
 <pre><code>a=float(input("Primer número:"))
 b=int(input("Segundo número:"))
@@ -239,8 +239,8 @@ print(ultimo_caracter)
 ### 9
 <details> 
   <summary>Escribí un programa que solicite al usuario el ingreso de un texto y almacene ese texto en una variable. A continuación, mostrar en pantalla la primera letra del texto ingresado.
-Luego, solicitar al usuario que ingrese un número positivo menor a la cantidad de caracteres que tiene el texto que ingresó (por ejemplo, si escribió la palabra “HOLA”, tendrá que ser un número entre 0 y 4) y almacenar este número en una variable llamada _indice_.
-<br>Mostrar en pantalla el carácter del texto ubicado en la posición dada por _indice_.
+Luego, solicitar al usuario que ingrese un número positivo menor a la cantidad de caracteres que tiene el texto que ingresó (por ejemplo, si escribió la palabra “HOLA”, tendrá que ser un número entre 0 y 4) y almacenar este número en una variable llamada indice.
+<br>Mostrar en pantalla el carácter del texto ubicado en la posición dada por indice.
 </summary>
 <br>Solución:
 <pre><code>cadena=input("Ingresá un texto:")
@@ -251,7 +251,7 @@ print("El carácter en esa posición es:", cadena[indice])</code></pre>
 </details>
 &nbsp;
 <br>*Ejemplo de ejecución:*
-> **Ingresá un texto:** _En un lugar de la Mancha, de cuyo nombre no quiero acordarme..._
+> **Ingresá un texto:** _En un lugar de La Mancha, de cuyo nombre no quiero acordarme..._
 > <br> **El carácter en primer lugar es: E**
 > <br> **Ingresá un número positivo menor a 63**
 > <br> _7_
@@ -293,7 +293,7 @@ print(58273//10)
 
 ### 11
 <details> 
-  <summary>Escribí un programa que le solicite al usuario ingresar una fecha formada por 8 números, donde los primeros dos representan el día, los siguientes dos el mes y los últimos cuatro el año (_DDMMAAAA_). Este dato debe guardarse en una variable con tipo int (número entero). Finalmente, mostrar al usuario la fecha con el formato _DD / MM / AAAA_.
+  <summary>Escribí un programa que le solicite al usuario ingresar una fecha formada por 8 números, donde los primeros dos representan el día, los siguientes dos el mes y los últimos cuatro el año (DDMMAAAA). Este dato debe guardarse en una variable con tipo int (número entero). Finalmente, mostrar al usuario la fecha con el formato DD / MM / AAAA.
 </summary>
 <br>Solución:
 <pre><code>fecha=int(input("Fecha en formato DDMMAAAA:"))
@@ -390,7 +390,7 @@ print(palabra1<palabra2)</code></pre>
 
 ### 16
 <details> 
-  <summary>Escribí un programa para pedir al usuario su nombre y luego el nombre de otra persona, almacenando cada nombre en una variable. Luego mostrar en pantalla un valor de verdad que indique si: los nombres de ambas personas comienzan con la misma letra ó si terminan con la misma letra. Por ejemplo, si los nombres ingresados son _María_ y _Marcos_, se mostrará True, ya que ambos comienzan con la misma letra. Si los nombres son _Ricardo_ y_ Gonzalo_ se mostrará True, ya que ambos terminan con la misma letra. Si los nombres son _Florencia_ y _Lautaro_ se mostrará False, ya que no coinciden ni la primera ni la última letra.
+  <summary>Escribí un programa para pedir al usuario su nombre y luego el nombre de otra persona, almacenando cada nombre en una variable. Luego mostrar en pantalla un valor de verdad que indique si: los nombres de ambas personas comienzan con la misma letra ó si terminan con la misma letra. Por ejemplo, si los nombres ingresados son María y Marcos, se mostrará True, ya que ambos comienzan con la misma letra. Si los nombres son Ricardo y Gonzalo se mostrará True, ya que ambos terminan con la misma letra. Si los nombres son Florencia y Lautaro se mostrará False, ya que no coinciden ni la primera ni la última letra.
 </summary>
 <br>Solución:
 <pre><code>nombre1=input("Tu nombre:")
@@ -1158,7 +1158,7 @@ print("El promedio de los tres es:", promedio(n1,n2,n3))
 
 ### 41
 <details> 
-  <summary>Escribí una función llamada _esPar_ que reciba como parámetro un número y retorne True si el número es par ó False si es impar. Utilizar esta función en un programa que solicite al usuario el ingreso de 10 números y que luego muestre, por separado, la suma de todos los pares y la suma de todos los impares.
+  <summary>Escribí una función llamada esPar que reciba como parámetro un número y retorne True si el número es par ó False si es impar. Utilizar esta función en un programa que solicite al usuario el ingreso de 10 números y que luego muestre, por separado, la suma de todos los pares y la suma de todos los impares.
 </summary>
 <br>Solución:
 <pre><code></code>def esPar(numero):
@@ -1193,7 +1193,7 @@ print("Suma de los impares:", sumaImpares)</pre>
 
 ### 42
 <details> 
-  <summary>Escribí una función llamada_ sumatoriaDigitos_ que reciba como parámetro un número y retorne la suma de todos sus dígitos, reutilizando la estrategia utilizada en el ejercicio 36. Finalmente, escribir un programa que solicite al usuario ingresar varios números hasta que ingrese el número 100, con el cual cortará la repetición. Por cada número, mostrar la suma de sus dígitos, para lo cual se llamará a la función _sumatoriaDigitos_.
+  <summary>Escribí una función llamada sumatoriaDigitos que reciba como parámetro un número y retorne la suma de todos sus dígitos, reutilizando la estrategia utilizada en el ejercicio 36. Finalmente, escribir un programa que solicite al usuario ingresar varios números hasta que ingrese el número 100, con el cual cortará la repetición. Por cada número, mostrar la suma de sus dígitos, para lo cual se llamará a la función sumatoriaDigitos.
 </summary>
 <br>Solución:
 <pre><code>def sumatoriaDigitos(numero):
