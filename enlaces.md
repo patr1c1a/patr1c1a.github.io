@@ -85,6 +85,7 @@ permalink: /enlaces/
 - <a href="https://mva.microsoft.com/" target="_blank">Microsoft Virtual Academy</a>
 - <a href="https://learnxinyminutes.com/" target="_blank">Learn X in Y minutes</a>
 - <a href="https://www.education-ecosystem.com/" target="_blank">Education Ecosystem</a>
+- <a href="https://www.class-central.com/subject/cs" target="_blank">Class Central</a>
 
 ### Principiantes:
 - <a href="http://pilasbloques.program.ar" target="_blank">Pilas Bloques</a>
@@ -120,6 +121,7 @@ permalink: /enlaces/
 - <a href="https://www.dataquest.io/" target="_blank">Dataquest</a>
 - <a href="https://www.edx.org/course/subject/data-science" target="_blank">EdX data science courses</a>
 - <a href="https://www.kdnuggets.com/tutorials/index.html" target="_blank">Kdnuggets</a>
+- <a href="https://www.class-central.com/subject/data-science" target="_blank">Class Central</a>
 
 ---
 ---
@@ -158,7 +160,7 @@ Algunos estudiantes se frustran al encontrarse con obstáculos para iniciarse en
 - <a href="http://www.elllo.org/" target="_blank">Elllo</a>
 - <a href="https://learnenglish.britishcouncil.org/" target="_blank">Learn English - British Council</a>
 - <a href="https://readtheory.org/" target="_blank">Read Theory - Online reading activities</a>
-- <a href="https://www.english-online.at/" target="_blank">English Online - </a>
+- <a href="https://www.english-online.at/" target="_blank">English Online</a>
 
 ### Razonamiento lógico:
 - <a href="http://ntic.educacion.es/w3/eos/MaterialesEducativos/mem2009/problematic/" target="_blank">Problemas de razonamiento lógico (juegos)</a>
