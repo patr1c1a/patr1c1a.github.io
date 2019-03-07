@@ -55,8 +55,7 @@ a=18
 A continuación se debe mostrar en pantalla el texto “Ahora estás en la matrix, [usuario]”, donde “[usuario]” se reemplazará por el nombre que el usuario haya ingresado.</summary>
 <br>Solución:
 <pre><code>nombre=input("Tu nombre:")
-    print("Ahora estás en la matrix,", nombre)
-        print("Ahora estás en la matrix,", nombre)</code></pre>
+print("Ahora estás en la matrix,", nombre)</code></pre>
 </details>
 &nbsp;
 <br>*Ejemplo de ejecución:*
