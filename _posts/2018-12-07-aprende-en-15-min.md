@@ -2,8 +2,8 @@
 layout: post
 title: Video - Aprende a programar en 15 minutos
 date: 2018-12-07 01:30:00
-categories: python  ejercicios
-tags: ejercicios 
+categories: python
+tags: ejercicios python
 published: true
 ---
 
