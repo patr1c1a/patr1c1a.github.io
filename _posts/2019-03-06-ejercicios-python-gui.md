@@ -2,7 +2,7 @@
 layout: post
 title: Ejercicios básicos en Python, usando GUI
 date: 2019-03-04 19:00:00
-categories: ejercicios
+categories: ejercicios python
 tags: resolución_problemas algoritmos python
 published: true
 ---
