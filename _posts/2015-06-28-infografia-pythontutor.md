@@ -3,8 +3,8 @@ layout: post
 title: Infografía - Python Tutor (intérprete Python online)
 date: 2015-06-28 19:00:00
 categories: python
-tags: herramientas
-published: true
+tags: herramientas python
+published: false
 ---
 
 Si, por algún motivo no podemos acceder a un IDE de Python instalado localmente en nuestra computadora, podemos probar nuestro código desde internet, usando [Python Tutor](http://www.pythontutor.com).
