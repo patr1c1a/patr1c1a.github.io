@@ -2,7 +2,7 @@
 layout: page
 title: Categorías
 permalink: /categorias/
-published: true
+published: false
 ---
 
 <div id="archives">
