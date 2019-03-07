@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Categorías
-permalink: /categorias/
+permalink: /cat/
 published: false
 ---
 
