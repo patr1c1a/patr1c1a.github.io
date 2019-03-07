@@ -22,6 +22,7 @@ permalink: /enlaces/
 - <a href="https://www.codewars.com/" target="_blank">CodeWars</a>
 - <a href="https://py.checkio.org/" target="_blank">Py.CheckIo - Python practise online</a>
 - <a href="https://exercism.io/" target="_blank">Exercism</a>
+- <a href="https://www.codingame.com" target="_blank">CodinGame</a>
 - <a href="https://www.coderbyte.com/" target="_blank">CoderByte</a>
 - <a href="https://projecteuler.net/" target="_blank">Project Euler</a>
 - <a href="http://codekata.com/" target="_blank">Code Kata</a>
@@ -44,14 +45,13 @@ permalink: /enlaces/
 - <a href="https://up-for-grabs.net/#/" target="_blank">Up for grabs</a>
 - <a href="http://simpledeveloper.com/open-source-projects/" target="_blank">Simple developer: open source projects to contribute to</a>
 
-### "Hackathons" y competencias:
+### "Hackathons" y competencias por premios:
 - <a href="https://www.hackathon.com/" target="_blank">Hackathon.com</a>
 - <a href="https://challengerocket.com/hackathons-and-challenges.html" target="_blank">Hackathons and coding challenges</a>
 - <a href="https://codingcompetitions.withgoogle.com/" target="_blank">Competencias de programación de Google</a>
 - <a href="https://www.mercadolibre.com.ar/itchallenge/" target="_blank">MercadoLibre IT Challenge (desafíos anuales)</a>
 - <a href="https://www.topcoder.com/challenges/" target="_blank">TopCoder</a>
 - <a href="https://www.codechef.com/" target="_blank">CodeChef</a>
-- <a href="https://www.codingame.com" target="_blank">CodinGame</a>
 - <a href="https://register.codingcontest.org/" target="_blank">Coding Contest</a>
 - <a href="http://js13kgames.com/" target="_blank">js13kGames</a>
 - <a href="https://www.yelp.com/dataset/challenge" target="_blank">Yelp Dataset Challenge</a>
