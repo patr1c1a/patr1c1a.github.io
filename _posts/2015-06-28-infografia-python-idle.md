@@ -3,8 +3,8 @@ layout: post
 title: Infografía - descarga y uso de Python IDLE
 date: 2015-06-28 19:00:00
 categories: python
-tags: herramientas
-published: true
+tags: herramientas python
+published: false
 ---
 
 Para descargar Python, ingresar a [www.python.org/downloads](https://www.python.org/downloads/) (descargar la versión más nueva).
