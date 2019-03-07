@@ -67,6 +67,7 @@ permalink: /enlaces/
 - <a href="https://aerolab.co/coding-challenge?medium" target="_blank">AeroLab Coding Challenge</a>
 
 ---
+---
 
 ## Sitios y aplicaciones para aprender programación
 
@@ -121,6 +122,7 @@ permalink: /enlaces/
 - <a href="https://www.kdnuggets.com/tutorials/index.html" target="_blank">Kdnuggets</a>
 
 ---
+---
 
 ## Trabajo
 
@@ -144,6 +146,7 @@ permalink: /enlaces/
 - <a href="https://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850/" target="_blank">[Libro] Cracking the coding interview</a>
 
 ---
+---
 
 ## Conceptos y habilidades necesarias para programar
 Algunos estudiantes se frustran al encontrarse con obstáculos para iniciarse en la programación. En general, se debe a que necesitan reforzar sus habilidades de razonamiento lógico, técnicas de resolución de problemas, operaciones matemáticas, idioma inglés, entre otros. Los enlaces listados en esta sección apuntan a ayudar con estas cuestiones.
@@ -152,6 +155,10 @@ Algunos estudiantes se frustran al encontrarse con obstáculos para iniciarse en
 - <a href="https://es.duolingo.com" target="_blank">Duolingo</a>
 - <a href="https://es.babbel.com" target="_blank">Babbel</a>
 - <a href="http://www.mansioningles.com" target="_blank">La mansión del inglés</a>
+- <a href="http://www.elllo.org/" target="_blank">Elllo</a>
+- <a href="https://learnenglish.britishcouncil.org/" target="_blank">Learn English - British Council</a>
+- <a href="https://readtheory.org/" target="_blank">Read Theory - Online reading activities</a>
+- <a href="https://www.english-online.at/" target="_blank">English Online - </a>
 
 ### Razonamiento lógico:
 - <a href="http://ntic.educacion.es/w3/eos/MaterialesEducativos/mem2009/problematic/" target="_blank">Problemas de razonamiento lógico (juegos)</a>
@@ -183,6 +190,7 @@ Algunos estudiantes se frustran al encontrarse con obstáculos para iniciarse en
 - <a href="http://www.disfrutalasmatematicas.com/numeros/decimales-fracciones-porcentajes.html" target="_blank">Decimales, fracciones y porcentajes</a>
 - <a href="http://www.disfrutalasmatematicas.com/datos/media.html" target="_blank">Cómo calcular la media</a>
 
+---
 ---
 
 ## Otros enlaces de interés
