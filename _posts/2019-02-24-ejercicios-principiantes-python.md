@@ -2,7 +2,7 @@
 layout: post
 title: Ejercicios de programación para principiantes, resueltos en Python
 date: 2019-02-24 19:00:00
-categories: ejercicios
+categories: ejercicios python
 tags: resolución_problemas algoritmos python
 published: true
 ---
@@ -42,6 +42,8 @@ VaRiAbLe=8
 
 #Son todas variables distintas porque Python (como muchos otros lenguajes) distingue mayúsculas y minúsculas.</code></pre>
 
+
+**Código de ejemplo**
 <pre><code>a=5
 a=18
 
