@@ -15,6 +15,7 @@ permalink: /enlaces/
 - <a href="https://www.reddit.com/r/webdev/" target="_blank">r/webdev (web development subreddit)</a>
 - <a href="https://www.reddit.com/r/programming/" target="_blank">r/programming (programming subreddit)</a>
 - <a href="https://dev.to/" target="_blank">dev.to</a>
+- <a href="https://www.womenwhocode.com/" target="_blank">Women Who Code</a>
  
 ### Desafíos y práctica de programación: 
 - <a href="https://leetcode.com/" target="_blank">Leetcode</a>
