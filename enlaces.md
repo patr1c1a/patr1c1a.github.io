@@ -67,6 +67,14 @@ permalink: /enlaces/
 - <a href="http://www.mercedes-benz-challenge.com/" target="_blank">Mercedes Benz Digital Challenge</a>
 - <a href="https://aerolab.co/coding-challenge?medium" target="_blank">AeroLab Coding Challenge</a>
 
+### Podcasts:
+- <a href="https://ar.ivoox.com/es/podcast-code-time_sq_f1277365_1.html" target="_blank">"CodeTime" (en español)</a>
+- <a href="https://ar.ivoox.com/es/podcast-aprender-a-programar_sq_f1406641_1.html" target="_blank">"Aprender a programar" (en español)</a>
+- <a href="https://www.programaresunamierda.com/" target="_blank">"Programar es una mierda" (en español)</a>
+- <a href="https://www.codingblocks.net/" target="_blank">"Coding Blocks" (en inglés)</a>
+- <a href="https://spec.fm/podcasts/developer-tea" target="_blank">"Developer tea" (en inglés)</a>
+- <a href="http://ocdevel.com/mlg" target="_blank">"OCDevel - machine learning guide" (en inglés)</a>
+
 ---
 ---
 
