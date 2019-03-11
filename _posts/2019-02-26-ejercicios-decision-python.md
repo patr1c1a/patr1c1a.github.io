@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ejercicios resueltos de if-else-elif ("selección" ó "decisión") en Python
-date: 2019-02-26
+date: 2019-02-26 23:50
 categories: ejercicios python
 tags: algoritmo estructura if selección decisión
 published: true
