@@ -15,7 +15,8 @@ El código de cada resolución se muestra en un componente interactivo que permi
 Solicitar al usuario un número de cliente. Si el número es el 1000, imprimir "Ganaste un premio".
 <br />
 
-<iframe src="https://trinket.io/embed/python3/f5581bb85a?toggleCode=true&showInstructions=true" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/f5581bb85a?toggleCode=true&runOption=run" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 
 
 
