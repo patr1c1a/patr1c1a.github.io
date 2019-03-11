@@ -10,11 +10,15 @@ published: true
 
 
 Una serie de videos con un curso de programación en Python desde cero: sin necesidad de tener conocimientos previos en programación. 
-<br />&nbsp;
-Por cada video explicando conceptos hay también videos con ejercicios y prácticas, mostrando luego la resolución.
-<br />&nbsp;
+<br />
+Por cada tema hay también videos de práctica con ejercicios y problemas para resolver, mostrando luego la resolución.
+<br />
 Los videos están contenidos en una lista de reproducción con los temas en orden. [También es posible acceder a la lista de videos en YouTube haciendo click acá](https://www.youtube.com/watch?v=PBChlAXf1j0&list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb)
 <br />&nbsp;
 
 {% include youtubePlaylist.html videoid="PBChlAXf1j0" playlistid="PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb" %}
 
+<br />
+
+
+<iframe src="https://trinket.io/embed/python3/ece3e6e20c?toggleCode=true&runOption=run&showInstructions=true" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
