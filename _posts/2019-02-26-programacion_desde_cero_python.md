@@ -19,6 +19,4 @@ Los videos están contenidos en una lista de reproducción con los temas en orde
 {% include youtubePlaylist.html videoid="PBChlAXf1j0" playlistid="PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb" %}
 
 <br />
-
-
-<iframe src="https://trinket.io/embed/python3/ece3e6e20c?toggleCode=true&runOption=run&showInstructions=true" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+&nbsp;
