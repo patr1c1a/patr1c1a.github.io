@@ -7,7 +7,7 @@ tags: ejercicios python
 published: true
 ---
 
-> **Aclaración:** este video de 15 minutos intenta cubrir en forma resumida los conceptos mínimos para comenzar a programar, utilizando el lenguaje Python. Cada persona aprende a su ritmo, por lo que es necesario que, al ver el video, utilices la pausa, lo retrocedas o lo avances las veces que lo necesites.
+**Aclaración:** este video de 15 minutos intenta cubrir en forma resumida los conceptos mínimos para comenzar a programar, utilizando el lenguaje Python. Cada persona aprende a su ritmo, por lo que es necesario que, al ver el video, utilices la pausa, lo retrocedas o lo avances las veces que lo necesites.
 
 Además se ofrecen un documento ejercicios de práctica [que se pueden ver haciendo click acá]({% post_url 2019-02-24-ejercicios-principiantes-python %}) o [descargarlos en formato PDF]({{ site.url }}/assets/aprende-en-15-min-ejercicios.pdf). 
 
