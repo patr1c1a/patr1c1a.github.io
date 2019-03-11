@@ -698,13 +698,14 @@ for i in range(8):
 
 ### 28
 <details> 
-  <summary>Escribí un programa que, dado un número positivo, calcule y muestre su factorial. El factorial de un número se obtiene multiplicando todos los números enteros positivos que hay entre el 1 y ese número.
+  <summary>Escribí un programa que, dado un número entero positivo, calcule y muestre su factorial. El factorial de un número se obtiene multiplicando todos los números enteros positivos que hay entre el 1 y ese número. El factorial de 0 es 1.
 </summary>
 <br>Solución:
 <pre><code>numero=int(input("Número:"))
 f=1
-for i in range(1,numero+1):
-    f=f*i
+if numero!=0:
+    for i in range(1,numero+1):
+        f=f*i
 print("Factorial:", f)
 </code></pre>
 </details>
