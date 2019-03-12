@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Video - Descargar e instalar Python IDLE (Win)
-date: 2019-02-25 09:00:00
+date: 2019-03-01 09:00:00
 categories: python
 tags: ide video
 published: true
