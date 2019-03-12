@@ -6,7 +6,7 @@ permalink: /autora/
 
 ### Trabajo:
 - Docente universitaria de Introducción a la Programación Imperativa y Programación Imperativa ([UNNOBA](http://www.unnoba.edu.ar)).
-- Senior Software Quality Engineer (ámbito privado).
+- Sr. Software QA (ámbito privado).
 
 &nbsp;
 &nbsp;
