@@ -142,6 +142,7 @@ permalink: /enlaces/
 - <a href="https://www.upwork.com/" target="_blank">Upwork</a>
 - <a href="https://www.freelancer.com/" target="_blank">Freelancer.com</a>
 - <a href="https://www.fiverr.com/" target="_blank">Fiverr</a>
+- <a href="https://www.outreachy.org/" target="_blank">Outreachy (pasantías pagas orientadas a minorías)</a>
 - <a href="https://www.utest.com/" target="_blank">uTest (Quality Assurance)</a>
 
 ### Entrenamiento para entrevistas laborales:
