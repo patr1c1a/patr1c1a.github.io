@@ -12,6 +12,7 @@ permalink: /enlaces/
 - <a href="https://es.stackoverflow.com"  target="_blank">Stack overflow, comunidad en español</a>
 - <a href="https://codereview.stackexchange.com" target="_blank">Code Review</a> 
 - <a href="https://www.100daysofcode.com/" target="_blank">#100DaysOfCode</a>
+- <a href="http://code52.org/" target="_blank">52 weeks of code</a>
 - <a href="https://www.reddit.com/r/webdev/" target="_blank">r/webdev (web development subreddit)</a>
 - <a href="https://www.reddit.com/r/programming/" target="_blank">r/programming (programming subreddit)</a>
 - <a href="https://dev.to/" target="_blank">dev.to</a>
