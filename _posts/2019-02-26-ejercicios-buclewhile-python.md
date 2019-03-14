@@ -4,13 +4,13 @@ title: Ejercicios resueltos de bucles "while" en Python
 date: 2019-02-26 23:52
 categories: ejercicios python
 tags: algoritmo estructura repeticion bucle iteracion
-published: false
+published: true
 ---
 
 Acá encontrarás ejercicios para practicar la estructura de control de bucle o repetición condicional (while).
 
 En los siguientes videos podrás ver una explicación de la estructura y también la resolución paso a paso de estos ejercicios:
-+ [Repetición condicional: while]
++ [Repetición condicional: while](https://youtu.be/Rkv3GtEZEnw)
 + [Ejercicios con la estructura de repetición condicional]
 + [Ejercicio con la estructura de repetición condicional]
 
