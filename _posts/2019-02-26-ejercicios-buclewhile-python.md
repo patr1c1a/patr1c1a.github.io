@@ -176,25 +176,6 @@ print("Total de dígitos impares:", totalImpares)</code></pre>
 
 ### 10
 <details> 
-  <summary>Escribir un programa que solicite el ingreso de una cantidad indeterminada de números mayores que 1, finalizando cuando se reciba un cero. 
-Imprimir la cantidad de números primos ingresados.</summary>
-<br>Solución:
-<pre><code>cantidad=0
-n=int(input("Número: "))
-while n!=0:
- primo=True
- for i in range(2,n):
-   if n%i==0:
-     primo=False
-     break
- if primo:
-   cantidad+=1
- n=int(input("Número: "))
-print("primos: ", cantidad)</code></pre>
-</details>
-
-### 11
-<details> 
   <summary>Crear un programa que permita al usuario ingresar títulos de libros por teclado, finalizando el ingreso al leerse el string “*” (asterisco). Cada vez que el usuario ingrese un string de longitud 1 que contenga sólo una barra (“/”) se considera que termina una línea.Por cada línea completa, informar cuántos dígitos numéricos (del 0 al 9) aparecieron en total (en todos los títulos de libros que componen en esa línea). Finalmente, informar cuántas líneas completas se ingresaron.
 <br />**Ejemplo de ejecución:**
 <br />Libro: Los 3 mosqueteros
@@ -225,64 +206,108 @@ while cadena!="*":
 print("Se leyeron ",lineas," líneas completas")</code></pre>
 </details>
 
+
+### 11
+<details> 
+  <summary>Escribir un programa que solicite el ingreso de una cantidad indeterminada de números mayores que 1, finalizando cuando se reciba un cero. 
+Imprimir la cantidad de números primos ingresados.</summary>
+<br>Solución:
+<pre><code>cantidad=0
+n=int(input("Número: "))
+while n!=0:
+ primo=True
+ for i in range(2,n):
+   if n%i==0:
+     primo=False
+     break
+ if primo:
+   cantidad+=1
+ n=int(input("Número: "))
+print("primos: ", cantidad)</code></pre>
+</details>
+
+
 ### 12
 <details> 
-  <summary>Escribir un programa que procese un texto. Se debe ofrecer al usuario un menú para realizar distintas funcionalidades:
-<br />a) Imprimir la cantidad de consonantes en el texto.
-<br />b) Imprimir la la cantidad de caracteres de cada palabra, cantidad de palabras en el texto y la palabra más larga.
-<br />c) Imprimir la frecuencia de los caracteres repetidos en el texto (sólo una vez por cada carácter).
-<br />d) Salir del programa.
-<br />Se debe validar que la opción del menú elegida sea a, b, c ó d, dejando al usuario en un bucle en caso de ingreso inválido.
+  <summary>Escribir un programa que permita al usuario ingresar dos años y luego imprima todos los años en ese rango, que sean bisiestos y múltiplos de 10.
+Nota: para que un año sea bisiesto debe ser divisible por 4 y no debe ser divisible por 100, excepto que también sea divisible por 400.</summary>
+<br>Solución:
+<pre><code>anioInicio=int(input("Año inicial:"))
+anioFin=int(input("Año final:"))
+for anio in range(anioInicio, anioFin+1):
+   if not anio%10==0:
+       continue
+   if not anio%4==0:
+       continue
+   if anio%100!=0 or anio%400==0:
+       print(anio)</code></pre>
+</details>
+
+
+### 13
+<details> 
+  <summary>Escribir un programa que procese un texto. Se debe ofrecer al usuario un menú para realizar distintas funcionalidades  de forma iterativa:
+<br />a) Ingresar texto a procesar.
+<br />b) Imprimir la cantidad de consonantes en el texto.
+<br />c) Imprimir la la cantidad de caracteres de cada palabra, cantidad de palabras en el texto y la palabra más larga.
+<br />d) Imprimir la frecuencia de los caracteres repetidos en el texto (sólo una vez por cada carácter).
+<br />e) Salir del programa.
+<br />Se debe validar que la opción del menú elegida sea a, b, c, d ó e, dejando al usuario en un bucle en caso de ingreso inválido.
 <br />Precondiciones: El texto no será vacío. Cada palabra estará delimitada por un espacio en blanco, sin importar si las palabras tienen sentido o no.
 </summary>
 <br>Solución:
-<pre><code>cadena=input("Texto a procesar: ")
+<pre><code>cadena=""
 while True:
-   print("Seleccione opción:")
-   print("a. Cantidad de consonantes en el texto")
-   print("b. Cantidad de palabras, caracteres de cada palabra y palabra más larga")
-   print("c. Caracteres repetidos")
-   print("d. Salir del programa")
+  print("Seleccione opción:")
+  print("a. Texto a procesar")
+  print("b. Cantidad de consonantes en el texto")
+  print("c. Cantidad de palabras, caracteres de cada palabra y palabra más larga")
+  print("d. Caracteres repetidos")
+  print("e. Salir del programa")
 
-   #validación
-   opcion=input()
-   while len(opcion)!=1 or opcion not in "abcd":
-       opcion=input("Ingreso no válido. Vuelva a intentar: ")
+  #validación
+  opcion=input()
+  while len(opcion)!=1 or opcion not in "abcde":
+      opcion=input("Ingreso no válido. Vuelva a intentar: ")
 
-   if opcion=="a":
-       consonantes="bcdfghjklmnñpqrstvwxyz"
-       cantConsonantes=0
-       for caracter in cadena:
-           if caracter in consonantes:
-               cantConsonantes+=1
-       print("Cantidad de consonantes", cantConsonantes)
-      
-   elif opcion=="b":
-       palabraMasLarga=""
-       lenMasLarga=0
-       cantPalabras=0
-       texto=cadena.strip()
-       if len(texto)!=0:
-           texto+=" "
-       while " " in texto:
-           cantPalabras+=1
-           palabra=texto[0:texto.find(" ")]
-           print("Cantidad de caracteres de",palabra, ":", len(palabra))
-           if len(palabra) > lenMasLarga:
-               lenMasLarga=len(palabra)
-               palabraMasLarga=palabra
-           texto=texto[texto.find(" ")+1:]
-       print("Palabra mas larga: ",palabraMasLarga)
-       print("Cantidad total de palabras: ",cantPalabras)
+  if opcion=="a":
+      cadena=input("Nuevo texto a procesar: ")
 
-   elif opcion=="c":
-       mostrados=""
-       for c in cadena:
-           if (cadena.count(c)>1) and (c not in mostrados):
-               print("Cantidad de", c, ":", cadena.count(c))
-               mostrados+=c
-       if len(mostrados)==0:
-           print("No hay caracteres repetidos")
-   elif opcion=="d":
-       break</code></pre>
+  elif opcion=="b":
+      consonantes="bcdfghjklmnñpqrstvwxyz"
+      cantConsonantes=0
+      for caracter in cadena:
+          if caracter in consonantes:
+              cantConsonantes+=1
+      print("Cantidad de consonantes", cantConsonantes)
+    
+  elif opcion=="c":
+      palabraMasLarga=""
+      lenMasLarga=0
+      cantPalabras=0
+      texto=cadena.strip()
+      if len(texto)!=0:
+          texto+=" "
+      while " " in texto:
+          cantPalabras+=1
+          palabra=texto[0:texto.find(" ")]
+          print("Cantidad de caracteres de",palabra, ":", len(palabra))
+          if len(palabra) > lenMasLarga:
+              lenMasLarga=len(palabra)
+              palabraMasLarga=palabra
+          texto=texto[texto.find(" ")+1:]
+      print("Palabra mas larga: ",palabraMasLarga)
+      print("Cantidad total de palabras: ",cantPalabras)
+
+  elif opcion=="d":
+      mostrados=""
+      for c in cadena:
+          if (cadena.count(c)>1) and (c not in mostrados):
+              print("Cantidad de", c, ":", cadena.count(c))
+              mostrados+=c
+      if len(mostrados)==0:
+          print("No hay caracteres repetidos")
+  
+  elif opcion=="e":
+      break</code></pre>
 </details>
