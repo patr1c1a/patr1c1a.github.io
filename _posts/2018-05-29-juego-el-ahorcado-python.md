@@ -85,7 +85,8 @@ Si todas las letras de la palabra en juego fueron arriesgadas por el jugador, en
 
 **ahorcado.py (no debe modificarse)**
 
-<pre><code>listado=[]
+<pre><code>from funciones import *
+listado=[]
 while (True):
     print("Seleccionar opción deseada")
     print("1. Cargar palabras")
