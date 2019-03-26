@@ -88,7 +88,7 @@ Si todas las letras de la palabra en juego fueron arriesgadas por el jugador, en
 
 <pre><code>from funciones import *
 listado=[]
-while (True):
+while True:
     print("Seleccionar opción deseada")
     print("1. Cargar palabras")
     print("2. Jugar")
@@ -103,7 +103,7 @@ while (True):
        print("La palabra tiene ", len(palabra), " letras.")
        while intentosRestantes > 0:
            if palabraCompleta(palabra, letrasAdivinadas):
-               print("Ganaste!")
+               print("¡Ganaste!")
                break
            mostrar=progresoDelJuego(palabra, letrasAdivinadas)
            print(mostrar)
@@ -111,11 +111,14 @@ while (True):
            letrasAdivinadas.add(letra)
            if letra not in palabra:
                intentosRestantes-=1
-               print("NOP! Intentos restantes: ", intentosRestantes)
+               print("¡NOP! Intentos restantes: ", intentosRestantes)
            else:
-               print("SIP!")
+               print("¡SIP!")
    elif opcion==3:
-       break</code></pre>
+       print("¡Hasta la próxima!")
+       break
+   else:
+       print("Opción inválida")</code></pre>
 
 **funciones.py**
 
