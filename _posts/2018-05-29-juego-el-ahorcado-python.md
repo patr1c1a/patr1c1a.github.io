@@ -39,7 +39,8 @@ El juego termina cuando:
 
 ## Ejecución
 
-Para probar el juego se debe ejecutar con Python 3 el programa **ahorcado.py**.
+Para probar el juego se deben descomprimir los archivos en una misma carpeta y luego ejecutar con Python 3 el programa **ahorcado.py**. Tal como está, el programa utilizará el archivo _funciones.py_, por lo que no se ejecutará correctamente hasta haber completado las funciones faltantes. Para probar el programa completo se debe cambiar, en _ahorcado.py_, la primera línea por lo siguiente:
+> from funciones_completo import *
 
 
 ## Código
