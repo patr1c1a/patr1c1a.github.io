@@ -11,8 +11,8 @@ Acá encontrarás ejercicios para practicar la estructura de control de bucle o 
 
 En los siguientes videos podrás ver una explicación de la estructura y también la resolución paso a paso de estos ejercicios:
 + [Repetición condicional: while](https://youtu.be/Rkv3GtEZEnw)
-+ [Ejercicios con la estructura de repetición condicional]
-+ [Ejercicio con la estructura de repetición condicional]
++ [Ejercicios con la estructura de repetición condicional](https://www.youtube.com/watch?v=I6T_qjYiDDM)
++ [Ejercicios con break y continue](https://www.youtube.com/watch?v=lG-DTUOZVZg)
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
@@ -227,70 +227,3 @@ print("primos: ", cantidad)</code></pre>
 </details>
 
 
-### 12
-<details> 
-  <summary>Escribir un programa que procese un texto. Se debe ofrecer al usuario un menú para realizar distintas funcionalidades  de forma iterativa:
-<br />a) Ingresar texto a procesar.
-<br />b) Imprimir la cantidad de consonantes en el texto.
-<br />c) Imprimir la la cantidad de caracteres de cada palabra, cantidad de palabras en el texto y la palabra más larga.
-<br />d) Imprimir la frecuencia de los caracteres repetidos en el texto (sólo una vez por cada carácter).
-<br />e) Salir del programa.
-<br />Se debe validar que la opción del menú elegida sea a, b, c, d ó e, dejando al usuario en un bucle en caso de ingreso inválido.
-<br />Precondiciones: El texto no será vacío. Cada palabra estará delimitada por un espacio en blanco, sin importar si las palabras tienen sentido o no.
-</summary>
-<br>Solución:
-<pre><code>cadena=""
-while True:
-  print("Seleccione opción:")
-  print("a. Texto a procesar")
-  print("b. Cantidad de consonantes en el texto")
-  print("c. Cantidad de palabras, caracteres de cada palabra y palabra más larga")
-  print("d. Caracteres repetidos")
-  print("e. Salir del programa")
-
-  #validación
-  opcion=input()
-  while len(opcion)!=1 or opcion not in "abcde":
-      opcion=input("Ingreso no válido. Vuelva a intentar: ")
-
-  if opcion=="a":
-      cadena=input("Nuevo texto a procesar: ")
-
-  elif opcion=="b":
-      consonantes="bcdfghjklmnñpqrstvwxyz"
-      cantConsonantes=0
-      for caracter in cadena:
-          if caracter in consonantes:
-              cantConsonantes+=1
-      print("Cantidad de consonantes", cantConsonantes)
-    
-  elif opcion=="c":
-      palabraMasLarga=""
-      lenMasLarga=0
-      cantPalabras=0
-      texto=cadena.strip()
-      if len(texto)!=0:
-          texto+=" "
-      while " " in texto:
-          cantPalabras+=1
-          palabra=texto[0:texto.find(" ")]
-          print("Cantidad de caracteres de",palabra, ":", len(palabra))
-          if len(palabra) > lenMasLarga:
-              lenMasLarga=len(palabra)
-              palabraMasLarga=palabra
-          texto=texto[texto.find(" ")+1:]
-      print("Palabra mas larga: ",palabraMasLarga)
-      print("Cantidad total de palabras: ",cantPalabras)
-
-  elif opcion=="d":
-      mostrados=""
-      for c in cadena:
-          if (cadena.count(c)>1) and (c not in mostrados):
-              print("Cantidad de", c, ":", cadena.count(c))
-              mostrados+=c
-      if len(mostrados)==0:
-          print("No hay caracteres repetidos")
-  
-  elif opcion=="e":
-      break</code></pre>
-</details>
