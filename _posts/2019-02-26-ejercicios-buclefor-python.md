@@ -13,6 +13,7 @@ En los siguientes videos podrás ver una explicación de la estructura y tambié
 + [Repetición fija: for](https://www.youtube.com/watch?v=TPXPoUkUNqg)
 + [Ejercicios con la estructura de repetición fija](https://www.youtube.com/watch?v=cmFX38TpxNM)
 + [Ejercicio con la estructura de repetición fija](https://www.youtube.com/watch?v=7fBMgfbD570)
++ [Ejercicios con break y continue](https://www.youtube.com/watch?v=lG-DTUOZVZg)
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
@@ -166,23 +167,6 @@ else:
 
 ### 12
 <details> 
-  <summary>Escribir un programa que permita al usuario ingresar dos años y luego imprima todos los años en ese rango, que sean bisiestos y múltiplos de 10.
-Nota: para que un año sea bisiesto debe ser divisible por 4 y no debe ser divisible por 100, excepto que también sea divisible por 400.</summary>
-<br>Solución:
-<pre><code>anioInicio=int(input("Año inicial:"))
-anioFin=int(input("Año final:"))
-for anio in range(anioInicio, anioFin+1):
-   if not anio%10==0:
-       continue
-   if not anio%4==0:
-       continue
-   if anio%100!=0 or anio%400==0:
-       print(anio)</code></pre>
-</details>
-
-
-### 13
-<details> 
   <summary>Un grupo de amigos decide organizar un juego de estrategia, para lo cual forman dos equipos de 6 integrantes cada uno, donde un integrante de cada equipo es el “jefe” y los otros 5 son sus “oficiales”. La regla más importante del juego es que sólo se comunicarán mediante un canal común, por lo que deben buscar la forma de ocultar el contenido de sus mensajes. Uno de los equipos decide utilizar un método antiguo de encriptación llamado “la cifra del césar”, que consiste en correr cada letra del mensaje –considerando la posición de cada una en el alfabeto– una determinada cantidad de lugares. Ejemplo: si el corrimiento es de 2 lugares, la palabra “ATAQUE” se transforma en “CVCSWG”.
 <br />Cada día, el “jefe” del equipo debe enviar un mensaje a cada uno de sus oficiales. Escribir un programa que permita encriptar los 5 mensajes. El corrimiento (cantidad de lugares que se correrán las letras) será dado por el usuario antes de comenzar a encriptar. Los 5 mensajes usarán el mismo corrimiento. 
 <br />Nota: si el alfabeto termina antes de poder correr la cantidad de lugares necesarios, se vuelve a comenzar desde la letra “a”. Ejemplo: la palabra “EXTRA” corrida 3 lugares se convierte en “HAWUD”. Utilizando el alfabeto español, de 27 letras, el siguiente cálculo matemático permite volver a comenzar por el principio una vez que se llegó a la “z”: (índice de la letra a correr+corrimiento)%27
@@ -201,4 +185,21 @@ for i in range(5):
         else:
              encriptado+=caracter
      print("*** Mensaje encriptado: ", encriptado)</code></pre>
+</details>
+
+
+### 13
+<details> 
+  <summary>Escribir un programa que permita al usuario ingresar dos años y luego imprima todos los años en ese rango, que sean bisiestos y múltiplos de 10.
+Nota: para que un año sea bisiesto debe ser divisible por 4 y no debe ser divisible por 100, excepto que también sea divisible por 400.</summary>
+<br>Solución:
+<pre><code>anioInicio=int(input("Año inicial:"))
+anioFin=int(input("Año final:"))
+for anio in range(anioInicio, anioFin+1):
+   if not anio%10==0:
+       continue
+   if not anio%4==0:
+       continue
+   if anio%100!=0 or anio%400==0:
+       print(anio)</code></pre>
 </details>
