@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ejercicios resueltos de funciones en Python
-date: 2019-03-10 23:51
+date: 2019-03-10 23:53
 categories: ejercicios python
 tags: algoritmo estructura funciones
 published: true
