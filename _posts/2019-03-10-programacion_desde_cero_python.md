@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Videos - Programación desde cero con Python
-date: 2019-02-26
+date: 2019-03-10
 categories: conceptos python
 tags: algoritmo bucle if while selección
 published: true
