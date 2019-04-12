@@ -50,7 +50,7 @@ else:
 <br>&nbsp;
 num=int(input("Número a procesar: "))
 while num!=0:
-	  print("Suma:",sumaDigitos(num))
+    print("Suma:",sumaDigitos(num))
     num=int(input("Número a procesar: "))</code></pre>
 </details>
 
@@ -72,7 +72,7 @@ Al finalizar, mostrar la sumatoria de todos los números ingresados y la suma de
 sumatoria=0
 num=int(input("Número a procesar: "))
 while num!=0:
-	  print("Suma:",sumaDigitos(num))
+    print("Suma:",sumaDigitos(num))
     sumatoria=sumatoria+num
     num=int(input("Número a procesar: "))
 print("Sumatoria:", sumatoria)
