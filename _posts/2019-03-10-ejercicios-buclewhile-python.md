@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ejercicios resueltos de bucles "while" en Python
-date: 2019-02-26 23:52
+date: 2019-03-10 23:52
 categories: ejercicios python
 tags: algoritmo estructura repeticion bucle iteracion
 published: true
