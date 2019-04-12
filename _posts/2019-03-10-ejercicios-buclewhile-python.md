@@ -19,6 +19,7 @@ La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 ### 1
 <details> 
   <summary>Leer números enteros de teclado, hasta que el usuario ingrese el 0. Finalmente, mostrar la sumatoria de todos los números ingresados.</summary>
+<br>Solución:
   <pre><code>total=0
 nro=int(input("Número: "))
 while nro != 0:
@@ -226,4 +227,28 @@ while n!=0:
 print("primos: ", cantidad)</code></pre>
 </details>
 
-
+### 12
+<details> 
+  <summary>Solicitar al usuario que ingrese una frase y luego informar cuál fue la palabra más larga (en caso de haber más de una, mostrar la primera) y cuántas palabras había. Precondición: se tomará como separador de palabras al carácter “ “ (espacio), ya sea uno o más.</summary>
+<br>Solución:
+<pre><code>frase=input("Frase: ").strip()
+cantidad=0
+len_p_mas_larga=0
+while len(frase) != 0:
+    cantidad=cantidad+1
+    i=frase.find(" ")
+    if i != -1:
+        palabra=frase[0:i]
+        while i < len(frase) and frase[i] == " ":
+            i=i+1
+        frase=frase[i:]
+    else:
+        palabra=frase
+        frase=""
+    if len(palabra) > len_p_mas_larga:
+        len_p_mas_larga=len(palabra)
+        p_mas_larga=palabra
+if cantidad > 0:
+    print("Palabra más larga:", p_mas_larga)
+print("Cantidad de palabras:", cantidad)</code></pre>
+</details>
