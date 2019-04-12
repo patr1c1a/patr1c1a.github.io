@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ejercicios resueltos de bucles "for" en Python
-date: 2019-02-26 23:51
+date: 2019-03-10 23:51
 categories: ejercicios python
 tags: algoritmo estructura if selección decisión
 published: true
