@@ -20,6 +20,7 @@ La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 ### 1
 <details> 
   <summary>Imprimir todos los dígitos decimales, del 0 al 9, utilizando una repetición.</summary>
+  <br>Solución:
   <pre><code>for x in range(10):
     print(x)</code></pre>
 </details>
