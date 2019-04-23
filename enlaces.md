@@ -173,10 +173,9 @@ Algunos estudiantes se frustran al encontrarse con obstáculos para iniciarse en
 - <a href="https://readtheory.org/" target="_blank">Read Theory - Online reading activities</a>
 - <a href="https://www.english-online.at/" target="_blank">English Online</a>
 
-### Razonamiento lógico:
+### Razonamiento lógico y resolución de problemas (general):
+- <a href="https://www.youtube.com/watch?v=DvoZumPrJcM" target="_blank">Ejercicios de razonamiento lógico con su resolución (video)</a>
 - <a href="http://ntic.educacion.es/w3/eos/MaterialesEducativos/mem2009/problematic/" target="_blank">Problemas de razonamiento lógico (juegos)</a>
-
-### Resolución de problemas (general):
 - <a href="https://www.youtube.com/watch?v=preUTdOwXhU" target="_blank">Pasos para resolver un problema de matemáticas (video)</a>
 - <a href="http://www.conocimientosweb.net/zip/article814.html" target="_blank">Pasos para la solución de problemas</a>
 - <a href="http://www2.caminos.upm.es/Departamentos/matematicas/Fdistancia/PIE/Problemas/ESTRATEGIAS%20HEUR%C3%8DSTICAS.pdf" target="_blank">Estrategias heurísticas (PDF)</a>
@@ -189,6 +188,7 @@ Algunos estudiantes se frustran al encontrarse con obstáculos para iniciarse en
 - <a href="http://www.slideshare.net/videoconferencias/logica-de-la-programacin-problemas-y-soluciones" target="_blank">Lógica de la programación (presentación)</a>
 - <a href="http://es.wikipedia.org/wiki/Resoluci%C3%B3n_de_problemas_de_programaci%C3%B3n" target="_blank">Resolución de problemas de programación</a>
 - <a href="http://www.slideshare.net/grachika/como-hacer-un-pseudocodigo-y-diagrama" target="_blank">Cómo hacer pseudocódigo y diagramas de flujo (presentación)</a>
+- <a href="http://flowgorithm.org/ target="_blank">Flowgorithm - crear diagramas de flujo y convertirlos a un lenguaje de programación</a>
 
 ### Comprensión de problemas:
 - <a href="https://www.youtube.com/watch?v=Pm_Bt7_j91s" target="_blank">Estrategias de comprensión lectora (video)</a>
