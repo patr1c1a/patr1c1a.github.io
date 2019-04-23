@@ -188,7 +188,7 @@ Algunos estudiantes se frustran al encontrarse con obstáculos para iniciarse en
 - <a href="http://www.slideshare.net/videoconferencias/logica-de-la-programacin-problemas-y-soluciones" target="_blank">Lógica de la programación (presentación)</a>
 - <a href="http://es.wikipedia.org/wiki/Resoluci%C3%B3n_de_problemas_de_programaci%C3%B3n" target="_blank">Resolución de problemas de programación</a>
 - <a href="http://www.slideshare.net/grachika/como-hacer-un-pseudocodigo-y-diagrama" target="_blank">Cómo hacer pseudocódigo y diagramas de flujo (presentación)</a>
-- <a href="http://flowgorithm.org/ target="_blank">Flowgorithm - crear diagramas de flujo y convertirlos a un lenguaje de programación</a>
+- <a href="http://flowgorithm.org" target="_blank">Flowgorithm - crear diagramas de flujo y convertirlos a un lenguaje de programación</a>
 
 ### Comprensión de problemas:
 - <a href="https://www.youtube.com/watch?v=Pm_Bt7_j91s" target="_blank">Estrategias de comprensión lectora (video)</a>
