@@ -13,8 +13,8 @@ En los siguientes videos podrás ver una explicación del tema y también la res
 + [Funciones](https://www.youtube.com/watch?v=IF34NgjldXs)
 + [Ejemplos de funciones](https://www.youtube.com/watch?v=ivcnLfOkbrU)
 + [Errores comunes con funciones](https://youtu.be/LD61E3g6GjM)
-+ [Ejercicios con funciones] (https://www.youtube.com/watch?v=Uze9KWL6ZGs)
-+ [Ejercicio con varias funciones] (https://www.youtube.com/watch?v=N_-YhYH_DyU)
++ [Ejercicios con funciones](https://www.youtube.com/watch?v=Uze9KWL6ZGs)
++ [Ejercicio con varias funciones](https://www.youtube.com/watch?v=N_-YhYH_DyU)
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
@@ -219,17 +219,17 @@ print("Factorial de",mayor,":",factorial(mayor))</code></pre>
 <details> 
   <summary>Sin ejecutar el siguiente programa, determinar cuál es la salida en pantalla si se ingresan los valores x=6, y=7:
 <pre><code>def coordenadaZ(x,y):
-	x=x+10
-	y=y+15
-	return x+y
+  x=x+10
+  y=y+15
+  return x+y
 <br>&nbsp;
 #programa principal
 x=int(input("Coordenada eje x: "))
 y=int(input("Coordenada eje y: "))
 for i in range(3):
-	z=coordenadaZ(x,y)
-	x=x+1
-	y=y+1
+  z=coordenadaZ(x,y)
+  x=x+1
+  y=y+1
 print(x," . ",y)</code></pre></summary>
 <br>Solución: 9 . 10
 </details>
@@ -240,15 +240,15 @@ print(x," . ",y)</code></pre></summary>
   <summary>El siguiente programa debería imprimir el número 2 si se le ingresan como valores x=5, y=1 pero en su lugar imprime 5. ¿Qué hay que corregir?
 <pre><code>def maximo(a,b):
   if x>y:
-		return x
+    return x
   else:
-		return y
+    return y
 <br>&nbsp;
 def minimo(a,b):
   if x<y:
-		return x
+    return x
   else:
-		return y
+    return y
 <br>&nbsp;
 #programa principal
 x=int(input("Un número: "))
@@ -342,7 +342,7 @@ while nombre!="":
    dni=int(input("DNI del socio: "))
    while !(DNIvalido(dni)):
       print("Número inválido.")
-dni=int(input("DNI del socio: "))
+   dni=int(input("DNI del socio: "))
    print(obtenerIdentificador(nombre,dni))
    nombre=input("Nombre del socio: ")</code></pre>
 </details>
