@@ -325,9 +325,9 @@ def DNIvalido(dni):
    return cantidad==7 or cantidad==8
 <br>&nbsp;
 def primerosTresDigitos(numero):
- while numero >= 1000:
-   numero = numero // 10
- return numero
+   while numero >= 1000:
+     numero = numero // 10
+   return numero
 <br>&nbsp;
 def obtenerIdentificador(nombre, dni):
    nombre=nombre.strip()
@@ -342,7 +342,7 @@ while nombre!="":
    dni=int(input("DNI del socio: "))
    while !(DNIvalido(dni)):
       print("Número inválido.")
-   dni=int(input("DNI del socio: "))
+      dni=int(input("DNI del socio: "))
    print(obtenerIdentificador(nombre,dni))
    nombre=input("Nombre del socio: ")</code></pre>
 </details>
