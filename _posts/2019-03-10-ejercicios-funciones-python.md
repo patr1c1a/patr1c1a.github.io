@@ -15,6 +15,7 @@ En los siguientes videos podrás ver una explicación del tema y también la res
 + [Errores comunes con funciones](https://youtu.be/LD61E3g6GjM)
 + [Ejercicios con funciones](https://www.youtube.com/watch?v=Uze9KWL6ZGs)
 + [Ejercicio con varias funciones](https://www.youtube.com/watch?v=N_-YhYH_DyU)
++ [Pruebas (casos de prueba doctests, testing unitario)](https://youtu.be/ZJP0Z5-sbeY)
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
