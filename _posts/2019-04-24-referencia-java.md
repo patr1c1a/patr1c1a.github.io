@@ -13,4 +13,4 @@ published: true
 
 ![clases]({{ site.url }}/assets/referencia-java.png)
 
-![clases]({{ site.url }}/assets/referencia_java-poo.png)
+![clases]({{ site.url }}/assets/referencia_java_poo.png)
