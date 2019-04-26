@@ -294,7 +294,7 @@ Para que un número de DNI sea válido debe tener entre 7 y 8 dígitos.</summary
 
 
 
-### 12
+### 13
 <details> 
   <summary>Escribir un programa que permita al usuario obtener un identificador para cada uno de los socios de un club. Para eso ingresará nombre completo y número de DNI de cada socio, indicando que finalizará el procesamiento mediante el ingreso de un nombre vacío.
     <br>Precondición: el formato del nombre de los socios será: nombre apellido. Podría ingresarse más de un nombre, en cuyo caso será: nombre1 nombre2 apellido. Si un socio tuviera más de un apellido, el usuario sólo ingresará uno.
@@ -345,4 +345,54 @@ while nombre!="":
       dni=int(input("DNI del socio: "))
    print(obtenerIdentificador(nombre,dni))
    nombre=input("Nombre del socio: ")</code></pre>
+</details>
+
+
+
+### 14
+<details> 
+  <summary>Escribir la función titulo(), la cual recibe un string y lo retorna convirtiendo la primera letra de cada palabra a mayúscula y las demás letras a minúscula, dejando inalterados los demás caracteres. Precondición: el separador de palabras es el espacio: " ".
+Agregar doctests con suficientes casos de prueba para validar que la función retorna el valor esperado ante distintos argumentos.</summary>
+<br>Solución:
+<pre><code>def titulo(cadena):
+    '''
+    Recibe una cadena de caracteres y retorna una copia que tiene la
+    primera letra de cada palabra en mayúsculas y el resto de las letras
+    en minúsculas.
+    >>> titulo('esto es una frase')
+    'Esto Es Una Frase'
+    >>> titulo('ESTO ES UNA FRASE')
+    'Esto Es Una Frase'
+    >>> titulo('palabra')
+    'Palabra'
+    >>> titulo('   esto es una frase')
+    '   Esto Es Una Frase'
+    >>> titulo('esto es una frase   ')
+    'Esto Es Una Frase   '
+    >>> titulo('esto   es   una   frase')
+    'Esto   Es   Una   Frase'
+    >>> titulo('')
+    ''
+    >>> titulo(' ')
+    ' '
+    >>> titulo('123')
+    '123'
+    >>> titulo('-1esto 2es 3una 4frase')
+    '-1Esto 2Es 3Una 4Frase'
+    >>> titulo('esto1 es2 una3 frase4---')
+    'Esto1 Es2 Una3 Frase4---'
+    '''
+    nueva=""
+    inicioPalabra=True              #indica el inicio de una palabra
+    for caracter in cadena:
+        if not caracter.isalpha():
+            nueva=nueva+caracter
+            inicioPalabra=True
+        else:
+            if inicioPalabra:
+                nueva=nueva+caracter.upper()
+                inicioPalabra=False  #ya no es el inicio de una palabra 
+            else:
+                nueva=nueva+caracter.lower()
+    return nueva</code></pre>
 </details>
