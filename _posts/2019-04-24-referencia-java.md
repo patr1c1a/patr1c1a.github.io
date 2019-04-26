@@ -7,13 +7,9 @@ tags: herramientas resumen
 published: true
 ---
 
-[Descargar en PDF hoja de Java básico]({{ site.url }}/assets/referencia_java.pdf)
+[Descargar en PDF]({{ site.url }}/assets/referencia_java.pdf)
 
-[Descargar en PDF hoja de Java POO]({{ site.url }}/assets/referencia_java_poo.pdf)
-
-[Versión para impresión hoja de Java básico]({{ site.url }}/assets/referencia_java_impresion.pdf)
-
-[Versión para impresión hoja de Java POO]({{ site.url }}/assets/referencia_java_poo_impresion.pdf)
+[Versión para impresión]({{ site.url }}/assets/referencia_java_impresion.pdf)
 
 ![clases]({{ site.url }}/assets/referencia-java.png)
 
