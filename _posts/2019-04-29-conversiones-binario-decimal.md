@@ -11,6 +11,6 @@ published: true
 
 [Versión para impresión]({{ site.url }}/assets/conversiones_binario_decimal_impresion.pdf)
 
-![binario-decimal]({{ site.url }}/assets/binario-decimal.png)
+![binario-decimal]({{ site.url }}/assets/binario_decimal.png)
 
-![decimal-binario]({{ site.url }}/assets/decimal-binario.png)
+![decimal-binario]({{ site.url }}/assets/decimal_binario.png)
