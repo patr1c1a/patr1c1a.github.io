@@ -11,4 +11,4 @@ published: true
 
 [Versión para impresión]({{ site.url }}/assets/referencia_python_impresion.pdf)
 
-![clases]({{ site.url }}/assets/referencia-python.png)
+![Python 3]({{ site.url }}/assets/referencia-python.png)
