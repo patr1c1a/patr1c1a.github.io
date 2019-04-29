@@ -4,7 +4,7 @@ title: Hojas de referencia de Java
 date: 2019-04-29 11:30:00
 categories: conceptos
 tags: herramientas resumen
-published: false
+published: true
 ---
 
 [Descargar en PDF]({{ site.url }}/assets/conversiones_binario_decimal.pdf)
