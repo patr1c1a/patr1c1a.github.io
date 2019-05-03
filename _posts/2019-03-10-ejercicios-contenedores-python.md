@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ejercicios resueltos de contenedores en Python
-date: 2019-03-10 23:53
+date: 2019-03-10 23:55
 categories: ejercicios python
 tags: algoritmo estructura listas tuplas conjuntos diccionarios contenedores
 published: true
