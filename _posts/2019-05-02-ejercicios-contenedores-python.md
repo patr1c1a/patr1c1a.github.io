@@ -11,6 +11,7 @@ Acá encontrarás ejercicios para practicar programar usando estructuras de dato
 
 En los siguientes videos podrás ver una explicación del tema y también la resolución paso a paso de estos ejercicios:
 + [Listas y tuplas](https://www.youtube.com/watch?v=TEHBEGj1MSU)
++ [Ejercicios de listas y tuplas](https://youtu.be/0NTaCJQUE1I)
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
@@ -70,7 +71,7 @@ for tupla in frecuencias(numeros):
 ### 2
 <details> 
   <summary>Escribir un programa que permita procesar datos de pasajeros de viaje en una lista de tuplas con la siguiente forma: (nombre, dni, destino). Ejemplo: [("Manuel Juarez", 19823451, "Liverpool"), ("Silvana Paredes", 22709128, "Buenos Aires"), ("Rosa Ortiz", 15123978, "Glasgow"), ("Luciana Hernandez", 38981374, "Lisboa")]
-Además, en otra lista de tuplas se almacenan los datos de cada ciudad y el país al que pertenecen. Ejemplo: [("Buenos Aires","Argentina"), ("Glasgow","Escocia"), ("Lisboa", "Portugal"), ("Liverpol","Inglaterra"), ("Madrid","España")]
+Además, en otra lista de tuplas se almacenan los datos de cada ciudad y el país al que pertenecen. Ejemplo: [("Buenos Aires","Argentina"), ("Glasgow","Escocia"), ("Lisboa", "Portugal"), ("Liverpool","Inglaterra"), ("Madrid","España")]
 Hacer un menú iterativo que permita al usuario realizar las siguientes operaciones:
 <br>-Agregar pasajeros a la lista de viajeros.
 <br>-Agregar ciudades a la lista de ciudades.
@@ -87,7 +88,6 @@ Hacer un menú iterativo que permita al usuario realizar las siguientes operacio
         destino=input("Ciudad destino: ")
         pasajeros.append((nombre,dni,destino))
         nombre=input("Nombre -x para cortar: ")
-    print(pasajeros)
     return pasajeros
 <br>&nbsp;
 def agregarCiudades(ciudades):
@@ -96,7 +96,6 @@ def agregarCiudades(ciudades):
         pais=input("País: ")
         ciudades.append((ciudad,pais))
         ciudad=input("Ciudad -x para cortar: ")
-    print(ciudades)
     return ciudades
 <br>&nbsp;
 def buscarCiudad(pasajeros, dni):
