@@ -4,7 +4,7 @@ title: Ejercicios resueltos de contenedores en Python
 date: 2019-03-10 23:53
 categories: ejercicios python
 tags: algoritmo estructura listas tuplas conjuntos diccionarios contenedores
-published: false
+published: true
 ---
 
 Acá encontrarás ejercicios para practicar programar usando estructuras de datos.
