@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ejercicios resueltos de contenedores en Python
+title: Ejercicios resueltos de estructuras de datos en Python
 date: 2019-03-10 23:55
 categories: ejercicios python
 tags: algoritmo estructura listas tuplas conjuntos diccionarios contenedores
@@ -15,6 +15,7 @@ En los siguientes videos podrás ver una explicación del tema y también la res
 + [Ejercicio integrador de listas y tuplas](https://www.youtube.com/watch?v=8fKMHKvDieU)
 + [Conjuntos](https://www.youtube.com/watch?v=ZP-6dkGxizE)
 + [Ejercicios de conjuntos](https://www.youtube.com/watch?v=ZP-6dkGxizE)
++ [Diccionarios](https://www.youtube.com/watch?v=ymaBXPjiaPY)
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
@@ -212,4 +213,108 @@ for nombre in primaria-secundaria:
    for venta in ventas:
        domicilios.add(venta[3])
    return domicilios</code></pre>
+</details>
+
+
+### 5
+<details> 
+  <summary>Escribir un programa que procese strings ingresados por el usuario. La lectura finaliza cuando se hayan procesado 50 strings. Al finalizar, informar la cantidad total de ocurrencias de cada carácter, en todos los strings ingresados. Ejemplo: "r":5, "%":3, "a":8, "9":1.
+<br>¿Cómo se podrían informar las ocurrencias de las letras del alfabeto únicamente, incluyendo el valor 0 para las letras que no aparecieron?</summary>
+<br>Solución:
+<pre><code>contadores={}
+for i in range(50):
+   cadena=input("Cadena de caracteres: ")
+   for caracter in cadena:
+       if caracter not in contadores:
+           contadores[caracter]=1
+       else:
+           contadores[caracter]+=1
+print("Frecuencia de cada carácter")
+for caracter, cantidad in contadores.items():
+   print(caracter, ": ", cantidad)</code></pre>
+<br>Para contabilizar sólo letras (mayúsculas y minúsculas por separado):
+<pre><code>contadores={}
+alfabeto="abcdefghijklmnñopqrstuvwxyz"
+for letra in alfabeto+alfabeto.upper():
+    contadores[letra]=0
+for i in range(50):
+   cadena=input("Cadena de caracteres: ")
+   for caracter in cadena:
+       if caracter.lower() in alfabeto:
+           contadores[caracter]+=1
+print("Frecuencia de cada letra")
+for caracter, cantidad in contadores.items():
+   print(caracter, ": ", cantidad)</code></pre>
+</details>
+
+
+### 6
+<details> 
+  <summary>Crear un programa para gestionar datos de los socios de un club, permitiendo:
+
+-Cargar información de los socios en un diccionario para acceder por número de socio. Los datos a almacenar son: número, nombre y apellido, fecha de ingreso (ddmmaaaa), cuota al día (s/n). El programa debe iniciar con los datos de los socios fundadores ya cargados:
+<br>Socio nº1, Amanda Núñez, ingresó: 17/03/2009, cuota al día.
+<br>Socio nº2, Bárbara Molina, ingresó: 17/03/2009, cuota al día.
+<br>Socio nº3, Lautaro Campos, ingresó: 17/03/2009, cuota al día.
+<br>-Informar cantidad de socios del club.
+<br>-Solicitar al usuario el número de un socio y registrar que ha pagado todas las cuotas adeudadas.
+<br>-Modificar la fecha de ingreso de todos los socios ingresados el 13/03/2018, para indicar que en realidad ingresaron el 14/03/2018.
+<br>-Solicitar el nombre y apellido de un socio y darlo de baja (eliminarlo del listado).
+<br>-Imprimir el listado de socios completo.
+</summary>
+<br>Solución:
+<pre><code>def cargarSocios(socios):
+   numero=int(input("Número de socio (0 para cortar): "))
+   while numero!=0:
+       nombre=input("Nombre y apellido: ")
+       fecha=input("Fecha de ingreso (DDMMAAAA): ")
+       cuota=input("¿Cuota al día? s/n: ")
+       socios[numero]=[nombre,fecha,cuota.lower()=="s"]
+       numero=int(input("Número de socio (0 para cortar): "))
+   return socios
+<br>&nbsp;
+def modificarFecha(socios, fecha_anterior, fecha_nueva):
+   for datos in socios.values():
+       if datos[1]==fecha_anterior:
+           datos[1]=fecha_nueva
+   return socios
+<br>&nbsp;
+def numeroSocio(socios, nombre):
+   for numero,datos in socios.items():
+       if datos[0].lower()==nombre.lower():
+           return numero
+   return 0
+<br>&nbsp;
+def formatoFecha(fecha):
+   return fecha[:2]+"/"+fecha[2:4]+"/"+fecha[4:]
+<br>&nbsp;
+def imprimirListado(socios):
+   for numero,datos in socios.items():
+       print("-Número:",numero)
+ print("-Nombre:",datos[0])
+       print("-Ingresó:", formatoFecha(datos[1]))
+       if datos[2]:
+           print("-Cuota al día")
+       else:
+           print("-En deuda")
+<br>&nbsp;
+socios_activos={1:["Amanda Núñez","17032009",True], 2:["Bárbara Molina","17032009",True], 3:["Lautaro Campos","17032009",True]}
+<br>&nbsp;
+print("***Cargar socios")
+socios_activos=cargarSocios(socios_activos)
+<br>&nbsp;
+print("El club tiene", len(socios_activos), "socios")
+<br>&nbsp;
+print("***Registrar pago de cuotas")
+numero=int(input("Número de socio: "))
+socios_activos[numero][2]=True
+<br>&nbsp;
+print("***Modificando fecha de ingreso...")
+socios_activos=modificarFecha(socios_activos, "13032018", "14032018")
+<br>&nbsp;
+print("***Eliminar socio")
+nombre=input("Nombre y apellido: ")
+del socios_activos[numeroSocio(socios_activos, nombre)] 
+<br>&nbsp;
+imprimirListado(socios_activos)</code></pre>
 </details>
