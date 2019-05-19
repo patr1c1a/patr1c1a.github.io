@@ -314,7 +314,9 @@ socios_activos=modificarFecha(socios_activos, "13032018", "14032018")
 <br>&nbsp;
 print("***Eliminar socio")
 nombre=input("Nombre y apellido: ")
-del socios_activos[numeroSocio(socios_activos, nombre)] 
+numero=numeroSocio(socios_activos, nombre)
+if numero in socios_activos:
+    del socios_activos[numero]
 <br>&nbsp;
 imprimirListado(socios_activos)</code></pre>
 </details>
