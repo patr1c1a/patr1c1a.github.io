@@ -287,7 +287,7 @@ Para que un número de DNI sea válido debe tener entre 7 y 8 dígitos.</summary
        if frase[i]!=' ':
            cantidad+=1
        else:
-           if frase[i]==' ' and i<len(frase)-1 and frase[i+1]!=' ':
+           if i<len(frase)-1 and frase[i+1]!=' ':
                cantidad=0
    return cantidad</code></pre>
 </details>
