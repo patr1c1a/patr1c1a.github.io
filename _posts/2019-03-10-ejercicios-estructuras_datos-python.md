@@ -16,6 +16,9 @@ En los siguientes videos podrás ver una explicación del tema y también la res
 + [Conjuntos](https://www.youtube.com/watch?v=ZP-6dkGxizE)
 + [Ejercicios de conjuntos](https://www.youtube.com/watch?v=ZP-6dkGxizE)
 + [Diccionarios](https://www.youtube.com/watch?v=ymaBXPjiaPY)
++ [Ejercicios de diccionarios](https://www.youtube.com/watch?v=uOpW1tKKO8M)
++ [Ejercicio integrador de diccionarios](https://www.youtube.com/watch?v=m4out51i0y4)
++ [Errores comunes con estructuras de datos](https://www.youtube.com/watch?v=niDFCS3l1-Q)
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
