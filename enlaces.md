@@ -147,6 +147,7 @@ permalink: /enlaces/
 - <a href="https://www.utest.com/" target="_blank">uTest (Quality Assurance)</a>
 
 ### Entrenamiento para entrevistas laborales:
+- <a href="https://careercup.com/" target="_blank">CareerCup</a>
 - <a href="https://30secondsofinterviews.org/" target="_blank">30 seconds of interviews</a>
 - <a href="https://interviewing.io/" target="_blank">interviewing.io</a>
 - <a href="https://www.geeksforgeeks.org/a-must-do-free-interview-preparation-course-by-geeksforgeeks/" target="_blank">Geeks for Geeks - free interview preparation course</a>
