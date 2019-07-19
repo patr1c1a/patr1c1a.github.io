@@ -7,6 +7,7 @@ tags: resumen errores
 published: true
 ---
 
-![Errores y dudas comunes con variables]({{ site.url }}/assets/dudas_variables.png)
-<br>&nbsp;
-![Errores y dudas comunes con expresiones lógicas]({{ site.url }}/assets/dudas_bool.png)
+Algunos errores comunes que se cometen al programar, especialmente cuando estamos empezando a aprender.
+
+<br>![Errores y dudas comunes con variables]({{ site.url }}/assets/dudas_variables.png)
+<br>![Errores y dudas comunes con expresiones lógicas]({{ site.url }}/assets/dudas_bool.png)
