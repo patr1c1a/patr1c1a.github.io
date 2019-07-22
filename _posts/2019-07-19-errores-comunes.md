@@ -7,7 +7,8 @@ tags: resumen errores
 published: true
 ---
 
-Algunos errores comunes que se cometen al programar, especialmente cuando estamos empezando a aprender.
+Algunas dudas y errores comunes al programar, especialmente cuando estamos aprendiendo.
 
 <br>![Errores y dudas comunes con variables]({{ site.url }}/assets/dudas_variables.png)
 <br>![Errores y dudas comunes con expresiones lógicas]({{ site.url }}/assets/dudas_bool.png)
+<br>![Errores y dudas comunes con estructuras de control]({{ site.url }}/assets/dudas_estructuras_control.png)
