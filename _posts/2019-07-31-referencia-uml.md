@@ -7,8 +7,8 @@ tags: herramientas resumen
 published: true
 ---
 
-[Descargar en PDF]({{ site.url }}/assets/referencia_UML.pdf)
+[Descargar en PDF]({{ site.url }}/assets/referencia_uml.pdf)
 
-[Versión para impresión]({{ site.url }}/assets/referencia_UML_impresion.pdf)
+[Versión para impresión]({{ site.url }}/assets/referencia_uml_impresion.pdf)
 
-![UML]({{ site.url }}/assets/referencia-UML.png)
+![UML]({{ site.url }}/assets/referencia_uml.png)
