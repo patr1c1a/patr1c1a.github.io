@@ -8,7 +8,6 @@ published: true
 ---
 
 Esta tabla de colores muestra todas las opciones disponibles en el módulo Tkinter de Python.
-![Colores Tkinter]({{ site.url }}/assets/tkinter_colores.png)
 <details> 
   <summary>Click aquí para ver el código (Python 3) que genera la tabla.</summary>
   <pre><code>#------------------------------------------------------
@@ -107,3 +106,5 @@ for color in COLORES:
         col += 1
 ventana.mainloop()</code></pre>
 </details>
+<br/>&nbsp;
+![Colores Tkinter]({{ site.url }}/assets/tkinter_colores.png)
