@@ -203,11 +203,11 @@ Ahora agregaremos el método que controla el evento disparado por los botones al
         if texto=="=" and self.operacion!="":
             self.operacion=re.sub(u"\u00F7", "/", self.operacion)
             resultado=str(eval(self.operacion))
-		self.operacion=""
+	    self.operacion=""
             self.limpiarPantalla()
             self.mostrarEnPantalla(resultado)
         elif texto==u"\u232B":
-      self.operacion=""
+            self.operacion=""
             self.limpiarPantalla()
     else:
         self.operacion+=str(texto)
@@ -233,8 +233,8 @@ El siguiente método es el que borra la “pantalla” de la calculadora:
 La forma de eliminar el contenido de un componente de clase Text (en este caso, el objeto self.pantalla) es con el método delete. Para que este método pueda modificar el contenido del Text su estado debe ser “normal”, por eso es que lo primero que se hace es cambiarlo (el estado estaba deshabilitado para impedir que el usuario pudiera escribir manualmente en la pantalla). Luego se efectúa el borrado, invocando al método delete y pasándole dos parámetros: desde dónde y hasta dónde borrar. El primer parámetro, “1.0”, indica la primera línea (número 1), primera columna (número 0), ya que ese es el formato que adopta la clase Text para indicar los índices. Y el segundo parámetro (END) indica el final del texto. De esta manera, borramos todo el contenido del objeto pantalla.
 Finalmente, volvemos a deshabilitar la pantalla para que el usuario sólo pueda escribir operaciones mediante los botones de la calculadora.
 
-<pre><code>Por último, el método para mostrar texto en la pantalla:
-def mostrarEnPantalla(self, valor):
+Por último, el método para mostrar texto en la pantalla:
+<pre><code>def mostrarEnPantalla(self, valor):
     self.pantalla.configure(state="normal")
     self.pantalla.insert(END, valor)
     self.pantalla.configure(state="disabled")
