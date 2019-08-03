@@ -97,8 +97,8 @@ A continuación necesitaremos importar un nuevo componente del módulo tkinter: 
 <pre><code>from tkinter import Tk, Text, Button</code></pre>
 
 También crearemos, dentro de la clase Interfaz, un método para crear los botones que tendrá la calculadora:
-<pre><code>def crearBoton(self,valor,escribir=True,ancho=7,alto=2):
-    return Button(self.ventana,text=valor,width=ancho, height=alto command=lambda: self.click(valor,escribir))</code></pre>
+<pre><code>def crearBoton(self,valor,escribir=True,ancho=9,alto=1):
+    return Button(self.ventana, text=valor, width=ancho, height=alto, font=("Helvetica",15), command=lambda: self.click(valor,escribir))</code></pre>
 
 En este método se retorna un botón, llamando al constructor de la clase Button, al cual se le pasa la ventana donde estará ubicado (self.ventana), el valor que mostrará el botón (text), el ancho (width) y alto (height) y finalmente un comando (command), que es la acción que se debe ejecutar cuando se hace click sobre este botón, que será una llamada al método click, que crearemos más adelante. Es necesario usar una función lambda para poder pasar parámetros al método click (si no usamos lambda, el “command” sólo sería el valor de retorno de la función click, que en este caso es None, así que estaríamos diciéndole que no haga nada). Lambda nos permite crear funciones anónimas, pero es mejor no adentrarnos en ese tema en este momento.
 Ahora en el \_\_init\_\_ creamos los 17 botones necesarios, mediante llamadas a este método:
@@ -292,7 +292,7 @@ class Interfaz:
 
 
     #Crea un botón mostrando el valor pasado por parámetro
-    def crearBoton(self, valor, escribir=True, ancho=9, alto=1, borrar=False):
+    def crearBoton(self, valor, escribir=True, ancho=9, alto=1):
         return Button(self.ventana, text=valor, width=ancho, height=alto, font=("Helvetica",15), command=lambda:self.click(valor,escribir))
 
 
