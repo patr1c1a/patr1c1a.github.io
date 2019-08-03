@@ -16,10 +16,10 @@ Esta calculadora tiene sólo la funcionalidad básica, quedando al lector la tar
 * Incorporar un botón de borrado parcial (el actual sólo borra todo el contenido de la pantalla).
 * No mostrar decimales al hacer una división que da como resultado un entero.
 
-Pasemos a la implementación, para lo cual será necesario tener instalado Python 3 ([click aquí para ver un video sobre cómo descargar e instalar](https://www.youtube.com/watch?v=F9eM_VoKGJQ)). Tkinter es una de las opciones para crear interfaces gráficas con Python. La ventaja es que se instala automáticamente con la instalación de Python 3, al menos en Windows. En algunos sistemas operativos esto no es así. En linux, es necesario instalarlo manualmente:
+Pasemos a la implementación, para lo cual será necesario tener instalado Python 3 ([click aquí para ver un video sobre cómo descargar e instalar](https://www.youtube.com/watch?v=F9eM_VoKGJQ)). Tkinter es una de las opciones para crear interfaces gráficas con Python. La ventaja es que se instala automáticamente con la instalación de Python 3, al menos en Windows. En algunos sistemas operativos esto no es así. En Linux, es necesario instalarlo manualmente:
 <pre><code>sudo apt-get install python3-tk</code></pre>
 
-Del módulo tkinter vamos a ir importando lo que necesitemos, para no importar el módulo completo con componentes que no se van a usar en el proyecto.
+Ahora sí, comenzamos creando un archivo .py (vamos a usar uno solo) para escribir el código. Del módulo tkinter vamos a ir importando lo que necesitemos, para no importar el módulo completo con componentes que no se van a usar en el proyecto.
 
 <pre><code>from tkinter import Tk
 
@@ -58,7 +58,7 @@ Ahora es necesario incorporar un nuevo componente: una caja de texto, que será 
 Y dentro del método \_\_init\_\_ de la clase Interfaz, agregaremos lo siguiente:
 <pre><code>self.pantalla=Text(ventana,state="disabled",width=40,height=3,background="orchid",foreground="white",font=("Helvetica",15))</code></pre>
 Esta instrucción instancia un objeto Text, pasándole la ventana como primer parámetro. Luego el estado (state) lo indicamos como deshabilitado para que el usuario no pueda hacer click y escribir manualmente (sólo podrá escribir a través del teclado de la calculadora). También se indican el ancho (width) y alto (height) de la pantalla, el color de fondo (background) y el color del texto (foreground) y, finalmente, la fuente (font), para lo cual se pasa como parámetro una tupla con el tipo y tamaño.
-Tkinter tiene muchos colores disponibles. [Para verlos, click acá]({{ site.url }}/posts/2019-08-01-python-tkinter-colores.md)
+Tkinter tiene muchos colores disponibles. [Para verlos, click acá]({% post_url 2019-08-01-python-tkinter-colores %})
 
 <pre><code>self.pantalla.grid(row=0,column=0,columnspan=4,padx=5,pady=5)</code></pre>
 Lo que sigue es el posicionamiento de la pantalla. Ahora que comenzamos a colocar elementos en la ventana, necesitamos algo que se suele llamar “gestor de geometría” y que sirve para determinar cómo va a ser la disposición o el diseño de los elementos dentro de la ventana. En Tkinter hay diferentes tipos de gestores: grid, pack y place. Por ejemplo, place permite indicar la posición exacta de cada componente dentro de la ventana, ya sea en forma absoluta o en forma relativa a otros componentes. Pack es ideal para colocar elementos alineados en forma vertical u horizontal. Grid permite dividir a la ventana en una grilla con filas y columnas, e indicar la posición de un componente en determinada fila y columna. En este caso vamos a usar grid, porque el diseño de la calculadora se parece mucho a una grilla. Es por eso que al objeto Text que hemos llamado pantalla le indicamos que utilice el gestor “grid” y que se coloque en la fila 0, columna 0 (es decir, la primera “celda” de la grilla). También se indica que debe abarcar 4 columnas (columnspan) y que debe tener un margen interno de 5 a izquierda y derecha (padx), y 5 arriba y abajo (pady).
