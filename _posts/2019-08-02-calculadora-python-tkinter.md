@@ -119,7 +119,7 @@ boton13=self.crearBoton(".")
 boton14=self.crearBoton(0)
 boton15=self.crearBoton("+")
 boton16=self.crearBoton("-")
-boton17=self.crearBoton("=",escribir=False,ancho=34)</code></pre>
+boton17=self.crearBoton("=",escribir=False,ancho=20,alto=2)</code></pre>
 Para el símbolo de división y el de borrado usamos los códigos unicode, para asegurarnos de que se muestren bien en pantalla. Vemos que se pasan sólo los argumentos necesarios, porque el método tiene varios parámetros opcionales con valores por defecto, pero el valor a mostrar es el único parámetro obligatorio. El parámetro “escribir” contiene un valor booleano que está en True por defecto y que permite saber si el botón debe escribir (mostrar) algo en pantalla o no. En el caso de los botones “=” y de borrado, este valor se pone en False porque son botones que realizan acciones específicas, que no deben mostrar sus caracteres en pantalla.
 
 Finalmente, ubicamos los botones en la grilla que nos da el gestor grid:
@@ -145,7 +145,7 @@ class Interfaz:
         self.pantalla=Text(ventana, state="disabled", width=40, height=3, background="orchid", foreground="white", font=("Helvetica",15))
 
         #Ubicar la pantalla en la ventana
-        self.pantalla.grid(row=0,column=0,columnspan=4,padx=15,pady=15)
+        self.pantalla.grid(row=0,column=0,columnspan=4,padx=5,pady=5)
 
         #Inicializar la operación mostrada en pantalla como string vacío
         self.operacion=""
@@ -167,7 +167,7 @@ class Interfaz:
         boton14=self.crearBoton(0)
         boton15=self.crearBoton("+")
         boton16=self.crearBoton("-")
-        boton17=self.crearBoton("=",escribir=None,ancho=34,alto=3)
+        boton17=self.crearBoton("=",escribir=False,ancho=20,alto=2)
 
         #Ubicar los botones con el gestor grid
         botones=[boton1, boton2, boton3, boton4, boton5, boton6, boton7, boton8, boton9, boton10, boton11, boton12, boton13, boton14, boton15, boton16, boton17]
@@ -182,8 +182,8 @@ class Interfaz:
 
 
     #Método para crear un botón con el valor que debe mostrar
-    def crearBoton(self,valor,escribir=True,ancho=14,alto=2):
-        return Button(self.ventana, text=valor, width=ancho, height=alto, command=lambda:self.click(valor,escribir))
+    def crearBoton(self,valor,escribir=True,ancho=9,alto=1):
+        return Button(self.ventana, text=valor, width=ancho, height=alto, font=("Helvetica",15), command=lambda:self.click(valor,escribir))
 
 
 ventana_principal = Tk()
@@ -276,7 +276,7 @@ class Interfaz:
         boton14=self.crearBoton(0)
         boton15=self.crearBoton("+")
         boton16=self.crearBoton("-")
-        boton17=self.crearBoton("=",escribir=False,ancho=34)
+        boton17=self.crearBoton("=",escribir=False,ancho=20,alto=2)
 
         #Ubicar los botones con el gestor grid
         botones=[boton1,boton2,boton3,boton4,boton5,boton6,boton7,boton8,boton9,boton10,boton11,boton12,boton13,boton14,boton15,boton16,boton17]
@@ -292,8 +292,8 @@ class Interfaz:
 
 
     #Crea un botón mostrando el valor pasado por parámetro
-    def crearBoton(self, valor, escribir=True, ancho=14, alto=2):
-        return Button(self.ventana,text=valor,width=ancho,height=alto,command=lambda: self.click(valor,escribir))
+    def crearBoton(self, valor, escribir=True, ancho=9, alto=1):
+        return Button(self.ventana,text=valor,width=ancho,height=alto,font=("Helvetica",15),command=lambda: self.click(valor,escribir))
 
 
     #Controla el evento disparado al hacer click en un botón
