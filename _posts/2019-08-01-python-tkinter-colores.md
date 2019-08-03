@@ -107,4 +107,4 @@ for color in COLORES:
 ventana.mainloop()</code></pre>
 </details>
 <br/>&nbsp;
-![Colores Tkinter]({{ site.url }}/assets/tkinter_colores.png)
+[![Colores Tkinter]({{ site.url }}/assets/tkinter_colores.png)]({{ site.url }}/assets/tkinter_colores.png)
