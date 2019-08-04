@@ -11,7 +11,7 @@ Una calculadora simple es uno de los proyectos más comunes para comenzar a prog
 
 En este proyecto usaremos Python 3 y el módulo para interfaces gráficas Tkinter.
 
-También es posible acceder al video explicando el proyecto paso a paso:
+También es posible acceder al video que explica el proyecto paso a paso:
 
 {% include youtubePlayer.html id="V-_d5N4UJjw" %}
 
