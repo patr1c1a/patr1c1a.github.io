@@ -2,7 +2,7 @@
 layout: post
 title: Calculadora con Python usando Tkinter
 date: 2019-08-02 21:00:00
-categories: python
+categories: python tutoriales poo
 tags: gui proyecto
 published: true
 ---
