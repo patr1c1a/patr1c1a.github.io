@@ -15,8 +15,8 @@ También es posible acceder al video que explica el proyecto paso a paso:
 
 {% include youtubePlayer.html id="V-_d5N4UJjw" %}
 
-
-Esta calculadora tiene sólo la funcionalidad básica, quedando al lector la tarea de mejorarla y agregar funcionalidad. Algunas mejoras posibles:
+<br>&nbsp;
+<br>Esta calculadora tiene sólo la funcionalidad básica, quedando al lector la tarea de mejorarla y agregar funcionalidad. Algunas mejoras posibles:
 * Borrar el contenido de la pantalla antes de continuar, después de haber mostrado un resultado.
 * Incorporar un botón de borrado parcial (el actual sólo borra todo el contenido de la pantalla).
 * No mostrar decimales al hacer una división que da como resultado un entero.
