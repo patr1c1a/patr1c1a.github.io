@@ -233,7 +233,7 @@ El formulario _frmModificar_ tendrá preparada una interfaz prácticamente igual
     elComando = New OleDbCommand("select * from ingresos where id = " + valorFilaSeleccionada, laConexion)
     Try
         laConexion.Open()
-        <span style="color: #339966;">'se instancia un objeto para conectar a la tabla
+        'se instancia un objeto para conectar a la tabla
         Dim objetoLector As OleDbDataReader
         objetoLector = elComando.ExecuteReader()
         'se itera sobre la base de datos para ir obteniendo todas las columnas del registro sobre variables temporales
