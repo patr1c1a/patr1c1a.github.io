@@ -19,6 +19,7 @@ permalink: /enlaces/
 - <a href="https://www.womenwhocode.com/" target="_blank">Women Who Code</a>
  
 ### Desafíos y práctica de programación: 
+- <a href="www.aceptaelreto.com" target="_blank">¡Acepta el reto!</a>
 - <a href="https://leetcode.com/" target="_blank">Leetcode</a>
 - <a href="https://www.hackerrank.com/" target="_blank">HackerRank</a>
 - <a href="https://www.codewars.com/" target="_blank">CodeWars</a>
