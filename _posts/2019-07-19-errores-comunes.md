@@ -12,3 +12,4 @@ Algunas dudas y errores comunes al programar, especialmente cuando estamos apren
 <br>![Errores y dudas comunes con variables]({{ site.url }}/assets/dudas_variables.png)
 <br>![Errores y dudas comunes con expresiones lógicas]({{ site.url }}/assets/dudas_bool.png)
 <br>![Errores y dudas comunes con estructuras de control]({{ site.url }}/assets/dudas_estructuras_control.png)
+<br>![Errores y dudas comunes con funciones]({{ site.url }}/assets/dudas_funciones.png)
