@@ -9,6 +9,11 @@ published: true
 
 Algunas dudas y errores comunes al programar, especialmente cuando estamos aprendiendo.
 
+*Nota:* los ejemplos no están ligados a un lenguaje en particular.
+
+[Descargar en PDF]({{ site.url }}/assets/dudas_errores.pdf)
+
+
 <br>![Errores y dudas comunes con variables]({{ site.url }}/assets/dudas_variables.png)
 <br>![Errores y dudas comunes con expresiones lógicas]({{ site.url }}/assets/dudas_bool.png)
 <br>![Errores y dudas comunes con estructuras de control]({{ site.url }}/assets/dudas_estructuras_control.png)
