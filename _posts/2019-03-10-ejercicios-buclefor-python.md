@@ -148,7 +148,7 @@ for i in range(8):
   <summary>Escribir un programa que permita al usuario ingresar 6 números enteros, que pueden ser positivos o negativos. Al finalizar, mostrar la sumatoria de los números negativos y el promedio de los positivos.
 <br />No olvides que no es posible dividir por cero, por lo que es necesario evitar que el programa arroje un error si no se ingresaron números positivos. </summary>
 <br>Solución:
-<pre><code></code>sumaPositivos=0
+<pre><code>sumaPositivos=0
 cantidadPositivos=0
 sumaNegativos=0
 for i in range(6):
@@ -162,11 +162,11 @@ print("Sumatoria de los negativos: ", sumaNegativos)
 if cantidadPositivos!=0:
    print("Promedio de los positivos: ",sumaPositivos/cantidadPositivos)
 else:
-   print("No se ingresaron números positivos")</pre>
+   print("No se ingresaron números positivos")</code></pre>
 </details>
 
 
-### 12
+### 13
 <details> 
   <summary>Un grupo de amigos decide organizar un juego de estrategia, para lo cual forman dos equipos de 6 integrantes cada uno, donde un integrante de cada equipo es el “jefe” y los otros 5 son sus “oficiales”. La regla más importante del juego es que sólo se comunicarán mediante un canal común, por lo que deben buscar la forma de ocultar el contenido de sus mensajes. Uno de los equipos decide utilizar un método antiguo de encriptación llamado “la cifra del césar”, que consiste en correr cada letra del mensaje –considerando la posición de cada una en el alfabeto– una determinada cantidad de lugares. Ejemplo: si el corrimiento es de 2 lugares, la palabra “ATAQUE” se transforma en “CVCSWG”.
 <br />Cada día, el “jefe” del equipo debe enviar un mensaje a cada uno de sus oficiales. Escribir un programa que permita encriptar los 5 mensajes. El corrimiento (cantidad de lugares que se correrán las letras) será dado por el usuario antes de comenzar a encriptar. Los 5 mensajes usarán el mismo corrimiento. 
@@ -189,7 +189,7 @@ for i in range(5):
 </details>
 
 
-### 13
+### 14
 <details> 
   <summary>Escribir un programa que permita al usuario ingresar dos años y luego imprima todos los años en ese rango, que sean bisiestos y múltiplos de 10.
 Nota: para que un año sea bisiesto debe ser divisible por 4 y no debe ser divisible por 100, excepto que también sea divisible por 400.</summary>
