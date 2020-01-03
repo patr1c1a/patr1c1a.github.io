@@ -19,11 +19,14 @@ permalink: /enlaces/
 - <a href="https://www.womenwhocode.com/" target="_blank">Women Who Code</a>
  
 ### Desafíos y práctica de programación: 
-- <a href="www.aceptaelreto.com" target="_blank">¡Acepta el reto!</a>
+- <a href="https://www.aceptaelreto.com" target="_blank">¡Acepta el reto!</a>
 - <a href="https://leetcode.com/" target="_blank">Leetcode</a>
-- <a href="https://www.hackerrank.com/" target="_blank">HackerRank</a>
+- <a href="https://www.hackerearth.com/" target="_blank">HackerEarth</a>
+- <a href="https://edabit.com/" target="_blank">Edabit</a>
 - <a href="https://www.codewars.com/" target="_blank">CodeWars</a>
 - <a href="https://py.checkio.org/" target="_blank">Py.CheckIo - Python practise online</a>
+- <a href="https://www.hackerrank.com/" target="_blank">HackerRank</a>
+- <a href="https://www.codechef.com/" target="_blank">CodeChef</a>
 - <a href="https://exercism.io/" target="_blank">Exercism</a>
 - <a href="https://www.codingame.com" target="_blank">CodinGame</a>
 - <a href="https://www.coderbyte.com/" target="_blank">CoderByte</a>
