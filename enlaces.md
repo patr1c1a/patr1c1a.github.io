@@ -148,6 +148,7 @@ permalink: /enlaces/
 - <a href="https://www.fiverr.com/" target="_blank">Fiverr</a>
 - <a href="https://www.outreachy.org/" target="_blank">Outreachy (pasantías pagas orientadas a minorías)</a>
 - <a href="https://www.utest.com/" target="_blank">uTest (Quality Assurance)</a>
+- <a href="https://remotive.io/remote-jobs" target="_blank">Ofertas de empleos remotos (no necesariamente freelance)</a>
 
 ### Entrenamiento para entrevistas laborales:
 - <a href="https://careercup.com/" target="_blank">CareerCup</a>
