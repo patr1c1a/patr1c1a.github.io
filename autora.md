@@ -15,7 +15,7 @@ permalink: /autora/
 ### Universidad:
 
 [UNNOBA](http://www.unnoba.edu.ar):
-- Licenciatura en Sistemas (en curso).
+- Licenciatura en Sistemas (tesis pendiente).
 - Analista de Sistemas (2014).
 - Programadora Universitaria (2014).
 
