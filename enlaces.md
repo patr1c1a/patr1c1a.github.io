@@ -154,6 +154,7 @@ permalink: /enlaces/
 - <a href="https://careercup.com/" target="_blank">CareerCup</a>
 - <a href="https://30secondsofinterviews.org/" target="_blank">30 seconds of interviews</a>
 - <a href="https://interviewing.io/" target="_blank">interviewing.io</a>
+- <a href="https://www.rooftopslushie.com/" target="_blank">Rooftop Slushie</a>
 - <a href="https://www.geeksforgeeks.org/a-must-do-free-interview-preparation-course-by-geeksforgeeks/" target="_blank">Geeks for Geeks - free interview preparation course</a>
 - <a href="https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0" target="_blank">50+ Data Structure and Algorithms Interview Questions for Programmers</a>
 - <a href="https://javarevisited.blogspot.com/2017/07/top-10-linked-list-coding-questions-and.html#axzz4xXS86IVo" target="_blank">30+ Linked List Problems from Programming Interviews</a>
