@@ -8,6 +8,7 @@ published: true
 ---
 
 Estos ejercicios cubren temas básicos como: operaciones matemáticas, booleanas y con strings; entrada/salida de datos en pantalla; if-else; for; while; funciones.
+Para ver un video explicativo sobre estos temas, [click acá]({% post_url 2018-12-07-aprende-en-15-min %})
 
 &nbsp;
 ## Herramientas
