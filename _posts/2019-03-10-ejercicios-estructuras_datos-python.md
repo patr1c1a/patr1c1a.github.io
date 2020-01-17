@@ -14,7 +14,7 @@ En los siguientes videos podrás ver una explicación del tema y también la res
 + [Ejercicios de listas y tuplas](https://youtu.be/0NTaCJQUE1I)
 + [Ejercicio integrador de listas y tuplas](https://www.youtube.com/watch?v=8fKMHKvDieU)
 + [Conjuntos](https://www.youtube.com/watch?v=ZP-6dkGxizE)
-+ [Ejercicios de conjuntos](https://www.youtube.com/watch?v=ZP-6dkGxizE)
++ [Ejercicios de conjuntos](https://www.youtube.com/watch?v=Zo6TzXy7cxM)
 + [Diccionarios](https://www.youtube.com/watch?v=ymaBXPjiaPY)
 + [Ejercicios de diccionarios](https://www.youtube.com/watch?v=uOpW1tKKO8M)
 + [Ejercicio integrador de diccionarios](https://www.youtube.com/watch?v=m4out51i0y4)
@@ -187,9 +187,9 @@ while True:
 primaria=set()
 secundaria=set()
 print("ALUMNOS DE PRIMARIA")
-cargarNombres(primaria)
+primaria=cargarNombres(primaria)
 print("ALUMNOS DE SECUNDARIA")
-cargarNombres(secundaria)
+secundaria=cargarNombres(secundaria)
 <br>&nbsp;
 print("NOMBRES DE TODOS LOS ALUMNOS:")
 for nombre in primaria|secundaria:
