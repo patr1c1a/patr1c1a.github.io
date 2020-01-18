@@ -56,6 +56,7 @@ permalink: /enlaces/
 - <a href="https://codingcompetitions.withgoogle.com/" target="_blank">Competencias de programación de Google</a>
 - <a href="https://www.mercadolibre.com.ar/itchallenge/" target="_blank">MercadoLibre IT Challenge (desafíos anuales)</a>
 - <a href="https://www.topcoder.com/challenges/" target="_blank">TopCoder</a>
+- <a href="http://azspcs.com/" target="_blank">Al Zimmermann's Programming Contests</a>
 - <a href="https://www.codechef.com/" target="_blank">CodeChef</a>
 - <a href="https://register.codingcontest.org/" target="_blank">Coding Contest</a>
 - <a href="http://js13kgames.com/" target="_blank">js13kGames</a>
