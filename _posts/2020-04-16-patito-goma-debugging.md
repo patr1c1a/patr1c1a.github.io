@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Debugging" con un patito de goma
+title: Debugging con un patito de goma
 date: 2020-04-16 21:00:00
 categories: conceptos
 tags: debugging depurar
