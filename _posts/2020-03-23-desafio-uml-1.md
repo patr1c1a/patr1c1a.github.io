@@ -11,9 +11,12 @@ published: true
 
 ▶️ Video introducción a POO: https://youtu.be/iliKayKaGtc
 
-Debajo, la solución.
+[Click aquí para ver la solución.]({{ site.url }}/assets/2020-03-23-desafio-uml-1-solucion.png)
 
 ![desafío UML número 1]({{ site.url }}/assets/2020-03-23-desafio-uml-1.png)
 
 
-[Click aquí para ver la solución.]({{ site.url }}/assets/2020-03-23-desafio-uml-1-solucion.png)
+
+<details><summary>Click</summary>
+
+<p>![desafío UML número 1]({{ site.url }}/assets/2020-03-23-desafio-uml-1-solucion.png)</p></details>
