@@ -2,8 +2,8 @@
 layout: post
 title: Templates en C++
 date: 2020-04-27 21:00:00
-categories: cpp
-tags: c++
+categories: c++
+tags: c++ cpp templates
 published: true
 ---
 
