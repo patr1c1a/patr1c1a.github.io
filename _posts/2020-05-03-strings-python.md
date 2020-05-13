@@ -14,4 +14,4 @@ Los strings de Python no son muy diferentes a los de cualquier otro lenguaje, pe
 
 ▶️ Ejercicios con strings en Python: www.youtube.com/watch?v=8h4k64HfY3o
 
-![resumen de strings Python]({{ site.url }}/assets/2020-05-03-strings-python.png)
+![Strings Python]({{ site.url }}/assets/2020-05-03-strings-python.png)
