@@ -113,6 +113,7 @@ permalink: /enlaces/
 
 ### Aplicaciones móviles:
 - <a href="https://developers.google.com/training/android/" target="_blank">Google Developers Training: Android</a>
+- <a href="https://http://ai2.appinventor.mit.edu" target="_blank">MIT App Inventor</a>
 
 ### Seguridad informática y hacking:
 - <a href="http://overthewire.org/wargames/" target="_blank">OverTheWire Wargames</a>
