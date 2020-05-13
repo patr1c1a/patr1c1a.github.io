@@ -104,7 +104,6 @@ permalink: /enlaces/
 ### Principiantes:
 - <a href="http://pilasbloques.program.ar" target="_blank">Pilas Bloques</a>
 - <a href="https://codecombat.com/" target="_blank">CodeCombat</a>
-- <a href="http://appinventor.mit.edu/explore/index-2.html#" target="_blank">MIT App inventor</a>
 - <a href="https://anvil.works/" target="_blank">Anvil - Drag&Drop Python web app builder</a>
 - <a href="https://www.codingame.com" target="_blank">CodinGame</a>
 - <a href="https://code.org/" target="_blank">Hora del Código</a>
