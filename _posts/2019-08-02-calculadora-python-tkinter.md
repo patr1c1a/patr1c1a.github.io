@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video: Calculadora con Python usando Tkinter
+title: Calculadora con Python usando Tkinter
 date: 2019-08-02 21:00:00
 categories: python tutoriales
 tags: gui proyecto
