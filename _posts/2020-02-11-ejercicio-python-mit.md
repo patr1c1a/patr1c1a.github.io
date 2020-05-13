@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ejercicio de Python, resuelto
+title: Ejercicio de Python, resuelto - Bucles
 date: 2020-02-11 21:00:00
 categories: python ejercicios
 tags: mit algoritmos
