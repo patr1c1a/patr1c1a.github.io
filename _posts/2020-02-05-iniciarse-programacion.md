@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entrevista: cómo iniciarse en la programación
+title: Entrevista - cómo iniciarse en la programación
 date: 2020-02-05 21:00:00
 categories: otros
 tags: principiantes
