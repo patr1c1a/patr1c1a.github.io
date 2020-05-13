@@ -20,4 +20,4 @@ Como complemento, puede accederse a ejercicios prácticos (con sus resoluciones)
 * Sección 2: Selección. Repetición.
 * Sección 3: Funciones.
 
-[Accedé a los ejercicios de práctica haciendo click acá]({% post_url 2019-02-24-ejercicios-principiantes-python %}) o [descargalos en formato PDF]({{ site.url }}/assets/aprende-en-15-min-ejercicios.pdf)
+[Accedé a los ejercicios de práctica haciendo click acá]({% post_url 2019-02-24-ejercicios-principiantes-python %}) o [descargalos en formato PDF](https://github.com/programacion-desde-cero/material-de-estudio/raw/master/aprende-en-15-min-ejercicios.pdf)
