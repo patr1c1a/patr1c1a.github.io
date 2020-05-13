@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El operador ternario
-date: 2020-05-24 21:00:00
+date: 2020-04-24 21:00:00
 categories: conceptos
 tags: condicionales estructuras
 published: true
