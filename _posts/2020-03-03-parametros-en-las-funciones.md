@@ -11,4 +11,4 @@ Los parámetros no siempre son necesarios en las funciones, pero muchas veces ex
 
 ▶️ Video sobre funciones: www.youtube.com/watch?v=IF34NgjldXs
 
-![Parámetros en las funciones]({{ site.url }}/assets/2020-03-03-parametros-funciones.png)
+![Parámetros en las funciones]({{ site.url }}/assets/2020-03-03-parametros-en-las-funciones.png)
