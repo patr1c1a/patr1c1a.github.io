@@ -17,5 +17,5 @@ Debajo, la solución.
 
 <details> 
   <summary>Click acá para ver la solución.</summary>
-  <img />![Solución al desafío UML número 1]({{ site.url }}/assets/2020-03-23-desafio-uml-1-solucion.png)
+![Solución al desafío UML número 1]({{ site.url }}/assets/2020-03-23-desafio-uml-1-solucion.png)
 </details>
