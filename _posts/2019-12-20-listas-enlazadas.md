@@ -13,6 +13,6 @@ Las listas enlazadas son la base para otras estructuras de datos. Acá vemos alg
 
 ▶️ Videos sobre listas simples implementadas en C++: www.youtube.com/watch?v=a17EyMjGcdc&list=PLb_E6BNMg5j4PxrjKC7Nzjhy3ZV3xdiDB 
 
-💻 Implementación de las operciones en C++ (sin POO): https://repl.it/@programacionde1/Operaciones-con-listas-enlazadas-simples-en-C
+💻 Implementación de las operciones en C++ (sin OO): https://repl.it/@programacionde1/Operaciones-con-listas-enlazadas-simples-en-C
 
 ![listas enlazadas]({{ site.url }}/assets/2019-12-20-listas-enlazadas.png)
