@@ -17,7 +17,13 @@ share:
   twitter_username: \#
   fb_appid: 000000000000
 
-
+social-network-links:
+  facebook: ProgramacionDesdeCeroParaTodos
+  github: programacion-desde-cero
+  twitter: Programacion_0
+  rss: true
+  
+  
 enableTags: true
 tagarray: []
 
