@@ -4,8 +4,8 @@ title: Autora
 permalink: /autora/
 ---
 
-### Trabajo:
-- Docente universitaria de Introducción a la Programación Imperativa y Programación Imperativa.
+### Experiencia laboral:
+- Docente universitaria en los cursos de Introducción a la Programación Imperativa y Programación Imperativa.
 - Sr. Software Quality Assurance Engineer (ámbito privado).
 
 &nbsp;
