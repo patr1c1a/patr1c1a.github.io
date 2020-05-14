@@ -16,24 +16,6 @@ google_analytics: UA-76752123-1
 share:
   twitter_username: Programacion_0
   fb_appid: 000000000000
-
-social-network-links:
-  youtube: c/ProgramacionDesdeCero
-  facebook: ProgramacionDesdeCeroParaTodos
-  twitter: Programacion_0
-  instagram: programaciondesdecero
-  github: programacion-desde-cero
-  rss: true
-
-share-links-active:
-  twitter: true
-  facebook: true
-  youtube: true
-  instagram: true
-  github: true
-  rss: true
-  
-link-tags: true  
   
 enableTags: true
 tagarray: []
