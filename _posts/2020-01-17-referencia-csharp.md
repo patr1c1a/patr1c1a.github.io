@@ -2,7 +2,7 @@
 layout: post
 title: Hoja de referencia de C#
 date: 2020-01-17 18:00:00
-categories: c#
+categories: csharp
 tags: herramientas resumen
 published: true
 ---
