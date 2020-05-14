@@ -18,11 +18,22 @@ share:
   fb_appid: 000000000000
 
 social-network-links:
+  youtube: c/ProgramacionDesdeCero
   facebook: ProgramacionDesdeCeroParaTodos
-  github: programacion-desde-cero
   twitter: Programacion_0
+  instagram: programaciondesdecero
+  github: programacion-desde-cero
+  rss: true
+
+share-links-active:
+  twitter: true
+  facebook: true
+  youtube: true
+  instagram: true
+  github: true
   rss: true
   
+link-tags: true  
   
 enableTags: true
 tagarray: []
