@@ -12,7 +12,7 @@ permalink: /autora/
 &nbsp;
 
  
-### Universidad:
+### Estudios universitarios:
 
 [UNNOBA](http://www.unnoba.edu.ar):
 - Licenciatura en Sistemas (tesis pendiente).
