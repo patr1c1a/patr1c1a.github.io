@@ -6,7 +6,7 @@ permalink: /autora/
 
 ### Experiencia laboral:
 - Docente universitaria en los cursos de Introducción a la Programación Imperativa y Programación Imperativa.
-- Sr. Software Quality Assurance Engineer (ámbito privado).
+- Sr. Software Quality Assurance Engineer.
 
 &nbsp;
 &nbsp;
