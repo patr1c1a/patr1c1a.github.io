@@ -25,12 +25,4 @@ permalink: /autora/
 
 ---
 
-[YouTube](https://www.youtube.com/c/Programaciondesdecero)
-<br />
-[Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos)
-<br />
-[Twitter](https://twitter.com/Programacion_0)
-<br />
-[Instagram](https://www.instagram.com/programaciondesdecero/)
-<br />
-[Email](mailto:programaciondesdecero@patriciaemiguel.com)
+[YouTube](https://www.youtube.com/c/Programaciondesdecero) | [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos) | [Twitter](https://twitter.com/Programacion_0) | [Instagram](https://www.instagram.com/programaciondesdecero) | [Pinterest](www.pinterest.com/ProgramacionDesdeCero) | [GitHub](https://github.com/programacion-desde-cero)
