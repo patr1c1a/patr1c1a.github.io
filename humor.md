@@ -5,7 +5,7 @@ permalink: /humor/
 published: true
 ---
 
-> Ninguna de las siguientes imágenes me pertenece. Todas ellas fueron obtenidas de la web. En caso de que el autor de alguna de ellas requiera su remoción de este blog, puede [comunicarse conmigo](mailto:contacto@patriciaemiguel.com) a esos efectos.
+> Ninguna de las siguientes imágenes me pertenece. Todas ellas fueron obtenidas de la web. En caso de que el autor de alguna de ellas requiera su remoción de este blog, puede [comunicarse](mailto:programaciondesdecero@patriciaemiguel.com) a esos efectos.
 
 
 
