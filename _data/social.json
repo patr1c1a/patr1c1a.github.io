@@ -16,7 +16,11 @@
     "link": "https://www.instagram.com/programaciondesdecero/"
   },
   {
-    "icon": "fa-envelope",
-    "link": "mailto:programaciondesdecero@patriciaemiguel.com"
+    "icon": "fa-pinterest",
+    "link": "https://www.pinterest.com/ProgramacionDesdeCero/"
+  },
+  {
+    "icon": "fa-github",
+    "link": "https://github.com/programacion-desde-cero"
   }
 ]
