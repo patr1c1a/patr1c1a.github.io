@@ -9,6 +9,6 @@ published: true
 
 Las entrevistas laborales en las grandes compañías suelen enfocarse en estructuras de datos. Veamos algunas preguntas que pueden surgir en una entrevista con Microsoft. ¿Sabés las respuestas?
 
-Fuente: [interviewcake](www.interviewcake.com)
+Fuente: [interviewcake](https://www.interviewcake.com)
 
 ![Preguntas de entrevista laboral Microsoft]({{ site.url }}/assets/2020-02-01-entrevista-laboral-microsoft.png)
