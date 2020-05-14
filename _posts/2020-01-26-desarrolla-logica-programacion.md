@@ -14,6 +14,6 @@ El video tiene dos partes:
 
 📍 Los primeros 5 ejercicios no requieren conocimientos de programación.
 
-📍 En los siguientes se muestran ejercicios de programación que suelen aparecer en entrevistas laborales y que necesitan ser resueltos en forma creativa.
+📍 En la siguiente sección se muestran ejercicios de programación que suelen aparecer en entrevistas laborales y que necesitan ser resueltos en forma creativa.
 
 {% include youtubePlayer.html id="DqXFtylWI10" %}
