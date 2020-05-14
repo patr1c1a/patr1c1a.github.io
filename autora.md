@@ -25,4 +25,4 @@ permalink: /autora/
 
 ---
 
-[YouTube](https://www.youtube.com/c/Programaciondesdecero) | [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos) | [Twitter](https://twitter.com/Programacion_0) | [Instagram](https://www.instagram.com/programaciondesdecero) | [Pinterest](www.pinterest.com/ProgramacionDesdeCero) | [GitHub](https://github.com/programacion-desde-cero)
+[YouTube](https://www.youtube.com/c/Programaciondesdecero) · [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos) · [Twitter](https://twitter.com/Programacion_0) · [Instagram](https://www.instagram.com/programaciondesdecero) · [Pinterest](www.pinterest.com/ProgramacionDesdeCero) · [GitHub](https://github.com/programacion-desde-cero)
