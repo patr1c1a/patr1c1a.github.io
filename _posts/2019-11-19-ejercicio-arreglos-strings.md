@@ -16,5 +16,7 @@ Veamos un problema con strings + una posible solución. ¿Se te ocurre algún al
 Fuente: [leetcode.com](www.leetcode.com){:target="_blank"}
 
 ![Enunciado]({{ site.url }}/assets/2019-11-19-ejercicio-arreglos-strings-01.png)
+
 ![Algoritmo]({{ site.url }}/assets/2019-11-19-ejercicio-arreglos-strings-02.png)
+
 ![Código]({{ site.url }}/assets/2019-11-19-ejercicio-arreglos-strings-03.png)
