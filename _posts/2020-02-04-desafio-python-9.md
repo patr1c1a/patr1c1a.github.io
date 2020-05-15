@@ -14,7 +14,7 @@ published: true
 <br />
 
 <details>
-  <summary>Click aquí para ver la solución al desafío.</summary>
+  <summary>Click aquí para desplegar la solución al desafío.</summary>
 <br />
 <br />El algoritmo solicita al usuario 5 strings y, por cada carácter de cada string, si se trata de una letra, verifica si no se encuentra en el diccionario, en cuyo caso la agrega con el valor 1 y, si se encuentra, le suma 1.
 <br />
