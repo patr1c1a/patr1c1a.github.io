@@ -13,16 +13,19 @@ En este caso, debemos generar casos de prueba para un algoritmo y corregirlo.
 
 No debemos confiarnos si un algoritmo funciona como esperamos en los casos más "obvios": es necesario hacer varias pruebas para mejorarlo todo lo posible. 
 
-▶️ Video sobre cómo probar una función en Python: www.youtube.com/watch?v=ZJP0Z5-sbeY
+▶️ Video sobre cómo probar una función en Python: [www.youtube.com/watch?v=ZJP0Z5-sbeY](www.youtube.com/watch?v=ZJP0Z5-sbeY){:target="_blank"}
 
-[Click aquí para ver la solución al desafío (en una nueva pestaña).]({{ site.url }}/assets/2019-11-29-desafio-python-8-solucion.png){:target="_blank"}
 
-<details><summary>Desplegar la explicación</summary>
-Una posible solución al desafío: las dos últimas invocaciones retornaban un resultado incorrecto con la versión errónea del algoritmo. En la versión corregida dada en la solución, las cuatro invocaciones retornan lo esperado.
+<details><summary>Click aquí para desplegar la solución. 👈</summary>
+<br />Una posible solución al desafío: las dos últimas invocaciones retornaban un resultado incorrecto con la versión errónea del algoritmo. En la versión corregida dada en la solución, las cuatro invocaciones retornan lo esperado.
 <br />
 <br />💻 Código ejecutable: https://repl.it/@programacionde1/Python-Desafio-8
 <br />😀 ¿Se te ocurrieron otras formas de mejorar el algoritmo? Deja tu comentario debajo.
-</details>
+<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-11-29-desafio-python-8-solucion.png)
+  </div></details>
+
 <br />
+<br />
+### Desafío Python 👇
 
 ![Desafío Python número 8]({{ site.url }}/assets/2019-11-29-desafio-python-8.png)
