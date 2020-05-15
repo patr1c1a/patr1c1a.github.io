@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final, static y abstract en Java
+title: Modificadores final, static y abstract en Java
 date: 2019-11-22 21:00:00
 categories: java
 tags: static abstract
