@@ -11,8 +11,8 @@ Las listas enlazadas son la base para otras estructuras de datos. Acá vemos alg
 
 (Fuente: "Introduction to algorithms - CLRS").
 
-▶️ Videos sobre listas simples implementadas en C++: www.youtube.com/watch?v=a17EyMjGcdc&list=PLb_E6BNMg5j4PxrjKC7Nzjhy3ZV3xdiDB 
+💻 [Implementación de las operciones en C++ (sin OO)](https://repl.it/@programacionde1/Operaciones-con-listas-enlazadas-simples-en-C){:target="_blank"}
 
-💻 Implementación de las operciones en C++ (sin OO): https://repl.it/@programacionde1/Operaciones-con-listas-enlazadas-simples-en-C
+▶️ [Videos sobre listas simples implementadas en C++](www.youtube.com/watch?v=a17EyMjGcdc&list=PLb_E6BNMg5j4PxrjKC7Nzjhy3ZV3xdiDB){:target="_blank"}
 
 ![listas enlazadas]({{ site.url }}/assets/2019-12-20-listas-enlazadas.png)
