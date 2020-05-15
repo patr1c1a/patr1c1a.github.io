@@ -3,7 +3,7 @@ layout: post
 title: Desafío Python número 9
 date: 2020-02-04 21:00:00
 categories: desafios python
-tags: challenge
+tags: strings diccionarios
 published: true
 ---
 
