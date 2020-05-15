@@ -11,6 +11,10 @@ published: true
 
 En entrevistas laborales de algunas empresas importantes se suelen proponer problemas pidiendo una solución ingeniosa como las 3 que se muestran acá.
 
-▶️ Para agilizar la mente: ejercicios resueltos de razonamiento lógico: https://youtu.be/wv1VFXgZbV0
+Para agilizar la mente:
+
+▶️ Ejercicios resueltos de razonamiento lógico: https://youtu.be/wv1VFXgZbV0
+
+▶️ Más ejercicios explicados: https://youtu.be/DqXFtylWI10
 
 ![Resolución de ejercicio]({{ site.url }}/assets/2019-12-02-sumar-sin-usar-suma.png)
