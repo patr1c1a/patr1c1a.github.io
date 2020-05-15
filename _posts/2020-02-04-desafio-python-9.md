@@ -24,7 +24,8 @@ Debajo, la solución.
 <br />
 <br />💢 Para ejecutar el código: https://repl.it/@programacionde1/Python-Desafio-9
 <br />
-<span style="display:block" class="note">![Solución al desafío]({{ site.url }}/assets/2020-02-04-desafio-python-9-solucion.png)</span>
+<div class="tip" markdown="1">![Solución al desafío]({{ site.url }}/assets/2020-02-04-desafio-python-9-solucion.png)
+  </div>
 </details>
 
 ![desafío Python número 9]({{ site.url }}/assets/2020-02-04-desafio-python-9.png)
