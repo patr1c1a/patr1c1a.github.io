@@ -7,7 +7,7 @@ tags: referencias
 published: true
 ---
 
-Te animas a un desafío con Java? 😀
+¿Te animas a un desafío con Java? 😀
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />la respuesta correcta es la c.
@@ -20,6 +20,6 @@ Te animas a un desafío con Java? 😀
 
 <br />
 <br />
-**Desafío Python** 👇
+**Desafío Java** 👇
 
 ![desafío Java número 1]({{ site.url }}/assets/2019-11-29-desafio-java-1.png)
