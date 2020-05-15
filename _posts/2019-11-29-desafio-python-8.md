@@ -26,6 +26,6 @@ No debemos confiarnos si un algoritmo funciona como esperamos en los casos más 
 
 <br />
 <br />
-### Desafío Python 👇
+**Desafío Python** 👇
 
 ![Desafío Python número 8]({{ site.url }}/assets/2019-11-29-desafio-python-8.png)
