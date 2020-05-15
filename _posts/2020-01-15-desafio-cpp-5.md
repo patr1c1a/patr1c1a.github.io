@@ -24,4 +24,5 @@ Desafío C++
 <br />
 <br />
 **Desafío C++** 👇
+
 ![desafío C++ número 5]({{ site.url }}/assets/2020-01-15-desafio-cpp-5.png)
