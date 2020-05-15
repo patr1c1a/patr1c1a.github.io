@@ -10,7 +10,7 @@ published: true
 ¿Te animas a un desafío con Java? 😀
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
-<br />la respuesta correcta es la c.
+<br />La respuesta correcta es la c.
 <br />✏️ Explicación: Los arreglos en Java son alocados dinámicamente (son objetos). Por ende, cuando asignamos un arreglo a otro no se está realizando una copia sino que ambas variables referencian al mismo objeto. Al modificar un elemento de la variable m1, se altera la única instancia del arreglo que existe, la cual puede referenciarse como m1 o m2 indistintamente.
 <br />
 <br />📗 Documentación oficial: https://docs.oracle.com/javase/specs/jls/se13/html/jls-10.html
