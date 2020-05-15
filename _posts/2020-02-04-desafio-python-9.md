@@ -21,6 +21,6 @@ published: true
 
 <br />
 <br />
-###Desafío Python 👇
+### Desafío Python 👇
 
 ![desafío Python número 9]({{ site.url }}/assets/2020-02-04-desafio-python-9.png)
