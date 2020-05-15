@@ -18,7 +18,7 @@ No debemos confiarnos si un algoritmo funciona como esperamos en los casos más 
 [Click aquí para ver la solución al desafío (en una nueva pestaña).]({{ site.url }}/assets/2019-11-29-desafio-python-8-solucion.png){:target="_blank"}
 
 <details><summary>Desplegar la explicación</summary>
-Una posible solución al desafío Python número 8: las dos últimas invocaciones retornaban un resultado incorrecto con la versión errónea del algoritmo. En esta versión corregida, las cuatro invocaciones retornan lo esperado.
+Una posible solución al desafío: las dos últimas invocaciones retornaban un resultado incorrecto con la versión errónea del algoritmo. En la versión corregida dada en la solución, las cuatro invocaciones retornan lo esperado.
 <br />
 <br />💻 Código ejecutable: https://repl.it/@programacionde1/Python-Desafio-8
 <br />😀 ¿Se te ocurrieron otras formas de mejorar el algoritmo? Deja tu comentario debajo.
