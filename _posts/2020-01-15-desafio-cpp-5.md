@@ -11,14 +11,17 @@ Desafío C++
 
 ❓ ¿Qué hace esta función recursiva?
 
-▶️ Este video puede ayudarte a entender la recursividad: www.youtube.com/watch?v=0NBPd81uhJE
+▶️ Este video puede ayudarte a entender la recursividad: [https://youtu.be/ymaBXPjiaPY](https://youtu.be/ymaBXPjiaPY){:target="_blank"}
 
-[Click aquí para ver la solución al desafío (en una nueva pestaña).]({{ site.url }}/assets/2020-01-15-desafio-cpp-5-solucion.png){:target="_blank"}
-
-<details><summary>⯈ Desplegar la explicación</summary>
+<details><summary>Click aquí para desplegar la solución. 👈</summary>
 ✏️ La función recibe un string y lo retorna invertido. Si es vacío o tiene 1 solo carácter, retorna el mismo string, sin modificaciones.
 <br />
 <br />Código ejecutable: https://repl.it/@programacionde1/C-Desafio-5</details>
 
+<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2020-01-15-desafio-cpp-5-solucion.png)
+  </div></details>
+
 <br />
-<br />![desafío C++ número 5]({{ site.url }}/assets/2020-01-15-desafio-cpp-5.png)
+<br />
+**Desafío C++** 👇
+![desafío C++ número 5]({{ site.url }}/assets/2020-01-15-desafio-cpp-5.png)
