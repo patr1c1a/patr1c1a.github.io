@@ -3,7 +3,7 @@ layout: post
 title: Desafío UML número 1
 date: 2020-03-23 21:00:00
 categories: desafios poo
-tags: uml challenge
+tags: uml objetos
 published: true
 ---
 
