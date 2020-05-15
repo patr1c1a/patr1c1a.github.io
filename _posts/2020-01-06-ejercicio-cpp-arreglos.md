@@ -11,6 +11,6 @@ Un ejercicio utilizando arreglos y una posible resolución. ¿Se te ocurre algun
 
 ▶️ Video sobre arreglos en C++: http://ow.ly/G4x850xobpj 
 
-💻 Para probar y ejecutar el código: http://ow.ly/B5TB50xobpg
+💻 [Para probar y ejecutar el código](http://ow.ly/B5TB50xobpg){:target="_blank"}
 
 ![Ejercicio C++]({{ site.url }}/assets/2020-01-06-ejercicio-cpp-arreglos.png)
