@@ -13,8 +13,8 @@ En entrevistas laborales de algunas empresas importantes se suelen proponer prob
 
 Para agilizar la mente:
 
-▶️ Ejercicios resueltos de razonamiento lógico: https://youtu.be/wv1VFXgZbV0
+▶️ [Video: ejercicios resueltos de razonamiento lógico](https://youtu.be/wv1VFXgZbV0){:target="_blank"}
 
-▶️ Más ejercicios explicados: https://youtu.be/DqXFtylWI10
+▶️ [Video: más ejercicios explicados](https://youtu.be/DqXFtylWI10){:target="_blank"}
 
 ![Resolución de ejercicio]({{ site.url }}/assets/2019-12-02-sumar-sin-usar-suma.png)
