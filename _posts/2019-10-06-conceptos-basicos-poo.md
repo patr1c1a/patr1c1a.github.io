@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Conceptos básicos de POO
-date: 2019-10- 21:00:00
+date: 2019-10-06 21:00:00
 categories: poo
 tags: clases objetos atributos metodos
 published: true
