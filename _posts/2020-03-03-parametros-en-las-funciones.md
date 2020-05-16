@@ -9,6 +9,6 @@ published: true
 
 Los parámetros no siempre son necesarios en las funciones, pero muchas veces existen. ¿Sabes cuándo pasarlos y de qué forma?
 
-▶️ Video sobre funciones: www.youtube.com/watch?v=IF34NgjldXs
+▶️ [Video: funciones](www.youtube.com/watch?v=IF34NgjldXs){:target="_blank"}
 
 ![Parámetros en las funciones]({{ site.url }}/assets/2020-03-03-parametros-en-las-funciones.png)
