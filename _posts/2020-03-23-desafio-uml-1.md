@@ -9,7 +9,7 @@ published: true
 
 ¿Hacemos un desafío para entretenernos durante la cuarentena?
 
-▶️ Video introducción a POO: [https://youtu.be/ymaBXPjiaPY](https://youtu.be/ymaBXPjiaPY){:target="_blank"}
+▶️ [Video: introducción a POO](https://youtu.be/ymaBXPjiaPY){:target="_blank"}
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />
