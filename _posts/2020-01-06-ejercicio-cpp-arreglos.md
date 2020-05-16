@@ -9,7 +9,7 @@ published: true
 
 Un ejercicio utilizando arreglos y una posible resolución. ¿Se te ocurre alguna otra? Si es así, compartila en la sección de comentarios 😃.
 
-▶️ Video sobre arreglos en C++: http://ow.ly/G4x850xobpj 
+▶️ [Video: arreglos en C++](https://www.youtube.com/watch?v=1UycYfCSil8){:target="_blank"}
 
 💻 [Para probar y ejecutar el código](http://ow.ly/B5TB50xobpg){:target="_blank"}
 
