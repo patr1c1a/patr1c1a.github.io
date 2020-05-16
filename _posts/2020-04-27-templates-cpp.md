@@ -10,4 +10,4 @@ published: true
 
 Los "templates" permiten escribir código C++ genérico. Los más comunes son las "familias" de funciones y de clases. En C++11 se incorporaron las "familias" de tipos, en C++14 las de variables y en C++20 los llamados "conceptos" ([documentación](https://en.cppreference.com/w/cpp/language/constraints){:target="_blank"})
 
-![templates]({{ site.url }}/assets/2020-04-27-templates-cpp.png)
+![Templates C++]({{ site.url }}/assets/2020-04-27-templates-cpp.png)
