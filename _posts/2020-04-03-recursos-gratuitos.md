@@ -11,39 +11,37 @@ published: true
 
 ¿Hacemos una lista? Si conoces alguno que no esté acá, agregalo en los comentarios.
 
-👉 Por supuesto, Programación Desde Cero sigue siendo un canal gratuito: www.youtube.com/c/ProgramacionDesdeCero
+🔘 [Pluralsight](www.pluralsight.com){:target="_blank"}
 
-🔘 Pluralsight: www.pluralsight.com
+🔘 [Scribd](www.scribd.com/readfree){:target="_blank"}
 
-🔘 Scribd: www.scribd.com/readfree
+🔘 [Interview Cake](www.interviewcake.com/upgrade){:target="_blank"}
 
-🔘 Interview Cake: www.interviewcake.com/upgrade
+🔘 [Unity Learn Premium](https://unity.com/products/learn-premium){:target="_blank"}
 
-🔘 Unity Learn Premium: https://unity.com/products/learn-premium
+🔘 [Classcentral](https://www.classcentral.com/report/coursera-free-certificate-covid-19){:target="_blank"}
 
-🔘 Classcentral: www.classcentral.com/rep…/coursera-free-certificate-covid-19
+🔘 [Cambridge University Press](https://www.cambridge.org/us/academic/covid-19-resources-and-information){:target="_blank"}
 
-🔘 Cambridge University Press: www.cambridge.org/…/acad…/covid-19-resources-and-information
+🔘 [365 Data Science](https://365datascience.com/free-access-covid-19/){:target="_blank"}
 
-🔘 365 Data Science: https://365datascience.com/free-access-covid-19/
+🔘 [Linkedin (cursos sobre trabajo remoto)](https://www.linkedin.com/learning/paths/remote-working-setting-yourself-and-your-teams-up-for-success){:target="_blank"}
 
-🔘 Linkedin (cursos sobre trabajo remoto): www.linkedin.com/…/remote-working-setting-yourself-and-your…
+🔘 [GreyAtom](https://greyatom.com/free-online-data-science-courses){:target="_blank"}
 
-🔘 GreyAtom: https://greyatom.com/free-online-data-science-courses
+🔘 [Rosetta Stone](www.rosettastone.com/freeforstudents){:target="_blank"}
 
-🔘 Rosetta Stone: www.rosettastone.com/freeforstudents
+🔘 [Coursera](www.coursera.org/coronavirus){:target="_blank"}
 
-🔘 Coursera: www.coursera.org/coronavirus
+🔘 [Datacamp (para instituciones educativas)](www.datacamp.com/groups/education){:target="_blank"}
 
-🔘 Datacamp (para instituciones educativas): www.datacamp.com/groups/education
+🔘 [edX (para instituciones educativas)](https://blog.edx.org/edx-global-university-partner-community-joins-forces-help-students-impacted-coronavirus/){:target="_blank"}
 
-🔘 edX (para instituciones educativas): https://blog.edx.org/edx-global-university-partner-communi…/
+🔘 [University of California Press](www.ucpress.edu/journals){:target="_blank"}
 
-🔘 University of California Press: www.ucpress.edu/journals
+🔘 [Codeacademy (ingresando con un correo .edu)](www.codecademy.com/){:target="_blank"}
 
-🔘 Codeacademy (ingresando con un correo .edu): www.codecademy.com/
-
-🔘 ACM Digital Library: https://dl.acm.org/acmbooks/archive
+🔘 [ACM Digital Library](https://dl.acm.org/acmbooks/archive){:target="_blank"}
 
 
 Nota: muchos de estos servicios se ofrecen solo en inglés.
