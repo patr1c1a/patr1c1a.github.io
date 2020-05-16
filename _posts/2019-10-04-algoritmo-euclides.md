@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Algoritmo de Euclides para hallar el mcd
-date: 2019-10- 21:00:00
+date: 2019-10-04 21:00:00
 categories: pseudocodigo
 tags: matematica algoritmo
 published: true
