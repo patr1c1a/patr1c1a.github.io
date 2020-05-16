@@ -13,6 +13,6 @@ Esta función determina si un string es palíndromo. 📍 ¿Por qué un string?:
 
 Otro detalle sobre esta fecha: se lee igual en formato inglés: 02/02/2020 y en formato americano: 02/02/2020. 
 
-▶️ Recursividad: https://youtu.be/0NBPd81uhJE
+▶️ [Video: Recursividad](https://youtu.be/0NBPd81uhJE){:target="_blank"}
 
 ![algoritmo palíndromo]({{ site.url }}/assets/2020-02-02-string-palindromo.png)
