@@ -10,36 +10,36 @@ published: true
 
 Una buena práctica de los equipos de desarrollo: el "code review" (o "revisión de código").
 
-📍 Para quienes están desarrollando por su cuenta, algunas opciones para pedir una revisión son: 
+📍 Para quienes están desarrollando por su cuenta, algunas opciones (en inglés) para pedir una revisión son: 
 
-👉 codereview.stackexchange.com
+👉 [Comunidad Code Review de Stack Exchange](https://codereview.stackexchange.com/){:target="_blank"}
 
-👉 www.reddit.com/r/CritiqueMyCode/
+👉 [Reddit: Critique my code](www.reddit.com/r/CritiqueMyCode/){:target="_blank"}
 
-👉 www.reddit.com/r/reviewmycode/
+👉 [Reddit: Review my code](www.reddit.com/r/reviewmycode/){:target="_blank"}
 
-👉 www.reddit.com/r/codereview/ 
+👉 [Reddit: Code review](www.reddit.com/r/codereview){:target="_blank"}
 
 
 🔎 También existen muchas herramientas automatizadas para verificar la sanidad del código (es buena idea utilizarlas antes de pedir un code review a un desarrollador). Algunos ejemplos:
 
-👉 Code review automático: www.codegrip.tech
+👉 [Code review automático](https://www.codegrip.tech/){:target="_blank"}
 
-👉 Análisis de accesibilidad: wave.webaim.org
+👉 [Análisis de accesibilidad](https://wave.webaim.org/){:target="_blank"}
 
-👉 Validación de HTML: validator.w3.org
+👉 [Validación de HTML](http://validator.w3.org/){:target="_blank"}
 
-👉 Validación de HTML / CSS: jigsaw.w3.org/css-validator/
+👉 [Validación de HTML / CSS](http://jigsaw.w3.org/css-validator/){:target="_blank"}
 
-👉 Métricas del código: www.campwoodsw.com/sourcemonitor.html
+👉 [Métricas del código](http://www.campwoodsw.com/sourcemonitor.html){:target="_blank"}
 
-👉 Seguridad y vulnerabilidades: github.com/nccgroup/VCG
+👉 [Seguridad y vulnerabilidades](https://github.com/nccgroup/VCG){:target="_blank"}
 
-👉 Comparación de código: www.devart.com/codecompare/download.html
+👉 [Comparación de código](www.devart.com/codecompare/download.html){:target="_blank"}
 
-👉 Listado de herramientas de análisis estático: github.com/mre/awesome-static-analysis
+👉 [Listado de herramientas de análisis estático](https://github.com/analysis-tools-dev/static-analysis){:target="_blank"}
 
-👉 Otro listado: en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis
+👉 [Otro listado](https://es.wikipedia.org/wiki/Anexo:Herramientas_para_el_an%C3%A1lisis_est%C3%A1tico_de_software){:target="_blank"}
 
 Atención: se debe tener cuidado al publicar código comercial o información confidencial del proyecto en que estamos trabajando.
 
