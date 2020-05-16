@@ -18,7 +18,7 @@ Cuatro formas ingeniosas de intercambiar los valores de dos variables numéricas
 
 - La cuarta se vale del XOR a nivel de bit.
 
-Este tipo de ejercicios suelen aparecer en entrevistas laborales con empresas importantes.
+Este tipo de ejercicios suelen aparecer en entrevistas laborales de importantes empresas.
 
 ▶️ [En este video se pueden ver este y otros ejercicios](https://youtu.be/DqXFtylWI10){:target="_blank"}
 
