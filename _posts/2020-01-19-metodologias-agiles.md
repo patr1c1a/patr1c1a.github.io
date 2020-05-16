@@ -9,6 +9,6 @@ published: true
 
 En nuestra vida laboral es muy posible que nos encontremos envueltos en procesos de metodologías ágiles. El tema es amplio, pero veamos algunos conceptos importantes...
 
-Fuente: "Agile handbook" (Emerson Taymor)
+Fuente: ["Agile handbook" (Emerson Taymor)](http://agilehandbook.com/){:target="_blank"}
 
 ![Metodologías ágiles]({{ site.url }}/assets/2020-01-19-metodologias-agiles.png)
