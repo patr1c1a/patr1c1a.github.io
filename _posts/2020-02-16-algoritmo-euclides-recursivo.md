@@ -3,7 +3,7 @@ layout: post
 title: Algoritmo de euclides recursivo
 date: 2020-02-16 21:00:00
 categories: pseudocodigo
-tags: algoritmos euclides
+tags: algoritmos euclides matematica
 published: true
 ---
 
