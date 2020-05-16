@@ -8,6 +8,6 @@ published: true
 ---
 
 
-R (junto con Python) es uno de los lenguajes más utilizados para el análisis estadístico de datos, así como para aplicaciones de inteligencia artificial.
+[R](https://www.r-project.org/){:target="_blank"} (junto con Python) es uno de los lenguajes más utilizados para el análisis estadístico de datos, así como para aplicaciones de inteligencia artificial.
 
-![debugging con patito de goma]({{ site.url }}/assets/2020-03-20-lenguaje-r.png)
+![Lenguaje R]({{ site.url }}/assets/2020-03-20-lenguaje-r.png)
