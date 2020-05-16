@@ -11,6 +11,6 @@ Cuando comenzamos a programar, normalmente usamos siempre la búsqueda secuencia
 
 👉 Ejemplo: en un arreglo de 8 elementos, el caso promedio de búsqueda secuencial realiza 4 comparaciones, al igual que el peor caso de búsqueda binaria. Pero si el arreglo tiene 100000 elementos, el caso promedio de búsqueda secuencial hace 50000 comparaciones mientras que el peor caso de la búsqueda binaria hace 18 😮
 
-Fuente: "Algorithms in C" (Sedgewick). 
+Fuente: ["Algorithms in C" (Sedgewick)](https://books.google.com/books/about/Algorithms_in_C.html?id=Bf7XAAAAMAAJ){:target="_blank"}
 
 ![Algoritmos de búsqueda]({{ site.url }}/assets/2019-11-27-algoritmos-busqueda.png)
