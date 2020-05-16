@@ -9,10 +9,8 @@ published: true
 
 Es importante poder probar nuestros algoritmos, incluso sin una computadora.
 
-Videos sobre pruebas y debugging:
+▶️ [Video: cómo probar una función](https://youtu.be/ZJP0Z5-sbeY){:target="_blank"}
 
-▶️ https://youtu.be/ZJP0Z5-sbeY
-
-▶️ https://youtu.be/5W14n0PjfyI
+▶️ [Video: cómo debuggear](https://youtu.be/5W14n0PjfyI){:target="_blank"}
 
 ![Prueba de escritorio]({{ site.url }}/assets/2019-10-22-prueba-escritorio.png)
