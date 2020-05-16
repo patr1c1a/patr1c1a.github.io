@@ -9,6 +9,6 @@ published: true
 
 Ejercicio de examen del MIT, para analizar una función recursiva. Con la resolución propuesta por la universidad.
 
-▶️ Video sobre recursividad: https://youtu.be/0NBPd81uhJE
+▶️ [Video: recursividad](https://youtu.be/0NBPd81uhJE){:target="_blank"}
 
 ![Ejercicio de MIT resuelto]({{ site.url }}/assets/2020-01-21-ejercicio-mit-recursividad.png)
