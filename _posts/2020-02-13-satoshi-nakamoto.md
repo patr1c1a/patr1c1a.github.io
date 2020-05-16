@@ -10,7 +10,7 @@ published: true
 
 El misterio de Satoshi Nakamoto, el creador de Bitcoin 🕵️‍
 
-Este es su perfil en la comunidad Bitcoin, inactivo desde 2010: https://bitcointalk.org/index.php?action=profile;u=3
+[Este es su perfil en la comunidad Bitcoin, inactivo desde 2010](https://bitcointalk.org/index.php?action=profile;u=3){:target="_blank"}
 
 ¿Cuál es tu teoría sobre su identidad? 🤔
 
