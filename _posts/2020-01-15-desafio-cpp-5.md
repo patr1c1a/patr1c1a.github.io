@@ -11,12 +11,13 @@ Desafío C++
 
 ❓ ¿Qué hace esta función recursiva?
 
-▶️ Este video puede ayudarte a entender la recursividad: [https://youtu.be/ymaBXPjiaPY](https://youtu.be/ymaBXPjiaPY){:target="_blank"}
+▶️ [Este video puede ayudarte a entender la recursividad](https://youtu.be/ymaBXPjiaPY){:target="_blank"}
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✏️ La función recibe un string y lo retorna invertido. Si es vacío o tiene 1 solo carácter, retorna el mismo string, sin modificaciones.
 <br />
-<br />💻 Código ejecutable: https://repl.it/@programacionde1/C-Desafio-5
+<div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/C-Desafio-5){:target="_blank"}
+  </div>
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2020-01-15-desafio-cpp-5-solucion.png)
 </div></details>
