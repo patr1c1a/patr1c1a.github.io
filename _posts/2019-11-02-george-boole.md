@@ -11,8 +11,8 @@ Hoy es el aniversario del nacimiento de uno de los grandes de la historia de la 
 
 ✍️ Para practicar armado de circuitos con lógica de Boole:
 
-Simulador online: https://academo.org/demos/logic-gate-simulator
+[Simulador online](https://academo.org/demos/logic-gate-simulator){:target="_blank"}
 
-Para descargar: www.logiccircuit.org
+[Para descargar](www.logiccircuit.org){:target="_blank"}
 
 ![George Boole]({{ site.url }}/assets/2019-11-02-george-boole.png)
