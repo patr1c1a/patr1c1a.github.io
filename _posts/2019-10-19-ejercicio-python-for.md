@@ -9,10 +9,10 @@ published: true
 
 Veamos un ejercicio simple en Python, usando bucles for.
 
-▶️ Video sobre bucles for: https://youtu.be/TPXPoUkUNqg
+▶️ [Video: bucles for](https://youtu.be/TPXPoUkUNqg){:target="_blank"}
 
-▶️ Video con explicación del ejercicio: https://youtu.be/7fBMgfbD570 
+▶️ [Video: explicación del ejercicio](https://youtu.be/7fBMgfbD570){:target="_blank"}
 
-💻 Código ejecutable: [https://repl.it/@programacionde1/Cifra-del-Cesar](https://repl.it/@programacionde1/Cifra-del-Cesar){:target="_blank"}
+💻 [Código ejecutable](https://repl.it/@programacionde1/Cifra-del-Cesar){:target="_blank"}
 
 ![Ejercicio Python]({{ site.url }}/assets/2019-10-19-ejercicio-python-for.png)
