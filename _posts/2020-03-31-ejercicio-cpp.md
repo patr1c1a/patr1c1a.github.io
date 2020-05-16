@@ -11,6 +11,6 @@ Veamos un ejercicio resuelto y explicado, en C++ 🤓
 
 ¿Podría resolverse de alguna otra forma? Deja en los comentarios tu resolución alternativa.
 
-▶️ Video sobre iteradores en C++: www.youtube.com/watch?v=6DCi3GPAk10
+▶️ [Video: iteradores en C++](www.youtube.com/watch?v=6DCi3GPAk10){:target="_blank"}
 
 ![ejercicio C++]({{ site.url }}/assets/2020-03-31-ejercicio-cpp.png)
