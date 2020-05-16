@@ -9,12 +9,13 @@ published: true
 
 ¡Nuevo desafío Python! Esta vez, con diccionarios.
 
-▶️ Video para aprender sobre diccionarios en Python: [https://youtu.be/ymaBXPjiaPY](https://youtu.be/ymaBXPjiaPY){:target="_blank"}
+▶️ [Video: diccionarios en Python](https://youtu.be/ymaBXPjiaPY){:target="_blank"}
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />El algoritmo solicita al usuario 5 strings y, por cada carácter de cada string, si se trata de una letra, verifica si no se encuentra en el diccionario, en cuyo caso la agrega con el valor 1 y, si se encuentra, le suma 1.
 <br />
-<br />💻 Para ejecutar el código: https://repl.it/@programacionde1/Python-Desafio-9
+<div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/Python-Desafio-9){:target="_blank"}
+  </div>
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2020-02-04-desafio-python-9-solucion.png)
   </div></details>
