@@ -9,8 +9,8 @@ published: true
 
 Volvamos a lo básico: las funciones. Su uso es sencillo pero, como en todo, es importante seguir buenas prácticas.
 
-▶️ Video sobre funciones: www.youtube.com/watch?v=IF34NgjldXs
+▶️ [Video: funciones](www.youtube.com/watch?v=IF34NgjldXs){:target="_blank"}
 
-▶️ Errores comunes al usar funciones: www.youtube.com/watch?v=LD61E3g6GjM
+▶️ [Video: errores comunes al usar funciones](www.youtube.com/watch?v=LD61E3g6GjM){:target="_blank"}
 
 ![Funciones]({{ site.url }}/assets/2020-01-02-funciones.png)
