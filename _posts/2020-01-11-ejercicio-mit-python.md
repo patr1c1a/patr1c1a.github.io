@@ -9,6 +9,6 @@ published: true
 
 En este ejercicio de examen del MIT se pide realizar operaciones sobre una lista para obtener la mediana de una serie de números, utilizando Python. La resolución dada por la universidad utiliza una excepción para el caso de que la lista esté vacía.
 
-▶️ Video sobre listas: www.youtube.com/watch?v=TEHBEGj1MSU
+▶️ [Video: listas y tuplas en Python](www.youtube.com/watch?v=TEHBEGj1MSU){:target="_blank"}
 
 ![Ejercicio de MIT resuelto]({{ site.url }}/assets/2020-01-11-ejercicio-mit-python.png)
