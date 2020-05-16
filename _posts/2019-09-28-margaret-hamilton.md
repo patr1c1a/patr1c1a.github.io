@@ -9,8 +9,8 @@ published: true
 
 Margaret Hamilton: una de las principales responsables de que el hombre pisara la Luna por primera vez.
 
-🚀 Repositorio del software: [github.com/chrislgarry/Apollo-11](github.com/chrislgarry/Apollo-11/){:target="_blank"}
+🚀 [Repositorio del software](https://github.com/chrislgarry/Apollo-11/){:target="_blank"}
 
-💻 Manual del lenguaje ensamblador usado: [www.ibiblio.org/apollo/assembly_language_manual.html](www.ibiblio.org/apollo/assembly_language_manual.html){:target="_blank"}
+💻 [Manual del lenguaje ensamblador usado](www.ibiblio.org/apollo/assembly_language_manual.html){:target="_blank"}
 
 ![Margaret hamilton]({{ site.url }}/assets/2019-09-28-margaret-hamilton.png)
