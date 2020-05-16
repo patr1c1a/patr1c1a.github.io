@@ -20,6 +20,6 @@ Cuatro formas ingeniosas de intercambiar los valores de dos variables numéricas
 
 Este tipo de ejercicios suelen aparecer en entrevistas laborales con empresas importantes.
 
-▶️ En este video se pueden ver este y otros ejercicios: https://youtu.be/DqXFtylWI10
+▶️ [En este video se pueden ver este y otros ejercicios](https://youtu.be/DqXFtylWI10){:target="_blank"}
 
 ![resoluciones posibles]({{ site.url }}/assets/2020-01-29-intercambiar-variables.png)
