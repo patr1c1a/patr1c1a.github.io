@@ -9,4 +9,4 @@ published: true
 
 De las primeras computadoras, que necesitaban toda una habitación para funcionar, a los pequeños dispositivos con múltiples propósitos que tenemos hoy, se ha recorrido un largo camino...
 
-![Eniac y Colossus, dos de las primeras computadoras]({{ site.url }}/assets/2019-08-07-primeras-computadoras.jpg)
+![Eniac y Colossus, dos de las primeras computadoras]({{ site.url }}/assets/2019-08-07-primeras-computadoras.png)
