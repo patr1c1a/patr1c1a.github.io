@@ -9,4 +9,4 @@ published: true
 
 Algunos dispositivos de almacenamiento utilizados en el pasado. ¡Y en esas épocas no existía la posibilidad de almacenar en la nube!
 
-![Almacenamiento de datos en el pasado]({{ site.url }}/assets/2019-08-23-almacenamiento-datos-pasado.jpg)
+![Almacenamiento de datos en el pasado]({{ site.url }}/assets/2019-08-23-almacenamiento-datos-pasado.png)
