@@ -9,7 +9,7 @@ published: true
 
 Algunas dudas y errores comunes al programar, especialmente cuando estamos aprendiendo.
 
-*Nota:* los ejemplos no están ligados a un lenguaje en particular.
+En los ejemplos mostrados se utiliza pseudocódigo y no están ligados a un lenguaje en particular.
 
 [Descargar en PDF]({{ site.url }}/assets/dudas_errores.pdf)
 
