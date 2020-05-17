@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hola, mundo" en distintos lenguajes
+title: Hola, mundo - en distintos lenguajes
 date: 2019-09-14 21:00:00
 categories: otros
 tags: lenguajes
