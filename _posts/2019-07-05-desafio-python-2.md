@@ -19,7 +19,8 @@ published: true
 <br />a): en esta lista aparecen todos los caracteres del string, por lo que no se eliminan duplicados consecutivos.
 <br />b): esta lista elimina la letra "a" inicial, lo cual no se corresponde con el algoritmo, porque "a" y "A" son dos caracteres diferentes. Además, elimina una sola ocurrencia de la "h", de la que se encontraban 3 ocurrencias en el string pasado por parámetro.
 <br />
-<br />💻 [Código ejecutable](https://repl.it/@programacionde1/Python-Desafio-2){:target="_blank"}
+<div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/Python-Desafio-2){:target="_blank"}
+  </div>
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-07-05-desafio-python-2-solucion.png)
   </div></details>
