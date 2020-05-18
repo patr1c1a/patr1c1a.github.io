@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-title: C#
 categories: csharp
+title: C#
 permalink: /category/csharp
 ---
