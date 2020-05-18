@@ -16,8 +16,7 @@ published: true
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />La opción correcta es la a).
 <br />
-<br />✏️ Explicación:
-<br />Esta función determina si el número n contiene al dígito d. Para esto, se recorre el número, obteniendo cada dígito desde el final (usando el operador módulo) y comparándolos con d. Si el dígito coincide con d, la función retorna True. Si finaliza la iteración sin encontrarlo, retorna False.
+<br />✏️ Explicación: esta función determina si el número n contiene al dígito d. Para esto, se recorre el número, obteniendo cada dígito desde el final (usando el operador módulo) y comparándolos con d. Si el dígito coincide con d, la función retorna True. Si finaliza la iteración sin encontrarlo, retorna False.
 <br />
 <br />
 <div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/Python-Desafio-5){:target="_blank"}
