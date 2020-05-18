@@ -10,6 +10,7 @@ layout: default
     <hr />
     {% for category in site.categories %}
         {% capture category_slug %}{{ category | first }}{% endcapture %}
+        {{ category_slug }}
         {% for c_slug in category_slug %}
             {% if c_slug == page.categories %}
                 <button class="btn btn-sm btn-primary btn-raised">{{ c_slug }}</button>
