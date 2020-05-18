@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video - Tutorial de aplicación para Android
+title: Video - Serie de tutoriales - Cronómetro para Android
 date: 2020-05-07 21:00:00
 categories: tutoriales mobile
 tags: android mit_app_inventor
