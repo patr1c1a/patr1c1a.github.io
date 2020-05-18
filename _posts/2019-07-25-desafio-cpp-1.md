@@ -9,7 +9,7 @@ published: true
 
 ¿Podrás detectar el error en este programa C++? 🔎
 
-▶️ [Este video sobre arreglos en C++ puede ayudarte a resolver el problema](www.youtube.com/watch?v=1UycYfCSil8)
+▶️ [Este video sobre arreglos en C++ puede ayudarte a resolver el problema](www.youtube.com/watch?v=1UycYfCSil8){:target="_blank"}
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✏️ El error está en la carga del arreglo, ya que la dimensión lógica nunca se incrementa al ir agregando elementos, entonces cada valor ingresado se guarda en la posición 0, pisando al anterior.
