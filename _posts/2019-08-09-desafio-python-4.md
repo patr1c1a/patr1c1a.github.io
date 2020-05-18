@@ -24,7 +24,8 @@ Si necesitas repasar cómo funcionan if, for y while, estos videos pueden serte 
 <br />✏️ Explicación:
 <br />🔹 La opción A no resuelve el problema porque no es necesaria una iteración (ya estamos dentro de la iteración for, y ahora sólo hay que ver si el carácter evaluado es una vocal). Además, no existe ninguna variable o expresión llamada vocales dentro de la función, lo cual daría un error antes de comenzar la ejecución.
 <br />🔹 La opción C no da ningún error pero no hace lo esperado: c siempre va a ser un único carácter (porque se está recorriendo la cadena) y jamás podría ser igual a "aeiou".
-<br />💻 [Código ejecutable](https://repl.it/@programacionde1/Python-Desafio-4){:target="_blank"}
+<div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/Python-Desafio-4){:target="_blank"}
+  </div>
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-08-09-desafio-python-4-solucion.png)
   </div></details>
