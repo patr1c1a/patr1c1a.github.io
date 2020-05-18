@@ -20,7 +20,8 @@ published: true
 <br />🔹 ¿Qué se almacena en el arreglo? Con la versión errónea, solo se almacena el último valor leido (a menos que sea el 0), y siempre se lo guarda en la primera posición del arreglo con la instrucción numeros[dimension]=valor
 <br />🔹 Los elementos son indefinidos cuando se declara el arreglo, pero eso no causará errores si se maneja apropiadamente la dimensión lógica. El tamaño físico del arreglo es 10, pero podría haber menos elementos "útiles" (tamaño lógico) ocupados.
 <br />
-<br />💻 [Código ejecutable](https://repl.it/@programacionde1/C-Desafio-1){:target="_blank"}
+<div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/C-Desafio-1){:target="_blank"}
+  </div>
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-07-25-desafio-cpp-1-solucion.png)
   </div></details>
