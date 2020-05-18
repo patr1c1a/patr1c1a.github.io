@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La internet, por dentro
-date: 2019-08- 21:00:00
+date: 2019-08-17 21:00:00
 categories: otros
 tags: redes internet
 published: true
