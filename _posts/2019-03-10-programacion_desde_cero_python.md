@@ -13,7 +13,7 @@ Una serie de videos con un curso de programación en Python desde cero: sin nece
 <br />
 Por cada tema hay también videos de práctica con ejercicios y problemas para resolver, mostrando luego la resolución.
 <br />
-Los videos están contenidos en una lista de reproducción con los temas en orden. [También es posible acceder a la lista de videos en YouTube haciendo click acá](https://www.youtube.com/watch?v=PBChlAXf1j0&list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb)
+Los videos están contenidos en una lista de reproducción con los temas en orden. [También es posible acceder a la lista de videos en YouTube haciendo click acá](https://www.youtube.com/watch?v=PBChlAXf1j0&list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb){:target="_blank"}
 <br />&nbsp;
 
 {% include youtubePlaylist.html videoid="PBChlAXf1j0" playlistid="PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb" %}
