@@ -4,7 +4,7 @@ title: Desafío Java número 2
 date: 2020-05-26 21:00:00
 categories: desafios java
 tags: metodos strings
-published: false
+published: true
 ---
 ☕ Nuevo desafío Java: si desciframos lo que hace este método, sabremos qué retorna ante el argumento pasado en la llamada...
 
