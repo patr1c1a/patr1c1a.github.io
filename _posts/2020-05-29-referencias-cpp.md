@@ -4,7 +4,7 @@ title: Las referencias en C++
 date: 2020-05-29 21:00:00
 categories: c++ conceptos
 tags: referencias punteros
-published: false
+published: true
 ---
 
 Las referencias en C++ suelen confundirse con los punteros, pero el concepto es diferente.
