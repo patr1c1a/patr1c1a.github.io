@@ -4,7 +4,7 @@ title: Desafío de Razonamiento lógico número 4
 date: 2020-06-04 21:00:00
 categories: desafios
 tags: logica razonamiento algoritmos
-published: false
+published: true
 ---
 ¿Probamos cómo está nuestro razonamiento lógico? 🤓
 
