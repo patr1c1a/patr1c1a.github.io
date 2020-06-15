@@ -11,4 +11,4 @@ published: true
 
 [Versión para impresión]({{ site.url }}/assets/referencia_cpp_impresion.pdf)
 
-![C++]({{ site.url }}/assets/referencia-cpp.png)
+![C++]({{ site.url }}/assets/referencia_cpp.png)
