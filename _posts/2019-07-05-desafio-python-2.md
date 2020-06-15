@@ -7,7 +7,7 @@ tags: funciones listas
 published: true
 ---
 
-▶️ [Video: ](){:target="_blank"}
+¡Nuevo desafío Python!
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />La opción correcta es la c.
