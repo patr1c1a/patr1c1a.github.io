@@ -10,6 +10,6 @@ published: true
 
 ¿Conocías el método del patito de goma para "debuggear" código? 😁
 
-▶️ [Video: debugging](www.youtube.com/watch?v=5W14n0PjfyI){:target="_blank"}
+▶️ [Video: debugging](https://www.youtube.com/watch?v=5W14n0PjfyI){:target="_blank"}
 
 ![debugging con patito de goma]({{ site.url }}/assets/2020-04-16-patito-goma-debugging.png)
