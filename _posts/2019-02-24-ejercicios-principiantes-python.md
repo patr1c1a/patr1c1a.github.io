@@ -1082,7 +1082,7 @@ print("Números que contienen el 0:", digito0)</code></pre>
 </details>
 &nbsp;
 <br>*Ejemplo de ejecución:*
-> **Número:** _829
+> **Número:** _829_
 > <br> **Número:** _102834_
 > <br> **Número:** _6_
 > <br> **Número:** _4307_
