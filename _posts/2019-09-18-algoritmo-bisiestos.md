@@ -9,6 +9,6 @@ published: true
 
 ✏️ Algoritmo para imprimir los años bisiestos en un rango dado.
 
-▶️ [Video: resolución de ejercicio usando este algoritmo](https://youtu.be/lG-DTUOZVZg)
+▶️ [Video: resolución de ejercicio usando este algoritmo](https://youtu.be/lG-DTUOZVZg){:target="_blank"}
 
-![Algoritmo]({{ site.url }}/assets/2019-09-18-algoritmo-bisiestos.png)
+![Algoritmo años bisiestos]({{ site.url }}/assets/2019-09-18-algoritmo-bisiestos.png)
