@@ -16,15 +16,27 @@ También vemos una introducción a UML.
 {% include youtubePlayer.html id="iliKayKaGtc" %}
 
 Temas del video:
+
 📌 Objetos
+
 📌 Clases
+
 📌 Atributos
+
 📌 Métodos
-📌 Constructor (__init__ en Python)
+
+📌 Constructor (\_\_init\_\_ en Python)
+
 📌 Ejemplos
+
 📌 Modelado con UML
+
 📌 Herencia
+
 📌 Encapsulamiento
+
 📌 Ocultamiento
+
 📌 Abstracción
+
 📌 Polimorfismo
