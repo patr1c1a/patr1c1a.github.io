@@ -11,6 +11,6 @@ Algoritmo: la sucesión de Fibonacci.
 
 ✏️ La sucesión de Fibonacci comienza con los números 0 y 1 y, a partir de estos, cada término es la suma de los dos anteriores.
 
-▶️ [Video donde se explica el algoritmo](www.youtube.com/watch?v=cmFX38TpxNM){:target="_blank"}
+▶️ [Video donde se explica el algoritmo](https://www.youtube.com/watch?v=cmFX38TpxNM){:target="_blank"}
 
 ![Algoritmo: Fibonacci]({{ site.url }}/assets/2019-08-23-algoritmo-fibonacci.png)
