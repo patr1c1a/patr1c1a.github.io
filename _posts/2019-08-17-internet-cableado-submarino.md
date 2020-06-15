@@ -9,6 +9,6 @@ published: true
 
 Hoy día, el mundo está interconectado. 🌎
 
-👉 [Click para ver en detalle el mapa de los cables submarinos que "nos traen la internet" hasta donde estemos](www.submarinecablemap.com){:target="_blank"}
+👉 [Click para ver en detalle el mapa de los cables submarinos que "nos traen la internet" hasta donde estemos](https://www.submarinecablemap.com/){:target="_blank"}
 
 ![La internet, por dentro]({{ site.url }}/assets/2019-08-17-internet-cableado-submarino.png)
