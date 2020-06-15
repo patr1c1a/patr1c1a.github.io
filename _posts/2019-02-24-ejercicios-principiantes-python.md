@@ -776,7 +776,7 @@ print(nueva)</code></pre>
 <br>*Ejemplo de ejecución:*
 > **Frase:** Aquí me pongo a cantar al compás de la vigüela_
 > <br> **Carácter:** _o_
-> <br> **Aquí me p*ng* a cantar al c*mpás de la vigüela**
+> <br> **Aquí me p\*ng\* a cantar al c\*mpás de la vigüela**
 
 
 ### 31
