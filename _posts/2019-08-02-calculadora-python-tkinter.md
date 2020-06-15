@@ -21,7 +21,7 @@ También es posible acceder al video que explica el proyecto paso a paso:
 * Incorporar un botón de borrado parcial (el actual sólo borra todo el contenido de la pantalla).
 * No mostrar decimales al hacer una división que da como resultado un entero.
 
-Pasemos a la implementación, para lo cual será necesario tener instalado Python 3 ([click aquí para ver un video sobre cómo descargar e instalar](https://www.youtube.com/watch?v=F9eM_VoKGJQ)). Tkinter es una de las opciones para crear interfaces gráficas con Python. La ventaja es que se instala automáticamente con la instalación de Python 3, al menos en Windows. En algunos sistemas operativos esto no es así. En Linux, es necesario instalarlo manualmente:
+Pasemos a la implementación, para lo cual será necesario tener instalado Python 3 ([click aquí para ver un video sobre cómo descargar e instalar](https://www.youtube.com/watch?v=F9eM_VoKGJQ){:target="_blank"}). Tkinter es una de las opciones para crear interfaces gráficas con Python. La ventaja es que se instala automáticamente con la instalación de Python 3, al menos en Windows. En algunos sistemas operativos esto no es así. En Linux, es necesario instalarlo manualmente:
 <pre><code>sudo apt-get install python3-tk</code></pre>
 
 Ahora sí, comenzamos creando un archivo .py (vamos a usar uno solo) para escribir el código. Del módulo tkinter vamos a ir importando lo que necesitemos, para no importar el módulo completo con componentes que no se van a usar en el proyecto.
