@@ -13,6 +13,6 @@ Hoy es el aniversario del nacimiento de uno de los grandes de la historia de la 
 
 [Simulador online](https://academo.org/demos/logic-gate-simulator){:target="_blank"}
 
-[Para descargar](www.logiccircuit.org){:target="_blank"}
+[Para descargar](http://www.logiccircuit.org/){:target="_blank"}
 
 ![George Boole]({{ site.url }}/assets/2019-11-02-george-boole.png)
