@@ -9,7 +9,7 @@ published: true
 
 ¡Desafío Python!
 
-▶️ [Para ver cómo hacer estas y otras operaciones con strings en Python, visitá este video](www.youtube.com/watch?v=xAigyL6Lz2s){:target="_blank"}
+▶️ [Para ver cómo hacer estas y otras operaciones con strings en Python, visitá este video](https://www.youtube.com/watch?v=xAigyL6Lz2s){:target="_blank"}
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />La opción correcta es la b).
