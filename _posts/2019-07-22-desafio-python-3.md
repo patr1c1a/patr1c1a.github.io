@@ -11,9 +11,9 @@ published: true
 
 🎥 Para aprender sobre diccionarios y listas, no dejes de ver estos videos:
 
-▶️ [Video: Listas y tuplas](www.youtube.com/watch?v=TEHBEGj1MSU){:target="_blank"}
+▶️ [Video: Listas y tuplas]({:target="_blank"}www.youtube.com/watch?v=TEHBEGj1MSU){:target="_blank"}
 
-▶️ [Video: Diccionarios](www.youtube.com/watch?v=ymaBXPjiaPY){:target="_blank"}
+▶️ [Video: Diccionarios]({:target="_blank"}www.youtube.com/watch?v=ymaBXPjiaPY){:target="_blank"}
 
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
