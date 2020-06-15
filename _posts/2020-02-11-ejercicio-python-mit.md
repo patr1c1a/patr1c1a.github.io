@@ -9,6 +9,6 @@ published: true
 
 Un ejercicio de introducción a la programación, de un examen del MIT, con la resolución propuesta por esta universidad.
 
-▶️ [Video: condicionales en Python](www.youtube.com/watch?v=kIkAhld32O8){:target="_blank"}
+▶️ [Video: condicionales en Python](https://www.youtube.com/watch?v=kIkAhld32O8){:target="_blank"}
 
 ![Ejercicio resuelto con Python]({{ site.url }}/assets/2020-02-11-ejercicio-python-mit.png)
