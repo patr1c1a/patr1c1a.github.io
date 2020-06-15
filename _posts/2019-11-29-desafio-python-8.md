@@ -13,7 +13,7 @@ En este caso, debemos generar casos de prueba para un algoritmo y corregirlo.
 
 No debemos confiarnos si un algoritmo funciona como esperamos en los casos más "obvios": es necesario hacer varias pruebas para mejorarlo todo lo posible. 
 
-▶️ [Video: cómo probar una función en Python](www.youtube.com/watch?v=ZJP0Z5-sbeY){:target="_blank"}
+▶️ [Video: cómo probar una función en Python](https://www.youtube.com/watch?v=ZJP0Z5-sbeY){:target="_blank"}
 
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
