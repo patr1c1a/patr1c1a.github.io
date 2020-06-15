@@ -9,7 +9,7 @@ published: true
 
 Una pregunta que puede aparecer en una entrevista para el puesto de desarrollador junior, y algunas respuestas (aunque no las únicas) posibles.
 
-▶️ [Video: strings en Python](){:target="_blank"}
+▶️ [Video: strings en Python](https://www.youtube.com/watch?v=xAigyL6Lz2s){:target="_blank"}
 
 ![Problema de entrevista laboral]({{ site.url }}/assets/2019-09-03-problema-entrevista-strings.png)
 
