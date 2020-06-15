@@ -11,6 +11,6 @@ published: true
 
 [Versión para impresión]({{ site.url }}/assets/referencia_java_impresion.pdf)
 
-![Java basico]({{ site.url }}/assets/referencia-java.png)
+![Java basico]({{ site.url }}/assets/referencia_java.png)
 
 ![Java POO]({{ site.url }}/assets/referencia_java_poo.png)
