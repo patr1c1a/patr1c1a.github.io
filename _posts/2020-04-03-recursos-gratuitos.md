@@ -11,11 +11,11 @@ published: true
 
 ¿Hacemos una lista? Si conoces alguno que no esté acá, agregalo en los comentarios.
 
-🔘 [Pluralsight](www.pluralsight.com){:target="_blank"}
+🔘 [Pluralsight](https://www.pluralsight.com/){:target="_blank"}
 
-🔘 [Scribd](www.scribd.com/readfree){:target="_blank"}
+🔘 [Scribd](https://www.scribd.com/readfree){:target="_blank"}
 
-🔘 [Interview Cake](www.interviewcake.com/upgrade){:target="_blank"}
+🔘 [Interview Cake](https://www.interviewcake.com/upgrade){:target="_blank"}
 
 🔘 [Unity Learn Premium](https://unity.com/products/learn-premium){:target="_blank"}
 
@@ -29,17 +29,17 @@ published: true
 
 🔘 [GreyAtom](https://greyatom.com/free-online-data-science-courses){:target="_blank"}
 
-🔘 [Rosetta Stone](www.rosettastone.com/freeforstudents){:target="_blank"}
+🔘 [Rosetta Stone](https://www.rosettastone.com/freeforstudents/){:target="_blank"}
 
-🔘 [Coursera](www.coursera.org/coronavirus){:target="_blank"}
+🔘 [Coursera](https://www.coursera.org/coronavirus){:target="_blank"}
 
-🔘 [Datacamp (para instituciones educativas)](www.datacamp.com/groups/education){:target="_blank"}
+🔘 [Datacamp (para instituciones educativas)](https://www.datacamp.com/groups/education){:target="_blank"}
 
 🔘 [edX (para instituciones educativas)](https://blog.edx.org/edx-global-university-partner-community-joins-forces-help-students-impacted-coronavirus/){:target="_blank"}
 
-🔘 [University of California Press](www.ucpress.edu/journals){:target="_blank"}
+🔘 [University of California Press](https://online.ucpress.edu/journals){:target="_blank"}
 
-🔘 [Codeacademy (ingresando con un correo .edu)](www.codecademy.com/){:target="_blank"}
+🔘 [Codeacademy (ingresando con un correo .edu)](https://www.codecademy.com/){:target="_blank"}
 
 🔘 [ACM Digital Library](https://dl.acm.org/acmbooks/archive){:target="_blank"}
 
