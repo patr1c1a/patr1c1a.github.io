@@ -7,7 +7,7 @@ tags: arreglos
 published: true
 ---
 
-Un mismo problema, 4 formas diferentes de resolverlo. ¿Se te ocurre alguna otra? "Dado un arreglo no vacío de números enteros, cada elemento aparece dos veces, excepto uno. Se debe encontrar el elemento que no se repite." (fuente: leetcode.com)
+Un mismo problema, 4 formas diferentes de resolverlo. ¿Se te ocurre alguna otra? "Dado un arreglo no vacío de números enteros, cada elemento aparece dos veces, excepto uno. Se debe encontrar el elemento que no se repite." (fuente: [leetcode.com](https://leetcode.com/){:target="_blank"})
 <br />
 <br />![Enunciado]({{ site.url }}/assets/2019-09-02-ejercicio-python-4-soluciones-01.png)
 <br />
