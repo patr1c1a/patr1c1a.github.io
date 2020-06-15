@@ -415,6 +415,7 @@ print((nombre1[0] == nombre2[0]) or (nombre1[posicion_final_nombre1] == nombre2[
 # Sección 2
 **Bloques - Selección - Repeticiones**
 &nbsp;
+
 **Código de ejemplo**
 <pre><code>x=10
 if x!=0:
@@ -1144,6 +1145,7 @@ print("Se leyeron ",lineas," líneas completas")</code></pre>
 # Sección 3
 **Funciones**
 &nbsp;
+
 **Código de ejemplo**
 <pre><code>def promedio(x, y, z):
     return (x+y+z)/3
