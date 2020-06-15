@@ -13,7 +13,7 @@ Fuente: ["Objects first" (Edwards, Dorn, Sanders)](http://sofia.cs.vt.edu/cs1114
 
 ▶️ [Video: ejercicios de resolución de problemas (1)](https://youtu.be/wv1VFXgZbV0){:target="_blank"}
 
-▶️ [Video: ejercicios de resolución de problemas (2)](www.youtube.com/watch?v=DqXFtylWI10){:target="_blank"}
+▶️ [Video: ejercicios de resolución de problemas (2)](https://www.youtube.com/watch?v=DqXFtylWI10){:target="_blank"}
 
 ![Desarrollo de un algoritmo]({{ site.url }}/assets/2019-12-08-desarrollar-algoritmos.png)
 
