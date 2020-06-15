@@ -10,6 +10,6 @@ published: true
 
 Veamos un ejercicio de examen del MIT, y la resolución dada por esta universidad.
 
-▶️ Bucles while en Python: www.youtube.com/watch?v=Ll8Q48_yPIM
+▶️ [Video: bucles while en Python](https://www.youtube.com/watch?v=Ll8Q48_yPIM){:target="_blank"}
 
 ![ejercicio Python de MIT]({{ site.url }}/assets/2020-01-31-ejercicio-python-mit.png)
