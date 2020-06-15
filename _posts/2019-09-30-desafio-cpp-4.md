@@ -23,4 +23,4 @@ Desafío C++ número 4.
 <br />
 **Desafío C++** 👇
 
-![Desafío]({{ site.url }}/assets/2019-09-30-desafio-cpp-4.png)
+![Desafío C++ 4]({{ site.url }}/assets/2019-09-30-desafio-cpp-4.png)
