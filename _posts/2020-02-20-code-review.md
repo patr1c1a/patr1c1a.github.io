@@ -14,11 +14,11 @@ Una buena práctica de los equipos de desarrollo: el "code review" (o "revisión
 
 👉 [Comunidad Code Review de Stack Exchange](https://codereview.stackexchange.com/){:target="_blank"}
 
-👉 [Reddit: Critique my code](www.reddit.com/r/CritiqueMyCode/){:target="_blank"}
+👉 [Reddit: Critique my code](https://www.reddit.com/r/CritiqueMyCode/){:target="_blank"}
 
-👉 [Reddit: Review my code](www.reddit.com/r/reviewmycode/){:target="_blank"}
+👉 [Reddit: Review my code](https://www.reddit.com/r/reviewmycode/){:target="_blank"}
 
-👉 [Reddit: Code review](www.reddit.com/r/codereview){:target="_blank"}
+👉 [Reddit: Code review](https://www.reddit.com/r/codereview){:target="_blank"}
 
 
 🔎 También existen muchas herramientas automatizadas para verificar la sanidad del código (es buena idea utilizarlas antes de pedir un code review a un desarrollador). Algunos ejemplos:
@@ -35,7 +35,7 @@ Una buena práctica de los equipos de desarrollo: el "code review" (o "revisión
 
 👉 [Seguridad y vulnerabilidades](https://github.com/nccgroup/VCG){:target="_blank"}
 
-👉 [Comparación de código](www.devart.com/codecompare/download.html){:target="_blank"}
+👉 [Comparación de código]((https://www.devart.com/codecompare/download.html){:target="_blank"}
 
 👉 [Listado de herramientas de análisis estático](https://github.com/analysis-tools-dev/static-analysis){:target="_blank"}
 
