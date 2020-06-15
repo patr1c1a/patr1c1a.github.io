@@ -26,4 +26,4 @@ Desafío C# número 1.
 <br />
 **Desafío C#** 👇
 
-![Desafío]({{ site.url }}/assets/2019-09-15-desafio-csharp-1.png)
+![Desafío C# 1]({{ site.url }}/assets/2019-09-15-desafio-csharp-1.png)
