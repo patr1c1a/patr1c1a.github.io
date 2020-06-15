@@ -14,6 +14,6 @@ Conversión de números romanos, en C++.
 🤓 ¿Sabías que los romanos no siempre usaron las mismas reglas para escribir sus números y que éstas varían según la época? De acuerdo a las reglas modernas, esta expresión regular comprueba la validez de un número romano:
 <pre><code>(^(?=[MDCLXVI])M*(C[MD]|D?C{0,3})(X[CL]|L?X{0,3})(I[XV]|V?I{0,3})$)</code></pre>
 
-▶️ [Videos de C++](www.youtube.com/playlist?list=PLb_E6BNMg5j65aaxqcuz93MnGA06BYrhr){:target="_blank"}
+▶️ [Videos de C++](https://www.youtube.com/playlist?list=PLb_E6BNMg5j65aaxqcuz93MnGA06BYrhr){:target="_blank"}
 
 ![Ejercicio resuelto C++]({{ site.url }}/assets/2019-11-20-ejercicio-cpp-mapas.png)
