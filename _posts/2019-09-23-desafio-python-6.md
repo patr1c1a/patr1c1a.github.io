@@ -11,11 +11,11 @@ published: true
 
 Estos videos pueden ayudarte a resolverlo:
 
-▶️ [Funciones](youtu.be/IF34NgjldXs){:target="_blank"}
+▶️ [Funciones](https://youtu.be/IF34NgjldXs){:target="_blank"}
 
-▶️ [Listas](youtu.be/TEHBEGj1MSU){:target="_blank"}
+▶️ [Listas](https://youtu.be/TEHBEGj1MSU){:target="_blank"}
 
-▶️ [Conjuntos](youtu.be/OJRJRxmaLY8){:target="_blank"}
+▶️ [Conjuntos](https://youtu.be/OJRJRxmaLY8){:target="_blank"}
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />
@@ -31,4 +31,4 @@ Estos videos pueden ayudarte a resolverlo:
 <br />
 **Desafío Python** 👇
 
-![]({{ site.url }}/assets/2019-09-23-desafio-python-6.png)
+![Desafío Python 6]({{ site.url }}/assets/2019-09-23-desafio-python-6.png)
