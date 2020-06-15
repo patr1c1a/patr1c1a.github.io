@@ -11,6 +11,6 @@ En algunas empresas importantes suelen aparecer preguntas sobre manipulación de
 
 ¡Veamos entonces un ejemplo!
 
-Fuente: ["Cracking the coding interview" (Laakmann)](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850){:target="_blank"}
+Fuente: ["Cracking the coding interview" (Laakmann)](https://books.google.com/books/about/Cracking_the_Coding_Interview.html?id=jD8iswEACAAJ){:target="_blank"}
 
 ![Operaciones bitwise]({{ site.url }}/assets/2019-10-25-operaciones-nivel-bit.png)
