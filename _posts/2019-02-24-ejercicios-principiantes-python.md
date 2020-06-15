@@ -782,7 +782,7 @@ print(nueva)</code></pre>
 
 ### 31
 <details> 
-  <summary>Escribí un programa que, dada una frase por el usuario, la muestre invertida.
+  <summary>Escribí un programa que, dada una frase por el usuario, la muestre invertida, sin utilizar una rebanada con paso negativo.
 </summary>
 <br>Solución:
 <pre><code>frase=input("Frase:")
