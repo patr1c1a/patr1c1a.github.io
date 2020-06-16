@@ -8,9 +8,11 @@ published: true
 ---
 
 
-¡Desafío de programación con Python! 👩‍💻
+Si necesitas repasar algunos conceptos para resolverlo, estos videos pueden serte útiles:
 
 ▶️ [Video: manejo de strings en Python](https://youtu.be/xAigyL6Lz2s){:target="_blank"}
+
+▶️ [Video: bucles for](https://www.youtube.com/watch?v=TPXPoUkUNqg){:target="_blank"}
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />La respuesta correcta es la d.
