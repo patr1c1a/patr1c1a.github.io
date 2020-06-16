@@ -7,7 +7,7 @@ tags: punteros
 published: true
 ---
 
-👉 Desafío C++ número 3: punteros
+👉 Desafío con punteros. ¿Sabes cómo funcionan los operadores * y & en C++?
 
 ▶️ [Video: Punteros](https://www.youtube.com/watch?v=s8T7cPnYrz0){:target="_blank"}
 
