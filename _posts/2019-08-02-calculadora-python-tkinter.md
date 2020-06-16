@@ -32,7 +32,7 @@ class Interfaz:
     def __init__(self, ventana):
         self.ventana=ventana
         self.ventana.title("Calculadora")
-	  return
+	return
 
 ventana_principal=Tk()
 calculadora=Interfaz(ventana_principal)
