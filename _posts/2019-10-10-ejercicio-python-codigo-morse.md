@@ -7,7 +7,7 @@ tags: diccionario string
 published: true
 ---
 
-Un ejercicio con Python, usando diccionarios para convertir a código Morse 😎
+En este ejercicio resuelto con Python, convertimos texto a código Morse 😎
 
 💻 [Código del programa](https://repl.it/@programacionde1/codigo-Morse){:target="_blank"}
 
