@@ -7,7 +7,7 @@ tags: bit bitwise
 published: true
 ---
 
-En algunas empresas importantes suelen aparecer preguntas sobre manipulación de bits en las entrevistas laborales 🤔
+En algunas empresas importantes suelen aparecer preguntas sobre manipulación de bits en las entrevistas laborales 🧐
 
 ¡Veamos entonces un ejemplo!
 
