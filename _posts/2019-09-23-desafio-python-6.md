@@ -7,7 +7,7 @@ tags: funciones
 published: true
 ---
 
-👉 Desafío Python número 6.
+👉 Para conocer la respuesta será importante analizar el orden en que se invocan las funciones, y los argumentos usados, ya que el valor retornado en algunas invocaciones es usado en la siguiente llamada.
 
 Estos videos pueden ayudarte a resolverlo:
 
@@ -19,6 +19,7 @@ Estos videos pueden ayudarte a resolverlo:
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />
+<br />La respuesta es True  
 <br />✏️ Explicación:
 <br />🔹 funcion1 recibe la lista [1,2,3,3,2,4] y retorna el resultado de convertirlo a conjunto y eliminar el elemento que es igual a la cantidad de veces que aparece el 3 en esa lista (es decir, el número 2). Para poder eliminar, primero coloca a ese número en una lista y luego la convierte a conjunto. Es decir, retorna el conjunto {1, 3, 4}.
 <br />🔹 funcion2 recibe a la lista [1,2,3,3,2,4] y al conjunto resultado de funcion1. A la lista le agrega el número 5 y luego retorna el resultado de convertir la lista a conjunto (lo que da el conjunto {1,2,3,4,5}) y realizar una unión con el conjunto {1,3,4}. Entonces retorna el conjunto {1,2,3,4,5}.
