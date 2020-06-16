@@ -7,7 +7,7 @@ tags: bisiesto
 published: true
 ---
 
-✏️ Algoritmo para imprimir los años bisiestos en un rango dado.
+✏️ Este algoritmo imprime los años bisiestos en un rango dado.
 
 ▶️ [Video: resolución de ejercicio usando este algoritmo](https://youtu.be/lG-DTUOZVZg){:target="_blank"}
 
