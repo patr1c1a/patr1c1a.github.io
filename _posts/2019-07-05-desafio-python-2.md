@@ -6,8 +6,13 @@ categories: desafios python
 tags: funciones listas
 published: true
 ---
+¿Podrías decir qué retorna la llamada a esta función, con el argumento dado? Para saberlo, deberás analizar el algoritmo de la función. Para ayudarte a resolverlo, pueden serte útiles estos videos: 
 
-¡Nuevo desafío Python!
+▶️ [Video: Listas en Python](https://www.youtube.com/watch?v=TEHBEGj1MSU){:target="_blank"}
+
+▶️ [Video: Ejercicios resueltos con listas en Python (1)](https://www.youtube.com/watch?v=0NTaCJQUE1I){:target="_blank"}
+
+▶️ [Video: Ejercicio resuelto con listas en Python (2)](https://www.youtube.com/watch?v=8fKMHKvDieU){:target="_blank"}
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />La opción correcta es la c.
