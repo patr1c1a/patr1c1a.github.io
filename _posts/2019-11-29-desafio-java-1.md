@@ -7,7 +7,7 @@ tags: referencias
 published: true
 ---
 
-¿Te animas a un desafío con Java? 😀
+Para resolverlo, es necesario tener presente cómo trabajan los arreglos en Java y el concepto de referencia. 😀
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />La respuesta correcta es la c.
