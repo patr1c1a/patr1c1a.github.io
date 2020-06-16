@@ -7,7 +7,7 @@ tags: entrevista trabajo
 published: true
 ---
 
-Una pregunta que puede aparecer en una entrevista para el puesto de desarrollador junior, y algunas respuestas (aunque no las únicas) posibles.
+Una pregunta que puede aparecer en una entrevista laboral para el puesto de desarrollador, y algunas respuestas (aunque no las únicas) posibles.
 
 ▶️ [Video: strings en Python](https://www.youtube.com/watch?v=xAigyL6Lz2s){:target="_blank"}
 
