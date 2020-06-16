@@ -7,9 +7,7 @@ tags: strings
 published: true
 ---
 
-😎 ¿Te animás a un desafío de programación con C#?
-
-Desafío C# número 1.
+Analizando la función dada, ¿qué características debe tenre el argumento para que la función retorne true? 😎 
 
 ▶️ [Video: crear un programa con interfaz gráfica en C#](https://youtu.be/lY1Z0Hgo288){:target="_blank"}
 
