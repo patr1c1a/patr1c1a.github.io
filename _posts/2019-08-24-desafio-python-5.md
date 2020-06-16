@@ -7,7 +7,7 @@ tags: funciones bucles
 published: true
 ---
 
-¡Desafío Python número 5!
+Si necesitas repasar algunos conceptos para resolverlo, estos videos pueden serte útiles:
 
 ▶️ [Video: funciones](https://youtu.be/IF34NgjldXs){:target="_blank"}
 
