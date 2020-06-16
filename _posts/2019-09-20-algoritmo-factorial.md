@@ -13,7 +13,7 @@ Algoritmo para calcular un factorial.
 
 ▶️ [Explicación (forma iterativa) en este video](https://youtu.be/cmFX38TpxNM?t=496){:target="_blank"}
 
-▶️ [Explicación (forma recursiva) en este video](https://www.youtube.com/watch?v=s8T7cPnYrz0){:target="_blank"}
+▶️ [Explicación (forma recursiva) en este video](https://www.youtube.com/watch?v=0NBPd81uhJE){:target="_blank"}
 
 La forma recursiva que se muestra tiene limitaciones (se indica a fines didácticos) y puede ser optimizada.
 
