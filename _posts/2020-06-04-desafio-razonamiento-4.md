@@ -23,4 +23,5 @@ published: true
 <br />
 <br />
 **Desafío de Razonamiento Lógico** 👇
+
 ![Desafío Razonamiento Lógico número 4]({{ site.url }}/assets/2020-06-04-desafio-razonamiento-4.png)
