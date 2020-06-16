@@ -12,6 +12,6 @@ Los arreglos son una de las estructuras de datos más básicas que podemos utili
 
 💻 [Probar y ejecutar el código](https://repl.it/@programacionde1/Subarreglos-que-sumen-0){:target="_blank"}
 
-▶️ [Video sobre arreglos en C++](https://www.youtube.com/watch?v=1UycYfCSil8){:target="_blank"}
+
 
 ![Ejercicio con arreglos C++]({{ site.url }}/assets/2019-12-19-arreglos-cpp.png)
