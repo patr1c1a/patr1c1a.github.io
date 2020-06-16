@@ -13,6 +13,6 @@ Normalmente el programador novato no llega a comprender el motivo hasta que avan
 
 ▶️ [Video: variables (nivel inicial)](https://www.youtube.com/watch?v=L9wEz8gJz-U){:target="_blank"}
 
-Si tu código es analizado por un tribunal, [como sucedió en este caso](https://arstechnica.com/tech-policy/2009/05/buggy-breathalyzer-code-reflects-importance-of-source-review){:target="_blank"}, es mejor que no tenga variables globales 😂 
+Si tu código es analizado por un tribunal, [como sucedió en este caso](https://arstechnica.com/tech-policy/2009/05/buggy-breathalyzer-code-reflects-importance-of-source-review){:target="_blank"}, será mejor que no tenga variables globales 😂 
 
 ![Por qué evitar variables globales]({{ site.url }}/assets/2020-01-09-variables-globales.png)
