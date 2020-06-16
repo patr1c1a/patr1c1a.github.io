@@ -9,7 +9,7 @@ published: true
 
 Las listas enlazadas son la base para otras estructuras de datos. Acá vemos algunos ejemplos genéricos en pseudocódigo.
 
-(Fuente: "Introduction to algorithms - CLRS").
+(Fuente: "[Introduction to algorithms - CLRS](https://books.google.com.ar/books/about/Introduction_To_Algorithms.html?id=NLngYyWFl_YC){:target="_blank"}").
 
 💻 [Implementación de las operciones en C++ (sin OO)](https://repl.it/@programacionde1/Operaciones-con-listas-enlazadas-simples-en-C){:target="_blank"}
 
