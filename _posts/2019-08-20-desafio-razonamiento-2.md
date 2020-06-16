@@ -17,5 +17,5 @@ La lógica es crucial a la hora de programar, así que nunca está de más ejerc
 
 <br />
 <br />
-**Desafío Python** 👇
+**Desafío de razonamiento lógico** 👇
 ![Desafío de razonamiento lógico número 2]({{ site.url }}/assets/2019-08-20-desafio-razonamiento-2.png)
