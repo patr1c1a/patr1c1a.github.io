@@ -7,7 +7,7 @@ tags: preincremento
 published: true
 ---
 
-♦️ ¿Te animas a un nuevo desafío? En este caso, con C++.
+Para saber cuál es la salida de este programa, no solo debe analizarse la función invocada, sino también la invocación.
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />La respuesta es "impar".
