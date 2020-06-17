@@ -4,7 +4,7 @@ title: Open source
 date: 2020-06-15 21:00:00
 categories: otros
 tags: opensource
-published: false
+published: true
 ---
 
 
