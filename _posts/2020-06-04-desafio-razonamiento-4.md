@@ -8,9 +8,9 @@ published: true
 ---
 ¿Probamos cómo está nuestro razonamiento lógico? 🤓
 
-▶️[Videos con ejercicios de razonamiento lógico](https://youtu.be/wv1VFXgZbV0){:target="_blank"}
+▶️[Video con ejercicios de razonamiento lógico](https://youtu.be/wv1VFXgZbV0){:target="_blank"}
 
-▶️[Videos con ejercicios de razonamiento lógico y programación](https://youtu.be/DqXFtylWI10){:target="_blank"}
+▶️[Video con ejercicios de razonamiento lógico y programación](https://youtu.be/DqXFtylWI10){:target="_blank"}
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✅ La respuesta correcta es la d).
