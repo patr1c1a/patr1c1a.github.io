@@ -9,7 +9,7 @@ published: true
 
 Veamos un desafío que requiere de algunos conceptos básicos de UML (herencia, cardinalidad de las relaciones...) interpretando un breve diagrama.
 
-▶️ [Video: introducción a POO](https://youtu.be/ymaBXPjiaPY){:target="_blank"}
+▶️ [Video: introducción a POO](https://www.youtube.com/watch?v=iliKayKaGtc){:target="_blank"}
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />
