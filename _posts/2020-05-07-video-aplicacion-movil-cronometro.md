@@ -12,6 +12,6 @@ published: true
 
 Los videos están contenidos en una lista de reproducción, siguiendo el orden del tutorial. [También es posible acceder a la lista de videos en YouTube haciendo click acá](https://www.youtube.com/watch?v=rDzScjlWLg8&list=PLb_E6BNMg5j6Zk9uw_bTn3_GSSkhmj-CT){:target="_blank"}
 
-{% include youtubePlaylist.html videoid="vO8p-cfZXiI" playlistid="PLb_E6BNMg5j6Zk9uw_bTn3_GSSkhmj-CT" %}
+{% include youtubePlaylist.html videoid="rDzScjlWLg8" playlistid="PLb_E6BNMg5j6Zk9uw_bTn3_GSSkhmj-CT" %}
 
 
