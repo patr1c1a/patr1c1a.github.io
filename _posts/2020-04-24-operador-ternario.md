@@ -8,7 +8,7 @@ published: true
 ---
 
 
-Algunos opinan que los operadores ternarios son una mala práctica porque restan legibilidad al código. Otros dicen que es mejor un código más conciso. 🤨
+Algunos opinan que los operadores ternarios son una mala práctica porque restan legibilidad al código. Otros dicen que es mejor un código más conciso. 🧐
 
 Lo cierto es que hay que conocerlos para, al menos, saber identificarlos cuando leemos código ajeno.
 
