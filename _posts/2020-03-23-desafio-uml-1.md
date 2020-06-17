@@ -7,7 +7,7 @@ tags: uml objetos
 published: true
 ---
 
-¿Hacemos un desafío para entretenernos durante la cuarentena?
+Veamos un desafío que requiere de algunos conceptos básicos de UML (herencia, cardinalidad de las relaciones...) interpretando un breve diagrama.
 
 ▶️ [Video: introducción a POO](https://youtu.be/ymaBXPjiaPY){:target="_blank"}
 
