@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open source" o código abierto: ¿Qué es?
+title: "Open source" o código abierto. ¿Qué es?
 date: 2020-06-15 21:00:00
 categories: otros
 tags: opensource
