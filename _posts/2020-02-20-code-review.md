@@ -35,7 +35,7 @@ Una buena práctica de los equipos de desarrollo: el "code review" (o "revisión
 
 👉 [Seguridad y vulnerabilidades](https://github.com/nccgroup/VCG){:target="_blank"}
 
-👉 [Comparación de código]((https://www.devart.com/codecompare/download.html){:target="_blank"}
+👉 [Comparación de código](https://www.devart.com/codecompare/download.html){:target="_blank"}
 
 👉 [Listado de herramientas de análisis estático](https://github.com/analysis-tools-dev/static-analysis){:target="_blank"}
 
