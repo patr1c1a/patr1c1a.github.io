@@ -4,7 +4,7 @@ title: Convenciones en el código
 date: 2020-06-18 21:00:00
 categories: otros
 tags: convenciones
-published: false
+published: true
 ---
 
 
