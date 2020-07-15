@@ -20,12 +20,12 @@ published: true
 <br /><div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/Desafio-Java-3){:target="_blank"}
   </div>
 <br />
-<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2020-05-15-desafio-java-3-solucion.png)
+<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2020-07-15-desafio-java-3-solucion.png)
   </div></details>
 
 <br />
 <br />
 **Desafío Java** 👇
-![Desafío Java número 3]({{ site.url }}/assets/2020-05-15-desafio-java-3.png)
+![Desafío Java número 3]({{ site.url }}/assets/2020-07-15-desafio-java-3.png)
 
 
