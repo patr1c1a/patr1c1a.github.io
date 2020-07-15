@@ -26,6 +26,7 @@ published: true
 <br />
 <br />
 **Desafío Java** 👇
+<br />
 ![Desafío Java número 3]({{ site.url }}/assets/2020-07-15-desafio-java-3.png)
 
 
