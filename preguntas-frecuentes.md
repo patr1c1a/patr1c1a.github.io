@@ -53,7 +53,7 @@ Principalmente yo, Patricia. 🙂 Aunque siempre estoy recibiendo ayuda de amigo
 # ¿Puedo enviar mi problema sobre código para que me ayuden a resolverlo?
 Lamentablemente, mis tiempos no me permiten brindar este tipo de asesorías personalizadas. Además, existe otro motivo por el que no puedo ayudar con esta clase de cuestiones: cuando se trata de una tarea académica es necesario tener en cuenta las restricciones y estilos de código que los docentes hayan decidido adoptar en el curso que se está tomando, por lo que una resolución sin tener en cuenta estos detalles posiblemente no sea útil.
 
-De todas formas, [esta guía]({{ site.baseurl }}{% link _posts/2019-06-14-corregir-errores.md %}) puede ayudarte para resolver problemas de código. También publiqué [este video](https://www.youtube.com/watch?v=5W14n0PjfyI){:target="_blank"} sobre cómo "debuggear" y [este otro](https://www.youtube.com/watch?v=ZJP0Z5-sbeY) sobre cómo probar una función. Y en la [página de enlaces]({{ site.baseurl }}{% link enlaces.html %}) podrás encontrar varias comunidades de programadores donde es posible hacer preguntas y recibir consejos.
+De todas formas, [esta guía]({% post_url 2019-06-14-corregir-errores %}) puede ayudarte para resolver problemas de código. También publiqué [este video](https://www.youtube.com/watch?v=5W14n0PjfyI){:target="_blank"} sobre cómo "debuggear" y [este otro](https://www.youtube.com/watch?v=ZJP0Z5-sbeY) sobre cómo probar una función. Y en la [página de enlaces] podrás encontrar varias comunidades de programadores donde es posible hacer preguntas y recibir consejos.
 
 
 # ¿Con qué grabás tus videos?
