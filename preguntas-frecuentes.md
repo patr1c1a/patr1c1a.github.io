@@ -16,15 +16,19 @@ Diariamente recibo mensajes y comentarios a través de las redes sociales y el c
 
 <details><summary> -¿Cómo empiezo a programar? ¿Qué temas debería aprender?</summary>
 
-<br />Normalmente se comienza por conocer los fundamentos de la programación imperativa, sin importar el lenguaje (los conceptos son comunes y se aplican de forma muy similar en todos): variables, tipos de datos, entrada/salida, funciones, estructuras de datos, entre otros.
-<br /><div markdown="1">En el canal de Youtube publiqué [un curso de nivel básico usando Python](https://www.youtube.com/playlist?list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb){:target="_blank"} apuntado a cualquier persona que quiera aprender a programar (no es un curso para aprender los detalles sobre Python sino los conceptos básicos de programación). También publiqué un [video introductorio a la Programación Orientada a Objetos](https://www.youtube.com/watch?v=iliKayKaGtc){:target="_blank"}. Otros temas importantes a conocer son [la recursividad](https://www.youtube.com/watch?v=0NBPd81uhJE){:target="_blank"} y [los punteros](https://www.youtube.com/watch?v=s8T7cPnYrz0){:target="_blank"}. Por supuesto que hay innumerables temas y cuestiones a conocer, además de distintos lenguajes y frameworks, y también otros paradigmas de programación, por lo que el camino de aprendizaje será constante.
-<br />En [esta entrevista](https://youtu.be/7I8k2Y5_hXQ){:target="_blank"} que me hicieron para el canal amigo "Curso de robótica" hablé sobre consejos para empezar en el camino de la programación. </div>
+<div markdown="1">Normalmente se comienza por conocer los fundamentos de la programación imperativa, sin importar el lenguaje (los conceptos son comunes y se aplican de forma muy similar en todos): variables, tipos de datos, entrada/salida, funciones, estructuras de datos, entre otros.
+<br />En el canal de Youtube publiqué [un curso de nivel básico usando Python](https://www.youtube.com/playlist?list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb){:target="_blank"} apuntado a cualquier persona que quiera aprender a programar (no es un curso para aprender los detalles sobre Python sino los conceptos básicos de programación). También publiqué un [video introductorio a la Programación Orientada a Objetos](https://www.youtube.com/watch?v=iliKayKaGtc){:target="_blank"}. Otros temas importantes a conocer son [la recursividad](https://www.youtube.com/watch?v=0NBPd81uhJE){:target="_blank"} y [los punteros](https://www.youtube.com/watch?v=s8T7cPnYrz0){:target="_blank"}. Por supuesto que hay innumerables temas y cuestiones a conocer, además de distintos lenguajes y frameworks, y también otros paradigmas de programación, por lo que el camino de aprendizaje será constante.
+<br />En [esta entrevista](https://youtu.be/7I8k2Y5_hXQ){:target="_blank"} que me hicieron para el canal amigo "Curso de robótica" hablé sobre consejos para empezar en el camino de la programación.
+  </div>
 <br />&nbsp;
 </details>
 
 
 <details><summary> -¿Qué lenguaje debería aprender?</summary>
-<br />En parte, la respuesta se encuentra en la entrevista de la respuesta anterior pero, en resumidas cuentas, el lenguaje no es lo importante cuando se está comenzando a programar. Lo central es afianzar los conocimientos sobre fundamentos de la programación, algoritmos y estructuras de datos, que pueden luego trasladarse a cualquier lenguaje.</details>
+<div markdown="1">En parte, la respuesta se encuentra en la entrevista de la respuesta anterior pero, en resumidas cuentas, el lenguaje no es lo importante cuando se está comenzando a programar. Lo central es afianzar los conocimientos sobre fundamentos de la programación, algoritmos y estructuras de datos, que pueden luego trasladarse a cualquier lenguaje.
+    </div>
+<br />&nbsp;
+</details>
 
 
 <details><summary> -¿Qué lenguaje me conviene usar para mi proyecto?</summary>
