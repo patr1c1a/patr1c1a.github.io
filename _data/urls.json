@@ -16,19 +16,14 @@
     "icon": "fa-link",
   },
   {
-    "text": "Humor geek",
-    "url": "/humor/",
-    "icon": "fa-coffee",
+    "text": "Preguntas frecuentes",
+    "url": "/preguntas-frecuentes/",
+    "icon": "fa-question-circle"
   },
   {
     "text": "XML Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
     "target": _blank
-  },
-  {
-    "text": "Autora",
-    "url": "/autora/",
-    "icon": "fa-paperclip"
   }
 ]
