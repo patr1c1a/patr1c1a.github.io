@@ -11,6 +11,6 @@ En este blog se encuentran los recursos educativos sobre programación (en su ma
 
 ### English
 
-This is a blog where you'll find the educational resources about programming (mostly for beginners) I create and post on social media. There are also some older articles I wrote during my years as a student and a teaching assistant, plus some other contents I created for the students in the university courses I taught.
+This is a blog where you'll find the educational resources about programming (mostly for beginners) I create and post on social media. There are also some older articles I wrote during my years as a student and a teaching assistant, plus some other contents I created for the students in the university courses I taught. Please note that the blog contents are in Spanish.
 
 > You can view the blog at [www.patriciaemiguel.com](http://www.patriciaemiguel.com)
