@@ -16,10 +16,11 @@
     "icon": "fa-link",
   },
   {
-    "text": "Preguntas frecuentes",
+    "text": "Preguntas",
     "url": "/preguntasfrecuentes/",
     "icon": "fa-question-circle",
   },
+
   {
     "text": "XML Feed",
     "url": "/feed.xml",
