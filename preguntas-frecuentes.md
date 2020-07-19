@@ -11,6 +11,7 @@ Diariamente recibo mensajes y comentarios (en su mayoría, a través de las rede
 &nbsp;
 &nbsp;
 
+
 ### Sobre programación:
 
 # ¿Por dónde empiezo a aprender a programar?
@@ -27,7 +28,6 @@ En parte, la respuesta se encuentra en la entrevista de la respuesta anterior pe
 
 # ¿Qué lenguaje me conviene usar para mi proyecto?
 La respuesta a esa pregunta necesita un análisis cuidadoso de la arquitectura del proyecto y el "stack tecnológico" necesario. Pero [esta publicación]({{ site.baseurl }}{% link _posts/2019-11-01-que-lenguaje-usar.md %}) podría servir como guía introductoria.
-
 
 
 ---
@@ -60,6 +60,10 @@ De todas formas, [esta guía]({{ site.baseurl }}{% link _posts/2019-06-14-correg
 A lo largo del tiempo he ido cambiando de software y equipo utilizado. Actualmente uso un micrófono Blue Snowball, y [Audacity](https://www.audacityteam.org/){:target="_blank"} para la edición de sonido. Para grabar la pantalla utilizo [Flashback Express](https://www.flashbackrecorder.com/express){:target="_blank"}. En cuanto a los contenidos, uso principalmente [Microsoft PowerPoint](https://www.office.com/launch/powerpoint){:target="_blank"} para diseñar las presentaciones y luego diferentes herramientas como IDEs o compiladores online (en este aspecto me gusta especialmente la funcionalidad de [Python tutor](http://pythontutor.com){:target="_blank"} para observar los contenidos de la memoria).
 
 
+# ¿Se dictan cursos de programación a través del canal?
+Por el momento, no. Aunque es algo que me han pedido mucho y es mi intención comenzar a hacer. Pero la organización y preparación de un curso es algo que debe hacerse con tiempo y cuidado, además de buscar la mejor modalidad para que todos los estudiantes puedan sacar el máximo provecho. En cuanto tenga novedades al respecto, estaré publicándolo en las cuentas de Programación Desde Cero en las redes sociales.
+
+
 ---
 
 
@@ -82,10 +86,17 @@ En 2010, siendo todavía estudiante, comencé a ser ayudante de cátedra de dos 
 # ¿En qué trabajás, además de la docencia?
 Además de ser docente, me dedico a QA ("Quality Assurance") de software, desde 2011.
 
+---
 
-&nbsp;
-&nbsp;
+## ¿Hay alguna forma de realizar una contribución económica, para apoyar la propuesta de Programación Desde Cero?
+Antes que nada, muchas gracias por el aprecio. ❤️
+
+Todos los contenidos que publico son gratuitos pero, si te resultan útiles y quisieras brindar tu apoyo es posible usar [esta plataforma para hacerlo mediante Mercadopago](https://cafecito.app/programaciondesde0){:target="_blank"} o, [también mediante Paypal](paypal.me/ProgramacionDesde0){:target="_blank"}.
+
 
 ---
+
+&nbsp;
+&nbsp;
 
 [YouTube](https://www.youtube.com/c/Programaciondesdecero) · [Twitter](https://twitter.com/Programacion_0) · [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos) · [Instagram](https://www.instagram.com/programaciondesdecero) · [Pinterest](www.pinterest.com/ProgramacionDesdeCero) · [GitHub](https://github.com/programacion-desde-cero)
