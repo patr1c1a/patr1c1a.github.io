@@ -7,6 +7,7 @@ En este blog se encuentran los recursos educativos sobre programación (en su ma
 
 > El blog puede verse en [www.patriciaemiguel.com](http://www.patriciaemiguel.com)
 
+---
 
 ### English
 
