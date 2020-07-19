@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Preguntas frecuentes
-permalink: /preguntas-frecuentes/
+permalink: /preguntasfrecuentes/
 ---
 
 ## Preguntas frecuentes
