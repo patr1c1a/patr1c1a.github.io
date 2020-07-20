@@ -25,7 +25,7 @@ Diariamente recibo mensajes y comentarios a través de las redes sociales y el c
 
 
 <details><summary> -¿Qué lenguaje debería aprender?</summary>
-<div markdown="1">En parte, la respuesta se encuentra en la entrevista de la respuesta anterior pero, en resumidas cuentas, el lenguaje no es lo importante cuando se está comenzando a programar. Lo central es afianzar los conocimientos sobre fundamentos de la programación, algoritmos y estructuras de datos, que pueden luego trasladarse a cualquier lenguaje.
+<div markdown="1">El lenguaje no es lo importante cuando se está comenzando a programar. Lo central es afianzar los conocimientos sobre fundamentos de la programación, algoritmos y estructuras de datos, que pueden luego trasladarse a cualquier lenguaje. El razonamiento lógico y las habilidades de resolución de problemas son cruciales en la programación, y eso se adquiere con ejercitación, donde el lenguaje es solo una herramienta.
   </div>
 <br />&nbsp;
 </details>
