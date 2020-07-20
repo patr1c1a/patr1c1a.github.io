@@ -126,7 +126,7 @@ Diariamente recibo mensajes y comentarios a través de las redes sociales y el c
 
 Antes que nada, muchas gracias por el aprecio. ❤️
 
-Todos los contenidos que publico son gratuitos pero, si te resultan útiles y quisieras brindar tu apoyo es posible usar [esta plataforma para hacerlo mediante Mercadopago](https://cafecito.app/programaciondesde0){:target="_blank"} o, [también mediante Paypal](paypal.me/ProgramacionDesde0){:target="_blank"}.
+Todos los contenidos que publico son gratuitos pero, si te resultan útiles y quisieras brindar tu apoyo es posible usar [esta plataforma para hacerlo mediante Mercadopago](https://cafecito.app/programaciondesde0){:target="_blank"} o, [también mediante Paypal](https://www.paypal.me/ProgramacionDesde0){:target="_blank"}.
 
 
 ---
