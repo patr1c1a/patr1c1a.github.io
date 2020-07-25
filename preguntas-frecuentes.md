@@ -8,6 +8,8 @@ permalink: /preguntasfrecuentes/
 
 Diariamente recibo mensajes y comentarios a través de las redes sociales y el canal de Youtube (¡gracias!) que intento responder individualmente, pero en muchos casos esto se me hace imposible. Por eso, en esta página intentaré abordar las preguntas más comunes.
 
+Click sobre una pregunta para desplegar su respuesta:
+
 &nbsp;
 &nbsp;
 
