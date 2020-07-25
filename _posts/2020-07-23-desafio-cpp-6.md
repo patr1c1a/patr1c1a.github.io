@@ -4,7 +4,7 @@ title: Desafío C++ número 6
 date: 2020-07-23 12:00:00
 categories: desafios c++
 tags: referencias funciones
-published: false
+published: true
 ---
 
 Siguiendo con los desafíos de programación: uno con C++.⭐️✨⚡️
