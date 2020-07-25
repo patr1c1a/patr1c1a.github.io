@@ -20,7 +20,11 @@
     "url": "/preguntasfrecuentes/",
     "icon": "fa-question-circle",
   },
-
+  {
+    "text": "Contribuir",
+    "url": "/contribuir/",
+    "icon": "fa-mug-hot",
+  }
   {
     "text": "XML Feed",
     "url": "/feed.xml",
