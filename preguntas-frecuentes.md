@@ -73,7 +73,7 @@ Diariamente recibo mensajes y comentarios a través de las redes sociales y el c
 </details>
 
 
-<details><summary> -¿Quiénes están detrás de Programación Desde Cero?</summary>
+<details><summary> -¿Quién genera los contenidos de Programación Desde Cero?</summary>
 <div markdown="1">Principalmente yo, Patricia. 🙂 Aunque siempre estoy recibiendo ayuda de amigos, colegas y ex-compañeros de universidad y laborales, a los que recurro para consultar cuestiones específicas acerca de las que ellos saben más y tienen experiencia.
   </div>
 <br />&nbsp;
