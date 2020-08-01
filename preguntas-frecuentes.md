@@ -27,7 +27,9 @@ Click sobre una pregunta para desplegar su respuesta:
 
 
 <details><summary> -¿Qué lenguaje debería aprender?</summary>
-<div markdown="1">El lenguaje no es lo importante cuando se está comenzando a programar. Lo central es afianzar los conocimientos sobre fundamentos de la programación, algoritmos y estructuras de datos, que pueden luego trasladarse a cualquier lenguaje. El razonamiento lógico y las habilidades de resolución de problemas son cruciales en la programación, y eso se adquiere con ejercitación, donde el lenguaje es solo una herramienta.
+<div markdown="1">El lenguaje no es lo más importante cuando se está comenzando a programar. Lo central es afianzar los conocimientos sobre fundamentos de la programación, algoritmos y estructuras de datos, que pueden luego trasladarse a cualquier lenguaje. El razonamiento lógico y las habilidades de resolución de problemas son cruciales en la programación, y eso se adquiere con ejercitación, donde el lenguaje es solo una herramienta para poder implementar.
+  
+  Es posible aprender los fundamentos de la programación sin utilizar un lenguaje específico, por ejemplo mediante pseudocódigo con [PSeInt](http://pseint.sourceforge.net/){:target="_blank"} o usando programación por bloques, como los desafíos que propone [Pilas Bloques](http://pilasbloques.program.ar/){:target="_blank"} ([en esta lista he publicado varios videos explicativos](https://www.youtube.com/watch?v=9Q9zMx3BeUo&list=PLb_E6BNMg5j5gJoXwKJw_19t0zmpYMGy7){:target="_blank"}) o la herramienta [MIT App Inventor](http://ai2.appinventor.mit.edu/){:target="_blank"} ([en esta serie de videos explico cómo desarrollar una aplicación móvil](https://www.youtube.com/watch?v=rDzScjlWLg8&list=PLb_E6BNMg5j6Zk9uw_bTn3_GSSkhmj-CT){:target="_blank"}).
   </div>
 <br />&nbsp;
 </details>
@@ -49,7 +51,7 @@ Click sobre una pregunta para desplegar su respuesta:
 
 
 <details><summary> -¿Qué lenguaje me conviene usar para mi proyecto?</summary>
-<div markdown="1">La respuesta a esa pregunta necesita un análisis cuidadoso de la arquitectura del proyecto y el "stack tecnológico" necesario. Pero [esta publicación]({{ site.baseurl }}{% link _posts/2019-11-01-que-lenguaje-usar.md %}){:target="_blank"} podría servir como guía introductoria.
+<div markdown="1">La respuesta a esa pregunta requiere un análisis cuidadoso de la arquitectura del proyecto y el "stack tecnológico" necesario. Pero [esta publicación]({{ site.baseurl }}{% link _posts/2019-11-01-que-lenguaje-usar.md %}){:target="_blank"} podría servir como guía introductoria.
   </div>
 <br />&nbsp;
 </details>
@@ -60,7 +62,7 @@ Click sobre una pregunta para desplegar su respuesta:
 ### Sobre Programación Desde Cero:
 
 <details><summary> -¿Qué es Programación Desde Cero?</summary>
-<div markdown="1">Es un canal a través del cual comparto material educativo sobre programación, especialmente (pero no únicamente) para principiantes. Publico videos en [Youtube](https://www.youtube.com/c/ProgramacionDesdeCero){:target="_blank"} y contenidos breves en redes sociales ([Twitter](https://twitter.com/Programacion_0){:target="_blank"} / [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos){:target="_blank"} / [Instagram](https://www.instagram.com/programaciondesdecero/){:target="_blank"} / [Pinterest](https://www.pinterest.com/ProgramacionDesdeCero/){:target="_blank"}) con conceptos explicados, ejercicios, desafíos, etc. En este blog también pueden verse esos contenidos.
+<div markdown="1">Es el espacio a través del cual comparto material educativo sobre programación, especialmente (pero no únicamente) para principiantes. Publico videos en [Youtube](https://www.youtube.com/c/ProgramacionDesdeCero){:target="_blank"} y contenidos breves en redes sociales ([Twitter](https://twitter.com/Programacion_0){:target="_blank"} / [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos){:target="_blank"} / [Instagram](https://www.instagram.com/programaciondesdecero/){:target="_blank"} / [Pinterest](https://www.pinterest.com/ProgramacionDesdeCero/){:target="_blank"}) con conceptos explicados, ejercicios, desafíos, etc. En este blog también pueden verse esos contenidos.
   </div>
 <br />&nbsp;
 </details>
@@ -68,7 +70,7 @@ Click sobre una pregunta para desplegar su respuesta:
 
 <details><summary> -¿Cómo empezó?</summary>
 <div markdown="1">Alrededor de 2011 comencé publicando en este blog algunos artículos que escribía cuando aún era estudiante de Licenciatura en Sistemas.
-<br />Unos años después hice algunos videos explicativos para mis alumnos de la universidad, con la idea de que solo a ellos podrían interesarles (por eso los videos más antiguos en el canal de Youtube no tienen demasiado trabajo de edición y se enfocan en ejercicios muy específicos que correspondían al programa de estudios de la materia en ese momento).
+<br />Unos años después hice algunos videos explicativos para mis alumnos de la universidad, sin intenciones de que se utilizaran fuera de ese ámbito.
 <br />Luego decidí crear más contenidos, para compartirlos con cualquier persona que pudiera necesitarlos, y por eso comencé a subir más videos de diferentes temas y a publicar en redes sociales.
   </div>
 <br />&nbsp;
@@ -76,14 +78,14 @@ Click sobre una pregunta para desplegar su respuesta:
 
 
 <details><summary> -¿Quién genera los contenidos de Programación Desde Cero?</summary>
-<div markdown="1">Principalmente yo, Patricia. 🙂 Aunque siempre estoy recibiendo ayuda de amigos, colegas y ex-compañeros de universidad y laborales, a los que recurro para consultar cuestiones específicas acerca de las que ellos saben más y tienen experiencia.
+<div markdown="1">Principalmente yo, Patricia. 🙂 Aunque siempre estoy recibiendo ayuda de amigos, colegas y ex-compañeros de universidad y laborales, a los que recurro para consultar cuestiones específicas que ellos concen en mayor profundidad y en las que tienen mayor experiencia.
   </div>
 <br />&nbsp;
 </details>
 
 
 <details><summary> -¿Puedo enviar mi problema sobre código para que me ayuden a resolverlo?</summary>
-<div markdown="1">Lamentablemente, mis actividades no me permiten brindar este tipo de asesorías personalizadas. Además, existe otro motivo por el que no puedo ayudar con esta clase de cuestiones: cuando se trata de una tarea académica es necesario tener en cuenta las restricciones y estilos de código que los docentes hayan decidido adoptar en el curso que se está tomando, por lo que una resolución sin tener en cuenta estos detalles posiblemente no sea útil.
+<div markdown="1">Lamentablemente, mis actividades no me permiten brindar este tipo de asesorías personalizadas. Además, existe otro motivo por el que no puedo ayudar cuando se trata de una tarea académica: en esos casos es necesario tener en cuenta las restricciones y estilos de código que los docentes hayan decidido adoptar en el curso que se está tomando, por lo que una resolución que no contemple estos detalles posiblemente no sea útil.
 <br />De todas formas, [esta guía]({% post_url 2019-06-14-corregir-errores %}){:target="_blank"} puede ayudarte para resolver problemas de código. También publiqué [este video](https://www.youtube.com/watch?v=5W14n0PjfyI){:target="_blank"} sobre cómo "debuggear" y [este otro](https://www.youtube.com/watch?v=ZJP0Z5-sbeY){:target="_blank"} sobre cómo probar una función. Y en la [página de enlaces](http://patriciaemiguel.com/enlaces/){:target="_blank"} podrás encontrar varias comunidades de programadores donde es posible hacer preguntas y recibir consejos.
   </div>
 <br />&nbsp;
