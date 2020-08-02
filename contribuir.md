@@ -17,12 +17,7 @@ Todos los contenidos de **Programación Desde Cero son gratuitos** pero, si has 
 &nbsp;
 &nbsp;
 
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/programaciondesde0)
-
-&nbsp;
-&nbsp;
-
-[![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7VA9TGVPVNV92)
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/programaciondesde0) &nbsp; &nbsp; &nbsp; [![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7VA9TGVPVNV92)
 
 &nbsp;
 &nbsp;
