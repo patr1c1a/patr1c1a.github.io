@@ -11,5 +11,6 @@ published: true
 
 ¿Conocías la diferencia entre "MegaByte" y "MeBiByte"? 🧐
 
+Fuente de la imagen: [majordifferences.com](https://www.majordifferences.com/){:target="_blank"}
 
 ![MB o MiB]({{ site.url }}/assets/2020-08-07-mebibytes.png)
