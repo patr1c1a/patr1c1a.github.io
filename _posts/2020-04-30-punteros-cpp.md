@@ -14,16 +14,16 @@ Aunque se utiliza C++ para ejemplificar, el concepto de puntero es equivalente e
 {% include youtubePlayer.html id="s8T7cPnYrz0" %}
 
 Temas del video:
-📌 Definición de puntero, variables de tipo puntero.
-📌 Cómo declarar un puntero.
-📌 Dirección de memoria de un puntero y dato apuntado.
-📌 Desreferencia.
-📌 Segmentos de memoria. Memoria stack y memoria heap. Stack de llamadas a funciones. Fragmentación de la memoria.
-📌 Operador new para alocar memoria heap. Tamaño de un puntero.
-📌 Fuga de memoria (memory leak). Recolección de basura (garbage collection)
-📌 Diferencia entre puntero y referencia. Referencias en C++
-📌 Pasaje de parámetros por referencia y por valor.
-📌 Aritmética de punteros
-📌 Puntero a un puntero.
-📌 Operador delete para liberar memoria heap. Puntero colgante o dangling pointer.
-📌 nullptr o puntero nulo (null pointer).
+<br />📌 Definición de puntero, variables de tipo puntero.
+<br />📌 Cómo declarar un puntero.
+<br />📌 Dirección de memoria de un puntero y dato apuntado.
+<br />📌 Desreferencia.
+<br />📌 Segmentos de memoria. Memoria stack y memoria heap. Stack de llamadas a funciones. Fragmentación de la memoria.
+<br />📌 Operador new para alocar memoria heap. Tamaño de un puntero.
+<br />📌 Fuga de memoria (memory leak). Recolección de basura (garbage collection)
+<br />📌 Diferencia entre puntero y referencia. Referencias en C++
+<br />📌 Pasaje de parámetros por referencia y por valor.
+<br />📌 Aritmética de punteros
+<br />📌 Puntero a un puntero.
+<br />📌 Operador delete para liberar memoria heap. Puntero colgante o dangling pointer.
+<br />📌 nullptr o puntero nulo (null pointer).
