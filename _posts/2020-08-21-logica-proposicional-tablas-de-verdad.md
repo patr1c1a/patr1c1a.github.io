@@ -4,7 +4,7 @@ title: Las tablas de verdad (lógica proposicional)
 date: 2020-08-21 12:00:00
 categories: conceptos
 tags: lógica
-published: false
+published: true
 ---
 
 
