@@ -18,5 +18,15 @@ Veamos un ejercicio de examen de la Universidad de Washington, con su resolució
 <br />📍 En la última operación, <code>BAR(FOO(a,c),BAR(b,b))</code>, el reemplazo hace que quede <code>BAR(2+5,3*3)</code> que se expande luego a <code>3*3*2+5</code>, lo cual nos da como resultado 23 (porque se ejecuta primero <code>3*3*2</code> y luego a eso se le suman <code>5</code>).
 
 💻 [Ver el código en ejecución](https://repl.it/@programacionde1/EjUWCSE-374031512q2){:target="_blank"}
+<br />En esta herramienta es posible ver las macros expandidas: hacer click dentro del código y presionar F1, luego escribir "shell" y dar enter. En la consola que se abre, escribir: gcc -E main.c para observar el código pre-procesado. Para la función main, mostrará algo como lo siguiente:
+<code>int main() {
+    int a = 2;
+    int b = 3;
+    int c = 5;
+    printf("%d\n", a+b + c);
+    printf("%d\n", c * a+b);
+    printf("%d\n", b * b * a + c);
+    return 0;
+}</code>
 
 ![Ejercicio resuelto de programación en C]({{ site.url }}/assets/2020-08-24-ejercicio-C-univ-washington.png)
