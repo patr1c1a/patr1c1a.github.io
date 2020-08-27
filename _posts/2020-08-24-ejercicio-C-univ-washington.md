@@ -19,14 +19,14 @@ Veamos un ejercicio de examen de la Universidad de Washington, con su resolució
 
 💻 [Ver el código en ejecución](https://repl.it/@programacionde1/EjUWCSE-374031512q2){:target="_blank"}
 <br />En esta herramienta es posible ver las macros expandidas: hacer click dentro del código y presionar F1, luego escribir "shell" y dar enter. En la consola que se abre, escribir: gcc -E main.c para observar el código pre-procesado. Para la función main, mostrará algo como lo siguiente:
-<code>int main() {
-    int a = 2;
-    int b = 3;
-    int c = 5;
-    printf("%d\n", a+b + c);
-    printf("%d\n", c * a+b);
-    printf("%d\n", b * b * a + c);
-    return 0;
-}</code>
+<br /><pre><code>int main() {
+<br />    int a = 2;
+<br />    int b = 3;
+<br />    int c = 5;
+<br />    printf("%d\n", a+b + c);
+<br />    printf("%d\n", c * a+b);
+<br />    printf("%d\n", b * b * a + c);
+<br />    return 0;
+<br />}</code></pre>
 
 ![Ejercicio resuelto de programación en C]({{ site.url }}/assets/2020-08-24-ejercicio-C-univ-washington.png)
