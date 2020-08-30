@@ -4,7 +4,7 @@ title: Desafío de razonamiento lógico número 5
 date: 2020-08-28 21:00:00
 categories: desafios
 tags: logica razonamiento
-published: false
+published: true
 ---
 ¿Probamos cómo está nuestro razonamiento lógico? 🤓
 
