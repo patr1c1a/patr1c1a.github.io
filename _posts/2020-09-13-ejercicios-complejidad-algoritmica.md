@@ -3,7 +3,7 @@ layout: post
 title: Ejercicios resueltos de complejidad algorítmica ("Big O")
 date: 2020-09-13 12:00:00
 categories: ejercicios
-tags: BigO complejidad
+tags: BigO complejidad algoritmos
 published: false
 ---
 
