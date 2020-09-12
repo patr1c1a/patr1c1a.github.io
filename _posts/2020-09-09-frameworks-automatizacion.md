@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automatización en las pruebas y algunos frameworks usados
+title: Algunos frameworks usados para automatización de pruebas
 date: 2020-09-09 12:00:00
 categories: otros
 tags: qa automation testing selenium appium
