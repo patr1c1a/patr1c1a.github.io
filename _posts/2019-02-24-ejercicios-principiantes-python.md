@@ -8,11 +8,11 @@ published: true
 ---
 
 Estos ejercicios cubren temas básicos como: operaciones matemáticas, booleanas y con strings; entrada/salida de datos en pantalla; if-else; for; while; funciones.
-Para ver un video explicativo sobre estos temas, [click acá]({% post_url 2018-12-07-aprende-en-15-min %})
+Para ver un video explicativo sobre estos temas, [click acá]({% post_url 2018-12-07-aprende-en-15-min %}){:target="_blank"}. Para ver un curso completo de iniciación a la programación, [click acá]({% post_url 2019-03-10-programacion_desde_cero_python %}){:target="_blank"}
 
 &nbsp;
 ## Herramientas
-Podés resolver los ejercicios descargando Python 3 y generando, por cada ejercicio, un archivo con extensión .py y ejecutándolo mediante el intérprete de Python. Sin embargo, también es posible resolver los ejercicios en cualquier intérprete de Python online, sin necesidad de descargar nada, por ejemplo: [Repl.it](https://repl.it/languages/python3). Cada ejercicio de esta página constituye un programa.
+Estos ejercicios pueden resolverse [descargando Python 3](https://www.python.org/downloads/){:target="_blank"} y generando, por cada ejercicio, un archivo con extensión .py y ejecutándolo mediante el intérprete de Python. Sin embargo, también es posible resolver los ejercicios en cualquier intérprete de Python online, sin necesidad de descargar nada, por ejemplo: [Repl.it](https://repl.it/languages/python3){:target="_blank"}. Cada ejercicio de esta página constituye un programa.
 
 &nbsp;
 ## Importante
