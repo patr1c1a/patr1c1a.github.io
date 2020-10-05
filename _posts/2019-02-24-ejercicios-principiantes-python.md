@@ -8,7 +8,7 @@ published: true
 ---
 
 Estos ejercicios cubren temas básicos como: operaciones matemáticas, booleanas y con strings; entrada/salida de datos en pantalla; if-else; for; while; funciones.
-Para ver un video explicativo sobre estos temas, [click acá]({% post_url 2018-12-07-aprende-en-15-min %}){:target="_blank"}. Para ver un curso completo de iniciación a la programación, [click acá]({% post_url 2019-03-10-programacion_desde_cero_python %}){:target="_blank"}
+Van de acuerdo a los contenidos cubiertos en [este video introductorio a la programación]({% post_url 2018-12-07-aprende-en-15-min %}){:target="_blank"}. Para ver un curso completo de iniciación a la programación, [click acá]({% post_url 2019-03-10-programacion_desde_cero_python %}){:target="_blank"}
 
 &nbsp;
 ## Herramientas
@@ -21,8 +21,9 @@ Considerá que, en cada ejecución del programa, el usuario podría ingresar dat
 
 &nbsp;
 ## Sobre los ejercicios
-Junto a los ejercicios se encuentran algunos ejemplos con explicaciones, a modo de guía para su resolución. 
-Además, por cada ejercicio se muestra un ejemplo de salida en pantalla indicando cómo debería quedar el programa luego de su ejecución. El texto en negrita representa la salida del programa y el texto en cursiva representa el texto ingresado por el usuario.
+Junto a los ejercicios se encuentran algunos ejemplos con explicaciones, a modo de guía para su resolución. Además, por cada ejercicio se muestra un ejemplo de salida en pantalla indicando cómo debería quedar el programa luego de su ejecución. El texto en negrita representa la salida del programa y el texto en cursiva representa el texto ingresado por el usuario.
+
+Estos enunciados y resoluciones fueron diseñados con el objetivo de ayudar a programadores principiantes a desarrollar habilidades algorítmicas y de razonamiento lógico. La finalidad principal no se enfoca en la sintaxis y herramientas concretas de Python 3, y la mayoría de los ejercicios podrían resolverse con cualquier lenguaje dentro del paradigma imperativo.
 
 &nbsp;
 ## Soluciones
