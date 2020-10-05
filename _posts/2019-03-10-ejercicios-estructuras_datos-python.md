@@ -22,6 +22,8 @@ En los siguientes videos podrás ver una explicación del tema y también la res
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
+> Nota: estos enunciados y resoluciones fueron diseñados con el objetivo de ayudar a programadores principiantes a desarrollar habilidades algorítmicas y de razonamiento lógico. La finalidad principal no se enfoca en la sintaxis y herramientas concretas de Python 3, y la mayoría de los ejercicios podrían resolverse con cualquier lenguaje dentro del paradigma imperativo. Es por ese motivo que algunas resoluciones muestran un algoritmo genérico y no orientado específicamente a Python.
+
 ### 1
 <details> 
   <summary>A) Solicitar al usuario que ingrese números, los cuales se guardarán en una lista. Finalizar al ingresar el número 0, el cual no debe guardarse.
