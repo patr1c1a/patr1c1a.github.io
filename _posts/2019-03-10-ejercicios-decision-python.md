@@ -16,6 +16,8 @@ En los siguientes videos podrás ver una explicación de la estructura de selecc
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
+> Nota: estos enunciados y resoluciones fueron diseñados con el objetivo de ayudar a programadores principiantes a desarrollar habilidades algorítmicas y de razonamiento lógico. La finalidad principal no se enfoca en la sintaxis y herramientas concretas de Python 3, y la mayoría de los ejercicios podrían resolverse con cualquier lenguaje dentro del paradigma imperativo. Es por ese motivo que algunas resoluciones muestran un algoritmo genérico y no orientado específicamente a Python.
+
 ### 1
 <details> 
   <summary>Solicitar al usuario un número de cliente. Si el número es el 1000, imprimir "Ganaste un premio".</summary>
