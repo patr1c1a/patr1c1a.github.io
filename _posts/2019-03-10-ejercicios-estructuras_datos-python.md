@@ -59,13 +59,15 @@ while nro!=0:
     numeros.append(nro)
     nro=int(input("Número: "))
 #B
-print("Sumatoria de los números:", sumatoria(numeros))
-eliminar=int(input("Número a eliminar: "))
-#C
 if eliminar in numeros:
     numeros.remove(eliminar)
 else:
     print("Ese número no está entre los ingresados")
+
+#C
+print("Sumatoria de los números:", sumatoria(numeros))
+eliminar=int(input("Número a eliminar: "))
+
 #D
 limite=int(input("Filtrar números menores a: "))
 for n in numerosMenores(numeros, limite):
