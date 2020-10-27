@@ -7,7 +7,7 @@ tags: algoritmos logica
 published: true
 ---
 
-Siempre es bueno encarar paso a paso un problema a revolver, utilizando nuestros conocimientos sobre las herramientas disponibles.
+Siempre es bueno encarar paso a paso un problema a resolver, utilizando nuestros conocimientos sobre las herramientas disponibles.
 
 Fuente: ["Objects first" (Edwards, Dorn, Sanders)](http://sofia.cs.vt.edu/cs1114-ebooklet/){:target="_blank"}
 
