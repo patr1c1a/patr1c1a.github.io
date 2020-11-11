@@ -4,7 +4,7 @@ title: Selectores CSS
 date: 2020-11-03 12:00:00
 categories: conceptos
 tags: web html css
-published: false
+published: true
 ---
 
 👉 Ya vimos qué son [HTML]({% post_url 2020-10-31-html %}) y [CSS]({% post_url 2020-10-28-css %}).
