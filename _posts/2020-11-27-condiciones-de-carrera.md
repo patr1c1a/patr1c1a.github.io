@@ -7,7 +7,7 @@ tags: semáforos mutex race
 published: true
 ---
 
-Aunque las condiciones de carrera no son exclusivas de la programación concurrente, es donde usualmente corremos el riesgo de encontrarnos con este problema. En algunos casos, la depuración del código para encontrar el error puede tornarse muy compleja.
+Cuando nuestra aplicación require el uso de "threads" (o "hilos") podemos encontrarnos con el temido problema de las condiciones de carrera. En algunos casos, la depuración del código para encontrar el error puede causarnos muchos dolores de cabeza.
 
 En el siguiente ejemplo es posible observar un código Java donde 3 hilos compiten por acceder a un recurso compartido, arrojando un resultado diferente con cada ejecución del programa.
 
