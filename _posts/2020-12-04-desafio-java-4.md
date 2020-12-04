@@ -6,7 +6,7 @@ categories: desafios java
 tags: clases poo atributos
 published: true
 ---
-☕ Hace tiempo que no hacemos un desafío, así que vamos con uno de Java. ¿Cuál es la respuesta correcta? 🤔
+☕ Este desafío es válido para Java pero también podría serlo en otros lenguajes orientados a objetos...
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✅ La respuesta correcta es la A: Se produce un error porque el atributo n es privado.
