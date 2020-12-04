@@ -1,0 +1,28 @@
+---
+layout: post
+title: Desafío Java número 4
+date: 2020-12-04 12:00:00
+categories: desafios java
+tags: clases poo atributos
+published: true
+---
+☕ Hace tiempo que no hacemos un desafío, así que vamos con uno de Java. ¿Cuál es la respuesta correcta? 🤔
+
+<details><summary>Click aquí para desplegar la solución. 👈</summary>
+<br />✅ La respuesta correcta es la A: Se produce un error porque el atributo n es privado.
+<br />
+<br />✏️ Explicación: la clase Desafio tiene un atributo llamado "n" cuyo modificador de acceso es "private", lo cual hace que solo pueda accederse desde dentro de la misma clase. Al intentar leer el valor de ese atributo desde un método de la clase Main, arroja el error "n has private access in Desafio"
+<br />
+<br /><div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/Desafio-Java-4){:target="_blank"}
+  </div>
+<br />
+<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2020-12-04-desafio-java-4-solucion.png)
+  </div></details>
+
+<br />
+<br />
+**Desafío Java** 👇
+<br />
+![Desafío Java número 4]({{ site.url }}/assets/2020-12-04-desafio-java-4.png)
+
+
