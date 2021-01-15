@@ -13,6 +13,8 @@ Esta consigna es común en entrevistas laborales de algunas empresas importantes
 <br />
 <br />✏️ Explicación: La variable "i" se utiliza para iterar por el índice del vector "numeros" y la variable "cero" se detiene cada vez que encuentra un 0 en el arreglo. Si el elemento del vector en la posición indicada por i es diferente de 0, debemos intercambiarlo con el último 0 que hemos encontrado, ubicado en la posición que indica la variable "cero".
 <br />
+<br />▶️ Ver algoritmo explicado: https://youtu.be/nADemX9stHY?t=862
+<br />
 <br /><div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/C-Desafio-7){:target="_blank"}
   </div>
 <br />
