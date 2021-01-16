@@ -10,10 +10,10 @@ published: true
 Acá encontrarás ejercicios para practicar la estructura de control de bucle o repetición fija (for).
 
 En los siguientes videos podrás ver una explicación de la estructura y también la resolución paso a paso de estos ejercicios:
-+ [Repetición fija: for](https://www.youtube.com/watch?v=TPXPoUkUNqg)
-+ [Ejercicios con la estructura de repetición fija](https://www.youtube.com/watch?v=cmFX38TpxNM)
-+ [Ejercicio con la estructura de repetición fija](https://www.youtube.com/watch?v=7fBMgfbD570)
-+ [Ejercicios con break y continue](https://www.youtube.com/watch?v=lG-DTUOZVZg)
++ [Repetición fija: for](https://www.youtube.com/watch?v=TPXPoUkUNqg){:target="_blank"}
++ [Ejercicios con la estructura de repetición fija](https://www.youtube.com/watch?v=cmFX38TpxNM){:target="_blank"}
++ [Ejercicio con la estructura de repetición fija](https://www.youtube.com/watch?v=7fBMgfbD570){:target="_blank"}
++ [Ejercicios con break y continue](https://www.youtube.com/watch?v=lG-DTUOZVZg){:target="_blank"}
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
