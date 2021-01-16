@@ -10,15 +10,15 @@ published: true
 Acá encontrarás ejercicios para practicar programar usando estructuras de datos.
 
 En los siguientes videos podrás ver una explicación del tema y también la resolución paso a paso de estos ejercicios:
-+ [Listas y tuplas](https://www.youtube.com/watch?v=TEHBEGj1MSU)
-+ [Ejercicios de listas y tuplas](https://youtu.be/0NTaCJQUE1I)
-+ [Ejercicio integrador de listas y tuplas](https://www.youtube.com/watch?v=8fKMHKvDieU)
-+ [Conjuntos](https://youtu.be/OJRJRxmaLY8)
-+ [Ejercicios de conjuntos](https://www.youtube.com/watch?v=Zo6TzXy7cxM)
-+ [Diccionarios](https://www.youtube.com/watch?v=ymaBXPjiaPY)
-+ [Ejercicios de diccionarios](https://www.youtube.com/watch?v=uOpW1tKKO8M)
-+ [Ejercicio integrador de diccionarios](https://www.youtube.com/watch?v=m4out51i0y4)
-+ [Errores comunes con estructuras de datos](https://www.youtube.com/watch?v=niDFCS3l1-Q)
++ [Listas y tuplas](https://www.youtube.com/watch?v=TEHBEGj1MSU){:target="_blank"}
++ [Ejercicios de listas y tuplas](https://youtu.be/0NTaCJQUE1I){:target="_blank"}
++ [Ejercicio integrador de listas y tuplas](https://www.youtube.com/watch?v=8fKMHKvDieU){:target="_blank"}
++ [Conjuntos](https://youtu.be/OJRJRxmaLY8){:target="_blank"}
++ [Ejercicios de conjuntos](https://www.youtube.com/watch?v=Zo6TzXy7cxM){:target="_blank"}
++ [Diccionarios](https://www.youtube.com/watch?v=ymaBXPjiaPY){:target="_blank"}
++ [Ejercicios de diccionarios](https://www.youtube.com/watch?v=uOpW1tKKO8M){:target="_blank"}
++ [Ejercicio integrador de diccionarios](https://www.youtube.com/watch?v=m4out51i0y4){:target="_blank"}
++ [Errores comunes con estructuras de datos](https://www.youtube.com/watch?v=niDFCS3l1-Q){:target="_blank"}
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
