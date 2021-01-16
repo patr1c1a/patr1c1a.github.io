@@ -3,7 +3,7 @@ layout: post
 title: Ejercicios resueltos de estructuras de datos en Python
 date: 2019-03-10 23:55
 categories: ejercicios python
-tags: algoritmo estructura listas tuplas conjuntos diccionarios contenedores
+tags: algoritmos estructuras listas tuplas conjuntos diccionarios contenedores
 published: true
 ---
 
