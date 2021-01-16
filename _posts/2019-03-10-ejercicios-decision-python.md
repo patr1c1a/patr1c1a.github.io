@@ -10,9 +10,9 @@ published: true
 Acá encontrarás ejercicios para practicar la estructura de control de decisión o selección (if-else-elif).
 
 En los siguientes videos podrás ver una explicación de la estructura de selección y también la resolución paso a paso de estos ejercicios:
-+ [Selección o decisión: if, if-else, if-elif-else](https://www.youtube.com/watch?v=kIkAhld32O8)
-+ [Ejercicios con la estructura de selección](https://www.youtube.com/watch?v=PKFKoAN2zEo)
-+ [Ejercicio con la estructura de selección](https://www.youtube.com/watch?v=HMfaVLkjIUA)
++ [Selección o decisión: if, if-else, if-elif-else](https://www.youtube.com/watch?v=kIkAhld32O8){:target="_blank"}
++ [Ejercicios con la estructura de selección](https://www.youtube.com/watch?v=PKFKoAN2zEo){:target="_blank"}
++ [Ejercicio con la estructura de selección](https://www.youtube.com/watch?v=HMfaVLkjIUA){:target="_blank"}
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
