@@ -10,12 +10,12 @@ published: true
 Acá encontrarás ejercicios para practicar programar usando funciones.
 
 En los siguientes videos podrás ver una explicación del tema y también la resolución paso a paso de estos ejercicios:
-+ [Funciones](https://www.youtube.com/watch?v=IF34NgjldXs)
-+ [Ejemplos de funciones](https://www.youtube.com/watch?v=ivcnLfOkbrU)
-+ [Errores comunes con funciones](https://youtu.be/LD61E3g6GjM)
-+ [Ejercicios con funciones](https://www.youtube.com/watch?v=Uze9KWL6ZGs)
-+ [Ejercicio con varias funciones](https://www.youtube.com/watch?v=N_-YhYH_DyU)
-+ [Pruebas (casos de prueba doctests, testing unitario)](https://youtu.be/ZJP0Z5-sbeY)
++ [Funciones](https://www.youtube.com/watch?v=IF34NgjldXs){:target="_blank"}
++ [Ejemplos de funciones](https://www.youtube.com/watch?v=ivcnLfOkbrU){:target="_blank"}
++ [Errores comunes con funciones](https://youtu.be/LD61E3g6GjM){:target="_blank"}
++ [Ejercicios con funciones](https://www.youtube.com/watch?v=Uze9KWL6ZGs){:target="_blank"}
++ [Ejercicio con varias funciones](https://www.youtube.com/watch?v=N_-YhYH_DyU){:target="_blank"}
++ [Pruebas (casos de prueba doctests, testing unitario)](https://youtu.be/ZJP0Z5-sbeY){:target="_blank"}
 
 La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
 
