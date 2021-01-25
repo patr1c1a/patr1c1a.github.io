@@ -4,7 +4,7 @@ title: Desafío C++ número 7
 date: 2021-01-15 12:00:00
 categories: desafios c++
 tags: arreglos entrevista
-published: false
+published: true
 ---
 Esta consigna es común en entrevistas laborales de algunas empresas importantes, como Facebook o Microsoft. En este caso, el código está casi completo pero falta una pequeña parte. ¿Sabrías decir qué condición es la correcta?
 
