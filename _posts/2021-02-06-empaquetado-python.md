@@ -9,6 +9,6 @@ published: true
 
 En Python es muy común usar datos "empaquetados", (usualmente en tuplas, pero no necesariamente) y "desempaquetarlos" cuando es necesario.
 
-![Empaquetado y desempaquetado en Python]({{ site.url }}/assets/2021-02-06-empaquetado-python.png)
+![Empaquetado y desempaquetado en Python]({{ site.url }}/assets/2021-02-06-empaquetado-python.jpg)
 
 Diseño gráfico de la infografía: RubiRs.
