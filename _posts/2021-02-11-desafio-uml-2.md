@@ -4,9 +4,11 @@ title: Desafío UML número 2
 date: 2021-02-11 12:00:00
 categories: desafios uml
 tags: clases poo herencia
-published: false
+published: true
 ---
-☕ Este desafío es válido para Java pero también podría serlo en otros lenguajes orientados a objetos...
+¿Probamos con un desafío de UML?
+<br />Es un diseño simplificado para gestionar una biblioteca, pero contiene un error de concepto. ¿Lo detectaste? 🔎
+<br />¿Qué sugerirías para solucionarlo?
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✅ La clase Libro no debería heredar de Biblioteca, ya que la herencia define una relación de generalidad y un Libro no es una Biblioteca.
