@@ -11,8 +11,8 @@ published: true
 <br />¿Qué sugerirías para solucionarlo?
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
-<br />✅ La clase Libro no debería heredar de Biblioteca, ya que la herencia define una relación de generalidad y un Libro no es una Biblioteca.
-<br />Puede corregirse el error haciendo que Biblioteca contenga una colección de objetos Libro.
+<br />✅ ✅ La clase Libro no debería heredar de Biblioteca, ya que la herencia define una relación de generalidad y un Libro no es una Biblioteca. Esto es así porque la herencia permite que las clases puedan descomponerse en otras más específicas, “heredando” las características comunes pero luego manteniendo para sí mismas las que no comparten. Si Libro hereda de Biblioteca, entonces cada Libro tendría también una colección de Socio, lo cual no tiene sentido.
+<br />Entonces, puede corregirse el error haciendo que Biblioteca contenga una colección de objetos Libro.
 <br />
 <pre><code>Clase Biblioteca {
     Lista<Socio> socios;
