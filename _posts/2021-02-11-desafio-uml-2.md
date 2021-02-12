@@ -17,21 +17,17 @@ published: true
     Lista<Socio> socios;
     Lista<Libro> libros;
 }
-<br />&nbsp;
 Clase Socio {
     int numero;
     string nombre;
 }
-<br />&nbsp;
 Clase Libro {
     int codigo;
     string titulo;
     string autor;
 }</pre>
 <br />
-<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2021-02-11-desafio-uml-2-solucion.png)</div>
-    </details>
-
+<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2021-02-11-desafio-uml-2-solucion.png)</div></details>
 <br />
 <br />
 **Desafío UML** 👇
