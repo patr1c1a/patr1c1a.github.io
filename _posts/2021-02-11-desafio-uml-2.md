@@ -2,7 +2,7 @@
 layout: post
 title: Desafío UML número 2
 date: 2021-02-11 12:00:00
-categories: desafios uml
+categories: desafios poo
 tags: clases poo herencia
 published: true
 ---
