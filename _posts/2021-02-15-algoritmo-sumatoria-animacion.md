@@ -14,4 +14,4 @@ Un algoritmo simple que, [escrito en pseudocódigo, se vería así]({% post_url 
 
 ![Algoritmo animado]({{ site.url }}/assets/2021-02-15-codigo-animado-sumatoria.gif)
 
-[Click para descargar el video]({{ site.url }}/assets/2021-02-15-codigo-animado-sumatoria.mp4)
+[Descargar el video (click derecho > "Guardar enlace como")]({{ site.url }}/assets/2021-02-15-codigo-animado-sumatoria.mp4)
