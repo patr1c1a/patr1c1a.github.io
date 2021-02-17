@@ -11,6 +11,8 @@ Algoritmo paso a paso: sumar los dígitos de un número (en Python).
 
 Un algoritmo simple que, [escrito en pseudocódigo, se vería así]({% post_url 2019-08-17-algoritmo-sumar-digitos %}).
 
+<br />&nbsp;
+<br />&nbsp;
 
 ![Algoritmo animado]({{ site.url }}/assets/2021-02-15-codigo-animado-sumatoria.gif)
 
