@@ -3,7 +3,7 @@ layout: post
 title: Declaración y definición de punteros en C++
 date: 2021-02-18 12:00:00
 categories: c++
-tags: bits
+tags: punteros stack heap
 published: false
 ---
 
