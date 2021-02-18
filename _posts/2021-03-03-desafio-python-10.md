@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Desafío Python número 10
-date: 2021-02-03 12:00:00
+date: 2021-03-03 12:00:00
 categories: desafios python
 tags: tuplas iteraciones
 published: false
@@ -17,12 +17,12 @@ _ValueError: not enough values to unpack (expected 3, got 2)_. La iteración fal
 <br /><div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/Python-Desafio-10){:target="_blank"}
   </div>
 <br />
-<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2021-02-03-desafio-python-10-solucion.png)
+<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2021-03-03-desafio-python-10-solucion.png)
   </div></details>
 
 <br />
 <br />
 **Desafío Java** 👇
 <br />
-![Desafío Python número 10]({{ site.url }}/assets/2021-02-03-desafio-python-10.png)
+![Desafío Python número 10]({{ site.url }}/assets/2021-03-03-desafio-python-10.png)
 
