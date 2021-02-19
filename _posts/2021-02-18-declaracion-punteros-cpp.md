@@ -4,7 +4,7 @@ title: Declaración y definición de punteros en C++
 date: 2021-02-18 12:00:00
 categories: c++
 tags: punteros stack heap
-published: false
+published: true
 ---
 
 Declarar un puntero en C++ puede parecer una tarea trivial, pero hay detalles importantes a tener en cuenta.
