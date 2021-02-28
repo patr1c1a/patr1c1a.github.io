@@ -4,7 +4,7 @@ title: Código animado - Sucesión de Fibonacci
 date: 2021-02-27 12:00:00
 categories: c++
 tags: algoritmo fibonacci
-published: false
+published: true
 ---
 
 Código paso a paso, con C++: en este caso, imprimimos una determinada cantidad de números de la sucesión de Fibonacci.
