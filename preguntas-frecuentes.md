@@ -59,7 +59,7 @@ Click sobre una pregunta para desplegar su respuesta:
 <details><summary> -¿Cómo podría prepararme para una entrevista laboral como desarrollador?</summary>
 <div markdown="1">En este punto debo mencionar que, para tener éxito como informáticos en el mundo profesional, es casi imprescindible hablar inglés. Sí, es posible trabajar para empresas, organizaciones o clientes de habla hispana, pero el mercado de la tecnología es global por naturaleza y es en esa globalidad donde se hallan grandes oportunidades para crecer y desarrollarnos profesionalmente. Es por eso que la gran mayoría de los recursos y el material más reconocido se encuentra únicamente en inglés.
   
-  Aunque [en la página de enlaces puede encontrarse un listado más extenso]({% post_url enlaces %}), estos son algunos sitios web donde podremos ejercitar nuestras habilidades, con problemas usualmente ordenados por categorías temáticas y según su dificultad:
+  Aunque [en la página de enlaces puede encontrarse un listado más extenso]({% page_url enlaces %}), estos son algunos sitios web donde podremos ejercitar nuestras habilidades, con problemas usualmente ordenados por categorías temáticas y según su dificultad:
 <br />* [Codeforces](http://codeforces.com/){:target="_blank"}
 <br />* [Hackerrank](https://www.hackerrank.com/){:target="_blank"}
 <br />* [Leet Code](https://leetcode.com/){:target="_blank"}
@@ -108,14 +108,14 @@ Click sobre una pregunta para desplegar su respuesta:
 
 <details><summary> -¿Puedo enviar mi problema sobre código para que me ayuden a resolverlo?</summary>
 <div markdown="1">Lamentablemente, mis actividades no me permiten brindar este tipo de asesorías personalizadas. Además, existe otro motivo por el que no puedo ayudar cuando se trata de una tarea académica: en esos casos es necesario tener en cuenta las restricciones y estilos de código que los docentes hayan decidido adoptar en el curso que se está tomando, por lo que una resolución que no contemple estos detalles posiblemente no sea útil.
-<br />De todas formas, [esta guía]({% post_url 2019-06-14-corregir-errores %}){:target="_blank"} puede ayudarte para resolver problemas de código. También publiqué [este video](https://www.youtube.com/watch?v=5W14n0PjfyI){:target="_blank"} sobre cómo "debuggear" y [este otro](https://www.youtube.com/watch?v=ZJP0Z5-sbeY){:target="_blank"} sobre cómo probar una función. Y en la [página de enlaces](http://patriciaemiguel.com/enlaces/){:target="_blank"} podrás encontrar varias comunidades de programadores donde es posible hacer preguntas y recibir consejos.
+<br />De todas formas, [esta guía]({% post_url 2019-06-14-corregir-errores %}){:target="_blank"} puede ayudarte para resolver problemas de código y [en esta publicación]({% post_url 2021-01-02-leer-mensajes-error %}){:target="_blank"} intento ayudar a investigar los errores en el código. También publiqué [este video](https://www.youtube.com/watch?v=5W14n0PjfyI){:target="_blank"} sobre cómo "debuggear" y [este otro](https://www.youtube.com/watch?v=ZJP0Z5-sbeY){:target="_blank"} sobre cómo probar una función. Y en la [página de enlaces](http://patriciaemiguel.com/enlaces/){:target="_blank"} podrás encontrar varias comunidades de programadores donde es posible hacer preguntas y recibir consejos.
   </div>
 <br />&nbsp;
 </details>
 
 
 <details><summary> -¿Con qué grabás tus videos?</summary>
-<div markdown="1">A lo largo del tiempo he ido cambiando de software y equipo utilizado. Actualmente uso un micrófono Blue Snowball, y [Audacity](https://www.audacityteam.org/){:target="_blank"} para la edición de sonido. Para grabar la pantalla utilizo [Flashback Express](https://www.flashbackrecorder.com/express){:target="_blank"}. En cuanto a los contenidos, uso principalmente [Microsoft PowerPoint](https://www.office.com/launch/powerpoint){:target="_blank"} para diseñar las presentaciones y luego diferentes herramientas como IDEs o compiladores online (en este aspecto me gusta especialmente la funcionalidad de [Python tutor](http://pythontutor.com){:target="_blank"} para observar los contenidos de la memoria).
+<div markdown="1">A lo largo del tiempo he ido cambiando de software y equipo utilizado. Actualmente uso un micrófono Blue Snowball, [Audacity](https://www.audacityteam.org/){:target="_blank"} y [VoiceMeeter](https://vb-audio.com/Voicemeeter/){:target="_blank"} para grabación y edición del sonido. Para grabar la pantalla utilizo [Flashback Express](https://www.flashbackrecorder.com/express){:target="_blank"}. En cuanto a los contenidos, uso principalmente [Microsoft PowerPoint](https://www.office.com/launch/powerpoint){:target="_blank"} para diseñar las presentaciones y luego diferentes herramientas como IDEs o compiladores online (en este aspecto me gusta especialmente la funcionalidad de [Python tutor](http://pythontutor.com){:target="_blank"} para observar los contenidos de la memoria).
   </div>
 <br />&nbsp;
 </details>
@@ -156,7 +156,7 @@ Click sobre una pregunta para desplegar su respuesta:
 
 
 <details><summary> -¿En qué trabajás, además de la docencia?</summary>
-<div markdown="1">Además de ser docente, me dedico a QA ("Quality Assurance") de software, desde 2011.
+<div markdown="1">En mi trabajo de tiempo completo me dedico a QA ("Quality Assurance") de software, desde 2011.
   </div>
 <br />&nbsp;
 </details>
