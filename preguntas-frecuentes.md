@@ -59,7 +59,7 @@ Click sobre una pregunta para desplegar su respuesta:
 <details><summary> -¿Cómo podría prepararme para una entrevista laboral como desarrollador?</summary>
 <div markdown="1">En este punto debo mencionar que, para tener éxito como informáticos en el mundo profesional, es casi imprescindible hablar inglés. Sí, es posible trabajar para empresas, organizaciones o clientes de habla hispana, pero el mercado de la tecnología es global por naturaleza y es en esa globalidad donde se hallan grandes oportunidades para crecer y desarrollarnos profesionalmente. Es por eso que la gran mayoría de los recursos y el material más reconocido se encuentra únicamente en inglés.
   
-  Aunque [en la página de enlaces puede encontrarse un listado más extenso]({% page_url enlaces %}), estos son algunos sitios web donde podremos ejercitar nuestras habilidades, con problemas usualmente ordenados por categorías temáticas y según su dificultad:
+  Aunque [en la página de enlaces puede encontrarse un listado más extenso](http://patriciaemiguel.com/enlaces/), estos son algunos sitios web donde podremos ejercitar nuestras habilidades, con problemas usualmente ordenados por categorías temáticas y según su dificultad:
 <br />* [Codeforces](http://codeforces.com/){:target="_blank"}
 <br />* [Hackerrank](https://www.hackerrank.com/){:target="_blank"}
 <br />* [Leet Code](https://leetcode.com/){:target="_blank"}
@@ -71,8 +71,6 @@ Click sobre una pregunta para desplegar su respuesta:
 <br />* [Elements of Programming Interviews in Java - Aziz, Lee, Prakash](https://books.google.com.ar/books?id=ux3PCwAAQBAJ){:target="_blank"}
 <br />* [Programming Interviews Exposed: Secrets to Landing Your Next Job - Mongan, Kindler, Giguère](https://books.google.com.ar/books?id=FQzczWtdm3gC){:target="_blank"}
 <br />* [Ace the Programming Interview: 160 Questions and Answers for Success - Guiness](https://books.google.com.ar/books?id=DEn71rgH4_4C){:target="_blank"}
-
-  
   </div>
 <br />&nbsp;
 </details>
