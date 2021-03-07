@@ -42,7 +42,6 @@ Click sobre una pregunta para desplegar su respuesta:
 <br />* [C++ How to Program - Paul & Harvey Deitel](https://books.google.com.ar/books/about/C++_how_to_Program.html?id=XIZJNQEACAAJ){:target="_blank"}
 <br />* [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/){:target="_blank"}
 <br />* [Código Limpio: Manual de estilo para el desarrollo ágil de software - Robert Martin](https://www.amazon.es/Código-Limpio-desarrollo-software-Programación/dp/8441532109){:target="_blank"}
-<br />* [Cracking the Coding Interview: 189 Programming Questions and Solutions - Gayle Laakmann McDowell](https://books.google.com.ar/books/about/Cracking_the_Coding_Interview.html?id=jD8iswEACAAJ){:target="_blank"}
   
   </div>
 <br />&nbsp;
@@ -55,6 +54,29 @@ Click sobre una pregunta para desplegar su respuesta:
   </div>
 <br />&nbsp;
 </details>
+
+
+<details><summary> -¿Cómo podría prepararme para una entrevista laboral como desarrollador?</summary>
+<div markdown="1">En este punto debo mencionar que, para tener éxito como informáticos en el mundo profesional, es casi imprescindible hablar inglés. Sí, es posible trabajar para empresas, organizaciones o clientes de habla hispana, pero el mercado de la tecnología es global por naturaleza y es en esa globalidad donde se hallan grandes oportunidades para crecer y desarrollarnos profesionalmente. Es por eso que la gran mayoría de los recursos y el material más reconocido se encuentra únicamente en inglés.
+  
+  Aunque [en la página de enlaces puede encontrarse un listado más extenso]({% post_url enlaces %}), estos son algunos sitios web donde podremos ejercitar nuestras habilidades, con problemas usualmente ordenados por categorías temáticas y según su dificultad:
+<br />* [Codeforces](http://codeforces.com/){:target="_blank"}
+<br />* [Hackerrank](https://www.hackerrank.com/){:target="_blank"}
+<br />* [Leet Code](https://leetcode.com/){:target="_blank"}
+  
+  También existen algunos libros orientados exclusivamente a la preparación de entrevistas:
+<br />* [Cracking the Coding Interview: 189 Programming Questions and Solutions - Gayle Laakmann McDowell](https://books.google.com.ar/books/about/Cracking_the_Coding_Interview.html?id=jD8iswEACAAJ){:target="_blank"}
+<br />* [Algorithms for Interviews - Adnan Aziz, Amit Prakash](https://books.google.com.ar/books?id=Bvm5cQAACAAJ){:target="_blank"}
+<br />* [Elements of Programming Interviews in Python - Aziz, Lee, Prakash](https://books.google.com.ar/books?id=eErBDwAAQBAJ){:target="_blank"}
+<br />* [Elements of Programming Interviews in Java - Aziz, Lee, Prakash](https://books.google.com.ar/books?id=ux3PCwAAQBAJ){:target="_blank"}
+<br />* [Programming Interviews Exposed: Secrets to Landing Your Next Job - Mongan, Kindler, Giguère](https://books.google.com.ar/books?id=FQzczWtdm3gC){:target="_blank"}
+<br />* [Ace the Programming Interview: 160 Questions and Answers for Success - Guiness](https://books.google.com.ar/books?id=DEn71rgH4_4C){:target="_blank"}
+
+  
+  </div>
+<br />&nbsp;
+</details>
+
 
 
 ---
