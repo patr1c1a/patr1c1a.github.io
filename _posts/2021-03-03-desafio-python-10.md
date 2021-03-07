@@ -4,7 +4,7 @@ title: Desafío Python número 10
 date: 2021-03-03 12:00:00
 categories: desafios python
 tags: tuplas iteraciones
-published: false
+published: true
 ---
 ¡Nuevo desafío Python!
 
