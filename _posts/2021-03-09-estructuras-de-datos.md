@@ -4,7 +4,7 @@ title: Algunas estructuras de datos comunes
 date: 2021-03-09 12:00:00
 categories: conceptos
 tags: estructuras arreglos listas arboles hash grafos
-published: false
+published: true
 ---
 
 Las estructuras de datos son fundamentales a la hora de mejorar nuestra algoritmia y convertirnos en buenos programadores.
