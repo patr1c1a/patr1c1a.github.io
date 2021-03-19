@@ -10,9 +10,9 @@ published: true
 
 Este ejercicio suele aparecer en entrevistas laborales de Amazon y de algunas otras empresas. Acá vemos algunas opciones de resolución, con Java. ¿Se te ocurre alguna otra?
 
-▶️[Si te interesa ver más ejercicios de entrevistas laborales y su resolución paso a paso, visita este video](https://www.youtube.com/watch?v=nADemX9stHY){:target="_blank"}
-
 💻[Código ejecutable](https://replit.com/@programacionde1/Primer-caracter-que-no-se-repite){:target="_blank"}
+
+▶️[Si te interesa ver más ejercicios de entrevistas laborales y su resolución paso a paso, visita este video](https://www.youtube.com/watch?v=nADemX9stHY){:target="_blank"}
 
 
 ![Opción 1: fuerza bruta]({{ site.url }}/assets/2021-03-19-ejercicio-primer-caracter-unico-01.png)
