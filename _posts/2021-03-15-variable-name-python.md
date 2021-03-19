@@ -4,7 +4,7 @@ title: La variable __name__ en Python
 date: 2021-03-15 12:00:00
 categories: python
 tags: name
-published: false
+published: true
 ---
 
 En Python suele usarse <pre><code>if __name__ == "__main__"</code></pre> cuando hay más de un módulo en el programa, para ejecutar o evitar que se ejecuten ciertas instrucciones.
