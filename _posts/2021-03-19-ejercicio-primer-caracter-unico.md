@@ -15,15 +15,15 @@ Este ejercicio suele aparecer en entrevistas laborales de Amazon y de algunas ot
 
 ![Opción 1: fuerza bruta]({{ site.url }}/assets/2021-03-19-ejercicio-primer-caracter-unico-01.png)
 
-<br />nbsp;
+<br />&nbsp;
 
 ![Opción 2: métodos predefinidos]({{ site.url }}/assets/2021-03-19-ejercicio-primer-caracter-unico-02.png)
 
-<br />nbsp;
+<br />&nbsp;
 
 ![Opción 3: hashmap]({{ site.url }}/assets/2021-03-19-ejercicio-primer-caracter-unico-03.png)
 
-<br />nbsp;
+<br />&nbsp;
 
 ![Opción 4: arreglo asociado]({{ site.url }}/assets/2021-03-19-ejercicio-primer-caracter-unico-04.png)
 
