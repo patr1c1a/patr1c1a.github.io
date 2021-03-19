@@ -7,7 +7,7 @@ tags: name
 published: true
 ---
 
-En Python suele usarse <pre><code>if __name__ == "__main__"</code></pre> cuando hay más de un módulo en el programa, para ejecutar o evitar que se ejecuten ciertas instrucciones.
+En Python suele usarse <code>if __name__ == "__main__"</code> cuando hay más de un módulo en el programa, para ejecutar o evitar que se ejecuten ciertas instrucciones.
 
 Cuando se importa un módulo, el código que está dentro de las funciones no se ejecuta automáticamente, pero sí el que está fuera. Es por eso que en el ejemplo de la imagen cambia el resultado según cuál archivo se ejecute.
 
