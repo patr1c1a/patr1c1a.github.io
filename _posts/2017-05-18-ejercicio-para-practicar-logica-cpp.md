@@ -4,7 +4,7 @@ title: Video - Resolución de ejercicio para practicar lógica
 date: 2017-05-18 19:00:00
 categories: ejercicios c++
 tags: paradigma_imperativo video resolución_problemas lógica arreglos
-published: true
+published: false
 ---
 
 Resolución, en C++, de un ejercicio de nivel principiante, de principio a fin, usando funciones, structs en arreglos estáticos, mapas y vectores.
