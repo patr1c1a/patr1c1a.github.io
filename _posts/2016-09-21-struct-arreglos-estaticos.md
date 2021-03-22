@@ -4,7 +4,7 @@ title: Video - Struct como elemento de arreglos estáticos
 date: 2016-09-21 19:00:00
 categories: c++
 tags: arreglos paradigma_imperativo video
-published: true
+published: false
 ---
 
 Breve explicación de cómo utilizar, en C++, arreglos estáticos cuyos elementos sean de un tipo struct.
