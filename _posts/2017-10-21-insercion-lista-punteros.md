@@ -4,7 +4,7 @@ title: Video - Inserción en lista de punteros
 date: 2017-10-21 19:00:00
 categories: ejercicios c++
 tags: puntero paradigma_imperativo inserción video
-published: true
+published: false
 ---
 
 IDE usado: [Qt Creator](www.qt.io/es) con compilador MinGW para C++ bajo Windows
