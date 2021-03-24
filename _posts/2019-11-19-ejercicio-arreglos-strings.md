@@ -13,7 +13,7 @@ Veamos un problema con strings + una posible solución. ¿Se te ocurre algún al
 
 💻 [Versión Java ejecutable](https://repl.it/@programacionde1/Java-Distancia-mas-corta-al-caracter){:target="_blank"}
 
-Fuente: [leetcode.com](www.leetcode.com){:target="_blank"}
+Fuente: [leetcode.com](https://leetcode.com/){:target="_blank"}
 
 ![Enunciado]({{ site.url }}/assets/2019-11-19-ejercicio-arreglos-strings-01.png)
 
