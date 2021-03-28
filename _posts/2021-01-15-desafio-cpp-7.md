@@ -18,13 +18,13 @@ Esta consigna es común en entrevistas laborales de algunas empresas importantes
 <br /><div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/C-Desafio-7){:target="_blank"}
   </div>
 <br />
-<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2021-01-15-desafio-cpp-7-solucion.png)
+<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2021-01-14-desafio-cpp-7-solucion.png)
   </div></details>
 
 <br />
 <br />
 **Desafío C++** 👇
 <br />
-![Desafío C++ número 7]({{ site.url }}/assets/2021-01-15-desafio-cpp-7.png)
+![Desafío C++ número 7]({{ site.url }}/assets/2021-01-14-desafio-cpp-7.png)
 
 
