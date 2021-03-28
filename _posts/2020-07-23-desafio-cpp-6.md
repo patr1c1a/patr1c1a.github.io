@@ -9,7 +9,7 @@ published: true
 
 Siguiendo con los desafíos de programación: uno con C++.⭐️✨⚡️
 
-Si bien podríamos modificar tanto la función como la invocación para evitar el error, en este caso tenemos 4 variantes de la función, pero solo una de ellas corrige el error. Cuál es
+Si bien podríamos modificar tanto la función como la invocación para evitar el error, en este caso tenemos 4 variantes de la función, pero solo una de ellas corrige el error. 
 
 Aclaración: el programa que se muestra es solo para "jugar" a descifrar el error. No tiene ningún sentido ni "hace" nada en especial.
 
