@@ -31,8 +31,9 @@ Clase Libro {
     int codigo;
     string titulo;
     string autor;
-}</pre>
-<br />
+}
+</pre>
+<br />&nbsp;
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2021-02-11-desafio-uml-2-solucion.png)
     </div></details>
 
