@@ -34,8 +34,10 @@ Clase Libro {
     string autor;
 }
 </pre>
+
+
 <br />&nbsp;
-    <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2021-02-11-desafio-uml-2-solucion.png)
+<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2021-02-11-desafio-uml-2-solucion.png)
     </div></details>
 
 
