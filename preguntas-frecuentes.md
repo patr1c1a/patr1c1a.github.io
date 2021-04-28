@@ -156,7 +156,7 @@ Click sobre una pregunta para desplegar su respuesta:
 
 
 <details><summary> -¿Qué experiencia docente tenés?</summary>
-<div markdown="1">En 2010, siendo todavía estudiante, comencé como ayudante de cátedra en dos materias del primer año, comunes a las distintas carreras de informática de la UNNOBA: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaron ese año. Continué siendo ayudante en las dos materias anteriores hasta que, en 2014, tan pronto como obtuve mi título como Analista de Sistemas, empecé a trabajar como docente.
+<div markdown="1">En 2010, siendo todavía estudiante, comencé como ayudante de cátedra en dos materias del primer año, comunes a las distintas carreras de informática de la UNNOBA: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaron ese año. Continué siendo ayudante en las dos materias anteriores hasta que, en 2014, tan pronto como obtuve mi título como Analista de Sistemas, empecé a trabajar como docente. Recientemente, a principios de 2021, fui parte del equipo docente de un "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}" de manera virtual.
   </div>
 <br />&nbsp;
 </details>
