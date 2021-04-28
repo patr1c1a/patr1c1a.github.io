@@ -35,8 +35,17 @@ Click sobre una pregunta para desplegar su respuesta:
 </details>
 
 
+<details><summary> -¿Es necesario estudiar en la universidad para trabajar como informático?</summary>
+<div markdown="1">Al menos en Argentina, por el momento, la informática no requiere título habilitante (como sí es el caso de los médicos o los abogados, por ejemplo), por lo que es posible trabajar sin tener ningún título. Pero, en mi opinión, se deben tener en cuenta las necesidades de cada persona. El aprendizaje autodidacta no es para todos y algunos se organizan y aprenden mejor con un programa de estudios y docentes que los guíen.
+  
+  También es posible formarse de otras maneras que no impliquen un título universitario. Pero algo importante que la universidad nos da es un lenguaje común y un cntexto general de varios temas que nos convierte en profesionales más completos. Por supuesto que podemos aprender todas estas cosas por fuera de una universidad, pero entonces mi recomendación es la de no limitarse a un curso/libro/tutorial de un tema en particular sino estar preparándose y buscando constantemente nuevas cosas para aprender.
+  </div>
+<br />&nbsp;
+</details>
+
+
 <details><summary> -¿Qué libros son recomendables para aprender a programar o ejercitar programación?</summary>
-<div markdown="1">Es necesario tener en cuenta que mucho del material más reconocido se encuentra únicamente en inglés. Aunque, en el caso de algunos títulos, existen traducciones al español.
+<div markdown="1">Es necesario tener en cuenta que mucho del material más reconocido se encuentra únicamente en inglés. Por suerte, para algunos títulos existen traducciones al español.
 <br />* [Fundamentos de programación - Luis Joyanes Aguilar](https://books.google.com.ar/books/about/Fundamentos_de_programación.html?id=nrNvPwAACAAJ){:target="_blank"}
 <br />* [Introduction To Algorithms - "CLRS"](https://books.google.com.ar/books/about/Introduction_To_Algorithms.html?id=NLngYyWFl_YC){:target="_blank"}
 <br />* [C++ How to Program - Paul & Harvey Deitel](https://books.google.com.ar/books/about/C++_how_to_Program.html?id=XIZJNQEACAAJ){:target="_blank"}
@@ -50,13 +59,13 @@ Click sobre una pregunta para desplegar su respuesta:
 
 
 <details><summary> -¿Qué lenguaje me conviene usar para mi proyecto?</summary>
-<div markdown="1">La respuesta a esa pregunta requiere un análisis cuidadoso de la arquitectura del proyecto y el "stack tecnológico" necesario. Pero [esta publicación]({{ site.baseurl }}{% link _posts/2019-11-01-que-lenguaje-usar.md %}){:target="_blank"} podría servir como guía introductoria.
+<div markdown="1">No hay una respuesta única, aunque el tipo de proyecto influye mucho. Para encarar algo serio, debe hacerse un análisis cuidadoso de las necesidades y arquitectura del proyecto, y definir el "stack tecnológico" más apropiado. En términos generales, [esta publicación]({{ site.baseurl }}{% link _posts/2019-11-01-que-lenguaje-usar.md %}){:target="_blank"} podría servir como guía introductoria.
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary> -¿Cómo podría prepararme para una entrevista laboral como desarrollador?</summary>
+<details><summary> -¿Cómo podría prepararme para una entrevista laboral de programación?</summary>
 <div markdown="1">En este punto debo mencionar que, para tener éxito como informáticos en el mundo profesional, es casi imprescindible hablar inglés. Sí, es posible trabajar para empresas, organizaciones o clientes de habla hispana, pero el mercado de la tecnología es global por naturaleza y es en esa globalidad donde se hallan grandes oportunidades para crecer y desarrollarnos profesionalmente. Es por eso que la gran mayoría de los recursos y el material más reconocido se encuentra únicamente en inglés.
   
   Aunque [en la página de enlaces puede encontrarse un listado más extenso](http://patriciaemiguel.com/enlaces/), estos son algunos sitios web donde podremos ejercitar nuestras habilidades, con problemas usualmente ordenados por categorías temáticas y según su dificultad:
