@@ -35,6 +35,18 @@ Click sobre una pregunta para desplegar su respuesta:
 </details>
 
 
+<details><summary> -¿Qué tipo de computadora necesito para aprender a programar?</summary>
+<div markdown="1">Las bases de la programación pueden aprenderse, incluso, sin una computadora: solo con lápiz y papel. Por supuesto que siempre será más interesante y motivador poder ver nuestros programas en funcionamiento, pero no tener computadora no es un obstáculo para empezar. Y, si tenemos una, cualquier máquina a la que podamos acceder será útil (pensemos que hace 30 años también se programaba, y con aparatos de capacidad muy inferior a la de los que existen actualmente).
+  
+  Si tenemos una computadora con un navegador (Firefox, Chrome, Edge o cualquier otro) y conexión a internet, desde el navegador podremos acceder a gran cantidad de recursos para probar nuestro código (varios de ellos están listados en la página de Enlaces de este blog, en la sección "Compiladores e intérpretes online").
+  
+  Si no tuviéramos la posibilidad de conectarnos a internet, podemos programar en varios lenguajes utilizando solo un editor de textos (como "Bloc de notas" en Windows o Gedit en Linux) y, si instalamos un compilador o intérprete del lenguaje, podremos "traducir" nuestro código y luego ejecutarlo para verlo en funcionamiento. Normalmente estos compiladores o intérpretes no requieren de grandes recursos computacionales (esto significa que pueden usarse en casi cualquier computadora, aunque sea "viejita" y bajo distintos sistemas operativos). También existen aplicaciones para dispositivos móviles que, aunque sean una opción más incómoda usando el teclado en pantalla, también nos permiten escribir, compilar y ejecutar código.
+  </div>
+<br />&nbsp;
+</details>
+
+
+
 <details><summary> -¿Es necesario estudiar en la universidad para trabajar como informático?</summary>
 <div markdown="1">Al menos en Argentina, por el momento, la informática no requiere título habilitante (como sí es el caso de los médicos o los abogados, por ejemplo), por lo que es posible trabajar sin tener ningún título. Pero, en mi opinión, se deben tener en cuenta las necesidades de cada persona. El aprendizaje autodidacta no es para todos y algunos se organizan y aprenden mejor con un programa de estudios y docentes que los guíen.
   
