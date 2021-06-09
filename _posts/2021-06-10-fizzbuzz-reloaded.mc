@@ -11,7 +11,7 @@ En algunas entrevistas laborales suele aparecer la prueba "fizz buzz": un ejerci
 
 Esta es una versión un poco más compleja 🤓.
 
-[Para ejecutar el código](https://onlinegdb.com/fiqBp3OSx){:target="_blank"}
+[click para ejecutar el código](https://onlinegdb.com/fiqBp3OSx){:target="_blank"}
 
 ![Fizz Buzz recargado]({{ site.url }}/assets/2021-06-10-fizzbuzz-reloaded.png)
 
