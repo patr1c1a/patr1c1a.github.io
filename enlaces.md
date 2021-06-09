@@ -53,10 +53,10 @@ permalink: /enlaces/
 - <a href="https://www.ietf.org/standards/rfcs/" target="_blank">RFC ("Requests For Comments")</a>
 - <a href="https://medium.com/topic/technology" target="_blank">Medium - Tech</a>
 
-### Contribución a open source:
-- <a href="https://openhatch.org/" target="_blank">OpenHatch</a>
-- <a href="https://up-for-grabs.net/#/" target="_blank">Up for grabs</a>
-- <a href="http://simpledeveloper.com/open-source-projects/" target="_blank">Simple developer: open source projects to contribute to</a>
+### Empezar a contribuir a open source:
+- <a href="https://up-for-grabs.net/" target="_blank">Up for grabs</a>
+- <a href="https://www.firsttimersonly.com/" target="_blank">First timers only</a>
+- <a href="https://github.com/MunGell/awesome-for-beginners" target="_blank">Awesome First PR Opportunities</a>
 
 ### "Hackathons" y competencias por premios:
 - <a href="https://www.hackathon.com/" target="_blank">Hackathon.com</a>
