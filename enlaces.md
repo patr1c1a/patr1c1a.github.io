@@ -117,7 +117,7 @@ permalink: /enlaces/
 - <a href="https://anvil.works/" target="_blank">Anvil - Drag&Drop Python web app builder</a>
 - <a href="https://www.codingame.com" target="_blank">CodinGame</a>
 - <a href="https://code.org/" target="_blank">Hora del Código</a>
-- - <a href="https://flexboxfroggy.com/#es" target="_blank">Flexbox Froggy (CSS)</a>
+- <a href="https://flexboxfroggy.com/#es" target="_blank">Flexbox Froggy (CSS)</a>
 - <a href="https://play.google.com/store/apps/details?id=com.sololearn" target="_blank">[Android] SoloLearn</a>
 - <a href="https://play.google.com/store/apps/details?id=com.cf.codigofacilitoapp" target="_blank">[Android] Código Facilito</a>
 
