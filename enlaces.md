@@ -33,6 +33,12 @@ permalink: /enlaces/
 - <a href="http://codekata.com/" target="_blank">Code Kata</a>
 - <a href="https://www.spoj.com/" target="_blank">Sphere Online Judge</a>
 
+### Compiladores e intérpretes online:
+- <a href="https://www.onlinegdb.com/" target="_blank">GDB Online Debugger</a>
+- <a href="https://replit.com/" target="_blank">Repl.it</a>
+- <a href="https://rextester.com/" target="_blank">Rextester</a>
+- <a href="editor.livegap.com/index.php" target="_blank">Editor HTML, CSS, Javascript</a>
+
 ### Repositorios de archivos y versionado:
 - <a href="https://github.com" target="_blank">Github</a>
 - <a href="https://about.gitlab.com/" target="_blank">GitLab</a>
