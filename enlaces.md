@@ -33,7 +33,7 @@ permalink: /enlaces/
 - <a href="http://codekata.com/" target="_blank">Code Kata</a>
 - <a href="https://www.spoj.com/" target="_blank">Sphere Online Judge</a>
 
-### Compiladores e intérpretes online:
+### Compiladores e intérpretes en línea (corren en navegador web):
 - <a href="https://replit.com/" target="_blank">Repl.it</a>
 - <a href="https://www.onlinegdb.com/" target="_blank">GDB Online Debugger</a>
 - <a href="https://rextester.com/" target="_blank">Rextester</a>
