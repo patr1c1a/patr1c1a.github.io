@@ -34,9 +34,11 @@ permalink: /enlaces/
 - <a href="https://www.spoj.com/" target="_blank">Sphere Online Judge</a>
 
 ### Compiladores e intérpretes online:
-- <a href="https://www.onlinegdb.com/" target="_blank">GDB Online Debugger</a>
 - <a href="https://replit.com/" target="_blank">Repl.it</a>
+- <a href="https://www.onlinegdb.com/" target="_blank">GDB Online Debugger</a>
 - <a href="https://rextester.com/" target="_blank">Rextester</a>
+- <a href="https://ideone.com/" target="_blank">Ideone</a>
+- <a href="https://godbolt.org/" target="_blank">Compiler Explorer</a>
 - <a href="editor.livegap.com/index.php" target="_blank">Editor HTML, CSS, Javascript</a>
 
 ### Repositorios de archivos y versionado:
