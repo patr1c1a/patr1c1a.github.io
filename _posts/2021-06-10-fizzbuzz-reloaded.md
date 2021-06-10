@@ -4,7 +4,7 @@ title: Ejercicio con C++ - "Fizz buzz recargado"
 date: 2021-06-10 12:00:00
 categories: c++
 tags: c++ entrevista
-published: false
+published: true
 ---
 
 En algunas entrevistas laborales suele aparecer la prueba "fizz buzz": un ejercicio simple para evaluar si dominamos las bases de la programación (la consigna puede verse en esta publicación: https://cafecito.app/programaciondesd...).
