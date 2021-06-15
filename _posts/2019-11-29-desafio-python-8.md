@@ -24,7 +24,7 @@ No debemos confiarnos si un algoritmo funciona como esperamos en los casos más 
 <br />
 <div markdown="1">💻 [Código ejecutable](https://onlinegdb.com/fXLnlcXXd){:target="_blank"} (presioná "Run" para ejecutar o "Fork" para modificar el código).
   
-<script src="//onlinegdb.com/embed/js/fXLnlcXXd?theme=dark"></script>
+<script src="//onlinegdb.com/embed/js/fXLnlcXXd?theme=light"></script>
   </div></details>
 
 <br />
