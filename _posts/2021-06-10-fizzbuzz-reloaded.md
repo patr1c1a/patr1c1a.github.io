@@ -45,7 +45,9 @@ return arreglo;
 
 Explicación:
 for (int i = 1; i <= n; ++i): Nos piden que el índice comience en 1 (aunque el arreglo se llenará desde el principio, en la posición 0).
+
 s += to_string(i): El número i debe convertirse a string porque el arreglo es de strings.
+
 arreglo.push_back(s): Usamos el método para insertar en un vector (a continuación del último elemento o en la posición 0 si aún no hay elementos).
 </pre>
     
