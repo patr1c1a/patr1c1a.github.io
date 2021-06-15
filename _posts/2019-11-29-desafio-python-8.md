@@ -23,7 +23,10 @@ No debemos confiarnos si un algoritmo funciona como esperamos en los casos más 
   </div>
 <br />😀 ¿Se te ocurrieron otras formas de mejorar el algoritmo? Deja tu comentario debajo.
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-11-29-desafio-python-8-solucion.png)
-  </div></details>
+  </div>
+
+<script src="//onlinegdb.com/embed/js/fXLnlcXXd?theme=dark"></script>
+</details>
 
 <br />
 <br />
@@ -32,5 +35,3 @@ No debemos confiarnos si un algoritmo funciona como esperamos en los casos más 
 ![Desafío Python número 8]({{ site.url }}/assets/2019-11-29-desafio-python-8.png)
 
 
-<hr>
-<script src="//onlinegdb.com/embed/js/eZJdlOdyf?theme=dark"></script>
