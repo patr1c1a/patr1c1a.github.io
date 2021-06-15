@@ -30,3 +30,7 @@ No debemos confiarnos si un algoritmo funciona como esperamos en los casos más 
 **Desafío Python** 👇
 
 ![Desafío Python número 8]({{ site.url }}/assets/2019-11-29-desafio-python-8.png)
+
+
+<hr>
+<script src="//onlinegdb.com/embed/js/eZJdlOdyf?theme=dark"></script>
