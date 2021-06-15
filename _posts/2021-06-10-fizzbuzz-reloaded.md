@@ -25,7 +25,7 @@ arreglo[i] == "Fizz" si i es divisible por 3.
 arreglo[i] == "Buzz" si i es divisible por 5.
 arreglo[i] == i si ninguna de las condiciones anteriores es verdadera.
 
-<code>
+Resolución:
 vector<string> fizzBuzz(int n) {
 vector<string> arreglo;
 for (int i = 1; i <= n; ++i) {
@@ -40,7 +40,7 @@ s += "Buzz";
 arreglo.push_back(s);
 }
 return arreglo;
-}</code>
+}
 
 Explicación:
 for (int i = 1; i <= n; ++i): Nos piden que el índice comience en 1 (aunque el arreglo se llenará desde el principio, en la posición 0).
