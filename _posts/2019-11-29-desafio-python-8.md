@@ -18,19 +18,16 @@ No debemos confiarnos si un algoritmo funciona como esperamos en los casos más 
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />Una posible solución al desafío: las dos últimas invocaciones retornaban un resultado incorrecto con la versión errónea del algoritmo. En la versión corregida dada en la solución, las cuatro invocaciones retornan lo esperado.
+<br />
+<div markdown="1">💻 [Código ejecutable](https://onlinegdb.com/1Z7VjCF_z){:target="_blank"} (presioná "Run" para ejecutar o "Fork" para modificar el código).
+  </div>  
 <br />😀 ¿Se te ocurrieron otras formas de mejorar el algoritmo? Deja tu comentario debajo.
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-11-29-desafio-python-8-solucion.png)
   </div>
-<br />
-<div markdown="1">💻 [Código ejecutable](https://onlinegdb.com/fXLnlcXXd){:target="_blank"} (presioná "Run" para ejecutar o "Fork" para modificar el código).
-  </div>  
-<div markdown="1"><script src="//onlinegdb.com/embed/js/fXLnlcXXd?theme=light"></script>
-  </div></details>
+</details>
 
 <br />
 <br />
 **Desafío Python** 👇
 
 ![Desafío Python número 8]({{ site.url }}/assets/2019-11-29-desafio-python-8.png)
-
-
