@@ -22,9 +22,11 @@ No debemos confiarnos si un algoritmo funciona como esperamos en los casos más 
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-11-29-desafio-python-8-solucion.png)
   </div>
 <br />
-<div markdown="1">💻 [Código ejecutable](https://onlinegdb.com/fXLnlcXXd){:target="_blank"} (presioná "Run" para ejecutar o "fork me" para modificar el código):
+<div markdown="1">💻 [Código ejecutable](https://onlinegdb.com/fXLnlcXXd){:target="_blank"} (presioná "Run" para ejecutar o "fork" para modificar el código).
   </div>
-<script src="//onlinegdb.com/embed/js/fXLnlcXXd?theme=dark"></script>
+<br />
+  <script src="//onlinegdb.com/embed/js/fXLnlcXXd?theme=dark"></script>
+  
 </details>
 
 <br />
