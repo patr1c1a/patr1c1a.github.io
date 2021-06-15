@@ -15,7 +15,9 @@ Esta es una versión un poco más compleja 🤓.
 
 ![Fizz Buzz recargado]({{ site.url }}/assets/2021-06-10-fizzbuzz-reloaded.png)
 
-
+<br />&nbsp;
+<hr />
+<br />&nbsp;
 Versión accesible (apta para lectores electrónicos):
 
 <pre>
