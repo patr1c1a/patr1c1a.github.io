@@ -9,6 +9,15 @@ published: true
 
 Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes de leer las que están en la imagen?
 
+🔸 Código ejecutable:
+
+[C++](https://onlinegdb.com/GHRed_j14){:target="_blank"}
+
+[Java](https://onlinegdb.com/RxRRwicC2){:target="_blank"}
+
+[Python](https://onlinegdb.com/1HdxsFM9K){:target="_blank"}
+
+
 ![Ejercicio con arreglos, sumas acumuladas]({{ site.url }}/assets/2021-06-17-arreglos-sumasacumuladas.png)
 <hr />
 <br />&nbsp;
