@@ -7,7 +7,7 @@ tags: c++ entrevista
 published: true
 ---
 
-En algunas entrevistas laborales suele aparecer la prueba "fizz buzz": un ejercicio simple para evaluar si dominamos las bases de la programación (la consigna puede verse en esta publicación: https://cafecito.app/programaciondesd...).
+En algunas entrevistas laborales suele aparecer la prueba "fizz buzz": un ejercicio simple para evaluar si dominamos las bases de la programación ([la consigna puede verse en esta publicación](https://cafecito.app/programaciondesde0/post/la-prueba-fizz-buzz-en-entrevistas-laborales-4LY78HxCV){:target="_blank"}.
 
 Esta es una versión un poco más compleja 🤓.
 
