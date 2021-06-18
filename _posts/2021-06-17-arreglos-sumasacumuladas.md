@@ -52,4 +52,6 @@ def sumasAcumuladas(nums):
     resultado = [nums[0]]
     for i in range(1, len(nums)):
         resultado.append(resultado[-1] + nums[i])
-    return resultado</pre>
+    return resultado
+    
+</pre>
