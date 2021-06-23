@@ -16,7 +16,10 @@ Una buena práctica que usualmente pasamos por alto cuando estamos empezando a p
 <hr />
 <br />&nbsp;
 Versión accesible (apta para lectores electrónicos):
-<pre>¿Qué son las pruebas unitarias ("unit testing")?
-Prueban el software a nivel de componente o "unidad" (por ejemplo: un método, una función, una clase...).
-Ayudan a evitar la introducción de defectos, ya que pueden ejecutarse repetidas veces de forma automática (por ejemplo, cada vez que se compila).
-Normalmente están a cargo de los desarrolladores, ya que implican escribir código y suelen requerir acceso al código fuente de los componentes a probar (es por este motivo que se las considera pruebas de "caja blanca").</pre>
+> ¿Qué son las pruebas unitarias ("unit testing")?
+> 
+> Prueban el software a nivel de componente o "unidad" (por ejemplo: un método, una función, una clase...).
+> 
+> Ayudan a evitar la introducción de defectos, ya que pueden ejecutarse repetidas veces de forma automática (por ejemplo, cada vez que se compila).
+> 
+> Normalmente están a cargo de los desarrolladores, ya que implican escribir código y suelen requerir acceso al código fuente de los componentes a probar (es por este motivo que se las considera pruebas de "caja blanca").
