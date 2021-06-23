@@ -36,8 +36,8 @@ Versión accesible (apta para lectores electrónicos):
 >     }
 >     return resultado;
 > }
-> </pre>
-> 
+
+
 > Resolución en Java:
 >  
 > <pre>public int[] sumasAcumuladas(int[] nums) {
@@ -48,8 +48,8 @@ Versión accesible (apta para lectores electrónicos):
 >     }
 >     return resultado;
 > }
-> </pre>
-> 
+
+
 > Resolución en Python:
 >
 > <pre>def sumasAcumuladas(nums):
@@ -57,5 +57,5 @@ Versión accesible (apta para lectores electrónicos):
 >     for i in range(1, len(nums)):
 >         resultado.append(resultado[-1] + nums[i])
 >     return resultado
-> </pre>
+
 
