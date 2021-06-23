@@ -4,7 +4,7 @@ title: Entornos virtuales en Python
 date: 2021-06-17 12:00:00
 categories: python
 tags: venv
-published: false
+published: true
 ---
 
 ¿Sabías que Python permite instalar distintas versiones de módulos/paquetes para cada proyecto? Esto se logra con los entornos virtuales  😉.
