@@ -29,33 +29,30 @@ Versión accesible (apta para lectores electrónicos):
 > 
 > Resolución en C++:
 > 
-> <pre>vector<int> sumasAcumuladas(vector<int> &nums) {
+> <pre><code>vector<int> sumasAcumuladas(vector<int> &nums) {
 >     vector<int> resultado = {nums[0]};
 >     for (int i = 1; i < nums.size(); i++) {
 >         resultado.push_back(resultado.back() + nums[i]);
 >     }
 >     return resultado;
-> }
-> </pre>
+> }</code></pre>
 > 
 > Resolución en Java:
 >  
-> <pre>public int[] sumasAcumuladas(int[] nums) {
+> <pre><code>public int[] sumasAcumuladas(int[] nums) {
 >     int[] resultado = new int[nums.length];
 >     resultado[0] = nums[0];
 >     for (int i = 1; i < nums.length; i++) {
 >         resultado[i] = resultado [i - 1] + nums[i];
 >     }
 >     return resultado;
-> }
-> </pre>
+> }</code></pre>
 > 
 > Resolución en Python:
 >
-> <pre>def sumasAcumuladas(nums):
+> <pre><code>def sumasAcumuladas(nums):
 >     resultado = [nums[0]]
 >     for i in range(1, len(nums)):
 >         resultado.append(resultado[-1] + nums[i])
->     return resultado
-> </pre>
+>     return resultado</code></pre>
 
