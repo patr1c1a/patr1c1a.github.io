@@ -36,7 +36,7 @@ Versión accesible (apta para lectores electrónicos):
 >     }
 >     return resultado;
 > }
-</pre>
+> </pre>
 > 
 > Resolución en Java:
 >  
@@ -48,7 +48,7 @@ Versión accesible (apta para lectores electrónicos):
 >     }
 >     return resultado;
 > }
-</pre>
+> </pre>
 > 
 > Resolución en Python:
 >
@@ -57,5 +57,5 @@ Versión accesible (apta para lectores electrónicos):
 >     for i in range(1, len(nums)):
 >         resultado.append(resultado[-1] + nums[i])
 >     return resultado
-</pre>
+> </pre>
 
