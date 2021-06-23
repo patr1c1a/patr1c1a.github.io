@@ -35,7 +35,9 @@ Versión accesible (apta para lectores electrónicos):
 >         resultado.push_back(resultado.back() + nums[i]);
 >     }
 >     return resultado;
-> }</code></pre>
+> }
+> 
+> </code></pre>
 > 
 > Resolución en Java:
 >  
