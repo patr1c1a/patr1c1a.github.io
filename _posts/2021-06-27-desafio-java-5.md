@@ -29,30 +29,30 @@ Analicemos cuidadosamente el código de este desafío... ¿Qué crees que sucede
 
 
 <hr />
-<br />&nbsp;
-Versión accesible (apta para lectores electrónicos):
+### Versión accesible (apta para lectores electrónicos):
 
-> ¿Cuál es la salida del programa?
-> 
-> <pre>class Desafio {
->     public static void main (String[] args) {
->         int i = 0;
->         {
->             int[] x = {0, 1, 2};
->         }
->     for (i = 0; i < x.length; i++)
->     System.out.print(x[i]);
->     }
-> }
-> 
+¿Cuál es la salida del programa?
 
-> Opciones:
-> 
-> a. 012
-> 
-> b. 000
-> 
-> c. Error en tiempo de ejecución
-> 
-> d. Error de compilación
-> 
+~~~
+class Desafio {
+    public static void main (String[] args) {
+        int i = 0;
+        {
+            int[] x = {0, 1, 2};
+        }
+        for (i = 0; i < x.length; i++)
+            System.out.print(x[i]);
+    }
+}
+~~~
+{: .language-java}
+
+Opciones:
+
+a. 012
+
+b. 000
+
+c. Error en tiempo de ejecución
+
+d. Error de compilación
