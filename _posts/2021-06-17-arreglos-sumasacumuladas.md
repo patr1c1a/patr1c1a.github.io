@@ -13,17 +13,15 @@ Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes d
 
 [C++](https://jdoodle.com/a/3pwV){:target="_blank"}
 
-{::options parse_block_html="true" /}
-<script src="https://jdoodle.com/embed/v0/3pwV" type="text/javascript"></script>
-{::options parse_block_html="false" /}
+{% include codeEditor.html id="3pwV" %}
 
 [Java](https://jdoodle.com/a/3pwZ){:target="_blank"}
 
-<div markdown="1"><script src="https://www.jdoodle.com/embed/v0/3pwZ" type="text/javascript"></script></div>
+{% include codeEditor.html id="3pwZ" %}
 
 [Python](https://jdoodle.com/a/3px1){:target="_blank"}
 
-<div markdown="1"><script src="https://www.jdoodle.com/embed/v0/3px1" type="text/javascript"></script></div>
+{% include codeEditor.html id="3px1" %}
 
 
 ![Ejercicio con arreglos, sumas acumuladas]({{ site.url }}/assets/2021-06-17-arreglos-sumasacumuladas.png)
