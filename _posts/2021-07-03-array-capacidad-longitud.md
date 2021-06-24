@@ -8,7 +8,7 @@ published: false
 ---
 
 
-Los arrays son estructuras básicas a partir de las cuales se crean implementaciones que abstraen ciertas operaciones a un más alto nivel. Normalmente, en un array podemos distinguir su capacidad física de la cantidad de elementos que almacena, y también la cantidad de espacio ocupado en la memoria de la computadora.
+Los arrays son estructuras básicas, a partir de las cuales en varios lenguajes se implementan otras con diversas operaciones. Normalmente, en un array podemos distinguir su capacidad física de la cantidad de elementos que almacena, y también la cantidad de espacio ocupado en la memoria de la computadora.
 
 Podemos ampliar este tema leyendo el capítulo "7.4.1 Capacidad vs. longitud de un array" del libro "Algoritmos a fondo con implementaciones en C y Java" (primera edición), del Ing. Pablo Sznajdleder.
 
