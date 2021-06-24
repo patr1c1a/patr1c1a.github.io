@@ -14,7 +14,7 @@ Analicemos cuidadosamente el código de este desafío... ¿Qué crees que sucede
 <br />✏️ Explicación: la variable x se encuentra declarada en un bloque definido por las llaves de las líneas 4 y 6 del código. Fuera de ese bloque, la variable no existe (recordemos que, en Java, las llaves crean un bloque de código con su propio ámbito). El hecho de que la variable sea un array no hace ninguna diferencia a este respecto. Podría tratarse de una variable de cualquier otro tipo y el comportamiento sería el mismo: al intentar acceder a ella desde un ámbito mayor a donde está declarada, se produciría un error en la compilación.
 <br />Si, en este código, las líneas 7 y 8 (del bucle for que imprime el arreglo) se movieran hacia dentro del bloque donde está declarada x, entonces se podría compilar y ejecutar el código sin problemas, obteniendo la salida 012. También, si dentro del bloque que contiene a x creáramos otro "sub-bloque", podríamos acceder a x, ya que este último estaría incluido dentro del ámbito del bloque que lo contiene. 
 <br />
-<br /><div markdown="1">💻 [Código ejecutable](https://onlinegdb.com/OMwcm7GVh){:target="_blank"}
+<br /><div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3puW){:target="_blank"}
   </div>
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2021-06-27-desafio-java-5-solucion.png)
