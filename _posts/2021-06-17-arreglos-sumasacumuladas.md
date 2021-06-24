@@ -9,22 +9,30 @@ published: true
 
 Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes de leer las que están en la imagen?
 
+![Ejercicio con arreglos, sumas acumuladas]({{ site.url }}/assets/2021-06-17-arreglos-sumasacumuladas.png)
+
+<br />
+
 🔸 Código ejecutable:
 
 [C++](https://jdoodle.com/a/3pwV){:target="_blank"}
 
 {% include codeEditor.html id="3pwV?stdin=0&arg=0" %}
 
+<br />
+
 [Java](https://jdoodle.com/a/3pwZ){:target="_blank"}
 
 {% include codeEditor.html id="3pwZ?stdin=0&arg=0" %}
+
+<br />
 
 [Python](https://jdoodle.com/a/3px1){:target="_blank"}
 
 {% include codeEditor.html id="3px1?stdin=0&arg=0" %}
 
+<br />
 
-![Ejercicio con arreglos, sumas acumuladas]({{ site.url }}/assets/2021-06-17-arreglos-sumasacumuladas.png)
 <hr />
 ### Versión accesible (apta para lectores electrónicos):
 
