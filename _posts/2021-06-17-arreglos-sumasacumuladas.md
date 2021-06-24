@@ -11,11 +11,17 @@ Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes d
 
 🔸 Código ejecutable:
 
-[C++](https://onlinegdb.com/GHRed_j14){:target="_blank"}
+[C++](https://jdoodle.com/a/3pwV){:target="_blank"}
 
-[Java](https://onlinegdb.com/RxRRwicC2){:target="_blank"}
+<script>https://www.jdoodle.com/embed/v0/3pwV</script>
 
-[Python](https://onlinegdb.com/1HdxsFM9K){:target="_blank"}
+[Java](https://jdoodle.com/a/3pwZ){:target="_blank"}
+
+<script>https://www.jdoodle.com/embed/v0/3pwZ</script>
+
+[Python](https://jdoodle.com/a/3px1){:target="_blank"}
+
+<script>https://www.jdoodle.com/embed/v0/3px1</script>
 
 
 ![Ejercicio con arreglos, sumas acumuladas]({{ site.url }}/assets/2021-06-17-arreglos-sumasacumuladas.png)
