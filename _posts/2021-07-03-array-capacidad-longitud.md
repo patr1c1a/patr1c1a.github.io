@@ -14,17 +14,16 @@ Podemos ampliar este tema leyendo el capítulo "7.4.1 Capacidad vs. longitud de 
 
 ![Capacidad y Longitud de un array]({{ site.url }}/assets/2021-07-03-array-capacidad-longitud.png)
 <hr />
-<br />&nbsp;
-Versión accesible (apta para lectores electrónicos):
+### Versión accesible (apta para lectores electrónicos):
 
-> "Capacidad" y "longitud" de un array (o "dimensión física" y "lógica")
-> 
-> Capacidad: tope físico a la cantidad de elementos que puede contener un array. Es fija.
-> 
-> Longitud: cuántos elementos almacena el array. Cambia a medida que se almacenan o eliminan elementos.
-> 
-> Si se define un array con 100 elementos de 2 bytes cada uno, el array ocupará 200 bytes en memoria, aunque aún no hayamos almacenado nada en él.
-> 
-> Ejemplo: Si tenemos un array de tipo string[100], su capacidad es 100. Su longitud inicial es 0. Si se agregan 5 elementos, la capacidad será 100 y la longitud será 5. Si luego se elimina un elemento, la capacidad será 100 y, la longitud, 4. Usualmente, los elementos se almacenan consecutivamente desde el 0.
-> 
-> La longitud como concepto lógico no tiene sentido para la máquina. Ella solo sabe que el array tiene 100 elementos. Es el programador quien determina cuántos de ellos son "válidos".
+"Capacidad" y "longitud" de un array (o "dimensión física" y "lógica")
+
+Capacidad: tope físico a la cantidad de elementos que puede contener un array. Es fija.
+
+Longitud: cuántos elementos almacena el array. Cambia a medida que se almacenan o eliminan elementos.
+
+Si se define un array con 100 elementos de 2 bytes cada uno, el array ocupará 200 bytes en memoria, aunque aún no hayamos almacenado nada en él.
+
+Ejemplo: Si tenemos un array de tipo string[100], su capacidad es 100. Su longitud inicial es 0. Si se agregan 5 elementos, la capacidad será 100 y la longitud será 5. Si luego se elimina un elemento, la capacidad será 100 y, la longitud, 4. Usualmente, los elementos se almacenan consecutivamente desde el 0.
+
+La longitud como concepto lógico no tiene sentido para la máquina. Ella solo sabe que el array tiene 100 elementos. Es el programador quien determina cuántos de ellos son "válidos".
