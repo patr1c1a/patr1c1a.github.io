@@ -31,8 +31,12 @@ Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes d
 <br />&nbsp;
 ### Versión accesible (apta para lectores electrónicos):
 
-Obtener las sumas acumuladas del arreglo nums tal que sumasAcumuladas[i] = suma(nums[0] .. nums[i]). Ejemplo:
+Obtener las sumas acumuladas del arreglo nums tal que sumasAcumuladas[i] = suma(nums[0] .. nums[i]).
+
+Ejemplo:
+
 Entrada: [1,2,3,4]
+
 Salida: [1,3,6,10] (se calcula como: [1, 1+2, 1+2+3, 1+2+3+4])
 
 Resolución en C++:
@@ -45,6 +49,7 @@ vector<int> sumasAcumuladas(vector<int> &nums) {
     return resultado;
 }
 ~~~
+{: .language-cpp}
 
 Resolución en Java:
 
@@ -58,6 +63,7 @@ public int[] sumasAcumuladas(int[] nums) {
     return resultado;
 }
 ~~~
+{: .language-java}
 
 Resolución en Python:
 
