@@ -36,15 +36,16 @@ Versión accesible (apta para lectores electrónicos):
 > Salida: [1,3,6,10] (se calcula como: [1, 1+2, 1+2+3, 1+2+3+4])
 > 
 > Resolución en C++:
-> 
-> <pre>vector<int> sumasAcumuladas(vector<int> &nums) {
->     vector<int> resultado = {nums[0]};
->     for (int i = 1; i < nums.size(); i++) {
->         resultado.push_back(resultado.back() + nums[i]);
->     }
->     return resultado;
-> }
 
+~~~
+vector<int> sumasAcumuladas(vector<int> &nums) {
+    vector<int> resultado = {nums[0]};
+    for (int i = 1; i < nums.size(); i++) {
+        resultado.push_back(resultado.back() + nums[i]);
+    }
+    return resultado;
+}
+~~~
 
 > Resolución en Java:
 >  
