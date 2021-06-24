@@ -29,7 +29,7 @@ Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes d
 ![Ejercicio con arreglos, sumas acumuladas]({{ site.url }}/assets/2021-06-17-arreglos-sumasacumuladas.png)
 <hr />
 <br />&nbsp;
-Versión accesible (apta para lectores electrónicos):
+### Versión accesible (apta para lectores electrónicos):
 
 Obtener las sumas acumuladas del arreglo nums tal que sumasAcumuladas[i] = suma(nums[0] .. nums[i]). Ejemplo:
 Entrada: [1,2,3,4]
