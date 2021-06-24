@@ -13,7 +13,7 @@ Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes d
 
 [C++](https://jdoodle.com/a/3pwV){:target="_blank"}
 
-<script src="https://www.jdoodle.com/embed/v0/3pwV"></script>
+<script src="//jdoodle.com/embed/v0/3pwV"></script>
 
 [Java](https://jdoodle.com/a/3pwZ){:target="_blank"}
 
