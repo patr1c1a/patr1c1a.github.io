@@ -13,9 +13,9 @@ Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes d
 
 [C++](https://jdoodle.com/a/3pwV){:target="_blank"}
 
-<div data-pym-src="https://www.jdoodle.com/embed/v0/3pwV"></div>
-<script src="https://jdoodle.com/embed/v0/3pwV" type="text/javascript"></script></div>
-
+{::options parse_block_html="true" /}
+<script src="https://jdoodle.com/embed/v0/3pwV" type="text/javascript"></script>
+{::options parse_block_html="false" /}
 
 [Java](https://jdoodle.com/a/3pwZ){:target="_blank"}
 
