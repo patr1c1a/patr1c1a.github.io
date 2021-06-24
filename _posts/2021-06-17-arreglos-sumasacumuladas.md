@@ -13,8 +13,9 @@ Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes d
 
 [C++](https://jdoodle.com/a/3pwV){:target="_blank"}
 
-
+<details><summary>Editor:</summary>
 <div markdown="1"><script src="//jdoodle.com/embed/v0/3pwV" type="text/javascript"></script></div>
+</details>
 
 [Java](https://jdoodle.com/a/3pwZ){:target="_blank"}
 
