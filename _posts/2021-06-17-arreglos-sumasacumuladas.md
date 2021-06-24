@@ -31,38 +31,41 @@ Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes d
 <br />&nbsp;
 Versión accesible (apta para lectores electrónicos):
 
-> Obtener las sumas acumuladas del arreglo nums tal que sumasAcumuladas[i] = suma(nums[0] .. nums[i]). Ejemplo:
-> Entrada: [1,2,3,4]
-> Salida: [1,3,6,10] (se calcula como: [1, 1+2, 1+2+3, 1+2+3+4])
-> 
-> Resolución en C++:
-> ~~~
-> vector<int> sumasAcumuladas(vector<int> &nums) {
->     vector<int> resultado = {nums[0]};
->     for (int i = 1; i < nums.size(); i++) {
->         resultado.push_back(resultado.back() + nums[i]);
->     }
->     return resultado;
-> }
-> ~~~
-> Resolución en Java:
->  
-> <pre>public int[] sumasAcumuladas(int[] nums) {
->     int[] resultado = new int[nums.length];
->     resultado[0] = nums[0];
->     for (int i = 1; i < nums.length; i++) {
->         resultado[i] = resultado [i - 1] + nums[i];
->     }
->     return resultado;
-> }
+Obtener las sumas acumuladas del arreglo nums tal que sumasAcumuladas[i] = suma(nums[0] .. nums[i]). Ejemplo:
+Entrada: [1,2,3,4]
+Salida: [1,3,6,10] (se calcula como: [1, 1+2, 1+2+3, 1+2+3+4])
 
+Resolución en C++:
+~~~
+vector<int> sumasAcumuladas(vector<int> &nums) {
+    vector<int> resultado = {nums[0]};
+    for (int i = 1; i < nums.size(); i++) {
+        resultado.push_back(resultado.back() + nums[i]);
+    }
+    return resultado;
+}
+~~~
 
-> Resolución en Python:
->
-> <pre>def sumasAcumuladas(nums):
->     resultado = [nums[0]]
->     for i in range(1, len(nums)):
->         resultado.append(resultado[-1] + nums[i])
->     return resultado
+Resolución en Java:
 
+~~~
+public int[] sumasAcumuladas(int[] nums) {
+    int[] resultado = new int[nums.length];
+   resultado[0] = nums[0];
+    for (int i = 1; i < nums.length; i++) {
+        resultado[i] = resultado [i - 1] + nums[i];
+    }
+    return resultado;
+}
+~~~
 
+Resolución en Python:
+
+~~~
+def sumasAcumuladas(nums):
+    resultado = [nums[0]]
+    for i in range(1, len(nums)):
+        resultado.append(resultado[-1] + nums[i])
+    return resultado
+~~~
+{: .language-python}
