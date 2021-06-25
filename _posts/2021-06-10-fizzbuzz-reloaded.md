@@ -35,7 +35,7 @@ arreglo[i] == i si ninguna de las condiciones anteriores es verdadera.
 
 Resolución:
 
-~~~
+```cpp
 vector<string> fizzBuzz(int n) {
     vector<string> arreglo;
     for (int i = 1; i <= n; ++i) {
@@ -51,8 +51,7 @@ vector<string> fizzBuzz(int n) {
     }
     return arreglo;
 }
-~~~
-{: .language-cpp}
+```
 
 Explicación:
 
