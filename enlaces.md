@@ -35,7 +35,7 @@ permalink: /enlaces/
 
 ### Compiladores e intérpretes en línea (corren en navegador web):
 - <a href="https://www.jdoodle.com/" target="_blank">Jdoodle</a>
-- - <a href="https://ideone.com/" target="_blank">Ideone</a>
+- <a href="https://ideone.com/" target="_blank">Ideone</a>
 - <a href="https://replit.com/" target="_blank">Repl.it</a>
 - <a href="https://www.onlinegdb.com/" target="_blank">GDB Online Debugger</a>
 - <a href="https://rextester.com/" target="_blank">Rextester</a>
