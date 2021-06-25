@@ -21,7 +21,7 @@ published: true
   
 <div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3pBg){:target="_blank"}
   </div>
-  {% include codeEditor.html id="3pwV?stdin=0&arg=0&rw=1" %}
+  {% include codeEditor.html id="3pBg?stdin=0&arg=0&rw=1" %}
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-09-30-desafio-cpp-4-solucion.png)
   </div></details>
@@ -30,3 +30,22 @@ published: true
 **Desafío C++** 👇
 
 ![Desafío C++ 4]({{ site.url }}/assets/2019-09-30-desafio-cpp-4.png)
+
+<br />&nbsp;
+<hr />
+### Versión accesible (apta para lectores electrónicos):
+¿Cuál es la salida de este programa?
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    char arregloChar[3] = {'M', 'a', 'r'};
+    char* arregloPunterosChar[5];
+    arregloPunterosChar[0] = &arregloChar[2];
+    cout << *arregloPunterosChar[0] << endl;
+    return 0;
+}
+```
