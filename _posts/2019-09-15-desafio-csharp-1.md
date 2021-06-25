@@ -26,3 +26,33 @@ Analizando la función dada, ¿qué características debe tener el argumento par
 **Desafío C#** 👇
 
 ![Desafío C# 1]({{ site.url }}/assets/2019-09-15-desafio-csharp-1.png)
+
+<hr />
+### Versión accesible (apta para lectores electrónicos):
+
+Dada la siguiente función en C#:
+
+~~~
+  public static bool f(string cadena) 
+  {
+    cadena=cadena.Replace(" ", "").ToLower();
+    int longitud=cadena.Length; 
+    for (int i=0; i < longitud/2; i++) 
+    { 
+      if (cadena[i] != cadena[longitud-i-1]) 
+      {
+        return false;
+      }
+    }
+    return true; 
+  } 
+~~~
+{: .language-csharp}
+
+Dar un ejemplo de un string que podría usarse como argumento en la llamada a esta función si queremos que retorne true.
+
+~~~
+    string cadena="aquí la cadena a usar";
+    Console.WriteLine(f(cadena));
+~~~
+{: .language-csharp}
