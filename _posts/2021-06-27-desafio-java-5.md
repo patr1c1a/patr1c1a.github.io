@@ -33,7 +33,7 @@ Analicemos cuidadosamente el código de este desafío... ¿Qué crees que sucede
 
 ¿Cuál es la salida del programa?
 
-~~~
+```java
 class Desafio {
     public static void main (String[] args) {
         int i = 0;
@@ -44,8 +44,7 @@ class Desafio {
             System.out.print(x[i]);
     }
 }
-~~~
-{: .language-java}
+```
 
 Opciones:
 
