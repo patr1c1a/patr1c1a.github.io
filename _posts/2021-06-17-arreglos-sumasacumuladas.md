@@ -16,11 +16,13 @@ Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes d
 🔸 Código ejecutable:
 
 [C++](https://jdoodle.com/a/3pwV){:target="_blank"}
+
 {% include codeEditor.html id="3pwV?stdin=0&arg=0&rw=1" %}
 
 <br />
 
 [Java](https://jdoodle.com/a/3pwZ){:target="_blank"}
+
 {% include codeEditor.html id="3pwZ?stdin=0&arg=0&rw=1" %}
 
 <br />
@@ -44,7 +46,7 @@ Salida: [1,3,6,10] (se calcula como: [1, 1+2, 1+2+3, 1+2+3+4])
 Posibles soluciones:
 
 C++:
-~~~
+```cpp
 vector<int> sumasAcumuladas(vector<int> &nums) {
     vector<int> resultado = {nums[0]};
     for (int i = 1; i < nums.size(); i++) {
@@ -52,13 +54,12 @@ vector<int> sumasAcumuladas(vector<int> &nums) {
     }
     return resultado;
 }
-~~~
-{: .language-cpp}
+```
 
 
 Java:
 
-~~~
+```java
 public int[] sumasAcumuladas(int[] nums) {
     int[] resultado = new int[nums.length];
    resultado[0] = nums[0];
@@ -67,17 +68,15 @@ public int[] sumasAcumuladas(int[] nums) {
     }
     return resultado;
 }
-~~~
-{: .language-java}
+```
 
 
 Python:
 
-~~~
+```python
 def sumasAcumuladas(nums):
     resultado = [nums[0]]
     for i in range(1, len(nums)):
         resultado.append(resultado[-1] + nums[i])
     return resultado
-~~~
-{: .language-python}
+```
