@@ -11,11 +11,15 @@ En algunas entrevistas laborales suele aparecer la prueba "fizz buzz": un ejerci
 
 Esta es una versión un poco más compleja 🤓.
 
-[click para ejecutar el código](https://onlinegdb.com/fiqBp3OSx){:target="_blank"}
 
 ![Fizz Buzz recargado]({{ site.url }}/assets/2021-06-10-fizzbuzz-reloaded.png)
 
 <br />&nbsp;
+[Código para ejecutar](https://jdoodle.com/a/3pAW){:target="_blank"}
+{% include codeEditor.html id="3pAW?stdin=0&arg=0&rw=1" %}
+<br />
+
+
 <hr />
 ### Versión accesible (apta para lectores electrónicos):
 
