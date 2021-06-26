@@ -21,6 +21,8 @@ published: true
 <br />🔹 Los elementos son indefinidos cuando se declara el arreglo, pero eso no causará errores si se maneja apropiadamente la dimensión lógica. El tamaño físico del arreglo es 10, pero podría haber menos elementos "útiles" (tamaño lógico) ocupados.
 <br />
 <div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3pI5){:target="_blank"}
+  
+{% include codeEditor.html id="3pI5?stdin=1&arg=1&rw=1" %}
   </div>
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-07-25-desafio-cpp-1-solucion.png)
