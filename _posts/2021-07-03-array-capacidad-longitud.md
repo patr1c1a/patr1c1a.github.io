@@ -13,9 +13,9 @@ Los arrays son estructuras básicas, a partir de las cuales en varios lenguajes 
 Podemos ampliar este tema leyendo el capítulo "7.4.1 Capacidad vs. longitud de un array" del libro "Algoritmos a fondo con implementaciones en C y Java" (primera edición), del Ing. Pablo Sznajdleder.
 
 ![Capacidad y Longitud de un array]({{ site.url }}/assets/2021-07-03-array-capacidad-longitud.png)
-<hr />
-### Versión accesible (apta para lectores electrónicos):
 
+
+{% include accesibilidad.html %}
 "Capacidad" y "longitud" de un array (o "dimensión física" y "lógica")
 
 Capacidad: tope físico a la cantidad de elementos que puede contener un array. Es fija.
@@ -27,3 +27,5 @@ Si se define un array con 100 elementos de 2 bytes cada uno, el array ocupará 2
 Ejemplo: Si tenemos un array de tipo string[100], su capacidad es 100. Su longitud inicial es 0. Si se agregan 5 elementos, la capacidad será 100 y la longitud será 5. Si luego se elimina un elemento, la capacidad será 100 y, la longitud, 4. Usualmente, los elementos se almacenan consecutivamente desde el 0.
 
 La longitud como concepto lógico no tiene sentido para la máquina. Ella solo sabe que el array tiene 100 elementos. Es el programador quien determina cuántos de ellos son "válidos".
+</div></details>
+<hr />
