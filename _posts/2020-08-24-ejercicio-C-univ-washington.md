@@ -10,7 +10,7 @@ published: true
 
 Veamos un ejercicio de examen de la Universidad de Washington, con su resolución. En esta oportunidad se busca analizar el código de un programa escrito en C.
 
-{% include accesibilidad.html>
+{% include accesibilidad.html %}
 Ejercicio de examen (resuelto) de la Universidad de Washington (CSE 374 Programming Concepts and Tools, 3/15/12). "Conceptos y herramientas de programación".</p>
 
 ¿Qué salida se obtiene al ejecutar el siguiente programa en C?
