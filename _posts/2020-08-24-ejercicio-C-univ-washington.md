@@ -10,6 +10,35 @@ published: true
 
 Veamos un ejercicio de examen de la Universidad de Washington, con su resolución. En esta oportunidad se busca analizar el código de un programa escrito en C.
 
+{% include accesibilidad.html content="Ejercicio de examen (resuelto) de la Universidad de Washington (CSE 374 Programming Concepts and Tools, 3/15/12). "Conceptos y herramientas de programación".
+
+¿Qué salida se obtiene al ejecutar el siguiente programa en C?
+
+```c
+#include <stdio.h>
+#define FOO(x,y) x + y
+#define BAR(x,y) y * x
+
+int main() {
+    int a = 2;
+    int b = 3;
+    int c = 5;
+    printf("%d\n", FOO(a+b,c));
+    printf("%d\n", BAR(a+b,c));
+    printf("%d\n", BAR(FOO(a,c),BAR(b,b)));
+    return 0;
+}
+```
+
+Respuesta:
+
+10
+
+13
+
+23" %}
+
+
 ![Ejercicio resuelto de programación en C]({{ site.url }}/assets/2020-08-24-ejercicio-C-univ-washington.png)
 
 ✏️ Explicación del código:
@@ -37,36 +66,3 @@ int main() {
 {% include codeEditor.html id="3pG4?stdin=0&arg=0&rw=1" %}
 
 <br />&nbsp;
-<hr />
-
-<details>
-<summary>Click aquí para una versión accesible de la infografía (apta para lectores electrónicos)</summary>
-<div markdown="1">    
-Ejercicio de examen (resuelto) de la Universidad de Washington (CSE 374 Programming Concepts and Tools, 3/15/12). "Conceptos y herramientas de programación".
-
-¿Qué salida se obtiene al ejecutar el siguiente programa en C?
-
-```c
-#include <stdio.h>
-#define FOO(x,y) x + y
-#define BAR(x,y) y * x
-
-int main() {
-    int a = 2;
-    int b = 3;
-    int c = 5;
-    printf("%d\n", FOO(a+b,c));
-    printf("%d\n", BAR(a+b,c));
-    printf("%d\n", BAR(FOO(a,c),BAR(b,b)));
-    return 0;
-}
-```
-
-Respuesta:
-
-10
-
-13
-
-23
-</div></details>
