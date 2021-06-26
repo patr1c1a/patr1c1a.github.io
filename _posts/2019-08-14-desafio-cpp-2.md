@@ -30,7 +30,7 @@ Para saber cuál es la salida de este programa, no solo debe analizarse la funci
 
 {% include accesibilidad.html %}
 
-¿Qué imprime y por qué?
+¿Qué imprime este programa y por qué?
 
 ```cpp
 #include <iostream>
