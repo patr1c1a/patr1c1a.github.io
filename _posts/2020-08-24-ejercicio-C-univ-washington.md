@@ -18,7 +18,7 @@ Veamos un ejercicio de examen de la Universidad de Washington, con su resolució
 <br />📍 En la última operación, <code>BAR(FOO(a,c),BAR(b,b))</code>, el reemplazo hace que quede <code>BAR(2+5,3*3)</code> que se expande luego a <code>3*3*2+5</code>, lo cual nos da como resultado 23 (porque se ejecuta primero <code>3*3*2</code> y luego a eso se le suman <code>5</code>).
 
 💻 [Ver el código en ejecución](https://repl.it/@programacionde1/EjUWCSE-374031512q2){:target="_blank"}
-<br />En esta herramienta es posible ver las macros expandidas: hacer click dentro del código y presionar F1, luego buscar allí "Open shell" para abrir la consola shell. En ella, escribir lo siguiente para obtener el código pre-procesado: <code>gcc -E main.c</code>. Para la función main, mostrará algo como lo siguiente:
+<br />En [esta herramienta](https://godbolt.org/z/qcnh6KsbW){:target="_blank"} es posible ver las macros expandidas (si compiláramos nuestro programa manualmente, usaríamos una instrucción como esta: `gcc -E programa.c`). Para la función main, mostrará algo como lo siguiente:
 
 <pre><code>int main() {
     int a = 2;
