@@ -28,7 +28,8 @@ Aclaración: el programa que se muestra es solo para "jugar" a descifrar el erro
 <br />
 <br /><div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3pHU){:target="_blank"}
   
-{% include codeEditor.html id="3pwV?stdin=0&arg=0&rw=1" %}
+{% include codeEditor.html id="3pHU?stdin=0&arg=0&rw=1" %}
+  
   </div>
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2020-07-23-desafio-cpp-6-solucion.png)
