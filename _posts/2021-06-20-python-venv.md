@@ -10,9 +10,8 @@ published: true
 ¿Sabías que Python permite instalar distintas versiones de módulos/paquetes para cada proyecto? Esto se logra con los entornos virtuales  😉.
 
 ![venv, entornos virtuales]({{ site.url }}/assets/2021-06-20-python-venv.png)
-<hr />
-### Versión accesible (apta para lectores electrónicos):
 
+{% include accesibilidad.html %}
 Entornos virtuales en Python
 
 Se trata de una herramienta que permite instalar módulos o paquetes en versiones específicas para cada proyecto, evitando así instalarlos de forma general para todos.
@@ -37,3 +36,5 @@ Listar paquetes instalados en el entorno activo:
 
 Desactivar el entorno (para dejar de usarlo):
 `deactivate`
+</div></details>
+<hr />
