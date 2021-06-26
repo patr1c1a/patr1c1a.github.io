@@ -9,9 +9,6 @@ published: true
 
 Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes de leer las que están en la imagen?
 
-![Ejercicio con arreglos, sumas acumuladas]({{ site.url }}/assets/2021-06-17-arreglos-sumasacumuladas.png)
-
-<br />
 
 🔸 Código ejecutable:
 
@@ -30,10 +27,12 @@ Sigamos ejercitando con arreglos. ¿Te animas a intentar una resolución antes d
 
 {% include codeEditor.html id="3px1?stdin=0&arg=0&rw=1" %}
 
-<br />
-
 <hr />
-### Versión accesible (apta para lectores electrónicos):
+
+![Ejercicio con arreglos, sumas acumuladas]({{ site.url }}/assets/2021-06-17-arreglos-sumasacumuladas.png)
+
+
+{% include accesibilidad.html %}
 
 Obtener las sumas acumuladas del arreglo nums tal que sumasAcumuladas[i] = suma(nums[0] .. nums[i]).
 
@@ -80,3 +79,6 @@ def sumasAcumuladas(nums):
         resultado.append(resultado[-1] + nums[i])
     return resultado
 ```
+
+</div></details>
+<hr />
