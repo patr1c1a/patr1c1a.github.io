@@ -10,8 +10,11 @@ published: true
 
 Veamos un ejercicio de examen de la Universidad de Washington, con su resolución. En esta oportunidad se busca analizar el código de un programa escrito en C.
 
+
+![Ejercicio resuelto de programación en C]({{ site.url }}/assets/2020-08-24-ejercicio-C-univ-washington.png)
 {% include accesibilidad.html %}
-Ejercicio de examen (resuelto) de la Universidad de Washington (CSE 374 Programming Concepts and Tools, 3/15/12). "Conceptos y herramientas de programación".</p>
+
+Ejercicio de examen (resuelto) de la Universidad de Washington (CSE 374 Programming Concepts and Tools, 3/15/12). "Conceptos y herramientas de programación".
 
 ¿Qué salida se obtiene al ejecutar el siguiente programa en C?
 
@@ -39,9 +42,9 @@ Respuesta:
 
 23
 </div></details>
+<hr />
+<br />&nbsp;
 
-
-![Ejercicio resuelto de programación en C]({{ site.url }}/assets/2020-08-24-ejercicio-C-univ-washington.png)
 
 ✏️ Explicación del código:
 <br />Las instrucciones `#define` se utilizan para crear macros. Una macro es un fragmento de código al que se le da un nombre y, cuando se usa ese nombre, se reemplaza textualmente por el código de la macro.
