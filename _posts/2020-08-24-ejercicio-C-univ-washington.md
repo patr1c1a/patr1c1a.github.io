@@ -43,7 +43,6 @@ Respuesta:
 23
 </div></details>
 <hr />
-<br />&nbsp;
 
 
 ✏️ Explicación del código:
