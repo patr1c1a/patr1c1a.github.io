@@ -13,6 +13,7 @@ Para saber cuál es la salida de este programa, no solo debe analizarse la funci
 <br />La respuesta es "impar".
 <br />
 <br />✏️ Esto es así debido al preincremento de la variable, ya que el operador ++ colocado delante de la variable hace que primero se ejecute el incremento y luego se resuelva la expresión, que en este caso es una llamada a función. Entonces, a la función se le envía el valor 11, el cual es impar (por eso, al dividirlo por 2 y quedarse con el resto, da 1 y es distinto de 0, lo que hace que la función retorne false).
+  
 <div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3pI8){:target="_blank"}
   
 {% include codeEditor.html id="3pI8?stdin=0&arg=0&rw=1" %}
