@@ -12,10 +12,6 @@ Veamos un ejercicio de examen de la Universidad de Washington, con su resolució
 
 ![Ejercicio resuelto de programación en C]({{ site.url }}/assets/2020-08-24-ejercicio-C-univ-washington.png)
 
-💻 [Ver el código en ejecución](https://jdoodle.com/a/3pG4){:target="_blank"}
-{% include codeEditor.html id="3pG4?stdin=0&arg=0&rw=1" %}
-<br />
-
 ✏️ Explicación del código:
 <br />Las instrucciones `#define` se utilizan para crear macros. Una macro es un fragmento de código al que se le da un nombre y, cuando se usa ese nombre, se reemplaza textualmente por el código de la macro.
 <br />Las macros de este ejercicio tienen parámetros pero no son exactamente iguales a una función, ya que siempre se hace un reemplazo textual del código.
@@ -36,6 +32,9 @@ int main() {
     return 0;
 }
 ```
+
+💻 [Ver el código en ejecución](https://jdoodle.com/a/3pG4){:target="_blank"}
+{% include codeEditor.html id="3pG4?stdin=0&arg=0&rw=1" %}
 
 <br />&nbsp;
 <hr />
