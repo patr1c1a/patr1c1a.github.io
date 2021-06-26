@@ -15,7 +15,10 @@ Esta consigna es común en entrevistas laborales de algunas empresas importantes
 <br />
 <br />▶️ [Ver algoritmo explicado](https://youtu.be/nADemX9stHY?t=862){:target="_blank"}
 <br />
-<br /><div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/C-Desafio-7){:target="_blank"}
+<br /><div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3pHN){:target="_blank"}
+
+{% include codeEditor.html id="3pHN?stdin=0&arg=0&rw=1" %}
+<br /> 
   </div>
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2021-01-14-desafio-cpp-7-solucion.png)
@@ -27,4 +30,25 @@ Esta consigna es común en entrevistas laborales de algunas empresas importantes
 <br />
 ![Desafío C++ número 7]({{ site.url }}/assets/2021-01-14-desafio-cpp-7.png)
 
+
+{% include accesibilidad.html %}
+La función moverCeros recibe un vector con números y debe retornarlo con todos los elementos que sean cero desplazados hacia la derecha. ¿Cuál es la condición correcta a evaluar en el if para lograr lo que pide la consigna?
+a. cero==0
+b. numeros[cero]!=0
+c. i==0
+d. numeros[i]!=0
+
+Código:
+
+```cpp
+void moverCeros(vector<int>& numeros) {
+	for (int i = 0, cero = 0; i < numeros.size(); i++) {
+ 		if (COMPLETAR EL CÓDIGO FALTANTE AQUÍ) {
+			swap(numeros[cero++], numeros[i]);
+		}
+	}
+}
+```
+
+</div></details>
 
