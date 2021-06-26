@@ -10,7 +10,8 @@ published: true
 
 Veamos un ejercicio de examen de la Universidad de Washington, con su resolución. En esta oportunidad se busca analizar el código de un programa escrito en C.
 
-{% include accesibilidad.html content="Ejercicio de examen (resuelto) de la Universidad de Washington (CSE 374 Programming Concepts and Tools, 3/15/12). "Conceptos y herramientas de programación".
+{% include accesibilidad.html>
+Ejercicio de examen (resuelto) de la Universidad de Washington (CSE 374 Programming Concepts and Tools, 3/15/12). "Conceptos y herramientas de programación".</p>
 
 ¿Qué salida se obtiene al ejecutar el siguiente programa en C?
 
@@ -36,7 +37,8 @@ Respuesta:
 
 13
 
-23" %}
+23
+</div></details>
 
 
 ![Ejercicio resuelto de programación en C]({{ site.url }}/assets/2020-08-24-ejercicio-C-univ-washington.png)
