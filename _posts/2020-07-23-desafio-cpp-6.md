@@ -26,7 +26,9 @@ Aclaración: el programa que se muestra es solo para "jugar" a descifrar el erro
 <br />❌ C. En esta opción se indica que todos los parámetros sean pasados por referencia, lo cual altera el resultado final sin corregir el error.
 <br />❌ D. Cambiar el tipo de la función y hacer que retorne un valor entero no soluciona el problema.
 <br />
-<br /><div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/C-Desafio-6){:target="_blank"}
+<br /><div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3pHU){:target="_blank"}
+  
+{% include codeEditor.html id="3pwV?stdin=0&arg=0&rw=1" %}
   </div>
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2020-07-23-desafio-cpp-6-solucion.png)
@@ -39,3 +41,64 @@ Aclaración: el programa que se muestra es solo para "jugar" a descifrar el erro
 ![Desafío C++ número 6]({{ site.url }}/assets/2020-07-23-desafio-cpp-6.png)
 
 
+{% include accesibilidad.html %}
+El siguiente código arroja un error de compilación:
+
+```cpp
+void f(int &x, int y, int z){
+    y = y+1;
+    z = z+x;
+}
+int main()
+{
+    int a = 2;
+    int b = 3;
+    f(a+b, a, a);
+    cout << a;
+}
+```
+
+
+¿Con cuál de estas modificaciones compilaría exitosamente?
+
+Opción A:
+
+```cpp
+void f(int &x, int y, int z){
+    y = y+1;
+    z = z+x;
+    return x;
+}
+```
+
+
+Opción B:
+
+```cpp
+void f(const int &x, int y, int z){
+    y = y+1;
+    z = z+x;
+}
+```
+
+
+Opción C:
+
+```cpp
+void f(int &x, int &y, int &z){
+    y = y+1;
+    z = z+x;
+}
+```
+
+
+Opción D:
+
+```cpp
+int f(int &x, int y, int z){
+    y = y+1;
+    z = z+x;
+    return x;
+}
+```
+</div></details>
