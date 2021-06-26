@@ -20,7 +20,9 @@ published: true
 <br />🔹 ¿Qué se almacena en el arreglo? Con la versión errónea, solo se almacena el último valor leido (a menos que sea el 0), y siempre se lo guarda en la primera posición del arreglo con la instrucción numeros[dimension]=valor
 <br />🔹 Los elementos son indefinidos cuando se declara el arreglo, pero eso no causará errores si se maneja apropiadamente la dimensión lógica. El tamaño físico del arreglo es 10, pero podría haber menos elementos "útiles" (tamaño lógico) ocupados.
 <br />
-<div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/C-Desafio-1){:target="_blank"}
+<div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3pI5){:target="_blank"}
+  
+{% include codeEditor.html id="3pI5?stdin=0&arg=0&rw=1" %}
   </div>
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-07-25-desafio-cpp-1-solucion.png)
@@ -30,3 +32,33 @@ published: true
 <br />
 **Desafío C++** 👇
 ![Desafío C++ número 1]({{ site.url }}/assets/2019-07-25-desafio-cpp-1.png)
+
+{% include accesibilidad.html %}
+
+Detectar el error en este programa C++
+
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+    float numeros[10]; //arreglo con espacio para 10 elementos
+    int dimension = 0; //tamaño lógico del arreglo
+    float valor;
+    
+    //Cargar en el arreglo los números ingresados por el usuario
+    cout << "Valor a almacenar (finalizar con '0'): ";
+    cin >> valor;
+    while (valor != 0 && dimension < 10) {
+        numeros[dimension] = valor;
+        cout << "Valor a almacenar (finalizar con '0'): ";
+        cin >> valor;
+    }
+
+    //Imprimir el arreglo
+    for (int i = 0; i < dimension; ++i) {
+        cout << numeros[i] << endl;
+    }
+}
+```
+
+</div></details>
