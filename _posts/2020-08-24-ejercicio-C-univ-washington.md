@@ -66,6 +66,8 @@ int main() {
 }
 ```
 
+
+
 💻 [Ver el código en ejecución](https://jdoodle.com/a/3pG4){:target="_blank"}
 {% include codeEditor.html id="3pG4?stdin=0&arg=0&rw=1" %}
 
