@@ -41,34 +41,33 @@ int main() {
 <hr />
 
 <details>
-    <summary>### Click aquí para una versión accesible de la infografía (apta para lectores electrónicos)</summary>
-    <div markdown="1">    
-    Ejercicio de examen (resuelto) de la Universidad de Washington (CSE 374 Programming Concepts and Tools, 3/15/12). "Conceptos y herramientas de programación".
+<summary>### Click aquí para una versión accesible de la infografía (apta para lectores electrónicos)</summary>
+<div markdown="1">    
+Ejercicio de examen (resuelto) de la Universidad de Washington (CSE 374 Programming Concepts and Tools, 3/15/12). "Conceptos y herramientas de programación".
 
-    ¿Qué salida se obtiene al ejecutar el siguiente programa en C?
+¿Qué salida se obtiene al ejecutar el siguiente programa en C?
 
-    ```c
-    #include <stdio.h>
-    #define FOO(x,y) x + y
-    #define BAR(x,y) y * x
+```c
+#include <stdio.h>
+#define FOO(x,y) x + y
+#define BAR(x,y) y * x
 
-    int main() {
-        int a = 2;
-        int b = 3;
-        int c = 5;
-        printf("%d\n", FOO(a+b,c));
-        printf("%d\n", BAR(a+b,c));
-        printf("%d\n", BAR(FOO(a,c),BAR(b,b)));
-        return 0;
-    }
-    ```
+int main() {
+    int a = 2;
+    int b = 3;
+    int c = 5;
+    printf("%d\n", FOO(a+b,c));
+    printf("%d\n", BAR(a+b,c));
+    printf("%d\n", BAR(FOO(a,c),BAR(b,b)));
+    return 0;
+}
+```
 
-    Respuesta:
+Respuesta:
 
-    10
+10
 
-    13
+13
 
-    23
-    </div>
-</details>
+23
+</div></details>
