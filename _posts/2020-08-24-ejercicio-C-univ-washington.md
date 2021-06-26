@@ -45,7 +45,7 @@ Respuesta:
 <hr />
 
 
-### ✏️ Explicación del código:
+#### ✏️ Explicación del código:
 
 Las instrucciones `#define` se utilizan para crear macros. Una macro es un fragmento de código al que se le da un nombre y, cuando se usa ese nombre, se reemplaza textualmente por el código de la macro.
 
@@ -73,7 +73,8 @@ int main() {
 
 <br />&nbsp;
 
-💻 [Ver el código en ejecución](https://jdoodle.com/a/3pG4){:target="_blank"}
+#### 💻 [Ver el código en ejecución](https://jdoodle.com/a/3pG4){:target="_blank"}
+
 {% include codeEditor.html id="3pG4?stdin=0&arg=0&rw=1" %}
 
 <br />&nbsp;
