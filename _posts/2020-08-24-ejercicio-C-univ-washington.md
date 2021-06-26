@@ -41,7 +41,7 @@ int main() {
 <hr />
 
 <details>
-<summary>### Click aquí para una versión accesible de la infografía (apta para lectores electrónicos)</summary>
+<summary>Click aquí para una versión accesible de la infografía (apta para lectores electrónicos)</summary>
 <div markdown="1">    
 Ejercicio de examen (resuelto) de la Universidad de Washington (CSE 374 Programming Concepts and Tools, 3/15/12). "Conceptos y herramientas de programación".
 
