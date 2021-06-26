@@ -58,10 +58,12 @@ Explicación:
 `arreglo.push_back(s)`: Usamos el método para insertar en un vector (a continuación del último elemento o en la posición 0 si aún no hay elementos).</pre>
 
 </div></details>
-<hr />
+
 
 <br />&nbsp;
 
 ### [Código para ejecutar](https://jdoodle.com/a/3pHD){:target="_blank"}
 
 {% include codeEditor.html id="3pHD?stdin=0&arg=0&rw=1" %}
+
+<br />&nbsp;
