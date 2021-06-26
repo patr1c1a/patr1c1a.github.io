@@ -11,17 +11,17 @@ En algunas entrevistas laborales suele aparecer la prueba "fizz buzz": un ejerci
 
 Esta es una versión un poco más compleja 🤓.
 
-
-![Fizz Buzz recargado]({{ site.url }}/assets/2021-06-10-fizzbuzz-reloaded.png)
-
-<br />&nbsp;
 [Código para ejecutar](https://jdoodle.com/a/3pAW){:target="_blank"}
+
 {% include codeEditor.html id="3pAW?stdin=0&arg=0&rw=1" %}
+
 <br />
 
 
-<hr />
-### Versión accesible (apta para lectores electrónicos):
+![Fizz Buzz recargado]({{ site.url }}/assets/2021-06-10-fizzbuzz-reloaded.png)
+
+
+{% include accesibilidad.html %}
 
 Dado un entero n (mayor que 1), retornar un arreglo de strings -indizado desde 1- donde:
 
@@ -60,3 +60,6 @@ Explicación:
 `s += to_string(i)`: El número i debe convertirse a string porque el arreglo es de strings.
 
 `arreglo.push_back(s)`: Usamos el método para insertar en un vector (a continuación del último elemento o en la posición 0 si aún no hay elementos).</pre>
+
+</div></details>
+<hr />
