@@ -13,11 +13,11 @@ Declarar un puntero en C++ puede parecer una tarea trivial, pero hay detalles im
 
 {% include accesibilidad.html %}
 
-Declaración y definición de punteros "crudos" en C++
+Declaración y definición de punteros "crudos" en C++.
 
-Un puntero es una variable que contiene una dirección de memoria
+Un puntero es una variable que contiene una dirección de memoria.
 
-Un puntero declarado sin un valor inicial tiene contenido indefinido.
+Un puntero declarado sin un valor inicial tiene contenido indefinido:
 
 ```cpp
 string saludo;
@@ -32,7 +32,7 @@ nullptr indica que no tiene valor:
 ptr = nullptr;
 ```
 
-Un puntero puede apuntar a una posición de memoria stack o heap.
+Un puntero puede apuntar a una posición de memoria stack o heap:
 
 ```cpp
 ptr = &saludo;
