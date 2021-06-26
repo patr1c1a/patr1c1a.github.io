@@ -11,11 +11,7 @@ En algunas entrevistas laborales suele aparecer la prueba "fizz buzz": un ejerci
 
 Esta es una versión un poco más compleja 🤓.
 
-[Código para ejecutar](https://jdoodle.com/a/3pHD){:target="_blank"}
-
-{% include codeEditor.html id="3pHD?stdin=0&arg=0&rw=1" %}
-
-<br />
+<br />&nbsp;
 
 
 ![Fizz Buzz recargado]({{ site.url }}/assets/2021-06-10-fizzbuzz-reloaded.png)
@@ -63,3 +59,9 @@ Explicación:
 
 </div></details>
 <hr />
+
+<br />&nbsp;
+
+### [Código para ejecutar](https://jdoodle.com/a/3pHD){:target="_blank"}
+
+{% include codeEditor.html id="3pHD?stdin=0&arg=0&rw=1" %}
