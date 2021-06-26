@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La capacidad y longitud de un arreglo, o su dimensión física y lógica
-date: 2021-06-23 12:00:00
+date: 2021-07-04 12:00:00
 categories: conceptos
 tags: arreglo array
 published: false
