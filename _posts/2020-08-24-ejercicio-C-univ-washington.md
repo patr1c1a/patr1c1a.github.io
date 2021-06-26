@@ -10,17 +10,23 @@ published: true
 
 Veamos un ejercicio de examen de la Universidad de Washington, con su resolución. En esta oportunidad se busca analizar el código de un programa escrito en C.
 
+![Ejercicio resuelto de programación en C]({{ site.url }}/assets/2020-08-24-ejercicio-C-univ-washington.png)
+
+💻 [Ver el código en ejecución](https://jdoodle.com/a/3pG4){:target="_blank"}
+{% include codeEditor.html id="3pG4?stdin=0&arg=0&rw=1" %}
+<br />
+
 ✏️ Explicación del código:
-<br />Las instrucciones <code>#define</code> se utilizan para crear macros. Una macro es un fragmento de código al que se le da un nombre y, cuando se usa ese nombre, se reemplaza textualmente por el código de la macro.
+<br />Las instrucciones `#define` se utilizan para crear macros. Una macro es un fragmento de código al que se le da un nombre y, cuando se usa ese nombre, se reemplaza textualmente por el código de la macro.
 <br />Las macros de este ejercicio tienen parámetros pero no son exactamente iguales a una función, ya que siempre se hace un reemplazo textual del código.
-<br />📍 Es decir que, donde dice <code>FOO(a+b,c)</code>, debido a que **FOO** está definida como <code>FOO(x,y) x + y</code>, entonces **x** toma el valor de <code>a+b</code> mientras que **y** toma el valor de <code>c</code>. Haciendo un reemplazo textual nos queda <code>a+b+c</code>. Si <code>a=2, b=3, c=5</code> finalmente nos queda <code>2+3+5</code>.
-<br />📍 En el caso de <code>BAR(a+b,c)</code>, al estar definida como <code>BAR(x,y) y * x</code>, entonces se reemplaza **y** por <code>5</code>, mientras que **x** se reemplaza por <code>2+3</code>, lo que nos deja con <code>5*2+3</code>. Teniendo en cuenta la precedencia de los operadores, calculamos <code>(5*2)+3</code> y nos da 13.
-<br />📍 En la última operación, <code>BAR(FOO(a,c),BAR(b,b))</code>, el reemplazo hace que quede <code>BAR(2+5,3*3)</code> que se expande luego a <code>3*3*2+5</code>, lo cual nos da como resultado 23 (porque se ejecuta primero <code>3*3*2</code> y luego a eso se le suman <code>5</code>).
+<br />📍 Es decir que, donde dice `FOO(a+b,c)`, debido a que **FOO** está definida como `FOO(x,y) x + y`, entonces **x** toma el valor de `a+b` mientras que **y** toma el valor de `c`. Haciendo un reemplazo textual nos queda `a+b+c`. Si `a=2, b=3, c=5` finalmente nos queda `2+3+5`.
+<br />📍 En el caso de `BAR(a+b,c)`, al estar definida como `BAR(x,y) y * x`, entonces se reemplaza **y** por `5`, mientras que **x** se reemplaza por `2+3`, lo que nos deja con `5*2+3`. Teniendo en cuenta la precedencia de los operadores, calculamos `(5*2)+3` y nos da 13.
+<br />📍 En la última operación, `BAR(FOO(a,c),BAR(b,b))`, el reemplazo hace que quede `BAR(2+5,3*3)` que se expande luego a `3*3*2+5`, lo cual nos da como resultado 23 (porque se ejecuta primero `3*3*2` y luego a eso se le suman `5`).
 
-💻 [Ver el código en ejecución](https://repl.it/@programacionde1/EjUWCSE-374031512q2){:target="_blank"}
-<br />En [esta herramienta](https://godbolt.org/z/qcnh6KsbW){:target="_blank"} es posible ver las macros expandidas (si compiláramos nuestro programa manualmente, usaríamos una instrucción como esta: `gcc -E programa.c`). Para la función main, mostrará algo como lo siguiente:
+<br />En [esta herramienta](https://godbolt.org/z/qcnh6KsbW){:target="_blank"} es posible ver las macros expandidas por el preprocesador (si compiláramos nuestro programa manualmente, usaríamos una instrucción como esta: `gcc -E programa.c`). Para la función main, el preprocesador obtendrá un resultado como el siguiente:
 
-<pre><code>int main() {
+```c
+int main() {
     int a = 2;
     int b = 3;
     int c = 5;
@@ -28,6 +34,37 @@ Veamos un ejercicio de examen de la Universidad de Washington, con su resolució
     printf("%d\n", c * a+b);
     printf("%d\n", b * b * a + c);
     return 0;
-}</code></pre>
+}
+```
 
-![Ejercicio resuelto de programación en C]({{ site.url }}/assets/2020-08-24-ejercicio-C-univ-washington.png)
+<br />&nbsp;
+<hr />
+### Versión accesible (apta para lectores electrónicos):
+
+Ejercicio de examen (resuelto) de la Universidad de Washington (CSE 374 Programming Concepts and Tools, 3/15/12). "Conceptos y herramientas de programación".
+
+¿Qué salida se obtiene al ejecutar el siguiente programa en C?
+
+```c
+#include <stdio.h>
+#define FOO(x,y) x + y
+#define BAR(x,y) y * x
+
+int main() {
+    int a = 2;
+    int b = 3;
+    int c = 5;
+    printf("%d\n", FOO(a+b,c));
+    printf("%d\n", BAR(a+b,c));
+    printf("%d\n", BAR(FOO(a,c),BAR(b,b)));
+    return 0;
+}
+```
+
+Respuesta:
+
+10
+
+13
+
+23
