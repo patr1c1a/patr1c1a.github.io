@@ -11,15 +11,8 @@ Declarar un puntero en C++ puede parecer una tarea trivial, pero hay detalles im
 
 ![Declaración y definición de punteros en C++]({{ site.url }}/assets/2021-02-18-declaracion-punteros-cpp.png)
 
-<br />&nbsp;
+{% include accesibilidad.html %}
 
-💻 [Código con ejemplos](https://jdoodle.com/a/3pCy){:target="_blank"}
-
-{% include codeEditor.html id="3pCy?stdin=0&arg=0&rw=1" %}
-
-<br />&nbsp;
-<hr />
-### Versión accesible (apta para lectores electrónicos):
 Declaración y definición de punteros "crudos" en C++
 
 Un puntero es una variable que contiene una dirección de memoria
@@ -55,3 +48,14 @@ int* x, y;
 ```
 
 x es puntero a int. y es int.
+</div></details>
+
+
+<br />&nbsp;
+
+### 💻 [Código con ejemplos](https://jdoodle.com/a/3pHI){:target="_blank"}
+
+{% include codeEditor.html id="3pHI?stdin=0&arg=0&rw=1" %}
+
+<br />&nbsp;
+<hr />
