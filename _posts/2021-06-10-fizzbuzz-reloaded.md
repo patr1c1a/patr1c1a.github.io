@@ -11,9 +11,9 @@ En algunas entrevistas laborales suele aparecer la prueba "fizz buzz": un ejerci
 
 Esta es una versión un poco más compleja 🤓.
 
-[Código para ejecutar](https://jdoodle.com/a/3pAW){:target="_blank"}
+[Código para ejecutar](https://jdoodle.com/a/3pHD){:target="_blank"}
 
-{% include codeEditor.html id="3pAW?stdin=0&arg=0&rw=1" %}
+{% include codeEditor.html id="3pHD?stdin=0&arg=0&rw=1" %}
 
 <br />
 
