@@ -26,7 +26,7 @@ PROGRAMA EN C:
 
 El objetivo de este programa es colocar a[i] en 1 si i es primo, ó en 0 si no lo es. Primero, coloca todos los elementos del arreglo en 1, indicando que se desconoce qué números no son primos. Luego coloca en 0 los elementos del arreglo correspondientes a índices múltiplos de números que son primos (se sabe que ellos no son primos). Si a[i] es 1 luego de que todos los múltiplos de primos menores han sido puestos en 0, entonces sabemos que i es primo.
 
-```cpp
+```c
 #define N 10000
 int main() 
 {
