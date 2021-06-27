@@ -40,6 +40,9 @@ void imprimirSubArreglos(int arreglo[], int n) {
     }
 }
 ```
+
+La instrucción `suma += arreglo[j]` calcula la suma parcial de los elementos.
+
 </div></details>
 
 <hr />
