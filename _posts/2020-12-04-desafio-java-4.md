@@ -32,13 +32,13 @@ published: true
 	
 ¿Qué sucede al ejecutar el programa?
 
-a. Error: n es privado
+a. Error: n es privado.
 
-b. Error en tiempo de ejecución
+b. Error en tiempo de ejecución.
 
-c. Se imprime el valor por defecto para los int
+c. Se imprime el valor por defecto para los int.
 
-d. Se imprime un valor residual de memoria
+d. Se imprime un valor residual de memoria.
 
 ```java
 class Desafio {
