@@ -47,7 +47,9 @@ public class Main {
 
 ¿Cuál o cuáles de las líneas del código anterior causan un error?
 
-A. La tercera y la cuarta
-B. La quinta
-C. La sexta
+A. La tercera y la cuarta.
+
+B. La quinta.
+
+C. La sexta.
 </div></details>
