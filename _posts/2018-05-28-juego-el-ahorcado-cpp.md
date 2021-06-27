@@ -78,30 +78,32 @@ El código que se provee para completar tiene varias partes ya resueltas y otras
 
 ### Constantes y objetos utilizados
 
-<pre><code>const int GANADOR=7;
+```cpp
+const int GANADOR=7;
 const int PERDEDOR=0;
 const string ARCHIVO_PALABRAS="palabras.txt";
 
 struct Palabras{
-    vector&lt;string> nivel1;
-    vector&lt;string> nivel2;
-    vector&lt;string> nivel3;
+    vector<string> nivel1;
+    vector<string> nivel2;
+    vector<string> nivel3;
 };
 
 struct Jugada{
     unsigned int nivel;
     unsigned int intentos=6;
     string palabra;
-    set&lt;char> letrasAdivinadas;
+    set<char> letrasAdivinadas;
     bool ganador=false;
     string palabraArriesgada;
     char ultimaLetraArriesgada;
-};</code></pre>
-
+};
+```
 
 ### Funciones incluidas
 
-<pre><code>/*
+```cpp
+/*
 FUNCIÓN: existeArchivo
 PROPÓSITO: Determina si el archivo cuyo nombre se pasa por parámetro está vacío.
 PARÁMETROS:
@@ -273,89 +275,99 @@ int main(){
     } while (errorDeTipoIngresado || (opcionesValidas.find(nivel) == opcionesValidas.end()) || nivel!=0);
 
     return 0;
-}</code></pre>
+}
+```
 
 
 ### Funciones a desarrollar
 
-<pre>FUNCIÓN: mostrarJuego
+```cpp
+FUNCIÓN: mostrarJuego
 PROPÓSITO: Mostrar el juego en el estado actual. Por cada letra adivinada, si la letra existe en la palabra se muestra en el lugar correspondiente, en caso contrario, se muestra un guión bajo " _ ".
 PARÁMETROS:
     string : palabra en juego.
-    set&lt;char> : letras ya adivinadas por el usuario.</pre>
+    set<char> : letras ya adivinadas por el usuario.
+```
 
-
-<pre>FUNCIÓN: trim
+```cpp
+FUNCIÓN: trim
 PROPÓSITO: Eliminar espacios delante y detrás de una cadena de caracteres.
 PARÁMETROS:
     string : cadena a modificar
 RETORNO: cadena modificada (sin los espacios sobrantes).</pre>
+```
 
-
-<pre>FUNCIÓN: mayusculas
+```cpp
+FUNCIÓN: mayusculas
 PROPÓSITO: Retornar un string con todas sus letras en mayúscula.
 PARÁMETROS:
     string : cadena de caracteres a convertir a mayúscula.
-RETORNO: string con la cadena convertida.</pre>
+RETORNO: string con la cadena convertida.
+```
 
-
-<pre>FUNCIÓN: todasLasLetrasAdivinadas
+```cpp
+FUNCIÓN: todasLasLetrasAdivinadas
 PROPÓSITO: Verificar si el usuario ya adivinó todas las letras de la palabra.
 PARÁMETROS:
-    set&lt;char> : letras ya arriesgadas.
-    set&lt;char> : letras en la palabra.
-RETORNO: true si todas las letras de la palabra fueron adivinadas, false en caso contrario.</pre>
+    set<char> : letras ya arriesgadas.
+    set<char> : letras en la palabra.
+RETORNO: true si todas las letras de la palabra fueron adivinadas, false en caso contrario.
+```
 
-
-<pre>FUNCIÓN: letraEnPalabra
+```cpp
+FUNCIÓN: letraEnPalabra
 PROPÓSITO: Verificar si la letra arriesgada por el usuario está en la palabra o no
 PARÁMETROS:
     string : palabra a adivinar en la jugada actual.
     char : letra arriesgada por el usuario.
-RETORNO: true si la letra estaba en la palabra, false en caso contrario.</pre>
+RETORNO: true si la letra estaba en la palabra, false en caso contrario.
+```
 
-
-<pre>FUNCIÓN: verificarEstado
+```cpp
+FUNCIÓN: verificarEstado
 PROPÓSITO: Verifica el estado del juego (si el jugador ganó o no).
 Si aún quedan intentos (intentos!=PERDEDOR), se verifica si el jugador arriesgó una palabra y, de ser así, se verifica si coincide con la palabra en juego. En ese caso, el campo ganador se pone en true. Si no acertó la palabra, el campo intentos se pone en 0 (utilizando la constante PERDEDOR).
 Si no arriesgó una palabra, se verifica si la letra arriesgada está en la palabra y, de no ser así, se decrementa el campo intentos.
 Si la letra arriesgada está en la palabra, se verifica si ya acertó todas las letras de la palabra en juego. En caso de ser así, el campo ganador se pone en true.
 PARÁMETROS:
     Jugada : datos de la jugada actual.
-RETORNO: Jugada actual.</pre>
+RETORNO: Jugada actual.
+```
 
-
-<pre>FUNCIÓN: arriesgarPalabra
+```cpp
+FUNCIÓN: arriesgarPalabra
 PROPÓSITO: Ofrecer al usuario la posibilidad de "adivinar" la palabra, impidiendo incluir números en la palabra arriesgada.
-RETORNO: palabra arriesgada por el usuario.</pre>
+RETORNO: palabra arriesgada por el usuario.
+```
 
-
-<pre>FUNCIÓN: arriesgarLetra
+```cpp
+FUNCIÓN: arriesgarLetra
 PROPÓSITO: Ofrecer al usuario la posibilidad de "adivinar" una letra.
 Si la letra ya había sido usada previamente (esté o no en la palabra) se imprime un mensaje y se pide otra.
 Se valida que el dato ingresado sea una letra y no otro tipo de carácter.
 PARÁMETROS:
-    const set&lt;char>* : puntero al conjunto de letras ya arriesgadas.
-RETORNO: letra elegida por el usuario.</pre>
+    const set<char>* : puntero al conjunto de letras ya arriesgadas.
+RETORNO: letra elegida por el usuario.
+```
 
-
-<pre>FUNCIÓN: arriesgar
+```cpp
+FUNCIÓN: arriesgar
 PROPÓSITO: Ofrecer al usuario la posibilidad de "adivinar" una letra o la palabra entera, mostrándole un menú que le permita elegir (se valida el ingreso de un dato válido).
 Si elige arriesgar una letra, se llama a la función correspondiente y la letra se guarda en el campo ultimaLetraArriesgada, además de agregarse al campo letrasAdivinadas.
 Si elige arriesgar una palabra, se llama a la función correspondiente y la palabra se guarda en el campo palabraArriesgada.
 PARÁMETROS:
     Jugada : datos de la jugada actual.
-RETORNO: Jugada actual.</pre>
+RETORNO: Jugada actual.
 
-
-<pre>FUNCIÓN: controlarJuego
+```cpp
+FUNCIÓN: controlarJuego
 PROPÓSITO: Inicializa el juego de acuerdo al nivel seleccionado por el usuario, almacenando en el campo palabra una palabra al azar, en mayúsculas.
 Luego controla el orden del desarrollo del juego (una jugada continúa mientras el jugador tenga intentos restantes y el campo "ganador" esté en falso).
 Mientras la jugada continúa, se muestra la cantidad de intentos restantes, el dibujo de la horca en el estado actual, la palabra a adivinar (con guiones en las letras no adivinadas). Luego se da la opción de arriesgar una letra o la palabra entera. Si la cantidad de intentos se redujo (porque no acertó la letra), se muestra un mensaje que lo indique. Si la letra arriesgada era correcta, se muestra un mensaje que lo indique. Una vez finalizada la jugada, si el campo ganador está en true significa que acertó todas las letras o que arriesgó una palabra y acertó, y se muestra el dibujo correspondiente al estado GANADOR y un mensaje, y el juego termina. Si la jugada finalizó con el campo ganador en falso, se muestra el dibujo correspondiente al estado PERDEDOR y un mensaje, y el juego termina.
 PARÁMETROS:
     int : nivel del juego.
-    vector&lt;string> : palabras del nivel seleccionado</pre>
-
+    vector<string> : palabras del nivel seleccionado
+```
 
 ## Mejoras posibles
 
