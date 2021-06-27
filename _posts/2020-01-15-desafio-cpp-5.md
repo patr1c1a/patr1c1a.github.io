@@ -14,7 +14,9 @@ Desafío C++
 ▶️ [Este video puede ayudarte a entender la recursividad](https://youtu.be/ymaBXPjiaPY){:target="_blank"}
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
-<br />✏️ La función recibe un string y lo retorna invertido. Si es vacío o tiene 1 solo carácter, retorna el mismo string, sin modificaciones.
+<br /> Respuesta: "!ovisrucer omtirogla nu se etsE"
+<br />&nbsp;  
+<br />✏️ Explicación: La función recibe un string y lo retorna invertido. Si es vacío o tiene 1 solo carácter, retorna el mismo string, sin modificaciones.
 <br />&nbsp;
 <div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3pLy){:target="_blank"}
   </div>
