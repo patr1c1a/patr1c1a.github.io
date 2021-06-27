@@ -15,7 +15,7 @@ Desafío C++
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✏️ La función recibe un string y lo retorna invertido. Si es vacío o tiene 1 solo carácter, retorna el mismo string, sin modificaciones.
-<br />
+<br />&nbsp;
 <div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3pLy){:target="_blank"}
   </div>
 {% include codeEditor.html id="3pLy?stdin=0&arg=0&rw=1" %}
@@ -30,6 +30,8 @@ Desafío C++
 ![desafío C++ número 5]({{ site.url }}/assets/2020-01-15-desafio-cpp-5.png)
 
 {% include accesibilidad.html %}
+
+Código:
 
 ```cpp
 string rev(string cadena) {
@@ -50,7 +52,7 @@ string rev(string cadena) {
 }
 ```
 
-¿Qué retorna esta función ante la siguiente invocación?
+¿Qué retorna la función ante la siguiente invocación?
 
 ```cpp
 rev("Este es un algoritmo recursivo!")
