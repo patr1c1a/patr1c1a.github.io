@@ -66,14 +66,16 @@ El código que se provee para completar tiene varias partes ya resueltas y otras
 
 ### Archivos de cabecera incluidos
 
-<pre><code>#include &lt;iostream>
-#include &lt;set>
-#include &lt;vector>
-#include &lt;fstream>
-#include &lt;string>
-#include &lt;ctime>
-#include &lt;cstdlib>
-#include &lt;climits></code></pre>
+```cpp
+#include <iostream>
+#include <set>
+#include <vector>
+#include <fstream>
+#include <string>
+#include <ctime>
+#include <cstdlib>
+#include <climits>
+```
 
 
 ### Constantes y objetos utilizados
@@ -126,16 +128,16 @@ RETORNO: objeto Palabras con vectores de palabras de acuerdo al nivel si el arch
 (si algún archivo no existe, el vector queda vacío).
 */
 Palabras cargarPalabras(){
-    vector&lt;string> palabrasNivel1, palabrasNivel2, palabrasNivel3;
+    vector<string> palabrasNivel1, palabrasNivel2, palabrasNivel3;
     string palabra;
     if (existeArchivo(ARCHIVO_PALABRAS)) {
         ifstream archivo(ARCHIVO_PALABRAS);
         if (archivo.is_open()) {
             while (getline(archivo, palabra)) {
-                if (palabra.length()&lt;=7)
+                if (palabra.length()<=7)
                     palabrasNivel1.push_back(palabra);
                 else
-                    if ((palabra.length()>7) && (palabra.length()&lt;=11))
+                    if ((palabra.length()>7) && (palabra.length()<=11))
                         palabrasNivel2.push_back(palabra);
                     else
                         palabrasNivel3.push_back(palabra);
@@ -155,10 +157,10 @@ Palabras cargarPalabras(){
 FUNCIÓN: seleccionarPalabra
 PROPÓSITO: Selecciona de manera aleatoria un elemento de un vector de strings y lo retorna.
 PARÁMETROS:
-    vector&lt;string> : vector con palabras.
+    vector<string> : vector con palabras.
 RETORNO: Palabra seleccionada al azar.
 */
-string seleccionarPalabra(vector&lt;string> palabras){
+string seleccionarPalabra(vector<string> palabras){
     srand(time(NULL));
     int indice = rand() % palabras.size();
     return palabras[indice];
@@ -174,40 +176,40 @@ PARÁMETROS:
 void mostrarDibujo(int intentos){
     switch (intentos){
     case 6:
-        cout &lt;&lt; "__________\n|         |\n|\n|\n|\n|\n|";
+        cout << "__________\n|         |\n|\n|\n|\n|\n|";
         break;
     case 5:
-        cout &lt;&lt; "__________\n|         |\n|         0\n|\n|\n|\n|";
+        cout << "__________\n|         |\n|         0\n|\n|\n|\n|";
         break;
     case 4:
-        cout &lt;&lt; "__________\n|         |\n|         0\n|         |\n|\n|\n|";
+        cout << "__________\n|         |\n|         0\n|         |\n|\n|\n|";
         break;
     case 3:
-        cout &lt;&lt; "__________\n|         |\n|         0\n|        /|\n|\n|\n|";
+        cout << "__________\n|         |\n|         0\n|        /|\n|\n|\n|";
         break;
     case 2:
-        cout &lt;&lt; "__________\n|         |\n|         0\n|        /|\\\n|\n|\n|";
+        cout << "__________\n|         |\n|         0\n|        /|\\\n|\n|\n|";
         break;
     case 1:
-        cout &lt;&lt; "__________\n|         |\n|         0\n|        /|\\\n|        /\n|\n|";
+        cout << "__________\n|         |\n|         0\n|        /|\\\n|        /\n|\n|";
         break;
     case PERDEDOR:
-        cout &lt;&lt; " _________\n|         |\n|         0\n|        /|\\\n|        / \\\n|\n|\n";
+        cout << " _________\n|         |\n|         0\n|        /|\\\n|        / \\\n|\n|\n";
         break;
     case GANADOR:
-        cout &lt;&lt; "__________\n|         |\n|         \n|        \n|      0\n|     \\|/\n|     / \\\n";
+        cout << "__________\n|         |\n|         \n|        \n|      0\n|     \\|/\n|     / \\\n";
         break;
     }
-    cout &lt;&lt; endl;
+    cout << endl;
 }
 
 int main(){
     Palabras palabras=cargarPalabras();
     int nivel;
     bool errorDeTipoIngresado;
-    set&lt;int> opcionesValidas{0,1,2,3};
+    set<int> opcionesValidas{0,1,2,3};
 
-    std::cout &lt;&lt; R"(
+    std::cout << R"(
                  8888888888 888
                  888        888                     __________
                  888        888                    |         |
@@ -227,16 +229,16 @@ int main(){
                  .d888888 888  888 888  888 888    888      .d888888 888  888 888  888
                  888  888 888  888 Y88..88P 888    Y88b.    888  888 Y88b 888 Y88..88P
                  "Y888888 888  888  "Y88P"  888     "Y8888P" Y888888  "Y88888  "Y88P"
-    )" &lt;&lt; '\n';
+    )" << '\n';
 
     do{
-        cout &lt;&lt; "\n\tSeleccionar Nivel:" &lt;&lt; endl;
-        cout &lt;&lt; "\t\t1: Facil" &lt;&lt; endl;
-        cout &lt;&lt; "\t\t2: Medio" &lt;&lt; endl;
-        cout &lt;&lt; "\t\t3: Dificil" &lt;&lt; endl;
-        cout &lt;&lt; "\t0: Salir\n" &lt;&lt; endl;
+        cout << "\n\tSeleccionar Nivel:" << endl;
+        cout << "\t\t1: Facil" << endl;
+        cout << "\t\t2: Medio" << endl;
+        cout << "\t\t3: Dificil" << endl;
+        cout << "\t0: Salir\n" << endl;
 
-        cout &lt;&lt; "--Opcion seleccionada: ";
+        cout << "--Opcion seleccionada: ";
         cin >> nivel;
         errorDeTipoIngresado = cin.fail();
         cin.clear();
@@ -248,7 +250,7 @@ int main(){
                 break;
             case 1:
                 if (palabras.nivel1.empty()){
-                    cout &lt;&lt; "\tERROR: No hay palabras para ese nivel." &lt;&lt; endl;
+                    cout << "\tERROR: No hay palabras para ese nivel." << endl;
                 }
                 else{
                     controlarJuego(nivel, palabras.nivel1);
@@ -256,7 +258,7 @@ int main(){
                 break;
             case 2:
                 if (palabras.nivel2.empty()){
-                    cout &lt;&lt; "\tERROR: No hay palabras para ese nivel." &lt;&lt; endl;
+                    cout << "\tERROR: No hay palabras para ese nivel." << endl;
                 }
                 else{
                     controlarJuego(nivel, palabras.nivel2);
@@ -264,7 +266,7 @@ int main(){
                 break;
             case 3:
                 if (palabras.nivel3.empty()){
-                    cout &lt;&lt; "\tERROR: No hay palabras para ese nivel." &lt;&lt; endl;
+                    cout << "\tERROR: No hay palabras para ese nivel." << endl;
                 }
                 else{
                     controlarJuego(nivel, palabras.nivel3);
@@ -294,7 +296,7 @@ FUNCIÓN: trim
 PROPÓSITO: Eliminar espacios delante y detrás de una cadena de caracteres.
 PARÁMETROS:
     string : cadena a modificar
-RETORNO: cadena modificada (sin los espacios sobrantes).</pre>
+RETORNO: cadena modificada (sin los espacios sobrantes).
 ```
 
 ```cpp
@@ -358,6 +360,7 @@ Si elige arriesgar una palabra, se llama a la función correspondiente y la pala
 PARÁMETROS:
     Jugada : datos de la jugada actual.
 RETORNO: Jugada actual.
+```
 
 ```cpp
 FUNCIÓN: controlarJuego
