@@ -40,6 +40,8 @@ c. Se imprime el valor por defecto para los int.
 
 d. Se imprime un valor residual de memoria.
 
+Programa:
+
 ```java
 class Desafio {
     private int n;
