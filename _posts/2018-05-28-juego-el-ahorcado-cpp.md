@@ -23,7 +23,7 @@ Primero necesitarás [descargar el archivo](/assets/2017-05-28-juego-el-ahorcado
 
 El juego del ahorcado consiste en tomar una palabra al azar y darle al usuario la posibilidad de que adivine letras hasta completar la palabra. Tiene 6 intentos para arriesgar letras. Por cada letra incorrecta, se resta un intento. Cuando se queda sin intentos, pierde. Si adivina todas las letras, gana. También, en cualquier momento del juego, puede arriesgar la palabra completa y, si la acierta, el juego finaliza y el usuario gana; pero si la palabra es incorrecta el juego finaliza y el usuario pierde.
 
-[Ver el programa en ejecución](https://replit.com/@programacionde1/Juego-el-ahorcado-consola?lite=true){:target="_blank"}
+[Ver el programa en ejecución](https://replit.com/@programacionde1/Juego-el-ahorcado-consola?lite=true&outputonly=1){:target="_blank"}
 
 
 
