@@ -12,8 +12,8 @@ Analicemos cuidadosamente el código de este desafío... ¿Qué crees que sucede
 <br />✅ La respuesta correcta es la c: Se produce un error de compilación porque la variable x está declarada dentro de un bloque (formado por las llaves) y no es accesible fuera de él.
 <br />
 <br />✏️ Explicación: la variable x se encuentra declarada en un bloque definido por las llaves de las líneas 4 y 6 del código. Fuera de ese bloque, la variable no existe.
-<br />Varias personas han preguntado si las llaves estaban incorrectamente colocadas, y no es así. El error se produce por un problema de ámbito y alcance de la variable cuando se intenta acceder a ella.
-<br />En Java, las llaves crean un bloque de código con su propio ámbito y no es necesario que ese bloque forme parte de un if, for, while, etc. Esto nos permite crear bloques donde queramos: es decir que el bloque formado por las llaves que contienen a la declaración de x es válido. Solo que no deberíamos intentar acceder a x desde un ámbito mayor a ese bloque.
+<br />Varias personas han preguntado si las llaves estaban incorrectamente colocadas, y no es así. El error se produce por un problema de ámbito y alcance de la variable cuando se intenta acceder a ella. Aunque este es un fragmento de código sin sentido y es verdad que ese bloque no tiene nada que hacer ahí, de todas formas el bloque formado por las llaves es válido.
+<br />En Java, las llaves crean un bloque de código con su propio ámbito y no es necesario que ese bloque forme parte de un if, for, while, etc. 
 <br />🤔 ¿Y qué pasa con el for de la línea 7? ¿Por qué no tiene llaves? La respuesta a esto es válida para varios lenguajes, no solo Java: las llaves solo son necesarias cuando el bloque incluye más de una instrucción. Si ponemos llaves en un bloque que solo contiene una instrucción, esas llaves son opcionales. En este caso, el bloque de código dentro del for tiene solo una instrucción y entonces no es obligatorio que tenga llaves.
 <br />
 <br /><div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3puW){:target="_blank"}
