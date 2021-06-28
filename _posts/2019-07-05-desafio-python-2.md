@@ -24,8 +24,9 @@ published: true
 <br />a): en esta lista aparecen todos los caracteres del string, por lo que no se eliminan duplicados consecutivos.
 <br />b): esta lista elimina la letra "a" inicial, lo cual no se corresponde con el algoritmo, porque "a" y "A" son dos caracteres diferentes. Además, elimina una sola ocurrencia de la "h", de la que se encontraban 3 ocurrencias en el string pasado por parámetro.
 <br />
-<div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/Python-Desafio-2){:target="_blank"}
+<div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3pVx){:target="_blank"}
   </div>
+{% include codeEditor.html id="3pVx?stdin=0&arg=0&rw=1" %}
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-07-05-desafio-python-2-solucion.png)
   </div></details>
@@ -34,3 +35,23 @@ published: true
 <br />
 **Desafío Python** 👇
 ![Desafío Python número 2]({{ site.url }}/assets/2019-07-05-desafio-python-2.png)
+
+{% include accesibilidad.html %}
+
+```python
+def funcion(secuencia):
+    lista = [secuencia[0]]
+    for elemento in secuencia[1:]:
+        if elemento != lista[len(lista)-1]:
+            lista.append(elemento)
+    return lista
+```
+
+¿Qué retorna la llamada funcion('aA7577hhhA')?
+
+a. ['a','A','7','5','7','7','h','h','h','A']
+
+b. ['A','7','5','7','h','h','A']
+
+c. ['a', 'A', '7', '5', '7', 'h', 'A']
+</div></details>
