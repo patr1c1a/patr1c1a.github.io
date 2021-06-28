@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Desafío Java número 1
-date: 2019-11-29 21:00:00
+date: 2019-10-30 21:00:00
 categories: desafios java
 tags: referencias
 published: true
