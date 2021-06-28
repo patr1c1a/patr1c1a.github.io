@@ -25,6 +25,11 @@ while n ≠ 0:
   n ← r
 return m
 ```
+
+Entrada: dos números enteros positivos donde ninguno es cero: m y n.
+
+Salida: mayor divisor común de m y n.
+
 </div></details>
 
 
