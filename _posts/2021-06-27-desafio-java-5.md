@@ -46,12 +46,12 @@ class Desafio {
 
 Opciones:
 
-a. 012
+a. 012.
 
-b. 000
+b. 000.
 
-c. Error en tiempo de ejecución
+c. Error en tiempo de ejecución.
 
-d. Error de compilación
+d. Error de compilación.
 
 </div></details>
