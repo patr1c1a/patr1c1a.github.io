@@ -41,7 +41,7 @@ C se encuentra en S.
 
 Todas las letras en S y C son minúsculas.
 </div></details>
-
+<br />&nbsp;
 
 
 ![Algoritmo]({{ site.url }}/assets/2019-11-19-ejercicio-arreglos-strings-02.png)
@@ -66,6 +66,7 @@ De tiempo: O(N), donde N es la longitud de S. Se pasa dos veces por toda la cade
 
 De espacio: O(N), el tamaño de la respuesta.
 </div></details>
+<br />&nbsp;
 
 ![Código]({{ site.url }}/assets/2019-11-19-ejercicio-arreglos-strings-03.png)
 
@@ -100,7 +101,7 @@ public int[] distanciaMasCorta(String S, char C) {
 ```
 
 </div></details>
-
+<br />&nbsp;
 <hr />
 
 💻 [Versión Python ejecutable](https://jdoodle.com/a/3pND){:target="_blank"}
