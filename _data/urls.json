@@ -30,10 +30,5 @@
     "url": "/feed.xml",
     "icon": "fa-feed",
     "target": _blank
-  },
-    {
-    "text": "Mapa del sitio",
-    "url": "/sitemap.xml",
-    "icon": "fa-feed"
   }
 ]
