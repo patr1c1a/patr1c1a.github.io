@@ -37,7 +37,7 @@ for nombre, edad, pais in estudiantes:
     print(f"Nombre: {nombre}, Edad: {edad}, País: {pais}")
 ``` 
 
-¿Pudiste detectarlo?
+¿Pudiste detectarlo? ¿Cómo lo solucionarías?
 </div></details>
 
 
