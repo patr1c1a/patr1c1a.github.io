@@ -8,27 +8,32 @@
   {
     "text": "Por categoría",
     "url": "/categorias/",
-    "icon": "fa-tag",
+    "icon": "fa-tag"
   },
   {
     "text": "Enlaces",
     "url": "/enlaces/",
-    "icon": "fa-link",
+    "icon": "fa-link"
   },
   {
     "text": "Preguntas",
     "url": "/preguntasfrecuentes/",
-    "icon": "fa-question-circle",
+    "icon": "fa-question-circle"
   },
   {
     "text": "Contribuir",
     "url": "/contribuir/",
-    "icon": "fa-coffee",
+    "icon": "fa-coffee"
   },
   {
     "text": "XML Feed",
     "url": "/feed.xml",
     "icon": "fa-feed",
     "target": _blank
+  },
+    {
+    "text": "Mapa del sitio",
+    "url": "/sitemap.xml",
+    "icon": "fa-feed"
   }
 ]
