@@ -10,7 +10,7 @@ published: true
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✅ EL PROBLEMA ESTÁ EN LA LÍNEA 1: la segunda tupla solo tiene 2 elementos, por lo que se arroja el siguiente error al intentar "desempaquetar" durante la iteración:
-_ValueError: not enough values to unpack (expected 3, got 2)_. La iteración falla pues se intenta desempaquetar usando tres variables -nombre, edad, pais- y la segunda tupla tupla no tiene suficientes elementos.
+*ValueError: not enough values to unpack (expected 3, got 2)*. La iteración falla pues se intenta desempaquetar usando tres variables -nombre, edad, pais- y la segunda tupla tupla no tiene suficientes elementos.
 <br />
 <br />✏️ Para solucionarlo, deberíamos agregar un valor a la segunda tupla. Para que sea semánticamente correcto, debería agregarse un número en la posición 1 de la segunda tupla.
 <br />&nbsp;
