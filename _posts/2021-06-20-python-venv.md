@@ -27,8 +27,8 @@ Instalación de la herramienta: `pip install virtualenv`
 Crear entorno virtual "mi_entorno" en el directorio actual: `python -m venv mi_entorno`
 
 Activar "mi_entorno" para empezar a trabajar en él:
-* UNIX / MAC: `source mi_entorno/Scripts/activate`
-* WINDOWS CMD: `mi_entorno\Scripts\activate.bat`
+- UNIX / MAC: `source mi_entorno/Scripts/activate`
+- WINDOWS CMD: `mi_entorno\Scripts\activate.bat`
 
   
 Listar paquetes instalados en el entorno activo:
