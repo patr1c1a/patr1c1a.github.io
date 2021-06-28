@@ -17,6 +17,7 @@ published: true
 
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
+<br />Imprime el siguiente diccionario: {'menta': ['concentración', 'memoria', 'antiinflamatorio'], 'lima': ['crirculación'], 'lavanda': ['cicatriznante', 'antiestrés']}  
 <br />✏️ Explicación: este algoritmo guarda datos en un diccionario donde las claves son nombres de plantas (tipo string) y los valores son listas que contienen propiedades de cada planta (elementos de las listas: de tipo string). Para evitar sobreescribir una lista si se ingresa una planta ya existente en el diccionario, se verifica previamente que la clave no exista en él, con el operador in.
 <div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3pVL){:target="_blank"}
   </div>
