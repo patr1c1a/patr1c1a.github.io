@@ -1,26 +1,32 @@
 [
   {
     "icon": "fa-youtube",
-    "link": "https://www.youtube.com/c/Programaciondesdecero"
+    "link": "https://www.youtube.com/c/Programaciondesdecero",
+    "alt": "Canal de Youtube"
   },
   {
     "icon": "fa-twitter",
-    "link": "https://twitter.com/Programacion_0"
+    "link": "https://twitter.com/Programacion_0",
+    "alt": "Perfil en Twitter"
   },
   {
     "icon": "fa-facebook",
-    "link": "https://www.facebook.com/ProgramacionDesdeCeroParaTodos"
+    "link": "https://www.facebook.com/ProgramacionDesdeCeroParaTodos",
+    "alt": "Página de Facebook"
   },
     {
     "icon": "fa-instagram",
-    "link": "https://www.instagram.com/programaciondesdecero/"
+    "link": "https://www.instagram.com/programaciondesdecero/",
+    "alt": "Perfil en Instagram"
   },
   {
     "icon": "fa-pinterest",
-    "link": "https://www.pinterest.com/ProgramacionDesdeCero/"
+    "link": "https://www.pinterest.com/ProgramacionDesdeCero/",
+    "alt": "Perfil en Pinterest"
   },
   {
     "icon": "fa-github",
-    "link": "https://github.com/programacion-desde-cero"
+    "link": "https://github.com/programacion-desde-cero",
+    "alt": "Repositorios en Github"
   }
 ]
