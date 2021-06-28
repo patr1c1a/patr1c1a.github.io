@@ -16,6 +16,7 @@ Analicemos cuidadosamente el código de este desafío... ¿Qué crees que sucede
 <br />
 <br /><div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3puW){:target="_blank"}
   </div>
+{% include codeEditor.html id="3puW?stdin=0&arg=0&rw=1" %} 
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2021-06-27-desafio-java-5-solucion.png)
   </div></details>
