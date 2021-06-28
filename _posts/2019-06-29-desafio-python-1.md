@@ -22,8 +22,9 @@ En la imagen se ven dos líneas con instrucciones. La primera asigna un string a
 <br />▪️ La opción c) plantea un error, pero ese no es el caso. Dos cosas podían prestarse a confusión: que la rebanada c[:13:2] no tuviera una posición de inicio, pero al dejarla en blanco se toma por defecto desde el principio del string; o que len(c) da el número 17 mientras que el índice del string va del 0 al 16, pero al restarle 1 entonces obtenemos el 16 que señala el último carácter.
 <br />
 <br />
-<div markdown="1">💻 [Código ejecutable](https://repl.it/@programacionde1/Python-Desafio-1){:target="_blank"}
+<div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/3pVw){:target="_blank"}
   </div>
+{% include codeEditor.html id="3pVw?stdin=0&arg=0&rw=1" %}
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-06-29-desafio-python-1-solucion.png)
   </div></details>
@@ -32,3 +33,19 @@ En la imagen se ven dos líneas con instrucciones. La primera asigna un string a
 <br />
 **Desafío Python** 👇
 ![desafío Python número 1]({{ site.url }}/assets/2019-06-29-desafio-python-1.png)
+
+{% include accesibilidad.html %}
+
+```python
+c = "este es un string"
+print(c[:13:2]+c[len(c)-1])
+```
+
+¿Cuál es la salida correcta?
+
+a. 'rts nu se e'.
+
+b. 'et su t'.
+
+c. Error.
+</div></details>
