@@ -26,10 +26,7 @@ Analicemos cuidadosamente el código de este desafío... ¿Qué crees que sucede
 <br />
 ![Desafío Java número 5]({{ site.url }}/assets/2021-06-27-desafio-java-5.png)
 
-
-
-<hr />
-### Versión accesible (apta para lectores electrónicos):
+{% include accesibilidad.html %}
 
 ¿Cuál es la salida del programa?
 
@@ -55,3 +52,5 @@ b. 000
 c. Error en tiempo de ejecución
 
 d. Error de compilación
+
+</div></details>
