@@ -9,7 +9,7 @@ published: true
 Analicemos cuidadosamente el código de este desafío... ¿Qué crees que sucede cuando se lo ejecuta? ¿Y por qué?
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
-<br />✅ La respuesta correcta es la c: Se produce un error de compilación porque la variable x está declarada dentro de un bloque (formado por las llaves) y no es accesible fuera de él.
+<br />✅ La respuesta correcta es la d: Se produce un error de compilación porque la variable x está declarada dentro de un bloque (formado por las llaves) y no es accesible fuera de él.
 <br />
 <br />✏️ Explicación: la variable x se encuentra declarada en un bloque definido por las llaves de las líneas 4 y 6 del código. Fuera de ese bloque, la variable no existe.
 <br />Varias personas han preguntado si las llaves estaban incorrectamente colocadas, y no es así. El error se produce por un problema de alcance de la variable cuando se intenta acceder a ella desde un ámbito mayor al bloque que la contiene. Aunque este es un fragmento de código de ejemplo y es verdad que ese bloque no tiene sentido ahí, de todas formas el bloque formado por las llaves es válido.
