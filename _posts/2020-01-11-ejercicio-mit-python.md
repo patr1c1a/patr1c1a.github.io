@@ -13,6 +13,8 @@ En este ejercicio de examen del MIT se pide realizar operaciones sobre una lista
 
 ![Ejercicio de MIT resuelto]({{ site.url }}/assets/2020-01-11-ejercicio-mit-python.png)
 
+<br />
+<br />
 [Código ejecutable](https://jdoodle.com/a/3pWv){:target="_blank"}
 
 {% include codeEditor.html id="3pWv?stdin=0&arg=0&rw=1" %}
