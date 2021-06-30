@@ -66,7 +66,7 @@ Estos ejemplos son dos casos que retornan el resultado incorrecto (True y True c
 
 `mismosElementos( [], [0,1,1,2,3] )`
 
-Este algoritmo está corregido para que retorne lo que realmente pide la consigna (True si los elementos de ambas listas son iguales, False si no lo son):
+Este algoritmo está corregido para que retorne lo que realmente pide la consigna (True si los elementos de ambas secuencias son iguales, False si no lo son):
 
 ```python
 def mismosElementos(L1, L2):
