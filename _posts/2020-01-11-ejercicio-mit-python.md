@@ -21,7 +21,7 @@ Este ejercicio de examen es de M.I.T. de Estados Unidos ("6.00 Introduction to c
 
 Consigna:
 
-Escribir el código que implemente una función de acuerdo a la especificación dada a continuación:
+Dada la función hallarMediana(L), escribir el código que implemente una función de acuerdo a la especificación dada a continuación:
 
 Halla la mediana de L.
 
@@ -41,14 +41,15 @@ Efectos colaterales: ninguno
 Resolución:
 
 ```python
-if len(L) == 0:
-    raise ValueError("Lista vacía")
-copy = L[:]
-copy.sort()
-if len(copy)%2 == 1:
-    return copy[len(copy)//2]
-else:
-    return (copy[len(copy)//2] + copy[len(copy)//2 -1]) / 2
+def hallarMediana(L):
+    if len(L) == 0:
+        raise ValueError("Lista vacía")
+    copy = L[:]
+    copy.sort()
+    if len(copy)%2 == 1:
+        return copy[len(copy)//2]
+    else:
+        return (copy[len(copy)//2] + copy[len(copy)//2 -1]) / 2
 ```
 
 </div></details>
