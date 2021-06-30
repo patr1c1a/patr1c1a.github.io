@@ -27,6 +27,7 @@ No debemos confiarnos si un algoritmo funciona como esperamos en los casos más 
 <br />😀 ¿Se te ocurrieron otras formas de mejorar el algoritmo? Deja tu comentario debajo.
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-11-29-desafio-python-8-solucion.png)
   </div>
+
 </details>
 
 <br />
@@ -56,4 +57,27 @@ Estas invocaciones retornan True y False, como se esperaría:
 `mismosElementos( [1,2,3], [1,1,3] )`
 
 Pero, ¿podrías indicar otros ejemplos que no retornen el resultado correcto? ¿Cómo corregirías el algoritmo para que los ejemplos dados retornen el resultado esperado?
+
+Resolución:
+
+Estos ejemplos son dos casos que retornan el resultado incorrecto (True y True cuando ambas deberían retornar False, ya que no tienen los mismos elementos únicos)
+
+`mismosElementos( [1,2,2,3], [0,1,1,2,3] )`
+
+`mismosElementos( [], [0,1,1,2,3] )`
+
+Este algoritmo está corregido para que retorne lo que realmente pide la consigna (True si los elementos de ambas listas son iguales, False si no lo son):
+
+```python
+def mismosElementos(L1, L2):
+  elementos1 = set()
+  elementos2 = set()
+  for numero in L1:
+      elementos1.add(numero)
+  for numero in L2:
+      elementos2.add(numero)
+  return elementos1 == elementos2
+```
+
+
 </div></details>
