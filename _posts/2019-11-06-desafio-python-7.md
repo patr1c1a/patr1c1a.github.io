@@ -53,13 +53,13 @@ def convertir(cadena):
 
 Opciones:
 
-a. `**El desafío python número: ¡7!**`
+a. `"**El desafío python número: ¡7!**"`
 
-b. `**EL DESAFÍO PYTHON NÚMERO: ¡7!**`
+b. `"**EL DESAFÍO PYTHON NÚMERO: ¡7!**"`
 
 c. `"El Desafío Python Número 7"`
 
-d. `**El Desafío Python Número: ¡7!**`
+d. `"**El Desafío Python Número: ¡7!**"`
 
 </div></details>
 
