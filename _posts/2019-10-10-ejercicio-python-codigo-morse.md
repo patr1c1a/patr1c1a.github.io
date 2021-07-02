@@ -41,6 +41,8 @@ En la instrucción `fraseCodificada += MORSE[caracter] + " "` se accede a la cla
 
 </div></details>
 
+<br />
+<hr />
 
 💻 [Código del programa](https://jdoodle.com/a/3qpF){:target="_blank"}
 
