@@ -16,6 +16,7 @@ Veamos un ejercicio simple en Python, usando bucles for.
 ![Ejercicio Python]({{ site.url }}/assets/2019-10-19-ejercicio-python-for.png)
 
 {% include accesibilidad.html %}
+Ejercicio con bucle for en Python
 
 Encriptar un mensaje usando el método de "la cifra del César", que consiste en correr cada letra -considerando la posición que ocupa en el alfabeto- una determinada cantidad de lugares. Ejemplo: si el corrimiento es de 2 lugares, la palabra "hola" se transforma en "jqnc".
 
