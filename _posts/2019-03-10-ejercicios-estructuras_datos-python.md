@@ -258,8 +258,7 @@ for caracter, cantidad in contadores.items():
 ### 6
 <details> 
   <summary>Crear un programa para gestionar datos de los socios de un club, permitiendo:
-
--Cargar información de los socios en un diccionario para acceder por número de socio. Los datos a almacenar son: número, nombre y apellido, fecha de ingreso (ddmmaaaa), cuota al día (s/n). El programa debe iniciar con los datos de los socios fundadores ya cargados:
+<br>-Cargar información de los socios en un diccionario para acceder por número de socio. Los datos a almacenar son: número, nombre y apellido, fecha de ingreso (ddmmaaaa), cuota al día (s/n). El programa debe iniciar con los datos de los socios fundadores ya cargados:
 <br>Socio nº1, Amanda Núñez, ingresó: 17/03/2009, cuota al día.
 <br>Socio nº2, Bárbara Molina, ingresó: 17/03/2009, cuota al día.
 <br>Socio nº3, Lautaro Campos, ingresó: 17/03/2009, cuota al día.
