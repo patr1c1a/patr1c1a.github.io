@@ -22,7 +22,7 @@ Una vez activo el entorno, los paquetes se instalan normalmente, con pip install
  
 Comandos:
 
-Instalación de la herramienta: `pip install virtualenv`
+`venv` viene incluido en la instalación de Python 3.
 
 Crear entorno virtual "mi_entorno" en el directorio actual: `python -m venv mi_entorno`
 
