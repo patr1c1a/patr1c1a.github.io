@@ -120,13 +120,13 @@ También es posible formarse de otras maneras que no impliquen un título univer
 
 
 <details><summary> -¿Quién genera los contenidos de Programación Desde Cero?</summary>
-<div markdown="1">Principalmente yo, Patricia. 🙂 Aunque siempre estoy recibiendo ayuda de amigos, colegas y ex-compañeros de universidad y laborales, a los que recurro para consultar cuestiones específicas que ellos concen en mayor profundidad y en las que tienen mayor experiencia.
+<div markdown="1">Principalmente yo, Patricia 🙂. Aunque siempre estoy recibiendo ayuda de amigos, colegas y ex-compañeros de universidad y laborales, a los que recurro para consultar cuestiones específicas que ellos concen en mayor profundidad y en las que tienen mayor experiencia.
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary> -¿Puedo enviar mi problema sobre código para que me ayuden a resolverlo?</summary>
+<details><summary> -¿Puedo enviar mi problema sobre código para que me ayudes a resolverlo?</summary>
 <div markdown="1">Lamentablemente, mis actividades no me permiten brindar este tipo de asesorías personalizadas. Además, existe otro motivo por el que no puedo ayudar cuando se trata de una tarea académica: en esos casos es necesario tener en cuenta las restricciones y estilos de código que los docentes hayan decidido adoptar en el curso que se está tomando, por lo que una resolución que no contemple estos detalles posiblemente no sea útil.
 <br />De todas formas, [esta guía]({% post_url 2019-06-14-corregir-errores %}){:target="_blank"} puede ayudarte para resolver problemas de código y [en esta publicación]({% post_url 2021-01-02-leer-mensajes-error %}){:target="_blank"} intento ayudar a investigar los errores en el código. También publiqué [este video](https://www.youtube.com/watch?v=5W14n0PjfyI){:target="_blank"} sobre cómo "debuggear" y [este otro](https://www.youtube.com/watch?v=ZJP0Z5-sbeY){:target="_blank"} sobre cómo probar una función. Y en la [página de enlaces](http://patriciaemiguel.com/enlaces/){:target="_blank"} podrás encontrar varias comunidades de programadores donde es posible hacer preguntas y recibir consejos.
   </div>
@@ -135,13 +135,13 @@ También es posible formarse de otras maneras que no impliquen un título univer
 
 
 <details><summary> -¿Con qué grabás tus videos?</summary>
-<div markdown="1">A lo largo del tiempo he ido cambiando de software y equipo utilizado. Actualmente uso un micrófono Blue Snowball, [Audacity](https://www.audacityteam.org/){:target="_blank"} y [VoiceMeeter](https://vb-audio.com/Voicemeeter/){:target="_blank"} para grabación y edición del sonido. Para grabar la pantalla utilizo [Flashback Express](https://www.flashbackrecorder.com/express){:target="_blank"} y [HitFilm Express](https://fxhome.com/product/hitfilm-express){:target="_blank"} para la edición de video. En cuanto a los contenidos, uso principalmente [Microsoft PowerPoint](https://www.office.com/launch/powerpoint){:target="_blank"} o [Google Slides](https://docs.google.com/presentation/u/0/){:target="_blank"} para diseñar las presentaciones y luego diferentes herramientas como IDEs o compiladores online (en este aspecto me gusta especialmente la funcionalidad de [Python tutor](http://pythontutor.com){:target="_blank"} para observar los contenidos de la memoria durante la ejecución de un programa).
+<div markdown="1">A lo largo del tiempo he ido cambiando de software y equipo utilizado. Actualmente uso un micrófono Blue Snowball, [Audacity](https://www.audacityteam.org/){:target="_blank"} y [VoiceMeeter](https://vb-audio.com/Voicemeeter/){:target="_blank"} para grabación y edición del sonido. Para grabar la pantalla utilizo [Flashback Express](https://www.flashbackrecorder.com/express){:target="_blank"} y [HitFilm Express](https://fxhome.com/product/hitfilm-express){:target="_blank"} para la edición de video (ambos en sus versiones gratuitas). En cuanto a los contenidos, uso principalmente [Microsoft PowerPoint](https://www.office.com/launch/powerpoint){:target="_blank"} o [Google Slides](https://docs.google.com/presentation/u/0/){:target="_blank"} para diseñar las presentaciones y luego diferentes herramientas como IDEs o compiladores online (en este aspecto me gusta especialmente la funcionalidad de [Python tutor](http://pythontutor.com){:target="_blank"} para observar los contenidos de la memoria durante la ejecución de un programa).
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary> -¿Se dictan cursos de programación a través del canal?</summary>
+<details><summary> -¿Dictas cursos de programación u otros temas de informática?</summary>
 <div markdown="1">Por el momento, no. Aunque es algo que me han pedido mucho y es mi intención comenzar a hacer. Pero la organización y preparación de un curso es algo que debe hacerse con tiempo y cuidado, además de buscar la mejor modalidad para que todos los estudiantes puedan sacar el máximo provecho. En cuanto tenga novedades al respecto, estaré publicándolo en las cuentas de Programación Desde Cero en las redes sociales.
   </div>
 <br />&nbsp;
@@ -169,14 +169,14 @@ También es posible formarse de otras maneras que no impliquen un título univer
 
 
 <details><summary> -¿Qué experiencia docente tenés?</summary>
-<div markdown="1">En 2010, siendo todavía estudiante, comencé como ayudante de cátedra en dos materias del primer año, comunes a las distintas carreras de informática de la UNNOBA: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaron ese año. Continué siendo ayudante en las dos materias anteriores hasta que, en 2014, tan pronto como obtuve mi título como Analista de Sistemas, empecé a trabajar oficialmente como docente por concurso, hasta 2019. También, a principios de 2021 fui parte del equipo docente de un "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}" de manera virtual.
+<div markdown="1">En 2010, siendo todavía estudiante, comencé como ayudante de cátedra en dos materias del primer año, comunes a las distintas carreras de informática de la UNNOBA: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaron ese año. Continué siendo ayudante en las dos materias anteriores hasta que, en 2014, tan pronto como obtuve mi título como Analista de Sistemas, empecé a trabajar oficialmente como docente por concurso, hasta 2019. También, a principios de 2021 fui parte del equipo docente de un taller de "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}" de manera virtual.
   </div>
 <br />&nbsp;
 </details>
 
 
 <details><summary> -¿En qué trabajás, además de la docencia?</summary>
-<div markdown="1">En mi trabajo de tiempo completo me dedico a QA ("Quality Assurance") de software, desde 2011.
+<div markdown="1">Actualmente soy desarrolladora backend. Previamente, durante 10 años me dediqué a QA ("Quality Assurance") de software.
   </div>
 <br />&nbsp;
 </details>
