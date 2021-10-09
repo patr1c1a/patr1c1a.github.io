@@ -187,7 +187,7 @@ La universidad brinda a sus estudiantes un léxico técnico en común y un conte
 
 Antes que nada, muchas gracias por el aprecio. ❤️
 
-Todos los contenidos que publico son gratuitos pero, si te resultan útiles y quisieras brindar tu apoyo es posible usar [esta plataforma para hacerlo mediante Mercadopago](https://cafecito.app/programaciondesde0){:target="_blank"} o, [también mediante Paypal](https://www.paypal.me/ProgramacionDesde0){:target="_blank"}.
+Todos los contenidos que publico son gratuitos pero, si te resultan útiles y quisieras brindar tu apoyo, podrías [<b>invitarme un "cafecito" (acepta MercadoPago)</b>](https://cafecito.app/programaciondesde0){:target="_blank"} o, [<b>también mediante Paypal</b>](https://www.paypal.me/ProgramacionDesde0){:target="_blank"}.
 
 
 ---
