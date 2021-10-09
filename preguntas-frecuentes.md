@@ -27,7 +27,7 @@ Click sobre una pregunta para desplegar su respuesta:
 </details>
 
 
-<details><summary> -¿Qué lenguaje debería aprender?</summary>
+<details><summary><b> -¿Qué lenguaje debería aprender?</b></summary>
 <div markdown="1">El lenguaje no es lo más importante cuando se está comenzando a programar. Lo central es afianzar los conocimientos sobre fundamentos de la programación, algoritmos y estructuras de datos, que pueden luego trasladarse a cualquier lenguaje. El razonamiento lógico y las habilidades de resolución de problemas son cruciales en la programación, y eso se adquiere con ejercitación, donde el lenguaje es solo una herramienta para poder implementar.
   
   Es posible aprender los fundamentos de la programación sin utilizar un lenguaje específico, por ejemplo mediante pseudocódigo con [PSeInt](http://pseint.sourceforge.net/){:target="_blank"} o usando programación por bloques, como los desafíos que propone [Pilas Bloques](http://pilasbloques.program.ar/){:target="_blank"} ([en esta lista he publicado varios videos explicativos](https://www.youtube.com/watch?v=9Q9zMx3BeUo&list=PLb_E6BNMg5j5gJoXwKJw_19t0zmpYMGy7){:target="_blank"}) o la herramienta [MIT App Inventor](http://ai2.appinventor.mit.edu/){:target="_blank"} ([en esta serie de videos explico cómo desarrollar una aplicación móvil](https://www.youtube.com/watch?v=rDzScjlWLg8&list=PLb_E6BNMg5j6Zk9uw_bTn3_GSSkhmj-CT){:target="_blank"}). 
@@ -36,7 +36,7 @@ Click sobre una pregunta para desplegar su respuesta:
 </details>
 
 
-<details><summary> -¿Qué tipo de computadora necesito para aprender a programar?</summary>
+<details><summary><b> -¿Qué tipo de computadora necesito para aprender a programar?</b></summary>
 <div markdown="1">Las bases de la programación pueden aprenderse, incluso, sin una computadora: solo con lápiz y papel. Por supuesto que siempre será más interesante y motivador poder ver nuestros programas en funcionamiento, pero no tener computadora no es un obstáculo para empezar. Y, si tenemos una, cualquier máquina a la que podamos acceder será útil (pensemos que hace 30 años también se programaba, y con aparatos de capacidad muy inferior a la de los que existen actualmente).
   
   Si tenemos una computadora con un navegador (Firefox, Chrome, Edge o cualquier otro) y conexión a internet, desde el navegador podremos acceder a gran cantidad de recursos para probar nuestro código (varios de ellos están listados en la página de Enlaces de este blog, en la sección "Compiladores e intérpretes online").
@@ -48,7 +48,7 @@ Click sobre una pregunta para desplegar su respuesta:
 
 
 
-<details><summary> -¿Es necesario estudiar en la universidad para trabajar como informático?</summary>
+<details><summary><b> -¿Es necesario estudiar en la universidad para trabajar como informático?</b></summary>
 <div markdown="1">En varios países (como sucede en Argentina), por el momento, la informática no requiere título habilitante (como sí es el caso de los médicos o los abogados, por ejemplo), por lo que es posible trabajar sin tener ningún título. Pero, en mi opinión, se deben tener en cuenta las necesidades de cada persona. El aprendizaje autodidacta no es para todos y algunos se organizan y aprenden mejor con un programa de estudios y docentes que los guíen.
   
 También es posible formarse de otras maneras que no impliquen un título universitario. Pero algo importante que la universidad nos da es un lenguaje común y un contexto general de varios temas que nos convierte en profesionales más completos. Por supuesto que podemos aprender todas estas cosas por fuera de una universidad, pero entonces mi recomendación es la de no limitarse a un curso/libro/tutorial de un tema en particular sino estar  constantemente preparándose y buscando nuevas cosas para aprender.
@@ -57,7 +57,7 @@ También es posible formarse de otras maneras que no impliquen un título univer
 </details>
 
 
-<details><summary> -¿Qué libros son recomendables para aprender a programar o ejercitar programación?</summary>
+<details><summary><b> -¿Qué libros son recomendables para aprender a programar o ejercitar programación?</b></summary>
 <div markdown="1">Es necesario tener en cuenta que mucho del material más reconocido se encuentra únicamente en inglés. Por suerte, para algunos títulos existen traducciones al español.
 <br />* [Fundamentos de programación - Luis Joyanes Aguilar](https://books.google.com.ar/books/about/Fundamentos_de_programación.html?id=nrNvPwAACAAJ){:target="_blank"}
 <br />* [Introduction To Algorithms - "CLRS"](https://books.google.com.ar/books/about/Introduction_To_Algorithms.html?id=NLngYyWFl_YC){:target="_blank"}
@@ -71,14 +71,14 @@ También es posible formarse de otras maneras que no impliquen un título univer
 
 
 
-<details><summary> -¿Qué lenguaje me conviene usar para mi proyecto?</summary>
+<details><summary><b> -¿Qué lenguaje me conviene usar para mi proyecto?</b></summary>
 <div markdown="1">No hay una respuesta única, aunque el tipo de proyecto influye mucho. Para encarar algo serio, debe hacerse un análisis cuidadoso de las necesidades y arquitectura del proyecto, y definir el "stack tecnológico" más apropiado. En términos generales, [esta publicación]({{ site.baseurl }}{% link _posts/2019-11-01-que-lenguaje-usar.md %}){:target="_blank"} podría servir como guía introductoria.
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary> -¿Cómo podría prepararme para una entrevista laboral de programación?</summary>
+<details><summary><b> -¿Cómo podría prepararme para una entrevista laboral de programación?</b></summary>
 <div markdown="1">En este punto debo mencionar que, para tener éxito como informáticos en el mundo profesional, es casi imprescindible hablar inglés. Sí, es posible trabajar para empresas, organizaciones o clientes de habla hispana, pero el mercado de la tecnología es global por naturaleza y es en esa globalidad donde se hallan grandes oportunidades para crecer y desarrollarnos profesionalmente. Es por eso que la gran mayoría de los recursos y el material más reconocido se encuentra únicamente en inglés.
   
   Aunque [en la página de enlaces puede encontrarse un listado más extenso](http://patriciaemiguel.com/enlaces/), estos son algunos sitios web donde podremos ejercitar nuestras habilidades, con problemas usualmente ordenados por categorías temáticas y según su dificultad:
@@ -103,14 +103,14 @@ También es posible formarse de otras maneras que no impliquen un título univer
 
 ### Sobre Programación Desde Cero:
 
-<details><summary> -¿Qué es Programación Desde Cero?</summary>
+<details><summary><b> -¿Qué es Programación Desde Cero?</b></summary>
 <div markdown="1">Es el espacio a través del cual comparto material educativo sobre programación, especialmente (pero no únicamente) para principiantes. Publico videos en [Youtube](https://www.youtube.com/c/ProgramacionDesdeCero){:target="_blank"} y contenidos breves en redes sociales ([Twitter](https://twitter.com/Programacion_0){:target="_blank"} / [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos){:target="_blank"} / [Instagram](https://www.instagram.com/programaciondesdecero/){:target="_blank"} / [Pinterest](https://www.pinterest.com/ProgramacionDesdeCero/){:target="_blank"}) con conceptos explicados, ejercicios, desafíos, etc. En este blog también pueden verse esos contenidos.
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary> -¿Cómo empezó?</summary>
+<details><summary><b> -¿Cómo empezó?</b></summary>
 <div markdown="1">Alrededor de 2011 comencé publicando en este blog algunos artículos que escribía cuando aún era estudiante de Licenciatura en Sistemas.
 <br />Unos años después hice algunos videos explicativos para mis alumnos de la universidad, sin intenciones de que se utilizaran fuera de ese ámbito.
 <br />Luego decidí crear más contenidos, para compartirlos con cualquier persona que pudiera necesitarlos, y por eso comencé a subir más videos de diferentes temas y a publicar en redes sociales.
@@ -119,14 +119,14 @@ También es posible formarse de otras maneras que no impliquen un título univer
 </details>
 
 
-<details><summary> -¿Quién genera los contenidos de Programación Desde Cero?</summary>
+<details><summary><b> -¿Quién genera los contenidos de Programación Desde Cero?</b></summary>
 <div markdown="1">Principalmente yo, Patricia 🙂. Aunque siempre estoy recibiendo ayuda de amigos, colegas y ex-compañeros de universidad y laborales, a los que recurro para consultar cuestiones específicas que ellos concen en mayor profundidad y en las que tienen mayor experiencia.
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary> -¿Puedo enviar mi problema sobre código para que me ayudes a resolverlo?</summary>
+<details><summary><b> -¿Puedo enviar mi problema sobre código para que me ayudes a resolverlo?</b></summary>
 <div markdown="1">Lamentablemente, mis actividades no me permiten brindar este tipo de asesorías personalizadas. Además, existe otro motivo por el que no puedo ayudar cuando se trata de una tarea académica: en esos casos es necesario tener en cuenta las restricciones y estilos de código que los docentes hayan decidido adoptar en el curso que se está tomando, por lo que una resolución que no contemple estos detalles posiblemente no sea útil.
 <br />De todas formas, [esta guía]({% post_url 2019-06-14-corregir-errores %}){:target="_blank"} puede ayudarte para resolver problemas de código y [en esta publicación]({% post_url 2021-01-02-leer-mensajes-error %}){:target="_blank"} intento ayudar a investigar los errores en el código. También publiqué [este video](https://www.youtube.com/watch?v=5W14n0PjfyI){:target="_blank"} sobre cómo "debuggear" y [este otro](https://www.youtube.com/watch?v=ZJP0Z5-sbeY){:target="_blank"} sobre cómo probar una función. Y en la [página de enlaces](http://patriciaemiguel.com/enlaces/){:target="_blank"} podrás encontrar varias comunidades de programadores donde es posible hacer preguntas y recibir consejos.
   </div>
@@ -134,14 +134,14 @@ También es posible formarse de otras maneras que no impliquen un título univer
 </details>
 
 
-<details><summary> -¿Con qué grabás tus videos?</summary>
+<details><summary><b> -¿Con qué grabás tus videos?</b></summary>
 <div markdown="1">A lo largo del tiempo he ido cambiando de software y equipo utilizado. Actualmente uso un micrófono Blue Snowball, [Audacity](https://www.audacityteam.org/){:target="_blank"} y [VoiceMeeter](https://vb-audio.com/Voicemeeter/){:target="_blank"} para grabación y edición del sonido. Para grabar la pantalla utilizo [Flashback Express](https://www.flashbackrecorder.com/express){:target="_blank"} y [HitFilm Express](https://fxhome.com/product/hitfilm-express){:target="_blank"} para la edición de video (ambos en sus versiones gratuitas). En cuanto a los contenidos, uso principalmente [Microsoft PowerPoint](https://www.office.com/launch/powerpoint){:target="_blank"} o [Google Slides](https://docs.google.com/presentation/u/0/){:target="_blank"} para diseñar las presentaciones y luego diferentes herramientas como IDEs o compiladores online (en este aspecto me gusta especialmente la funcionalidad de [Python tutor](http://pythontutor.com){:target="_blank"} para observar los contenidos de la memoria durante la ejecución de un programa).
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary> -¿Dictas cursos de programación u otros temas de informática?</summary>
+<details><summary><b> -¿Dictas cursos de programación u otros temas de informática?</b></summary>
 <div markdown="1">Por el momento, no. Aunque es algo que me han pedido mucho y es mi intención comenzar a hacer. Pero la organización y preparación de un curso es algo que debe hacerse con tiempo y cuidado, además de buscar la mejor modalidad para que todos los estudiantes puedan sacar el máximo provecho. En cuanto tenga novedades al respecto, estaré publicándolo en las cuentas de Programación Desde Cero en las redes sociales.
   </div>
 <br />&nbsp;
@@ -153,14 +153,14 @@ También es posible formarse de otras maneras que no impliquen un título univer
 
 ### Sobre mí:
 
-<details><summary> -¿Quién sos, de dónde y qué edad tenés?</summary>
+<details><summary><b> -¿Quién sos, de dónde y qué edad tenés?</b></summary>
 <div markdown="1">Me llamo Patricia Miguel, soy de Argentina y tengo treinta y tantos años. 😛
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary> -¿Qué estudios universitarios cursaste?</summary>
+<details><summary><b> -¿Qué estudios universitarios cursaste?</b></summary>
 <div markdown="1">Empecé estudiando abogacía (en la [UNLP](http://www.jursoc.unlp.edu.ar){:target="_blank"}) y obtuve mi título en 2007. En 2013 obtuve el de escribanía en la misma universidad, pero ya había decidido que ese no era mi camino y estaba estudiando informática.
 <br />En 2009 comencé la carrera de informática en la [UNNOBA](http://www.unnoba.edu.ar). En 2014 obtuve un título de tecnicatura, de la carrera de "Programador Universitario", y uno de pre-grado, como Analista de Sistemas. Continué estudiando la Licenciatura en Sistemas y terminé con las materias de esta última carrera en 2018, aunque todavía está pendiente mi tesis, que no he podido concretar por cuestiones de tiempo.
   </div>
@@ -168,14 +168,14 @@ También es posible formarse de otras maneras que no impliquen un título univer
 </details>
 
 
-<details><summary> -¿Qué experiencia docente tenés?</summary>
+<details><summary><b> -¿Qué experiencia docente tenés?</b></summary>
 <div markdown="1">En 2010, siendo todavía estudiante, comencé como ayudante de cátedra en dos materias del primer año, comunes a las distintas carreras de informática de la UNNOBA: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaron ese año. Continué siendo ayudante en las dos materias anteriores hasta que, en 2014, tan pronto como obtuve mi título como Analista de Sistemas, empecé a trabajar oficialmente como docente por concurso, hasta 2019. También, a principios de 2021 fui parte del equipo docente de un taller de "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}" de manera virtual.
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary> -¿En qué trabajás, además de la docencia?</summary>
+<details><summary><b> -¿En qué trabajás, además de la docencia?</b></summary>
 <div markdown="1">Actualmente soy desarrolladora backend. Previamente, durante 10 años me dediqué a QA ("Quality Assurance") de software.
   </div>
 <br />&nbsp;
