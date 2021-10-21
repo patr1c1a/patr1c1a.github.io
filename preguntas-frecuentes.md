@@ -107,6 +107,49 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 </details>
 
 
+<details><summary><b> -¿Es realmente tan importante hablar inglés si quiero trabajar como informático?</b></summary>
+<div markdown="1">No sé si es la respuesta que esperabas, pero: sí. Y no solo por escrito sino que es necesario comprender el inglés hablado y también poder hablarlo (tal vez no sea tan importante la perfección, pero sí poder comunicarse fluidamente).
+  
+  Uno de los motivos es que las profesiones relacionadas a tecnología suelen tener un carácter global por naturaleza, por lo que un idioma común nos facilita el intercambio de ideas, opiniones, dudas, etc. (y cuando buscamos información sobre cómo hacer algo siempre querremos acceder a la mayor cantidad de soluciones posibles y evitar barreras idiomáticas).
+  
+  Además, las investigaciones, novedades y los libros más recomendados suelen publicarse en inglés, por lo que, esperar a que alguien publique una traducción a nuestro idioma no suele ser la mejor estrategia si queremos mantenernos actualizados.
+  
+  Sumado a esto, la mayoría de conceptos, nombres técnicos y herramientas son dados en inglés y las traducciones -cuando las hay- suelen ser un poco "toscas" o incluso diferir entre países de habla hispana (un ejemplo es la palabra "array", que en Latinoamérica se traduce como "arreglo" y en España como "vector" o "matriz").
+  
+  Y, dado que el mercado de la tecnología es internacional, es usual trabajar en equipos dispersos con integrantes de distintas partes del mundo, por lo que el inglés viene en nuestra ayuda cuando eso sucede.
+  </div>
+<br />&nbsp;
+</details>
+
+
+<details><summary><b> -¿Cómo puedo empezar a trabajar como informático? ¿Existen otros roles además de "programador" o "desarrollador"?</b></summary>
+<div markdown="1">¡Por supuesto! Y los hay más técnicos o menos técnicos, así como también algunos son más "amigables" con el principiante. Eso sí: como siempre aclaro, en el mundo profesional ayuda mucho hablar inglés, cualquiera sea el puesto al que aspires. Pero no todo es "programar" y no todos los miembros de un equipo de desarrollo de software tienen tareas tan técnicas. 
+  
+  Habitualmente, en los proyectos de software suelen aplicarse "metodologías ágiles" y suele haber ciertos roles -que pueden existir o no- dependiendo de las necesidades, del tamaño del equipo y del tipo de producto. En algunos casos la programación es una habilidad central, en otros es deseable y en otros ni siquiera es necesaria. Por ejemplo, si buscas ser "project manager" será importante que tengas buenas habilidades de comunicación, de liderazgo, de organización y planificación, de manejo de riesgos, etc., y saber programar puede beneficiarte pero normalmente no es un requisito. Si, en cambio, te interesa el camino de QA ("quality assurance" o "quality engineer"), será necesario que tengas pensamiento crítico, atención a los detalles, buena comunicación, y podrías dedicarte únicamente a hacer QA "manual" sin conocimientos de programación, aunque saber programar y otros conocimientos técnicos te abrirían nuevos caminos dentro de esta carrera. Esos son solo dos ejemplos, pero te animo a que investigues otros roles que pueden existir en un equipo de desarrollo y que tal vez te permitan aplicar tus habilidades ya adquiridas:
+  
+  * Business Analyst
+  * Product Owner
+  * Scrum master
+  * Project manager
+  * Diseñador UX / UI
+  * QA (manual, automatizado, y aquí también pueden entrar los expertos en seguridad informática)
+  * Software developer (back-end, front-end, mobile, etc.)
+  * Arquitecto de software
+  * DBA
+  * DevOps
+  * Machine learning engineer
+  </div>
+<br />&nbsp;
+</details>
+
+
+<details><summary><b> -¿Qué habilidades se recomienda tener para iniciarme en el mundo profesional?</b></summary>
+<div markdown="1">Es difícil dar una única respuesta, que además depende del rol que vayas a desempeñar. Aunque siempre hay ciertas técnicas, metodologías y herramientas que están en boga y que pueden ser un buen agregado a nuestro curriculum vitae. Como mencionaba en la respuesta a la pregunta anterior, las metodologías ágiles suelen ser las más elegidas para los proyectos de desarrollo de software, por lo que sera interesante conocer algo sobre ellas, particularmente "scrum", "kanban" y "lean", saber cómo se organiza un equipo y qué se espera de cada integrante, cómo planifican las tareas (usualmente en "sprints"), cuál es el ciclo de vida del software, así como conocer conceptos y terminología generales que nos permitan "hablar un idioma común" con nuestros compañeros, como: "requerimiento", "code freeze", "release candidate", "mvp" ("minium viable product"), "daily scrum" o "daily standup", "poker planning", "backlog", "sprint retrospective", "acceptance criteria", "regression test", "continuous integration", "epics", y seguramente varios más que se me están olvidando en este momento.
+  </div>
+<br />&nbsp;
+</details>
+
+
 
 ---
 
