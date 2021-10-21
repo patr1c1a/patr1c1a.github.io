@@ -156,7 +156,7 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 ### Sobre Programación Desde Cero:
 
 <details><summary><b> -¿Qué es Programación Desde Cero?</b></summary>
-<div markdown="1">Es el espacio a través del cual comparto material educativo sobre programación, especialmente (pero no únicamente) para principiantes. Publico videos en [Youtube](https://www.youtube.com/c/ProgramacionDesdeCero){:target="_blank"} y contenidos breves en redes sociales ([Twitter](https://twitter.com/Programacion_0){:target="_blank"} / [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos){:target="_blank"} / [Instagram](https://www.instagram.com/programaciondesdecero/){:target="_blank"} / [Pinterest](https://www.pinterest.com/ProgramacionDesdeCero/){:target="_blank"}) con conceptos explicados, ejercicios, desafíos, etc. En este blog también pueden verse esos contenidos.
+<div markdown="1">Es el espacio a través del cual comparto material educativo sobre programación e informática, especialmente (pero no únicamente) para principiantes. Publico videos en [Youtube](https://www.youtube.com/c/ProgramacionDesdeCero){:target="_blank"} y contenidos breves en redes sociales ([Twitter](https://twitter.com/Programacion_0){:target="_blank"} / [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos){:target="_blank"} / [Instagram](https://www.instagram.com/programaciondesdecero/){:target="_blank"} / [Pinterest](https://www.pinterest.com/ProgramacionDesdeCero/){:target="_blank"}) con conceptos explicados, ejercicios, desafíos, etc. Este blog nuclea esos contenidos publicados en diferentes otros medios.
   </div>
 <br />&nbsp;
 </details>
@@ -165,14 +165,14 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 <details><summary><b> -¿Cómo empezó?</b></summary>
 <div markdown="1">Alrededor de 2011 comencé publicando en este blog algunos artículos que escribía cuando aún era estudiante de Licenciatura en Sistemas.
 <br />Unos años después hice algunos videos explicativos para mis alumnos de la universidad, sin intenciones de que se utilizaran fuera de ese ámbito.
-<br />Luego decidí crear más contenidos, para compartirlos con cualquier persona que pudiera necesitarlos, y por eso comencé a subir más videos de diferentes temas y a publicar en redes sociales.
+<br />Luego decidí crear más contenidos, para ponerlos a disposición de cualquier persona que pudiera necesitarlos, y por eso comencé a subir más videos de diferentes temas y a publicar en redes sociales, siempre con el ánimo de divulgar, compartir y continuar aprendiendo.
   </div>
 <br />&nbsp;
 </details>
 
 
 <details><summary><b> -¿Quién genera los contenidos de Programación Desde Cero?</b></summary>
-<div markdown="1">Principalmente yo, Patricia 🙂. Aunque siempre estoy recibiendo ayuda de amigos, colegas y ex-compañeros de universidad y laborales, a los que recurro para consultar cuestiones específicas que ellos concen en mayor profundidad y en las que tienen mayor experiencia.
+<div markdown="1">Principalmente yo, Patricia 🙂. Aunque siempre estoy recibiendo ayuda de amigos, colegas y compañeros (o ex-compañeros) de universidad y laborales, a los que recurro para consultar cuestiones específicas que ellos concen en mayor profundidad y en las que tienen mayor experiencia.
   </div>
 <br />&nbsp;
 </details>
