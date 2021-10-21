@@ -59,16 +59,25 @@ La universidad brinda a sus estudiantes un léxico técnico en común y un conte
 
 <details><summary><b> -¿Qué libros son recomendables para aprender a programar o ejercitar programación?</b></summary>
 <div markdown="1">Es necesario tener en cuenta que mucho del material más reconocido se encuentra únicamente en inglés. Por suerte, para algunos títulos existen traducciones al español.
-<br />* [Fundamentos de programación - Luis Joyanes Aguilar](https://books.google.com.ar/books/about/Fundamentos_de_programación.html?id=nrNvPwAACAAJ){:target="_blank"}
+  
+Algunos de estos libros son orientados a aprender las bases de la programación y otros son orientados al ejercicio profesional y las buenas prácticas, pero todos ellos son habitualmente recomendados para desarrolladores principiantes y no tanto:
 <br />* [Introduction To Algorithms - "CLRS"](https://books.google.com.ar/books/about/Introduction_To_Algorithms.html?id=NLngYyWFl_YC){:target="_blank"}
+<br />* [Fundamentos de programación - Luis Joyanes Aguilar](https://books.google.com.ar/books/about/Fundamentos_de_programación.html?id=nrNvPwAACAAJ){:target="_blank"}
 <br />* [C++ How to Program - Paul & Harvey Deitel](https://books.google.com.ar/books/about/C++_how_to_Program.html?id=XIZJNQEACAAJ){:target="_blank"}
+<br />* [The pragmatic programmer - Andrew Hunt, David Thomas](https://books.google.com.ar/books/about/The_Pragmatic_Programmer.html?id=5wBQEp6ruIAC){:target="_blank"}
 <br />* [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/){:target="_blank"}
 <br />* [Código Limpio: Manual de estilo para el desarrollo ágil de software - Robert Martin](https://www.amazon.es/Código-Limpio-desarrollo-software-Programación/dp/8441532109){:target="_blank"}
-  
   </div>
 <br />&nbsp;
 </details>
 
+
+<details><summary><b> -¿Qué recursos en internet pueden ayudarme a aprender o practicar programación?</b></summary>
+<div markdown="1">Por suerte, hay muchísimos. En [mi página de enlaces]({{ site.baseurl }}{% link enlaces.md %}){:target="_blank"} vas a encontrar varios, clasificados por categorías.
+  
+  </div>
+<br />&nbsp;
+</details>
 
 
 <details><summary><b> -¿Qué lenguaje me conviene usar para mi proyecto?</b></summary>
