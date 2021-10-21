@@ -215,7 +215,9 @@ Algunos estudiantes se frustran al encontrarse con obstáculos para iniciarse en
 ### Comprensión de problemas:
 - <a href="https://www.youtube.com/watch?v=Pm_Bt7_j91s" target="_blank">Estrategias de comprensión lectora (video)</a>
 - <a href="http://www.etitulo.com/mejora-tu-comprension-lectora/" target="_blank">Mejora tu comprensión lectora</a>
-- <a href="http://www.ricardovazquez.es/MATEMATICASarchivos/PROBLEMAS/PR06%20MejorarCompren/TallerProbMejorar%20comprension.ppt" target="_blank">Tareas para mejorar la comprensión (descarga de archivo)</a>
+- <a href="http://www.ricardovazquez.es/03%20PROBLEMAS/IndexProble6%20compren.html" target="_blank">Comprensión del enunciados</a>
+- <a href="https://www.reporterositalia-edvideo.difusion.com/files/strategie.pdf" target="_blank">Estrategias de aprendizaje</a>
+
 
 ### Conceptos básicos de matemática:
 - <a href="https://www.youtube.com/watch?v=OOyrtBuyt30" target="_blank">Representación gráfica de porcentajes: definición (video)</a>
