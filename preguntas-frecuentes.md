@@ -107,12 +107,12 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 </details>
 
 
-<details><summary><b> -¿Es realmente tan importante hablar inglés si quiero trabajar como informático?</b></summary>
+<details><summary><b> -¿Es realmente tan importante hablar inglés si quiero trabajar en informática?</b></summary>
 <div markdown="1">No sé si es la respuesta que esperabas, pero: sí. Y no solo por escrito sino que es necesario comprender el inglés hablado y también poder hablarlo (tal vez no sea tan importante la perfección, pero sí poder comunicarse fluidamente).
   
-  Uno de los motivos es que las profesiones relacionadas a tecnología suelen tener un carácter global por naturaleza, por lo que un idioma común nos facilita el intercambio de ideas, opiniones, dudas, etc. (y cuando buscamos información sobre cómo hacer algo siempre querremos acceder a la mayor cantidad de soluciones posibles y evitar barreras idiomáticas).
+  Uno de los motivos es que las profesiones relacionadas a tecnología suelen tener un carácter global por naturaleza, por lo que un idioma común nos facilita el intercambio de ideas, opiniones, dudas, etc. Y, cuando buscamos información sobre cómo hacer algo, siempre querremos acceder a la mayor cantidad de soluciones posibles, sin barreras idiomáticas.
   
-  Además, las investigaciones, novedades y los libros más recomendados suelen publicarse en inglés, por lo que, esperar a que alguien publique una traducción a nuestro idioma no suele ser la mejor estrategia si queremos mantenernos actualizados.
+  Además, las investigaciones, novedades y los libros más recomendados suelen publicarse en inglés, por lo que, esperar a que esté disponible una traducción a nuestro idioma no suele ser la mejor estrategia si queremos mantenernos actualizados.
   
   Sumado a esto, la mayoría de conceptos, nombres técnicos y herramientas son dados en inglés y las traducciones -cuando las hay- suelen ser un poco "toscas" o incluso diferir entre países de habla hispana (un ejemplo es la palabra "array", que en Latinoamérica se traduce como "arreglo" y en España como "vector" o "matriz").
   
