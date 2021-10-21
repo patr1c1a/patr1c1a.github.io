@@ -31,6 +31,10 @@ Click sobre una pregunta para desplegar su respuesta:
 <div markdown="1">El lenguaje no es lo más importante cuando se está comenzando a programar. Lo central es afianzar los conocimientos sobre fundamentos de la programación, algoritmos y estructuras de datos, que pueden luego trasladarse a cualquier lenguaje. El razonamiento lógico y las habilidades de resolución de problemas son cruciales en la programación, y eso se adquiere con ejercitación, donde el lenguaje es solo una herramienta para poder implementar.
   
   Es posible aprender los fundamentos de la programación sin utilizar un lenguaje específico, por ejemplo mediante pseudocódigo con [PSeInt](http://pseint.sourceforge.net/){:target="_blank"} o usando programación por bloques, como los desafíos que propone [Pilas Bloques](http://pilasbloques.program.ar/){:target="_blank"} ([en esta lista he publicado varios videos explicativos](https://www.youtube.com/watch?v=9Q9zMx3BeUo&list=PLb_E6BNMg5j5gJoXwKJw_19t0zmpYMGy7){:target="_blank"}) o la herramienta [MIT App Inventor](http://ai2.appinventor.mit.edu/){:target="_blank"} ([en esta serie de videos explico cómo desarrollar una aplicación móvil](https://www.youtube.com/watch?v=rDzScjlWLg8&list=PLb_E6BNMg5j6Zk9uw_bTn3_GSSkhmj-CT){:target="_blank"}). 
+  
+  Luego podremos decidir qué camino nos interesaría recorrer -de acuerdo al rol que nos gustaría desempeñar- y buscar algún lenguaje y algún framework útil para ese fin. Por ejemplo, si nos interesa dedicarnos a "QA automation", veremos que hay frameworks como Selenium, Cypress, TestCafe y otros, que corren sobre diversos lenguajes de programación. Será cuestión de seleccionar uno (con algún criterio, que podría ser el gusto personal o también la demanda del mercado laboral).
+  
+  Siempre recordemos que el lenguaje es solo una herramienta para lograr un fin, por eso es importante que primero definamos nuestro objetivo y luego busquemos el lenguaje que mejor se adapte. Mientras tanto, los conocimientos de base y los fundamentos de la programación son temáticas comunes que nos van a ayudar independientemente del lenguaje y tecnologías que elijamos.
   </div>
 <br />&nbsp;
 </details>
