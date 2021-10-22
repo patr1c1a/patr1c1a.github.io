@@ -34,7 +34,7 @@ Click sobre una pregunta para desplegar su respuesta:
   
   Luego podremos decidir qué camino nos interesaría recorrer -de acuerdo al rol que nos gustaría desempeñar- y buscar algún lenguaje y algún framework útil para ese fin. Por ejemplo, si nos interesa dedicarnos a "QA automation", veremos que hay frameworks como Selenium, Cypress, TestCafe y otros, que corren sobre diversos lenguajes de programación. Será cuestión de seleccionar uno (con algún criterio, que podría ser el gusto personal o también la demanda del mercado laboral).
   
-  Siempre recordemos que el lenguaje es solo una herramienta para lograr un fin, por eso es importante que primero definamos nuestro objetivo y luego busquemos el lenguaje que mejor se adapte. Mientras tanto, los conocimientos de base y los fundamentos de la programación son temáticas comunes que nos van a ayudar independientemente del lenguaje y tecnologías que elijamos.
+  Siempre recordemos que el lenguaje es solo una herramienta para lograr un fin, por eso es importante que primero definamos nuestro objetivo y luego busquemos las herramientas que mejor se adapten. Mientras tanto, los conocimientos de base y los fundamentos de la programación son temáticas comunes que nos van a ayudar independientemente del lenguaje y tecnologías que elijamos.
   </div>
 <br />&nbsp;
 </details>
@@ -126,7 +126,7 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 </details>
 
 
-<details><summary><b> -¿Cómo puedo empezar a trabajar como informático? ¿Existen otros roles además de "programador" o "desarrollador"?</b></summary>
+<details><summary><b> -¿Cómo puedo empezar a trabajar en informática? ¿Existen otros roles además de "programador" o "desarrollador"?</b></summary>
 <div markdown="1">¡Por supuesto! Y los hay más técnicos o menos técnicos, así como también algunos son más "amigables" con el principiante. Eso sí: como siempre aclaro, en el mundo profesional ayuda mucho hablar inglés, cualquiera sea el puesto al que aspires. Pero no todo es "programar" y no todos los miembros de un equipo de desarrollo de software tienen tareas tan técnicas. 
   
   Habitualmente, en los proyectos de software suelen aplicarse "metodologías ágiles" y suele haber ciertos roles -que pueden existir o no- dependiendo de las necesidades, del tamaño del equipo y del tipo de producto. En algunos casos la programación es una habilidad central, en otros es deseable y en otros ni siquiera es necesaria. Por ejemplo, si buscas ser "project manager" será importante que tengas buenas habilidades de comunicación, de liderazgo, de organización y planificación, de manejo de riesgos, etc., y saber programar puede beneficiarte pero normalmente no es un requisito. Si, en cambio, te interesa el camino de QA ("quality assurance" o "quality engineer"), será necesario que tengas pensamiento crítico, atención a los detalles, buena comunicación, y podrías dedicarte únicamente a hacer QA "manual" sin conocimientos de programación, aunque saber programar y otros conocimientos técnicos te abrirían nuevos caminos dentro de esta carrera. Esos son solo dos ejemplos, pero te animo a que investigues otros roles que pueden existir en un equipo de desarrollo y que tal vez te permitan aplicar tus habilidades ya adquiridas o se ajusten más a tus intereses. Por mencionar algunos ejemplos:
