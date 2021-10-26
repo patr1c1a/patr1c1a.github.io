@@ -72,12 +72,17 @@ La universidad brinda a sus estudiantes un léxico técnico en común y un conte
 <div markdown="1">Es necesario tener en cuenta que mucho del material más reconocido se encuentra únicamente en inglés. Por suerte, para algunos títulos existen traducciones al español.
   
 Algunos de estos libros son orientados a aprender las bases de la programación y otros son orientados al ejercicio profesional y las buenas prácticas, pero todos ellos son habitualmente recomendados para desarrolladores principiantes y no tanto:
-<br />* [Introduction To Algorithms - "CLRS"](https://books.google.com.ar/books/about/Introduction_To_Algorithms.html?id=NLngYyWFl_YC){:target="_blank"}
-<br />* [Fundamentos de programación - Luis Joyanes Aguilar](https://books.google.com.ar/books/about/Fundamentos_de_programación.html?id=nrNvPwAACAAJ){:target="_blank"}
-<br />* [C++ How to Program - Paul & Harvey Deitel](https://books.google.com.ar/books/about/C++_how_to_Program.html?id=XIZJNQEACAAJ){:target="_blank"}
-<br />* [The pragmatic programmer - Andrew Hunt, David Thomas](https://books.google.com.ar/books/about/The_Pragmatic_Programmer.html?id=5wBQEp6ruIAC){:target="_blank"}
+<br />* [Introduction To Algorithms - "CLRS"](https://books.google.com.ar/books?id=NLngYyWFl_YC){:target="_blank"}
+<br />* [Fundamentos de programación - Luis Joyanes Aguilar](https://books.google.com.ar/books?id=nrNvPwAACAAJ){:target="_blank"}
+<br />* [C++ How to Program - Paul & Harvey Deitel](https://books.google.com.ar/books?id=XIZJNQEACAAJ){:target="_blank"}
 <br />* [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/){:target="_blank"}
+<br />* [Head First Design Patterns - Eric Freeman, Elisabeth Robson, Elisabeth Freeman, Kathy Sierra, Bert Bates](https://books.google.com.ar/books/about/Head_First_Design_Patterns.html?id=GGpXN9SMELMC){:target="_blank"}
+<br />* [Agile Software Development: Principles, Patterns, and Practices - Robert Martin](https://books.google.com.ar/books?id=0HYhAQAAIAAJ){:target="_blank"}
+<br />* [The pragmatic programmer - Andrew Hunt, David Thomas](https://books.google.com.ar/books?id=5wBQEp6ruIAC){:target="_blank"}
 <br />* [Código Limpio: Manual de estilo para el desarrollo ágil de software - Robert Martin](https://www.amazon.es/Código-Limpio-desarrollo-software-Programación/dp/8441532109){:target="_blank"}
+  
+  
+  
   </div>
 <br />&nbsp;
 </details>
