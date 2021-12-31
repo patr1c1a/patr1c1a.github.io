@@ -1,6 +1,6 @@
 ---
 layout: post
-title: APIs: REST vs. SOAP
+title: APIs REST vs. SOAP
 date: 2021-12-30 12:00:00
 categories: conceptos
 tags: api rest soap
