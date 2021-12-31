@@ -249,7 +249,7 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 ### Sobre mí:
 
 <details><summary><b> -¿Quién sos, de dónde y qué edad tenés?</b></summary>
-<div markdown="1">Me llamo Patricia Miguel, soy de Argentina y tengo treinta y tantos años. 😛
+<div markdown="1">Me llamo Patricia Miguel, soy de Argentina, fan de los Simpson, de El Señor de los Anillos y de todo lo nerd 😛.
   </div>
 <br />&nbsp;
 </details>
@@ -264,14 +264,14 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 
 
 <details><summary><b> -¿Qué experiencia docente tenés?</b></summary>
-<div markdown="1">En 2010, siendo todavía estudiante, comencé como ayudante de cátedra en dos materias del primer año, comunes a las distintas carreras de informática de la UNNOBA: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaron ese año. Continué siendo ayudante en las dos materias anteriores hasta que, en 2014, tan pronto como obtuve mi título como Analista de Sistemas, empecé a trabajar oficialmente como docente por concurso, hasta 2019. También, a principios de 2021 fui parte del equipo docente de un taller de "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}" de manera virtual.
+<div markdown="1">En 2010, siendo todavía estudiante, comencé como ayudante de cátedra en dos materias del primer año de la universidad, comunes a las distintas carreras de informática: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaron la universidad ese año. Continué siendo ayudante en las dos materias anteriores hasta que, en 2014, tan pronto como obtuve mi título como Analista de Sistemas, empecé a trabajar oficialmente como docente por concurso, hasta 2019. Fuera del ámbito universitario, a principios de 2021 fui parte del equipo docente de un taller virtual del "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}".
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary><b> -¿En qué trabajás, además de la docencia?</b></summary>
-<div markdown="1">Actualmente soy desarrolladora backend. Previamente, durante 10 años me dediqué a QA ("Quality Assurance") de software.
+<details><summary><b> -¿En qué trabajás?</b></summary>
+<div markdown="1">Actualmente soy desarrolladora backend. Previamente, durante 10 años me dediqué a QA ("Quality Assurance") de software y di clases de programación en la universidad de mi ciudad.
   </div>
 <br />&nbsp;
 </details>
