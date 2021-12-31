@@ -1,10 +1,10 @@
 ---
 layout: post
 title: APIs: REST vs. SOAP
-date: 2021-07-04 12:00:00
+date: 2021-12-30 12:00:00
 categories: conceptos
-tags: arreglo array
-published: false
+tags: api rest soap
+published: true
 ---
 
 
