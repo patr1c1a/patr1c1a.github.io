@@ -8,7 +8,7 @@ published: true
 ---
 
 
-Sé que he estado un tiempo sin publicar pero no quería despedir el año sin compartirles algún nuevo material ☺.
+Sé que he estado un tiempo sin publicar pero no quería despedir el año sin compartirles algún nuevo material 😊.
 
 Aquí, un pequeño resumen sobre APIs REST y SOAP. Estas no son las únicas formas de construir una API, pero sí dos de las más populares. Aunque REST sea la que ha ganado más terreno, existen aún muchas APIs SOAP.
 
