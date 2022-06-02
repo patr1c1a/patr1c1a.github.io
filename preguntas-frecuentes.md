@@ -248,30 +248,30 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 
 ### Sobre mí:
 
-<details><summary><b> -¿Quién sos, de dónde y qué edad tenés?</b></summary>
-<div markdown="1">Me llamo Patricia Miguel, soy de Argentina, fan de los Simpson, de El Señor de los Anillos y de todo lo nerd 😛.
+<details><summary><b> -¿Quién crea este sitio web y el canal de Youtube?</b></summary>
+<div markdown="1">Me llamo Patricia Miguel y soy de Argentina.
   </div>
 <br />&nbsp;
 </details>
 
 
 <details><summary><b> -¿Qué estudios universitarios cursaste?</b></summary>
-<div markdown="1">Empecé estudiando abogacía (en la [UNLP](http://www.jursoc.unlp.edu.ar){:target="_blank"}) y obtuve mi título en 2007. En 2013 obtuve el de escribanía en la misma universidad, pero ya había decidido que ese no era mi camino y estaba estudiando informática.
-<br />En 2009 comencé la carrera de informática en la [UNNOBA](http://www.unnoba.edu.ar). En 2014 obtuve un título de tecnicatura, de la carrera de "Programador Universitario", y uno de pre-grado, como Analista de Sistemas. Continué estudiando la Licenciatura en Sistemas y terminé con las materias de esta última carrera en 2018, aunque todavía está pendiente mi tesis, que no he podido concretar por cuestiones de tiempo.
+<div markdown="1">Después de graduarme en la facultad de ciencias jurídicas de la [UNLP](http://www.jursoc.unlp.edu.ar){:target="_blank"} y descubrir que no era lo mío, volví a la universidad para estudiar informática en la [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}). Comencé por obtener títulos intermedios, de "Programador Universitario" y "Analista de Sistemas". Continué estudiando para obtener ese título de grado de Licenciatura en Sistemas.
   </div>
 <br />&nbsp;
 </details>
 
 
 <details><summary><b> -¿Qué experiencia docente tenés?</b></summary>
-<div markdown="1">En 2010, siendo todavía estudiante, comencé como ayudante de cátedra en dos materias del primer año de la universidad, comunes a las distintas carreras de informática: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaron la universidad ese año. Continué siendo ayudante en las dos materias anteriores hasta que, en 2014, tan pronto como obtuve mi título como Analista de Sistemas, empecé a trabajar oficialmente como docente por concurso, hasta 2019. Fuera del ámbito universitario, a principios de 2021 fui parte del equipo docente de un taller virtual del "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}".
+<div markdown="1">En 2010, siendo todavía estudiante, comencé como ayudante de cátedra en dos materias del primer año de la universidad, comunes a las distintas carreras de informática: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaron la universidad ese año. Continué en las dos materias que mencioné al principio hasta que, en 2014 empecé a trabajar oficialmente como docente, hasta 2019.
+  <br />Fuera del ámbito universitario, a principios de 2021 fui parte del equipo docente de un taller virtual del "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}".
   </div>
 <br />&nbsp;
 </details>
 
 
 <details><summary><b> -¿En qué trabajás?</b></summary>
-<div markdown="1">Actualmente soy desarrolladora backend. Previamente, durante 10 años me dediqué a QA ("Quality Assurance") de software y di clases de programación en la universidad de mi ciudad.
+<div markdown="1">Actualmente soy desarrolladora de software. Previamente, durante 10 años me dediqué a QA ("Quality Assurance") de software y di clases de programación en la universidad de mi ciudad.
   </div>
 <br />&nbsp;
 </details>
