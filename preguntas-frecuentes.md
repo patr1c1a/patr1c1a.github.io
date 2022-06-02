@@ -263,7 +263,7 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 
 
 <details><summary><b> -¿Qué experiencia docente tenés?</b></summary>
-<div markdown="1">En 2010, siendo todavía estudiante, comencé como ayudante de cátedra en dos materias del primer año de la universidad, comunes a las distintas carreras de informática: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaron la universidad ese año. Continué en las dos materias que mencioné al principio hasta que, en 2014 empecé a trabajar oficialmente como docente, hasta 2019.
+<div markdown="1">En 2010, siendo todavía estudiante en [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}, comencé allí mismo como ayudante de cátedra en dos materias del primer año de la universidad, comunes a distintas carreras de informática: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaban a estudiar ese año. Continué en las dos materias mencionadas al principio hasta que, en 2014 empecé a trabajar oficialmente como docente, hasta 2019.
   <br />Fuera del ámbito universitario, a principios de 2021 fui parte del equipo docente de un taller virtual del "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}".
   </div>
 <br />&nbsp;
