@@ -256,7 +256,7 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 
 
 <details><summary><b> -¿Qué estudios universitarios cursaste?</b></summary>
-<div markdown="1">Después de graduarme en la facultad de ciencias jurídicas de la [UNLP](http://www.jursoc.unlp.edu.ar){:target="_blank"} y descubrir que no era lo mío, volví a la universidad para estudiar informática en la [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}). Comencé por obtener títulos intermedios, de "Programador Universitario" y "Analista de Sistemas". Continué estudiando para obtener ese título de grado de Licenciatura en Sistemas.
+<div markdown="1">Después de graduarme en la facultad de ciencias jurídicas de la [UNLP](http://www.jursoc.unlp.edu.ar){:target="_blank"} y descubrir que no era lo mío, volví a la universidad para estudiar informática en la [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}. Comencé por obtener dos títulos intermedios ("Programador Universitario" y "Analista de Sistemas") y continué estudiando para llegar al título de grado de Licenciatura en Sistemas.
   </div>
 <br />&nbsp;
 </details>
