@@ -9,7 +9,8 @@ published: true
 
 
 Una interesante opción que ofrece Python para contar las ocurrencias de cada elemento de un contenedor.
-A tener en cuenta: con la primera opción obtenemos un diccionario mientras que, con la segunda, obtenemos un objeto de tipo collections.Counter 🤓
+
+A tener en cuenta: con la primera alternativa obtenemos un diccionario mientras que, con la segunda, obtenemos un objeto de tipo collections.Counter 🤓
 
 Para saber más: [https://docs.python.org/3/library/collections.html#collections.Counter](https://docs.python.org/3/library/collections.html#collections.Counter)
 
