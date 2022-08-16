@@ -11,7 +11,7 @@ published: true
 La diferencia entre URI, URN y URL puede ser solo una cuestión conceptual, pero siempre es bueno saber diferenciarlos (especialmente si nos lo preguntan en una entrevista laboral 😀).
 
 
-![URI, URN, URL]({{ site.url }}/assets/2022-08-16-uri-url-urn)
+![URI, URN, URL]({{ site.url }}/assets/2022-08-16-uri-url-urn.png)
 
 
 {% include accesibilidad.html %}
