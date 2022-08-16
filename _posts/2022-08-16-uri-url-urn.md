@@ -4,7 +4,7 @@ title: URI, URN, URL. ¿Qué son?
 date: 2022-08-16 12:00:00
 categories: conceptos
 tags: uri url urn
-published: false
+published: true
 ---
 
 
