@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ejercicio de complejidad algorítmica (resuelto)
-date: 2022-08-20 12:00:00
+date: 2022-08-15 12:00:00
 categories: ejercicios
 tags: python complejidad
 published: true
@@ -53,6 +53,16 @@ Su complejidad es O(n). El bucle que itera por los n elementos de la lista nos d
 
 </div></details>
 
+### 🔸 Código ejecutable (medición del tiempo de ejecución de cada algoritmo), en Python y C++:
 
+[Python](https://jdoodle.com/a/52bm){:target="_blank"}
+
+{% include codeEditor.html id="52bm?stdin=0&arg=0&rw=1" %}
+
+<br />
+
+[C++](https://jdoodle.com/a/52ca){:target="_blank"}
+
+{% include codeEditor.html id="52ca?stdin=0&arg=0&rw=1" %}
 
 <hr />
