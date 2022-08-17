@@ -12,7 +12,7 @@ Sabemos que, para un mismo problema, pueden existir varias soluciones. ¡Pero ha
 
 
 
-[Click acá para recordar conceptos de complejidad algorítmica](https://rebrand.ly/complejidad_algoritmica)
+[Click acá para ver info sobre complejidad algorítmica](https://rebrand.ly/complejidad_algoritmica)
 
 
 ![Ejercicio de complejidad algorítmica, resuelto]({{ site.url }}/assets/2022-08-20-ejercicio-complejidad.png)
@@ -53,16 +53,6 @@ Su complejidad es O(n). El bucle que itera por los n elementos de la lista nos d
 
 </div></details>
 
-### 🔸 Código ejecutable (medición del tiempo de ejecución de cada algoritmo), en Python y C++:
 
-[Python](https://jdoodle.com/a/52bm){:target="_blank"}
-
-{% include codeEditor.html id="52bm?stdin=0&arg=0&rw=1" %}
-
-<br />
-
-[C++](https://jdoodle.com/a/52ca){:target="_blank"}
-
-{% include codeEditor.html id="52ca?stdin=0&arg=0&rw=1" %}
 
 <hr />
