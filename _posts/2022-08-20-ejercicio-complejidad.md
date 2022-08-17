@@ -2,13 +2,13 @@
 layout: post
 title: Ejercicio de complejidad algorítmica (resuelto)
 date: 2022-08-20 12:00:00
-categories: ejercicios python
+categories: ejercicios
 tags: python complejidad
 published: true
 ---
 
 
-Sabemos que, para un mismo problema, pueden existir varias soluciones. ¡Pero hay soluciones más eficientes que otras! Acá vemos un ejemplo (escrito en lenguaje Python, pero el ejemplo es válido para otros lenguajes).
+Sabemos que, para un mismo problema, pueden existir varias soluciones. ¡Pero hay soluciones más eficientes que otras! Acá vemos un ejemplo (escrito en lenguaje Python, pero el ejemplo es válido para otros lenguajes). Más abajo puede verse el código ejecutable en Python y también en C++, con medición del tiempo de ejecución de ambas versiones del algoritmo.
 
 
 
@@ -53,7 +53,7 @@ Su complejidad es O(n). El bucle que itera por los n elementos de la lista nos d
 
 </div></details>
 
-### 🔸 Código ejecutable (medición del tiempo de ejecución de cada algoritmo):
+### 🔸 Código ejecutable (medición del tiempo de ejecución de cada algoritmo), en Python y C++:
 
 [Python](https://jdoodle.com/a/52bm){:target="_blank"}
 
