@@ -2,7 +2,7 @@
 layout: post
 title: La complejidad algorítmica
 date: 2019-09-04 21:00:00
-categories: otros
+categories: conceptos
 tags: algoritmos complejidad bigO
 published: true
 ---
