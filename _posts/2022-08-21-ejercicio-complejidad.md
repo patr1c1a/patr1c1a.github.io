@@ -16,7 +16,7 @@ Más abajo puede verse el código ejecutable en Python y también en C++, con me
 [Click acá para ver info sobre complejidad algorítmica]({% post_url 2019-09-04-complejidad-algoritmica %})
 
 
-![Ejercicio de complejidad algorítmica, resuelto]({{ site.url }}/assets/2022-08-20-ejercicio-complejidad.png)
+![Ejercicio de complejidad algorítmica, resuelto]({{ site.url }}/assets/2022-08-21-ejercicio-complejidad.png)
 
 
 {% include accesibilidad.html %}
