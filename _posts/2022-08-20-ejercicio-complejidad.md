@@ -53,11 +53,16 @@ Su complejidad es O(n). El bucle que itera por los n elementos de la lista nos d
 
 </div></details>
 
-### 🔸 Código ejecutable:
+### 🔸 Código ejecutable (medición del tiempo de ejecución de cada algoritmo):
 
 [Python](https://jdoodle.com/a/52bm){:target="_blank"}
 
 {% include codeEditor.html id="52bm?stdin=0&arg=0&rw=1" %}
 
+<br />
+
+[C++](https://jdoodle.com/a/52ca){:target="_blank"}
+
+{% include codeEditor.html id="52ca?stdin=0&arg=0&rw=1" %}
 
 <hr />
