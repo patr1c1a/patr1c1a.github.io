@@ -9,7 +9,7 @@ published: false
 
 La diferencia entre lenguajes "compilados" e "interpretados" influye en sus prestaciones, su velocidad de ejecución y su flexibilidad. Mientras que un compilador traduce el código para que pueda ejecutarlo el procesador, un intérprete lo ejecuta directamente.
 
-De todas formas, muchos lenguajes tienen partes compiladas y partes interpretadas (como Java, que debe compilarse a "byte-code" y luego una máquina virtual -la JVM- lo interpreta).
+De todas formas, muchos lenguajes tienen partes compiladas y partes interpretadas (como Java, que debe compilarse a "byte-code" para que luego una máquina virtual -la JVM- lo interprete).
 
 Otras publicaciones relacionadas:
 
