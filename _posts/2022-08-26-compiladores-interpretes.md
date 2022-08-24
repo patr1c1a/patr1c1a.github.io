@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Compiladores e intérpretes
-date: 2022-08-26 12:00:00
+date: 2022-08-26 21:00:00
 categories: conceptos
 tags: compiladores intérpretes
-published: false
+published: true
 ---
 
 La diferencia entre lenguajes "compilados" e "interpretados" suele influir en sus prestaciones, su velocidad de ejecución y su flexibilidad. Mientras que un compilador traduce el código para que pueda ejecutarlo el procesador, un intérprete lo ejecuta directamente.
