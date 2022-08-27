@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Compiladores e intérpretes
-date: 2022-08-26 21:00:00
+date: 2022-08-26 21:00:00 -0300
 categories: conceptos
 tags: compiladores intérpretes
 published: true
