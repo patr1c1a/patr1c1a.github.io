@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 13 de septiembre de 2022, día del programador
-date: 2022-09-13 21:00:00 -0300
+date: 2022-09-13 18:00:00 -0300
 categories: otros
 tags: 
 published: true
@@ -20,7 +20,7 @@ Sabemos que celebramos el día 256 del año por aquello de que es la cantidad de
 
 El "día del programador" se celebra el día número 256 de cada año.
 
-Se eligió el 256 (que equivale a 28) porque es la cantidad de elementos que pueden representarse con un byte de 8 bits.
+Se eligió el 256 (que equivale a 2<sup>8</sup>) porque es la cantidad de elementos que pueden representarse con un byte de 8 bits.
 
 </div></details>
 
