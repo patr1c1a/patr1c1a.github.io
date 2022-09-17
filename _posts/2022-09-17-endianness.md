@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arquitecturas "little-endian" y "big-endian"
-date: 2022-09-17 21:00:00 -0300
+date: 2022-09-17 22:00:00 -0300
 categories: conceptos
 tags: big-endian little-endian
 published: true
