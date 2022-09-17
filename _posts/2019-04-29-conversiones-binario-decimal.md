@@ -2,7 +2,7 @@
 layout: post
 title: Conversión binario-decimal
 date: 2019-04-29 11:30:00
-categories: conceptos
+categories: otros
 tags: herramientas resumen
 published: true
 ---
