@@ -7,7 +7,7 @@ tags: microservicios monolito
 published: true
 ---
 
-Una de las primeras grandes aplicaciones en usar microservicios fue Netflix, en 2009, cuando notó problemas para mantener la creciente demanda en su arquitectura monolítica. Imaginen una aplicación con tantos usuarios, donde se produjera un bug severo que provocara la interrupción del servicio completo.. 😨
+Una de las primeras grandes aplicaciones en usar microservicios fue Netflix, en 2009, cuando notó problemas para mantener la creciente demanda en su arquitectura monolítica. Imaginen una aplicación con tantos usuarios, donde se produjera un bug severo que provocara la interrupción del servicio completo 😨.
 
 Hoy la arquitectura de la mayoría de las grandes aplicaciones está conformada por microservicios que trabajan como módulos independientes y facilitan el mantenimiento, la utilización de integración continua, la ampliación de las funciones, etc.
 
