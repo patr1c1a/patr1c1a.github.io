@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Álgebra de Boole
-date: 2022-11-13 22:00:00 -0300
+date: 2022-11-13 13:00:00 -0300
 categories: conceptos
 tags: boole circuitos
 published: true
