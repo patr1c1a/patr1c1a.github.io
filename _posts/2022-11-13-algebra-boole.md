@@ -7,7 +7,7 @@ tags: boole circuitos
 published: true
 ---
 
-Aunque parezca un tema más apropiado para expertos en matemática o electrónica, el álgebra de Boole nos permite analizar los circuitos lógicos digitales. En palabras no muy técnicas, un circuito electrónico es algo que conduce electricidad, y puede estar abierto (la deja pasar) o cerrado (no la deja). Esto puede representarse en dos estados: 0 y 1, lo cual permite aplicar un sistema binario. Ahora ya nos suena un poco más relacionado a las computadoras, ¿no? 😉
+Aunque parezca un tema más apropiado para expertos en matemática o electrónica, el álgebra de Boole nos permite analizar los circuitos lógicos digitales. En palabras no muy técnicas, un circuito electrónico es algo que conduce electricidad, y puede estar cerrado (la deja pasar) o abierto (no la deja). Esto puede representarse en dos estados: 0 y 1, lo cual permite aplicar un sistema binario. Ahora ya nos suena un poco más relacionado a las computadoras, ¿no? 😉
 
 
 ![Microservicios vs. "monolito"]({{ site.url }}/assets/2022-11-13-algebra-boole.png)
