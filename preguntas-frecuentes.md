@@ -282,7 +282,7 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 
 Antes que nada, muchas gracias por el aprecio. ❤️
 
-La mayoría de los contenidos que publico son gratuitos pero, si te resultan útiles y quisieras brindar tu apoyo, podrías [<b>invitarme un "matecito"</b>](https://www.matecito.co/ProgramacionDesdeCero){:target="_blank"} (admite Mercadopago/Paypal/Bitcoin), un [<b>"cafecito"</b>](https://cafecito.app/programaciondesde0){:target="_blank"} (Mercadopago/Bitcoin) o, [<b>también mediante Paypal</b>](https://www.paypal.com/donate/?hosted_button_id=NVEMP8C2B7238){:target="_blank"}.
+La mayoría de los contenidos que publico son gratuitos pero, si te resultan útiles y quisieras brindar tu apoyo, podrías [<b>invitarme un "matecito"</b>](https://www.matecito.co/ProgramacionDesdeCero){:target="_blank"} (admite Mercadopago/Paypal/Bitcoin), un [<b>"cafecito"</b>](https://cafecito.app/programaciondesde0){:target="_blank"} (Mercadopago/Bitcoin), o también mediante [<b>Paypal</b>](https://www.paypal.com/donate/?hosted_button_id=NVEMP8C2B7238){:target="_blank"}.
 
 
 
