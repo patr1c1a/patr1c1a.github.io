@@ -298,9 +298,10 @@ La mayoría de los contenidos que publico son gratuitos pero, si te resultan út
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="NVEMP8C2B7238" />
-<input type="image" src="https://pics.paypal.com/00/s/N2ZlNTVhOGItYThiNS00Y2Q0LWIwNTQtNDgzZGEwY2U4Nzg3/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<input type="image" src="https://pics.paypal.com/00/s/MGIzNWNjYjMtOWUzMi00NDBkLWI1NmQtZjIyNTNlOWVmMTdk/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_AR/i/scr/pixel.gif" width="1" height="1" />
 </form>
+
 
 
 
