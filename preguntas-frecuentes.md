@@ -282,7 +282,7 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 
 Antes que nada, muchas gracias por el aprecio. ❤️
 
-La mayoría de los contenidos que publico son gratuitos pero, si te resultan útiles y quisieras brindar tu apoyo, podrías [<b>invitarme un "matecito" (admite Mercadopago/Paypal/Bitcoin)</b>](https://www.matecito.co/ProgramacionDesdeCero){:target="_blank"}, un [<b>"cafecito"</b>](https://cafecito.app/programaciondesde0) o, [<b>también mediante Paypal</b>](https://www.paypal.com/donate/?hosted_button_id=NVEMP8C2B7238){:target="_blank"}.
+La mayoría de los contenidos que publico son gratuitos pero, si te resultan útiles y quisieras brindar tu apoyo, podrías [<b>invitarme un "matecito"</b>](https://www.matecito.co/ProgramacionDesdeCero){:target="_blank"} (admite Mercadopago/Paypal/Bitcoin), un [<b>"cafecito"</b>](https://cafecito.app/programaciondesde0){:target="_blank"} (Mercadopago/Bitcoin) o, [<b>también mediante Paypal</b>](https://www.paypal.com/donate/?hosted_button_id=NVEMP8C2B7238){:target="_blank"}.
 
 
 
@@ -298,10 +298,9 @@ La mayoría de los contenidos que publico son gratuitos pero, si te resultan út
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="NVEMP8C2B7238" />
-<input type="image" src="https://pics.paypal.com/00/s/MGIzNWNjYjMtOWUzMi00NDBkLWI1NmQtZjIyNTNlOWVmMTdk/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<input type="image" src="https://pics.paypal.com/00/s/MDEyYTZhYzAtYjk3Zi00MWVhLWExZjYtZjM5NjkyNjllZDBk/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_AR/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
 
 
 
