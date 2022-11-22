@@ -4,7 +4,7 @@ title: Desafío Java número 6
 date: 2022-11-22 22:00:00 -0300
 categories: desafios java
 tags: strings
-published: false
+published: true
 ---
 Como varias personas me pidieron otro desafío Java, acá va uno, en este caso con strings 😎.
 
@@ -13,8 +13,8 @@ Como varias personas me pidieron otro desafío Java, acá va uno, en este caso c
 <br />✅ La respuesta correcta es la c: muestra el texto "veremos".
 <br />
 <br />✏️ Explicación: 
-<br />Este método permite truncar una cadena de caracteres a la longitud pasada por parámetro. De esta forma, cualquiera sea el String dado en el primer parámetro, si su longitud es mayor que la dada en el segundo parámetro, retornará desde el carácter en la posición 0 hasta el de la posición dada por "longitud".
-<br />¿Y por qué ponemos el primer "if", si con solo indicar `return cadena.substring(0, longitud);` se puede lograr lo mismo? En este caso, solo es una cuestión de legibilidad. Al describir el caso en que la longitud de la cadena no alcanza la longitud límite para "cortar" el string, se hace mucho más evidente cuál es el objetivo de este algoritmo.
+<br />Este método permite truncar una cadena de caracteres a la longitud máxima pasada por parámetro. De esta forma, cualquiera sea el string dado en el primer parámetro, si su longitud es mayor que la longitud máxima dada en el segundo parámetro, retornará desde el carácter en la posición 0 hasta el de la posición dada por ese máximo.
+<br />La condición del "if" prevee el caso en que la longitud máxima dada sea mayor que la de la cadena (por ejemplo, si los argumentos fueran la cadena "hola" y la longitud 12), para evitar una excepción de tipo StringIndexOutOfBoundsException.
 <br /><div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/5wLc){:target="_blank"}
   </div>
 {% include codeEditor.html id="5wLc?stdin=0&arg=0&rw=1" %} 
