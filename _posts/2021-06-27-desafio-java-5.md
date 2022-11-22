@@ -3,7 +3,7 @@ layout: post
 title: Desafío Java número 5
 date: 2021-06-27 12:00:00
 categories: desafios java
-tags: bloque
+tags: bloques
 published: true
 ---
 Analicemos cuidadosamente el código de este desafío... ¿Qué crees que sucede cuando se lo ejecuta? ¿Y por qué?
