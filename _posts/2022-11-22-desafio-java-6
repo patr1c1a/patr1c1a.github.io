@@ -1,0 +1,60 @@
+---
+layout: post
+title: Desafío Java número 6
+date: 2022-11-22 22:00:00 -0300
+categories: desafios java
+tags: strings
+published: false
+---
+Como varias personas me pidieron otro desafío Java, acá va uno, en este caso con strings 😎.
+
+
+<details><summary>Click aquí para desplegar la solución. 👈</summary>
+<br />✅ La respuesta correcta es la c: muestra el texto "veremos".
+<br />
+<br />✏️ Explicación: 
+<br />Este método permite truncar una cadena de caracteres a la longitud pasada por parámetro. De esta forma, cualquiera sea el String dado en el primer parámetro, si su longitud es mayor que la dada en el segundo parámetro, retornará desde el carácter en la posición 0 hasta el de la posición dada por "longitud".
+<br />¿Y por qué ponemos el primer "if", si con solo indicar `return cadena.substring(0, longitud);` se puede lograr lo mismo? En este caso, solo es una cuestión de legibilidad. Al describir el caso en que la longitud de la cadena no alcanza la longitud límite para "cortar" el string, se hace mucho más evidente cuál es el objetivo de este algoritmo.
+<br /><div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/5wLc){:target="_blank"}
+  </div>
+{% include codeEditor.html id="5wLc?stdin=0&arg=0&rw=1" %} 
+<br />
+<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2022-11-22-desafio-java-6-solucion.png)
+  </div></details>
+
+<br />
+<br />
+**Desafío Java** 👇
+<br />
+![Desafío Java número 6]({{ site.url }}/assets/2022-11-22-desafio-java-6.png)
+
+{% include accesibilidad.html %}
+
+¿Cuál es la salida del programa?
+
+```java
+public class DesafioJava {
+    static String desafio(String cadena, int longitud) {
+        if (cadena.length() <= longitud) {
+            return cadena;
+        } else {
+            return cadena.substring(0, longitud);
+        }
+    }
+    public static void main(String args[]) {
+      System.out.println(desafio("veremos qué imprime", 7));
+    }
+}
+```
+
+Opciones:
+
+a. "imprime"
+
+b. "veremos qué"
+
+c. "veremos"
+
+d. "veremos qué imprime"
+
+</div></details>
