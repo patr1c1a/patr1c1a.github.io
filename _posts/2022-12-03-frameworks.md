@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Qué es un framework
-date: 2022-12-03 20:00:00 -0300
+date: 2022-12-03 21:00:00 -0300
 categories: conceptos
 tags: frameworks bibliotecas librerias
 published: true
