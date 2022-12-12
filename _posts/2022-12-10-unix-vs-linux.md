@@ -7,7 +7,7 @@ tags: unix linux
 published: true
 ---
 
-Unix, Linux... Suenan parecido y hasta están "emparentados", pero no son lo mismo. Y una de las mayores diferencias reside en que Linux es gratuito y de código abierto, por lo que podemos ver su código y hasta colaborar en él.
+Unix, Linux... Suenan parecido y hasta están "emparentados", pero no son lo mismo. Y una de las mayores diferencias reside en que Linux es gratuito y de código abierto, por lo que podemos ver su código y colaborar en él.
 
 
 ![Unix y Linux ¿son lo mismo?]({{ site.url }}/assets/2022-12-10-unix-vs-linux.png)
