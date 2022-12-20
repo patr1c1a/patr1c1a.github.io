@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ejercicio con Python, aplicando buenas prácticas
+title: Ejercicio con Python, mejorando nuestro código
 date: 2022-12-20 10:00:00 -0300
 categories: ejercicios
 tags: python buenas_practicas
@@ -10,7 +10,7 @@ published: true
 Un ejercicio simple nos demuestra cómo la solución puede escribirse de diferentes maneras. En la segunda nuestro código es más legible y aprovecha las características del tipo bool.
 
 
-![Mejorando nuestro código]({{ site.url }}/assets/2022-12-10-unix-vs-linux.png)
+![Mejorando nuestro código]({{ site.url }}/assets/2022-12-20-ejercicio-python-legibilidad.png)
 
 
 
