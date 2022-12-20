@@ -24,18 +24,21 @@ Leer un string y mostrar "True" si la cantidad de caracteres es un número par, 
 
 Solución 1:
 
+```python
 texto = input()
 longitud = len(texto)
 if longitud % 2 == 0:
     print("True")
-
+```
 
 Pero… ¿Podríamos simplificarlo?
 
 Solución 2
 
+```python
 texto = input()
 print(len(texto) % 2 == 0)
+```
 
 </div></details>
 
