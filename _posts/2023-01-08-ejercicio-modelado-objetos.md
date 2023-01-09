@@ -9,7 +9,7 @@ published: true
 
 El modelado de clases con UML es útil para representar diseños orientados a objetos. Y estos diseños pueden tener distintas interpretaciones o soluciones alternativas, dependiendo de las necesidades. ¿Se te ocurre alguna forma diferente de modelar este ejercicio?
 
-![Mejorando nuestro código]({{ site.url }}/assets/2023-01-08-ejercicio-modelado-objetos.png)
+![Ejercicio de modelado de objetos, con UML]({{ site.url }}/assets/2023-01-08-ejercicio-modelado-objetos.png)
 
 
 
