@@ -11,8 +11,6 @@ published: true
 
 Un detalle más: si usamos bash en Windows (por ejemplo, desde Git Bash o la terminal de VSCode) es posible que, para activar nuestro entorno virtual, debamos poner el comando con un punto y un espacio delante: `. mi_entorno/Scripts/activate`
 
-. mi_entorno/Scripts/activate
-
 ![venv, entornos virtuales]({{ site.url }}/assets/2021-06-20-python-venv.png)
 
 {% include accesibilidad.html %}
