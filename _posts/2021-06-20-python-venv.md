@@ -7,7 +7,11 @@ tags: venv
 published: true
 ---
 
-¿Sabías que Python permite instalar distintas versiones de módulos/paquetes para cada proyecto? Esto se logra con los entornos virtuales  😉.
+¿Sabías que Python permite instalar distintas versiones de módulos/paquetes para cada proyecto? Esto se logra con los entornos virtuales 😉.
+
+Un detalle más: si usamos la terminal bash en Windows (por ejemplo, Git Bash o en la terminal de VSCode) es posible que, para activar nuestro entorno virtual, debamos poner el comando con un punto y un espacio delante: `. mi_entorno/Scripts/activate`
+
+. mi_entorno/Scripts/activate
 
 ![venv, entornos virtuales]({{ site.url }}/assets/2021-06-20-python-venv.png)
 
