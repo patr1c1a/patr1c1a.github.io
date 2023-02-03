@@ -11,8 +11,11 @@ Un ejercicio que puede parecer complejo pero, si pensamos en ordenar el arreglo,
 
 
 ![Enunciado]({{ site.url }}/assets/2023-02-03-ejercicio-resoluciones-4-lenguajes-01.png)
+
 ![Resolución - Algoritmo]({{ site.url }}/assets/2023-02-03-ejercicio-resoluciones-4-lenguajes-02.png)
+
 ![Implementación - Python y Javascript]({{ site.url }}/assets/2023-02-03-ejercicio-resoluciones-4-lenguajes-03.png)
+
 ![Implementación - Java y C++]({{ site.url }}/assets/2023-02-03-ejercicio-resoluciones-4-lenguajes-04.png)
 
 
