@@ -77,10 +77,8 @@ public class SumaMinMax {
     public static int[] suma_min_max(int[] arreglo) {
         int[] ordenado = arreglo.clone();
         Arrays.sort(ordenado);
-        int minimo = ordenado[0] + ordenado[1] 
-                  + ordenado[2] + ordenado[3];
-        int maximo = ordenado[1] + ordenado[2] 
-                  + ordenado[3] + ordenado[4];
+        int minimo = ordenado[0] + ordenado[1] + ordenado[2] + ordenado[3];
+        int maximo = ordenado[1] + ordenado[2] + ordenado[3] + ordenado[4];
         return new int[] { minimo, maximo };
     }
 }
