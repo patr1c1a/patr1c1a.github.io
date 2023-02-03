@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ejercicio y resolución en 4 lenguajes
-date: 2023-02-02 20:00:00 -0300
+date: 2023-02-03 12:00:00 -0300
 categories: ejercicios
 tags: algoritmos arreglos
 published: true
@@ -10,10 +10,10 @@ published: true
 Un ejercicio que puede parecer complejo pero, si pensamos en ordenar el arreglo, la solución es muy simple. Veamos el algoritmo en distintos lenguajes.
 
 
-![Enunciado]({{ site.url }}/assets/2023-02-02-ejercicio-resoluciones-4-lenguajes-01.png)
-![Resolución - Algoritmo]({{ site.url }}/assets/2023-02-02-ejercicio-resoluciones-4-lenguajes-02.png)
-![Implementación - Python y Javascript]({{ site.url }}/assets/2023-02-02-ejercicio-resoluciones-4-lenguajes-03.png)
-![Implementación - Java y C++]({{ site.url }}/assets/2023-02-02-ejercicio-resoluciones-4-lenguajes-04.png)
+![Enunciado]({{ site.url }}/assets/2023-02-03-ejercicio-resoluciones-4-lenguajes-01.png)
+![Resolución - Algoritmo]({{ site.url }}/assets/2023-02-03-ejercicio-resoluciones-4-lenguajes-02.png)
+![Implementación - Python y Javascript]({{ site.url }}/assets/2023-02-03-ejercicio-resoluciones-4-lenguajes-03.png)
+![Implementación - Java y C++]({{ site.url }}/assets/2023-02-03-ejercicio-resoluciones-4-lenguajes-04.png)
 
 
 
