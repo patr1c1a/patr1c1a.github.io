@@ -105,6 +105,36 @@ vector<int> suma_min_max(vector<int> arreglo) {
 </div></details>
 
 
+<br />&nbsp;
+
+### [Código Python para ejecutar](https://jdoodle.com/a/5OBB){:target="_blank"}
+
+{% include codeEditor.html id="5OBB?stdin=0&arg=0&rw=1" %}
+
+<br />&nbsp;
+
+
+### [Código Javascript para ejecutar](https://jdoodle.com/a/5OBE){:target="_blank"}
+
+{% include codeEditor.html id="5OBE?stdin=0&arg=0&rw=1" %}
+
+<br />&nbsp;
+
+
+### [Código Java para ejecutar](https://jdoodle.com/a/5OBv){:target="_blank"}
+
+{% include codeEditor.html id="5OBv?stdin=0&arg=0&rw=1" %}
+
+<br />&nbsp;
+
+
+### [Código C++ para ejecutar](https://jdoodle.com/a/5OBp){:target="_blank"}
+
+{% include codeEditor.html id="5OBp?stdin=0&arg=0&rw=1" %}
+
+<br />&nbsp;
+
+
 
 
 <hr />
