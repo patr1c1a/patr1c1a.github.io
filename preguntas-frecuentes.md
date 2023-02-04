@@ -89,20 +89,34 @@ La universidad brinda a sus estudiantes un léxico técnico en común y un conte
 
 
 
-<details><summary><b> -¿Qué libros son recomendables para aprender a programar o ejercitar programación?</b></summary>
+<details><summary><b> -¿Qué libros son recomendables para aprender a programar, ejercitar programación o aprender sobre el mundo del software?</b></summary>
 <div markdown="1">Es necesario tener en cuenta que mucho del material más reconocido se encuentra únicamente en inglés. Por suerte, para algunos títulos existen traducciones al español.
-  
+    
 Algunos de estos libros son orientados a aprender las bases de la programación y otros son orientados al ejercicio profesional y las buenas prácticas, pero todos ellos son habitualmente recomendados para desarrolladores principiantes y no tanto:
+<br />* [El programador pragmático - Andrew Hunt, David Thomas](https://books.google.com.ar/books?id=5wBQEp6ruIAC){:target="_blank"}
+<br />* [Código Limpio: Manual de estilo para el desarrollo ágil de software - Robert Martin](https://www.amazon.es/Código-Limpio-desarrollo-software-Programación/dp/8441532109){:target="_blank"}
 <br />* [Introduction To Algorithms - "CLRS"](https://books.google.com.ar/books?id=NLngYyWFl_YC){:target="_blank"}
-<br />* [Fundamentos de programación - Luis Joyanes Aguilar](https://books.google.com.ar/books?id=nrNvPwAACAAJ){:target="_blank"}
 <br />* [C++ How to Program - Paul & Harvey Deitel](https://books.google.com.ar/books?id=XIZJNQEACAAJ){:target="_blank"}
 <br />* [Automate the Boring Stuff with Python - Al Sweigart](https://automatetheboringstuff.com/){:target="_blank"}
 <br />* [Head First Design Patterns - Eric Freeman, Elisabeth Robson, Elisabeth Freeman, Kathy Sierra, Bert Bates](https://books.google.com.ar/books/about/Head_First_Design_Patterns.html?id=GGpXN9SMELMC){:target="_blank"}
 <br />* [Agile Software Development: Principles, Patterns, and Practices - Robert Martin](https://books.google.com.ar/books?id=0HYhAQAAIAAJ){:target="_blank"}
-<br />* [The pragmatic programmer - Andrew Hunt, David Thomas](https://books.google.com.ar/books?id=5wBQEp6ruIAC){:target="_blank"}
-<br />* [Código Limpio: Manual de estilo para el desarrollo ágil de software - Robert Martin](https://www.amazon.es/Código-Limpio-desarrollo-software-Programación/dp/8441532109){:target="_blank"}
+<br />* [Fundamentos de programación - Luis Joyanes Aguilar](https://books.google.com.ar/books?id=nrNvPwAACAAJ){:target="_blank"}
   
+Y, fuera de lo que es la programación concretamente, también hay varios libros muy interesantes sobre temas variados, que nos tocan de cerca en esta profesión. Por ejemplo: los sistemas operativos, la arquitectura de computadoras, conceptos de matemática y lógica avanzada, procesos de desarrollo de software, la experiencia de usuario, y hasta cómo desarrollar los buenos hábitos y la disciplina (¡muy importantes cuando aprendemos algo nuevo!):
   
+
+<br />* [Fundamentos de sistemas operativos - Silberschatz, Galvin, Gagne](https://books.google.com.ar/books?id=9sdXAAAACAAJ){:target="_blank"}
+<br />* [Organización y arquitectura de computadores - William Stallings](https://books.google.com.ar/books?id=C3HTAAAACAAJ){:target="_blank"}
+<br />* [Code: The hidden language of computer hardware and software - Charles Petzold](https://books.google.com.ar/books?id=iptCAwAAQBAJ){:target="_blank"}
+<br />* [But how Do it Know?: The Basic Principles of Computers for Everyone - J. Clark Scott](https://books.google.com.ar/books?id=-XGAPeVhRs4C){:target="_blank"}
+<br />* [La nueva mente del emperador - Roger Penrose](https://books.google.com.ar/books?id=sLz3CQAAQBAJ){:target="_blank"}
+<br />* [Desarrollo ágil esencial: vuelta a las raíces - Robert Martin](https://books.google.com.ar/books?id=g16AzQEACAAJ){:target="_blank"}
+<br />* [La psicología de los objetos cotidianos - Don Norman](https://books.google.com.ar/books?id=bRlZBempM5wC){:target="_blank"}
+<br />* [No me hagas pensar - Steve Krug](https://books.google.com.ar/books?id=NzwhjgEACAAJ){:target="_blank"}
+<br />* [Hábitos atómicos - James Clear](https://books.google.com.ar/books?id=TXiMDwAAQBAJ){:target="_blank"}
+<br />* [Los 7 hábitos de la gente altamente efectiva - Stephen R. Covey](https://books.google.com.ar/books?id=DiTKCQAAQBAJ){:target="_blank"}  
+
+
   
   </div>
 <br />&nbsp;
