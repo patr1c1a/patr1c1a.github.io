@@ -101,10 +101,10 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 <br />* [Head First Design Patterns - Eric Freeman, Elisabeth Robson, Elisabeth Freeman, Kathy Sierra, Bert Bates](https://books.google.com.ar/books/about/Head_First_Design_Patterns.html?id=GGpXN9SMELMC){:target="_blank"}
 <br />* [Agile Software Development: Principles, Patterns, and Practices - Robert Martin](https://books.google.com.ar/books?id=0HYhAQAAIAAJ){:target="_blank"}
 <br />* [Fundamentos de programación - Luis Joyanes Aguilar](https://books.google.com.ar/books?id=nrNvPwAACAAJ){:target="_blank"}
+
   
 Y, fuera de lo que es la programación concretamente, también hay varios libros muy interesantes sobre temas variados, que nos tocan de cerca en esta profesión. Por ejemplo: los sistemas operativos, la arquitectura de computadoras, conceptos de matemática y lógica avanzada, procesos de desarrollo de software, la experiencia de usuario, y hasta cómo desarrollar los buenos hábitos y la disciplina (¡muy importantes cuando aprendemos algo nuevo!):
   
-
 <br />* [Fundamentos de sistemas operativos - Silberschatz, Galvin, Gagne](https://books.google.com.ar/books?id=9sdXAAAACAAJ){:target="_blank"}
 <br />* [Organización y arquitectura de computadores - William Stallings](https://books.google.com.ar/books?id=C3HTAAAACAAJ){:target="_blank"}
 <br />* [Code: The hidden language of computer hardware and software - Charles Petzold](https://books.google.com.ar/books?id=iptCAwAAQBAJ){:target="_blank"}
