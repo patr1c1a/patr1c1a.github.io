@@ -53,6 +53,8 @@ Click sobre una pregunta para desplegar su respuesta:
   Si tenemos una computadora con un navegador (Firefox, Chrome, Edge o cualquier otro) y conexión a internet, desde el navegador podremos acceder a gran cantidad de recursos para probar nuestro código (varios de ellos están listados en la [página de enlaces]({{ site.baseurl }}{% link enlaces.md %}){:target="_blank"} de este blog, en la sección "Compiladores e intérpretes online").
   
   Si no tuviéramos la posibilidad de conectarnos a internet, podemos programar en varios lenguajes utilizando solo un editor de textos (como "Bloc de notas" en Windows o Gedit en Linux) y, si instalamos un compilador o intérprete del lenguaje, podremos "traducir" nuestro código y luego ejecutarlo para verlo en funcionamiento. Normalmente estos compiladores o intérpretes no requieren de grandes recursos computacionales (esto significa que pueden usarse en casi cualquier computadora, aunque sea "viejita" y bajo distintos sistemas operativos). También existen aplicaciones para dispositivos móviles que, aunque sean una opción más incómoda usando el teclado en pantalla, también nos permiten escribir, compilar y ejecutar código.
+  
+  Una vez que tengamos más experiencia y empecemos a crear programas más complejos, es posible que necesitemos mayor poder de procesamiento (por ejemplo, más memoria RAM o bien una placa gráfica más potente si es que nuestro trabajo involucra gráficos pesados o algunas cuestiones relacionadas a inteligencia artificial), o algún tipo de dispositivo específico (por ejemplo, una Mac o algún dispotivo Apple si es que vamos a programar para iOS). Pero esta necesidad dependerá mucho del tipo de proyectos en que nos involucremos.
   </div>
 <br />&nbsp;
 </details>
