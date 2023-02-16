@@ -3,47 +3,47 @@ layout: post
 title: Ejercicios básicos en Python, usando GUI
 date: 2019-02-25 19:00:00
 categories: ejercicios python
-tags: resolución_problemas algoritmos python
+tags: gui algoritmos python tkinter principiantes
 published: true
 ---
 
 A continuación se encuentra una serie de ejercicios básicos de programación, incluidos dentro de pequeños programas de ejemplo.
 Es el mismo tipo de ejercicios que podrían resolverse en consola, pero con interfaces gráficas simples.
 
-El lenguaje de base es Python 3, con el framework TkInter para las interfaces gráficas ("GUI"). TkInter se incluye con la instalación de Python, por lo que no debería ser necesaria su instalación por separado. Para verificar que funciona correctamente, abrir una consola o terminal y ejecutar el siguiente comando:
+El lenguaje de base es Python 3, con el framework Tkinter para las interfaces gráficas ("GUI"). Tkinter se incluye con la instalación de Python, por lo que no debería ser necesaria su instalación por separado. Para verificar que funciona correctamente, abrir una consola o terminal y ejecutar el siguiente comando:
 > python -m tkinter
 
-Cada uno de los ejercicios consta de dos archivos (disponibles en un único archivo comprimido): **programa.py** y **operaciones.py**. El primero (programa.py) no debe ser modificado, ya que contiene el código que controla las propiedades de la vista.
+Cada uno de los ejercicios consta de dos archivos (incluidos en un único archivo comprimido): **programa.py** y **operaciones.py**. El primero (programa.py) no debe ser modificado, ya que contiene el código que controla las propiedades de la interfaz gráfica.
 
-**Para la resolución de cada ejercicio, descargar el archivo correspondiente y descomprimir *programa.py* y *operaciones.py* en la misma carpeta. A continuación, abrir *operaciones.py* y completar el código de acuerdo a la consigna. Finalmente, ejecutar programa.py.**
+**Para la resolución de cada ejercicio, descargar el archivo correspondiente y descomprimir *programa.py* y *operaciones.py* en la misma carpeta. A continuación, abrir *operaciones.py* y completar el código de acuerdo a la consigna. Finalmente, ejecutar programa.py, lo cual puede hacerse desde una terminal, usando el comando *python programa.py* (o reemplazar *python* por el comando que usemos en nuestra máquina para ejecutar el intérprete). La interfaz gráfica interactiva permitirá visualizar el resultado de los ejercicios.**
 
 
 ### 1
-Dadas las variables a = 186 y b = 24, escribí las instrucciones necesarias para obtener el resultado de su suma, su resta, su multiplicación, el cociente, el cociente entero y el resto de la división entre a y b.
+Dadas las variables a = 41 y b = 5, escribí las instrucciones necesarias para obtener el resultado de su suma, su resta, su multiplicación, el cociente, el cociente entero y el resto de la división entre a y b.
 
-[Descargar el archivo]({{ site.url }}/assets/tp1-ej5_GUI.zip)
+[Descargar el archivo]({{ site.url }}/assets/ejercicios-python-gui_01.zip)
 
 
 ### 2
-Utilizá las operaciones matemáticas más apropiada para obtener, del número 16823,
-<br>a) Sólo el último dígito (el 3)
-<br>b) Los dos últimos dígitos (el 23)
-<br>c) Los 3 últimos dígitos (el 823)
-<br>d) Todos los dígitos, excepto el último (1682)
-<br>e) El primer dígito (el 1)
-<br>f) Los dos primeros dígitos (el 16)
+Utilizá las operaciones matemáticas más apropiada para obtener, del número 25849,
+<br>a) Solo el último dígito (9)
+<br>b) Los dos últimos dígitos (49)
+<br>c) Los 3 últimos dígitos (849)
+<br>d) Todos los dígitos, excepto el último (2584)
+<br>e) El primer dígito (2)
+<br>f) Los dos primeros dígitos (25)
 
-[Descargar el archivo]({{ site.url }}/assets/tp1-ej7_GUI.zip)
+[Descargar el archivo]({{ site.url }}/assets/ejercicios-python-gui_02.zip)
 
 
 ### 3
-Dadas las variables str1 = "Juan" y str2 = "Pérez", ¿cómo harías para mostrar...
-<br>a) Las dos cadenas concatenadas, mostrando apellido y nombre? Ejemplo: "Pérez Juan"
-<br>b) Las dos cadenas concatenadas pero separadas por ", "? Ejemplo: "Pérez, Juan"
-<br>c) nombre y apellido
-<br>d) "¡Bienvenido, Juan Pérez!"
+Dadas las variables *nombre = "Francisco"* y *apellido = "Gimenez"*, ¿cómo harías para mostrarlas de las siguientes formas?
+<br>a) Las dos cadenas concatenadas, apellido y nombre, separadas por un espacio. Ejemplo: "Gimenez Francisco"
+<br>b) Las dos cadenas concatenadas y separadas por ", ". Ejemplo: "Gimenez, Francisco"
+<br>c) La frase "¡Bienvenido, Francisco Gimenez!" (usando los valores de las variables *nombre* y *apellido*)
+<br>d) Nombre y apellido, separados por un espacio y completamente en mayúsculas. Ejemplo: "FRANCISCO GIMENEZ"
 
-[Descargar el archivo]({{ site.url }}/assets/tp1-ej11_GUI.zip)
+[Descargar el archivo]({{ site.url }}/assets/ejercicios-python-gui_03.zip)
 
 
 ### 4
@@ -63,7 +63,7 @@ Resolver:
 <br>f) ¿Qué resultado se obtiene al buscar la letra "d" en cadena4[:6]? ¿Por qué?
 <br>g) ¿Cuántos espacios tiene la cadena construida en el punto a?
 
-[Descargar el archivo]({{ site.url }}/assets/tp1-ej12_GUI.zip)
+[Descargar el archivo]({{ site.url }}/assets/ejercicios-python-gui_04.zip)
 
 
 ### 5
@@ -75,7 +75,7 @@ Si tenemos la cadena texto = 'No sé bien qué día es hoy', indicá cómo obten
 <br>e) La cadena 'ye né' a partir de texto.
 <br>f) Cuántas ocurrencias de la letra 'e' existen en texto (incluir la 'e' con y sin acentos)
 
-[Descargar el archivo]({{ site.url }}/assets/tp1-ej17_GUI.zip)
+[Descargar el archivo]({{ site.url }}/assets/ejercicios-python-gui_05.zip)
 
 
 ### 6
@@ -89,4 +89,4 @@ Dadas las cadenas:
 <br>e) ¿Cómo harías para armar la expresión 'Python es un lenguaje amigable para empezar a aprender nociones básicas de programación'?
 <br>f) Convertí la cadena 'amigable' a mayúsculas y cambiala en la expresión del punto e). Deberá quedar: 'Python es un lenguaje AMIGABLE para empezar a aprender nociones básicas de programación'
 
-[Descargar el archivo]({{ site.url }}/assets/tp1-ej19_GUI.zip)
+[Descargar el archivo]({{ site.url }}/assets/ejercicios-python-gui_06.zip)
