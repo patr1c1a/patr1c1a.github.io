@@ -81,14 +81,14 @@ Si tenemos la cadena frase='Hasta la persona más pequeña puede cambiar el curs
 
 ### 6
 Dadas las cadenas:
-<br>str1 = '  Quizá haya enemigos de mis opiniones,    '
-<br>str2 = '        pero yo mismo puedo ser también enemigo de mis opiniones.  '
+<br>str1 = '   Quizá haya enemigos de mis opiniones,    '
+<br>str2 = ' pero yo mismo  puedo ser también enemigo de mis opiniones.  '
 <br>str3 = ', si espero un rato,'
-<br>a) Mostrar el carácter que se encuentra en la posición 8 de cada cadena, separados por un espacio.
-<br>b) Mostrar el carácter que se encuentra en la última posición de str3.
-<br>c) Obtener una rebanada de str1 que contenga la palabra "quizá" (con la "q" en minúscula)
-<br>d) Eliminar los blancos a izquierda y derecha de str2
+<br>a) Mostrar el carácter que se encuentra en la posición 7 de cada cadena, separados por un espacio.
+<br>b) Usar una operación que obtenga el carácter que se encuentra en la última posición de str3.
+<br>c) Eliminar los blancos a izquierda y derecha de str1.
+<br>d) Obtener una rebanada de str1 que contenga la palabra "quizá" (con la "q" en minúscula), al mismo tiempo que se eliminan los espacios en blanco a la izquierda.
 <br>e) Armar la expresión 'Quizá haya enemigos de mis opiniones, pero yo mismo, si espero un rato, puedo ser también enemigo de mis opiniones.'
-<br>f) Obtener el texto 'pero YO MISMO puedo ser también enemigo de mis opiniones' a partir de str2.
+<br>f) Obtener el texto 'si espero UN RATO' a partir de str3.
 
 [Descargar el archivo]({{ site.url }}/assets/ejercicios-python-gui_06.zip)
