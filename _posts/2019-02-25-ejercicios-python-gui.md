@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Ejercicios básicos en Python, usando GUI
+title: Ejercicios básicos en Python, usando interfaz gráfica
 date: 2019-02-25 19:00:00
 categories: ejercicios python
 tags: gui algoritmos python tkinter principiantes
 published: true
 ---
 
-A continuación se encuentra una serie de ejercicios básicos de programación, incluidos dentro de pequeños programas de ejemplo.
+A continuación se encuentra una serie de ejercicios básicos de programación, incluidos dentro de pequeños programas.
 Es el mismo tipo de ejercicios que podrían resolverse en consola, pero con interfaces gráficas simples.
 
 El lenguaje de base es Python 3, con el framework Tkinter para las interfaces gráficas ("GUI"). Tkinter se incluye con la instalación de Python, por lo que no debería ser necesaria su instalación por separado. Para verificar que funciona correctamente, abrir una consola o terminal y ejecutar el siguiente comando:
@@ -48,20 +48,20 @@ Dadas las variables *nombre = "Francisco"* y *apellido = "Gimenez"*, ¿cómo har
 
 ### 4
 Teniendo las siguientes variables:
-<br>\>>> cadena1 = "¡Bienvenidos!"
-<br>\>>> cadena2 = " esto es"
-<br>\>>> cadena3 = " IPI"
-<br>\>>> cadena4 = " lo más divertido"
-<br>\>>> cadena5 = " de primer año"
-<br>\>>> cadena6 = " ..."
+<br>cadena1 = "El que lee"
+<br>cadena2 = " mucho"
+<br>cadena3 = " y anda mucho,"
+<br>cadena4 = " y sabe mucho."
+<br>cadena5 = " ve mucho"
+<br>cadena6 = "Esta es una frase de Don Quijote"
 Resolver:
-<br>a) Construir la cadena "Bienvenidos esto es de primer año lo más divertido... IPI".
-<br>b) ¿En qué posición de la cadena anterior está la palabra "primer"?
-<br>c) Buscar la primera posición en que aparece la letra "e" en cadena1.
-<br>d) Si buscás la letra "n" en cadena1, ¿qué resultado dará? ¿Por qué?
-<br>e) Obtener True o False para saber si cadena6 contiene espacios.
-<br>f) ¿Qué resultado se obtiene al buscar la letra "d" en cadena4[:6]? ¿Por qué?
-<br>g) ¿Cuántos espacios tiene la cadena construida en el punto a?
+<br>a) Construir la cadena "frase de Don Quijote: El que lee mucho y anda mucho, ve mucho y sabe mucho." a partir de las variables dadas.
+<br>b) ¿En qué posición de la cadena anterior está la palabra "anda"?
+<br>c) Usar una operación que de como resultado la primera posición en que aparece la letra "e" en cadena1.
+<br>d) Usar una operación que de como resultado "DON QUIJOTE" a partir de cadena6.
+<br>e) Obtener True o False para saber si cadena2 contiene espacios.
+<br>f) Usar una operación que de como resultado la posición de "o" en cadena4[:6] y observar qué sucede al no encontrarla.
+<br>g) Mostrar cuántos espacios tiene la cadena construida en el inciso a.
 
 [Descargar el archivo]({{ site.url }}/assets/ejercicios-python-gui_04.zip)
 
