@@ -54,6 +54,7 @@ Teniendo las siguientes variables:
 <br>cadena4 = " y sabe mucho."
 <br>cadena5 = " ve mucho"
 <br>cadena6 = "Esta es una frase de Don Quijote"
+
 Resolver:
 <br>a) Construir la cadena "frase de Don Quijote: El que lee mucho y anda mucho, ve mucho y sabe mucho." a partir de las variables dadas.
 <br>b) ¿En qué posición de la cadena anterior está la palabra "anda"?
