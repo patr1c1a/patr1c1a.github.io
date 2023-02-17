@@ -25,7 +25,7 @@ Dadas las variables a = 41 y b = 5, escribí las instrucciones necesarias para o
 
 
 ### 2
-Utilizá las operaciones matemáticas más apropiada para obtener, del número 25849,
+Utilizá las operaciones matemáticas más apropiada para obtener, del número 25849 almacenado en la variable num:
 <br>a) Solo el último dígito (9)
 <br>b) Los dos últimos dígitos (49)
 <br>c) Los 3 últimos dígitos (849)
