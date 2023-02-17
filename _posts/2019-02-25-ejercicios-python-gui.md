@@ -59,7 +59,7 @@ Resolver:
 <br>b) ¿En qué posición de la cadena anterior está la palabra "anda"?
 <br>c) Usar una operación que de como resultado la primera posición en que aparece la letra "e" en cadena1.
 <br>d) Usar una operación que de como resultado "DON QUIJOTE" a partir de cadena6.
-<br>e) Obtener True o False para saber si cadena2 contiene espacios.
+<br>e) Obtener True o False (o bien 1 o 0) para saber si cadena2 contiene algún espacio.
 <br>f) Usar una operación que de como resultado la posición de "o" en cadena4[:6] y observar qué sucede al no encontrarla.
 <br>g) Mostrar cuántos espacios tiene la cadena construida en el inciso a.
 
@@ -67,13 +67,13 @@ Resolver:
 
 
 ### 5
-Si tenemos la cadena texto = 'No sé bien qué día es hoy', indicá cómo obtener:
-<br>a) La cadena 'qué día' a partir de la variable texto.
-<br>b) Los primeros 5 caracteres de texto.
-<br>c) Los últimos 5 caracteres de texto.
-<br>d) Los caracteres ubicados en las posiciones pares de texto.
-<br>e) La cadena 'ye né' a partir de texto.
-<br>f) Cuántas ocurrencias de la letra 'e' existen en texto (incluir la 'e' con y sin acentos)
+Si tenemos la cadena frase='Hasta la persona más pequeña puede cambiar el curso del futuro', indicá operaciones para obtener:
+<br>a) La cadena 'más pequeña' a partir de la variable frase.
+<br>b) Los primeros 5 caracteres de frase.
+<br>c) Los últimos 6 caracteres de frase.
+<br>d) Los caracteres ubicados en las posiciones pares de frase.
+<br>e) La cadena 'o repra' a partir de frase leída en forma inversa.
+<br>f) Cuántas ocurrencias de la letra 'a' existen en frase (incluir la 'a' con y sin acentos)
 
 [Descargar el archivo]({{ site.url }}/assets/ejercicios-python-gui_05.zip)
 
