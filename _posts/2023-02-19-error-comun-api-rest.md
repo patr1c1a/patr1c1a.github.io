@@ -9,6 +9,8 @@ published: true
 
 Este es uno de esos errores que, al principio, pueden ser difíciles de detectar porque todo funciona como esperamos y no hay fallas en la lógica. Pero, si queremos que nuestra API siga el estilo arquitectónico REST, debemos respetar ciertos principios.
 
+El ejemplo está escrito con el microframework Flask para Python, pero es válido para cualquier lenguaje, ya que el problema está en qué endpoints definimos.
+
 Para refrescar algunos conceptos sobre APIs:
 
 * [Conceptos básicos sobre APIs]({% post_url 2021-01-28-apis %})
@@ -20,7 +22,7 @@ Para refrescar algunos conceptos sobre APIs:
 * [URI, URN, URL. ¿Qué son?]({% post_url 2022-08-16-uri-url-urn %})
  
 
-![UN ERROR COMÚN AL CREAR UNA API REST]({{ site.url }}/assets/2023-02-03-ejercicio-resoluciones-4-lenguajes-01.png)
+![UN ERROR COMÚN AL CREAR UNA API REST]({{ site.url }}/assets/2023-02-19-error-comun-api-rest.png)
 
 
 &nbsp;
