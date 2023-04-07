@@ -64,8 +64,9 @@ public class Prueba {
 
 </div></details>
 
-<br /><div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/66HL){:target="_blank"}
-  </div>
+<br />
+💻 [Código ejecutable](https://jdoodle.com/a/66HL){:target="_blank"}
+
 {% include codeEditor.html id="66HL?stdin=0&arg=0&rw=1" %} 
 <br />
 
