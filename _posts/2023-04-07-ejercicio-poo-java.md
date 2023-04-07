@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Ejercicio resuelto - Java
-date: 2023-04-07 08:00:00 -0300
-categories: java ejercicios
+date: 2023-04-07 21:00:00 -0300
+categories: java ejercicios poo
 tags: poo
 published: true
 ---
