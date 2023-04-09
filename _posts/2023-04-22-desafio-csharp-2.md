@@ -11,7 +11,7 @@ published: true
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✅ La respuesta correcta es la c: "Nombre del empleado: Juan, Salario: 0".
 <br />
-<br />✏️ Explicación: El constructor de la clase Empleado hace incorrectamente la asignación de la propiedad Salario, debido a que se asigna la propiedad (cuyo identificador comienza en mayúscula) al parámetro (en minúsculas), cuando debería ser a la inversa. Esto no impide la compilación, pero sí ocasiona que el valor del parámetro salario nunca se asigne a la propiedad Salario, por lo que ésta toma el 0 como valor por defecto para un dato de tipo int.
+<br />✏️ Explicación: El constructor de la clase Empleado hace incorrectamente la asignación de la propiedad Salario, debido a que se asigna esta propiedad (cuyo identificador comienza en mayúscula) al parámetro (en minúsculas), cuando debería ser a la inversa. Esto no impide la compilación, pero sí ocasiona que el valor del parámetro salario nunca se asigne a la propiedad Salario, por lo que ésta toma el 0 como valor por defecto para un dato de tipo int.
 <br />
 <br /><div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/66Qo){:target="_blank"}
   </div>
