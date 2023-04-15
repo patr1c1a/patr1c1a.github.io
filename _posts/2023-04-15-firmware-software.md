@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Firmware vs. Software
-date: 2023-04-15 21:00:00 -0300
+date: 2023-04-15 19:00:00 -0300
 categories: otros
 tags: microchips electronica
 published: true
