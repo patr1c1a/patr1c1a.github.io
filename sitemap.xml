@@ -13,8 +13,8 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | remove: '\P\\{Print\\}' | xml_escape }}</description>
+        <title>{{ post.title | markdownify | xml_escape }}</title>
+        <description>{{ post.content | markdownify | xml_escape }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
