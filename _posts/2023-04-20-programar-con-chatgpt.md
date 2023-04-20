@@ -9,6 +9,9 @@ published: true
 
 Ya muchos nos hemos aventurado en las profundidades de [ChatGPT](https://chat.openai.com){:target="_blank"}, así que acá van algunos pequeños consejos para sacarle provecho al programar.
 
+Evidentemente estas no son las únicas opciones, sino que podemos probar con distintas líneas de entrada (o "prompts") para ver con cuál nos brinda la información que buscamos. Podemos, por ejemplo, pedir que nos enumere puntos a favor y en contra de cierta tecnología, pedir que nos explique un fragmento de código que hemos encontrado en la web o que el mismo ChatGPT nos sugirió, y cualquier otra idea que se nos ocurra y que pueda ayudarnos en el desarrollo de nuestro proyecto.
+
+
 ![Usando ChatGPT para programar]({{ site.url }}/assets/2023-04-20-programar-con-chatgpt.png)
 
 
