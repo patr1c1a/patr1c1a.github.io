@@ -7,6 +7,17 @@ tags: algoritmo estructura repeticion bucle iteracion
 published: true
 ---
 
+Acá encontrarás ejercicios para practicar la estructura de control de bucle o repetición condicional (while).
+
+En los siguientes videos podrás ver una explicación de la estructura y también la resolución paso a paso de estos ejercicios:
++ [Repetición condicional: while](https://youtu.be/Rkv3GtEZEnw){:target="_blank"}
++ [Ejercicios con la estructura de repetición condicional](https://www.youtube.com/watch?v=I6T_qjYiDDM){:target="_blank"}
++ [Ejercicios con break y continue](https://www.youtube.com/watch?v=lG-DTUOZVZg){:target="_blank"}
+
+La resolución de cada ejercicio se muestra al hacer click sobre la consigna.
+
+> Nota: estos enunciados y resoluciones fueron diseñados con el objetivo de ayudar a programadores principiantes a desarrollar habilidades algorítmicas y de razonamiento lógico. La finalidad principal no se enfoca en la sintaxis y herramientas concretas de Python 3, y la mayoría de los ejercicios podrían resolverse con cualquier lenguaje dentro del paradigma imperativo. Es por ese motivo que algunas resoluciones muestran un algoritmo genérico y no orientado específicamente a Python.
+
 
 ### 1
 <details> 
