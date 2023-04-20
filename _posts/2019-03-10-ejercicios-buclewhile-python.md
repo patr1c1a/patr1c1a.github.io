@@ -4,7 +4,7 @@ title: Ejercicios resueltos de bucles while en Python
 date: 2019-03-10 23:52
 categories: ejercicios python
 tags: algoritmo estructura repeticion bucle iteracion
-published: false
+published: true
 ---
 
 Acá encontrarás ejercicios para practicar la estructura de control de bucle o repetición condicional (while).
@@ -180,7 +180,7 @@ print("Total de dígitos impares:", totalImpares)</code></pre>
 
 ### 10
 <details> 
-  <summary>Crear un programa que permita al usuario ingresar títulos de libros por teclado, finalizando el ingreso al leerse el string “*” (asterisco). Cada vez que el usuario ingrese un string de longitud 1 que contenga sólo una barra (“/”) se considera que termina una línea.Por cada línea completa, informar cuántos dígitos numéricos (del 0 al 9) aparecieron en total (en todos los títulos de libros que componen en esa línea). Finalmente, informar cuántas líneas completas se ingresaron.
+  <summary>Crear un programa que permita al usuario ingresar títulos de libros por teclado, finalizando el ingreso al leerse el string “*” (asterisco). Cada vez que el usuario ingrese un string de longitud 1 que contenga sólo una barra ("/") se considera que termina una línea. Por cada línea completa, informar cuántos dígitos numéricos (del 0 al 9) aparecieron en total (en todos los títulos de libros que componen en esa línea). Finalmente, informar cuántas líneas completas se ingresaron.
 <br />Ejemplo de ejecución:
 <br />Libro: Los 3 mosqueteros
 <br />Libro: Historia de 2 ciudades
