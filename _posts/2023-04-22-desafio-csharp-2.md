@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Desafío C# número 2
-date: 2023-04-22 21:00:00
+date: 2023-04-22 20:00:00 -0300
 categories: desafios csharp
 tags: propiedades
 published: true
