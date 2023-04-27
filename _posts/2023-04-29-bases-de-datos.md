@@ -3,7 +3,7 @@ layout: post
 title: Firmware vs. Software
 date: 2023-04-29 21:00:00 -0300
 categories: bd
-tags: dbms dba bd
+tags: dbms dba bd sql
 published: true
 ---
 
