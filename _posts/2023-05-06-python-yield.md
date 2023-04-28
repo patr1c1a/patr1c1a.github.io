@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Qué es yield en Python
-date: 2023-04-06 21:00:00 -0300
+date: 2023-05-06 21:00:00 -0300
 categories: python conceptos
 tags: yield
 published: true
