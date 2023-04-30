@@ -10,7 +10,7 @@ published: true
 Aunque no nos dediquemos a ser DBA, ser un buen programador requiere conocer sobre bases de datos. Empecemos por describirlas y entender dos de las grandes categorías en que pueden diferenciarse.
 
 
-![¿Qué es una base de datos?]({{ site.url }}/assets/2023-04-15-firmware-software.png)
+![¿Qué es una base de datos?]({{ site.url }}/assets/2023-04-29-bases-de-datos.png)
 
 
 &nbsp;
