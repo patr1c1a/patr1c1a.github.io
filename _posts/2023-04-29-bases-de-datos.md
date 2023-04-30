@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Firmware vs. Software
+title: Qué es una base de datos
 date: 2023-04-29 20:00:00 -0300
 categories: bd
 tags: dbms dba bd sql
