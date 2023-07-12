@@ -4,7 +4,7 @@ title: Desafío Java número 7
 date: 2023-07-10 22:00:00 -0300
 categories: desafios java
 tags: ambito scope alcance
-published: false
+published: true
 ---
 Sin ejecutar el código, ¿podrías decir qué instrucciones de este código darían error y por qué?.
 
