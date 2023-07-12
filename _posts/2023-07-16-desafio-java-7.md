@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Desafío Java número 7
-date: 2023-07-10 22:00:00 -0300
+date: 2023-07-16 22:00:00 -0300
 categories: desafios java
 tags: ambito scope alcance
-published: true
+published: false
 ---
-Sin ejecutar el código, ¿podrías decir qué instrucciones de este código darían error y por qué?.
+Sin ejecutar el código, ¿podrías decir qué instrucciones darían error y por qué?.
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✅ La respuesta correcta es: líneas 6 y 10.
