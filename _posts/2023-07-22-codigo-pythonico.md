@@ -67,11 +67,11 @@ print(True in [c.isupper() for c in s])
 Opción 3:
 
 ```python
-print(any(i.isalnum() for c in s))
-print(any(i.isalpha() for c in s))
-print(any(i.isdigit() for c in s))
-print(any(i.islower() for c in s))
-print(any(i.isupper() for c in s))
+print(any(c.isalnum() for c in s))
+print(any(c.isalpha() for c in s))
+print(any(c.isdigit() for c in s))
+print(any(c.islower() for c in s))
+print(any(c.isupper() for c in s))
 ```
 
 La primera solución es algo "genérica". Las opciones 2 y 3 muestran código más "Pythónico".
