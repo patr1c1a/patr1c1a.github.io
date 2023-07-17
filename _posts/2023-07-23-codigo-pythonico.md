@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué significa que el código sea "Pythónico"?
-date: 2023-07-22 21:00:00 -0300
+date: 2023-07-23 21:00:00 -0300
 categories: python
 tags: pythonic pythonico estilos legibilidad
 published: false
@@ -16,7 +16,7 @@ En la opción 2 se generan [listas por comprensión]({% post_url 2021-01-18-pyth
 La opción 3 también comienza de manera similar a la opción 2 pero aprovecha la función `any()`, que devuelve True si alguno de los elementos de la secuencia que se le pasa como argumento es True.
 
 
-![¿Qué significa que el código sea "Pythónico"?]({{ site.url }}/assets/2023-07-22-codigo-pythonico.png)
+![¿Qué significa que el código sea "Pythónico"?]({{ site.url }}/assets/2023-07-23-codigo-pythonico.png)
 
 
 &nbsp;
