@@ -11,10 +11,9 @@ Si queremos escribir código Python que luzca profesional, debemos prestar atenc
 
 En los tres ejemplos que se muestran vemos cómo el primero, si bien es sintácticamente correcto, se parece a un algoritmo que podría haber sido escrito con algún otro lenguaje. Sin embargo, las opciones 2 y 3 son propias de Python.
 
-En la opción 2 se generan [listas por comprensión]({% post_url 2021-01-18-python-listas-comprension %}) donde los elementos son datos booleanos correspondientes a cada carácter del string "s" e indicando si
-cumple o no con la condición pedida (`isalnum()` verifica si es alfanumérico, `isalpha()` verifica si es alfabético, `isdigit()` verifica si es un dígito, `islower()` verifica si es una letra minúscula y `isupper()` verifica si es una letra mayúscula). Luego se imprime el resultado de la operación de pertenencia.
+En la opción 2 se generan [listas por comprensión]({% post_url 2021-01-18-python-listas-comprension %}) donde los elementos son datos booleanos correspondientes a cada carácter del string "s" e indican si ese carácter cumple o no con la condición pedida (`isalnum()` verifica si es alfanumérico, `isalpha()` verifica si es alfabético, `isdigit()` verifica si es un dígito, `islower()` verifica si es una letra minúscula y `isupper()` verifica si es una letra mayúscula). Luego se imprime el resultado de la operación de pertenencia usando el operador `in`.
 
-La opción 3 también comienza de manera similar a la opción 2 pero aprovecha la función `any()` que devuelve True si alguno de los elementos de la secuencia que se le pasa por parámetro es True.
+La opción 3 también comienza de manera similar a la opción 2 pero aprovecha la función `any()`, que devuelve True si alguno de los elementos de la secuencia que se le pasa como argumento es True.
 
 
 ![¿Qué significa que el código sea "Pythónico"?]({{ site.url }}/assets/2023-07-22-codigo-pythonico.png)
