@@ -4,7 +4,7 @@ title: ¿Qué significa que el código sea "Pythónico"?
 date: 2023-07-23 12:00:00 -0300
 categories: python
 tags: pythonic pythonico estilos legibilidad
-published: false
+published: true
 ---
 
 Si queremos escribir código Python que luzca profesional, debemos prestar atención a que nuestro estilo sea "Pythónico". Es decir, que aproveche las herramientas que el lenguaje provee para que nuestros algoritmos sean más elegantes y simples.
