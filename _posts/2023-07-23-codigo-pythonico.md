@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué significa que el código sea "Pythónico"?
-date: 2023-07-23 21:00:00 -0300
+date: 2023-07-23 12:00:00 -0300
 categories: python
 tags: pythonic pythonico estilos legibilidad
 published: false
