@@ -296,7 +296,7 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 
 
 <details><summary><b> -¿En qué trabajás?</b></summary>
-<div markdown="1">Actualmente soy desarrolladora de software. Previamente, durante 10 años me dediqué a QA ("Quality Assurance") de software y di clases de programación en la universidad de mi ciudad.
+<div markdown="1">Actualmente soy desarrolladora de software. Previamente, durante 11 años me dediqué a QA ("Quality Assurance") de software y durante 10 años di clases de programación en la universidad de mi ciudad.
   </div>
 <br />&nbsp;
 </details>
@@ -307,7 +307,7 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 
 Antes que nada, muchas gracias por el aprecio. ❤️
 
-La mayoría de los contenidos que publico son gratuitos pero, si te resultan útiles y quisieras brindar tu apoyo, podrías [<b>invitarme un "matecito"</b>](https://www.matecito.co/ProgramacionDesdeCero){:target="_blank"} (admite Mercadopago/Paypal/Bitcoin), un [<b>"cafecito"</b>](https://cafecito.app/programaciondesde0){:target="_blank"} (Mercadopago/Bitcoin), o también mediante [<b>Paypal</b>](https://www.paypal.com/donate/?hosted_button_id=NVEMP8C2B7238){:target="_blank"}.
+La mayoría de los contenidos que publico son gratuitos pero, si te resultan útiles y quisieras brindar tu apoyo, podrías  [<b>invitarme un "cafecito"</b>](https://cafecito.app/programaciondesde0){:target="_blank"} (Mercadopago/Bitcoin), o también hacerlo mediante [<b>Paypal</b>](https://www.paypal.com/donate/?hosted_button_id=NVEMP8C2B7238){:target="_blank"}.
 
 ---
 
