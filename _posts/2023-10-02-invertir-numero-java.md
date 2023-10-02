@@ -7,7 +7,7 @@ tags: matematica, numeros, algoritmos
 published: true
 ---
 
-Este algoritmo trabaja con operaciones matemáticas simples
+Este algoritmo trabaja con operaciones matemáticas simples para separar los dígitos de un número e invertir su posición.
 
 ![Algoritmo para invertir un numero entero, pasos 1 y 2]({{ site.url }}/assets/2023-10-02-invertir-numero-java-img1.png)
 
