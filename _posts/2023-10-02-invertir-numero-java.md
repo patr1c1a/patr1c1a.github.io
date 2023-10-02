@@ -62,6 +62,12 @@ int invertirNumero(int numero){
 ```
 
 </div></details>
+<br />&nbsp;
 
+### [Código Java para ejecutar](https://jdoodle.com/a/6CkG){:target="_blank"}
+
+{% include codeEditor.html id="6CkG?stdin=0&arg=0&rw=1" %}
+
+<br />&nbsp;
 
 <hr />
