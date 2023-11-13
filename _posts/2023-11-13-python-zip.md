@@ -73,7 +73,7 @@ Salida:
 
 ### [Código Python para ejecutar](https://www.jdoodle.com/ia/QCh){:target="_blank"}
 
-{% include codeEditor.html id="QCh?stdin=0&arg=0&rw=1" %}
+{% include codeEditorNew.html id="QCh?stdin=0&arg=0&rw=1" %}
 
 <br />&nbsp;
 
