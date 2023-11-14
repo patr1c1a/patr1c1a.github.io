@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Función zip en Python para iterar en simultáneo
-date: 2023-11-13 12:00:00 -0300
+date: 2023-11-15 12:00:00 -0300
 categories: python
 tags: zip, iteraciones
 published: true
@@ -9,7 +9,7 @@ published: true
 
 La función zip en Python combina elementos de dos o más iterables en tuplas. Crea un iterador que genera tuplas donde los i-ésimos elementos de cada iterable se agrupan juntos. Es útil para combinar datos de múltiples iterables de manera sincronizada, por ejemplo cuando necesitamos iterar los dos al mismo tiempo.
 
-![Funcion zip en Python]({{ site.url }}/assets/2023-11-13-python-zip.png)
+![Funcion zip en Python]({{ site.url }}/assets/2023-11-15-python-zip.png)
 
 
 &nbsp;
