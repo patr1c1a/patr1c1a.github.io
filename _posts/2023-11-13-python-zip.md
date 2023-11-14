@@ -71,9 +71,9 @@ Salida:
 </div></details>
 <br />&nbsp;
 
-### [Código Python para ejecutar](https://www.jdoodle.com/ia/QCh){:target="_blank"}
+### [Código Python para ejecutar](https://www.jdoodle.com/ia/QFf){:target="_blank"}
 
-{% include codeEditorNew.html id="QCh?stdin=0&arg=0&rw=1" %}
+{% include codeEditorNew.html id="QFf?stdin=0&arg=0&rw=1" %}
 
 <br />&nbsp;
 
