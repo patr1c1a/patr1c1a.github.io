@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Función zip en Python para iterar en simultáneo
-date: 2023-11-15 12:00:00 -0300
+date: 2023-11-14 12:00:00 -0300
 categories: python
 tags: zip, iteraciones
 published: true
