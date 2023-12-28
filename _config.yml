@@ -5,8 +5,8 @@ logo: /static/img/avatar.png
 github: https://github.com/programacion-desde-cero
 about: Recursos educativos sobre programación e informática.
 
-baseurl: "http://patriciaemiguel.com"
-url: "http://patriciaemiguel.com"
+baseurl: "https://patriciaemiguel.com"
+url: "https://patriciaemiguel.com"
 
 allowsearch: true
 
