@@ -28,22 +28,20 @@ permalink: /enlaces/
 - <a href="https://www.hackerrank.com/" target="_blank">HackerRank</a>
 - <a href="https://exercism.io/" target="_blank">Exercism</a>
 - <a href="https://www.codingame.com" target="_blank">CodinGame</a>
-- <a href="https://www.coderbyte.com/" target="_blank">CoderByte</a>
+- <a href="https://www.coderbyte.com/developers" target="_blank">CoderByte</a>
 - <a href="https://projecteuler.net/" target="_blank">Project Euler</a>
 - <a href="http://codekata.com/" target="_blank">Code Kata</a>
 - <a href="https://www.spoj.com/" target="_blank">Sphere Online Judge</a>
 
 ### Compiladores e intérpretes en línea (corren en navegador web):
 - <a href="https://www.jdoodle.com/" target="_blank">Jdoodle</a>
+- <a href="https://codesandbox.io/learn-and-experiment" target="_blank">Code Sandbox (cloud development environments)</a>
 - <a href="https://ideone.com/" target="_blank">Ideone</a>
 - <a href="https://replit.com/" target="_blank">Repl.it</a>
 - <a href="https://www.onlinegdb.com/" target="_blank">GDB Online Debugger</a>
 - <a href="https://rextester.com/" target="_blank">Rextester</a>
 - <a href="https://godbolt.org/" target="_blank">Compiler Explorer (ver código generado al compilar)</a>
 - <a href="https://editor.livegap.com/index.php" target="_blank">Editor HTML, CSS, Javascript</a>
-
-
-
 
 ### Repositorios de archivos y versionado:
 - <a href="https://github.com" target="_blank">Github</a>
@@ -62,27 +60,22 @@ permalink: /enlaces/
 - <a href="https://www.firsttimersonly.com/" target="_blank">First timers only</a>
 - <a href="https://github.com/MunGell/awesome-for-beginners" target="_blank">Awesome First PR Opportunities</a>
 
-### "Hackathons" y competencias por premios:
+### "Hackathons" y competencias de programación:
 - <a href="https://www.hackathon.com/" target="_blank">Hackathon.com</a>
-- <a href="https://challengerocket.com/hackathons-and-challenges.html" target="_blank">Hackathons and coding challenges</a>
-- <a href="https://codingcompetitions.withgoogle.com/" target="_blank">Competencias de programación de Google</a>
-- <a href="https://www.mercadolibre.com.ar/itchallenge/" target="_blank">MercadoLibre IT Challenge (desafíos anuales)</a>
+- <a href="https://challengerocket.com/hackathons-and-challenges.html" target="_blank">Challenge Rocket</a>
+- <a href="https://codingcompetitions.withgoogle.com/" target="_blank">Archivo de competencias de programación de Google (cerradas en 2023)</a>
 - <a href="https://www.topcoder.com/challenges/" target="_blank">TopCoder</a>
 - <a href="http://azspcs.com/" target="_blank">Al Zimmermann's Programming Contests</a>
 - <a href="https://www.codechef.com/" target="_blank">CodeChef</a>
 - <a href="https://register.codingcontest.org/" target="_blank">Coding Contest</a>
 - <a href="http://js13kgames.com/" target="_blank">js13kGames</a>
-- <a href="https://www.yelp.com/dataset/challenge" target="_blank">Yelp Dataset Challenge</a>
 - <a href="https://xdhax.devpost.com/" target="_blank">Xero Developer Challenge</a>
 - <a href="https://iot.eclipse.org/open-iot-challenge/" target="_blank">Open IoT Challenge 5.0</a>
 - <a href="http://spaceappschallenge.org/" target="_blank">NASA Space Apps challenges</a>
-- <a href="https://www.hackerearth.com/codearena/" target="_blank">CodeArena</a>
-- <a href="https://www.reactriot.com/" target="_blank">ReactRiot</a>
-- <a href="https://www.angularattack.com/" target="_blank">Angular Attack</a>
+- <a href="https://www.hackerearth.com/challenges/" target="_blank">CodeArena</a>
 - <a href="https://www.nodeknockout.com/" target="_blank">Node Knockout</a>
 - <a href="https://www.atositchallenge.net/" target="_blank">ATOS IT challenge</a>
 - <a href="http://www.mercedes-benz-challenge.com/" target="_blank">Mercedes Benz Digital Challenge</a>
-- <a href="https://aerolab.co/coding-challenge?medium" target="_blank">AeroLab Coding Challenge</a>
 
 ### Podcasts:
 - <a href="https://ar.ivoox.com/es/podcast-code-time_sq_f1277365_1.html" target="_blank">"CodeTime" (en español)</a>
@@ -127,9 +120,10 @@ permalink: /enlaces/
 
 ### Aplicaciones móviles:
 - <a href="https://developers.google.com/training/android/" target="_blank">Google Developers Training: Android</a>
-- <a href="https://http://ai2.appinventor.mit.edu" target="_blank">MIT App Inventor</a>
+- <a href="http://ai2.appinventor.mit.edu" target="_blank">MIT App Inventor</a>
 
 ### Seguridad informática y hacking:
+- <a href="https://www.hacksplaining.com/" target="_blank">Hacksplaining - Security Training for Developers</a>
 - <a href="http://overthewire.org/wargames/" target="_blank">OverTheWire Wargames</a>
 - <a href="https://picoctf.com/" target="_blank">PicoCTF</a>
 - <a href="http://s0urce.io/" target="_blank">s0urce.io</a>
@@ -170,7 +164,6 @@ permalink: /enlaces/
 - <a href="https://careercup.com/" target="_blank">CareerCup</a>
 - <a href="https://30secondsofinterviews.org/" target="_blank">30 seconds of interviews</a>
 - <a href="https://interviewing.io/" target="_blank">interviewing.io</a>
-- <a href="https://www.rooftopslushie.com/" target="_blank">Rooftop Slushie</a>
 - <a href="https://www.geeksforgeeks.org/a-must-do-free-interview-preparation-course-by-geeksforgeeks/" target="_blank">Geeks for Geeks - free interview preparation course</a>
 - <a href="https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0" target="_blank">50+ Data Structure and Algorithms Interview Questions for Programmers</a>
 - <a href="https://javarevisited.blogspot.com/2017/07/top-10-linked-list-coding-questions-and.html#axzz4xXS86IVo" target="_blank">30+ Linked List Problems from Programming Interviews</a>
