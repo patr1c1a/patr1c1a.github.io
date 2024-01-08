@@ -117,6 +117,9 @@ permalink: /enlaces/
 - <a href="https://flexboxfroggy.com/#es" target="_blank">Flexbox Froggy (CSS)</a>
 - <a href="https://play.google.com/store/apps/details?id=com.sololearn" target="_blank">[Android] SoloLearn</a>
 - <a href="https://play.google.com/store/apps/details?id=com.cf.codigofacilitoapp" target="_blank">[Android] Código Facilito</a>
+- <a href="https://codingcoach.io/" target="_blank">Coding Coach (mentorías)</a>
+- <a href="https://www.mentoring-club.com/" target="_blank">Mentoring Club (mentorías)</a>
+
 
 ### Aplicaciones móviles:
 - <a href="https://developers.google.com/training/android/" target="_blank">Google Developers Training: Android</a>
@@ -145,6 +148,7 @@ permalink: /enlaces/
 - <a href="https://www.edx.org/course/subject/data-science" target="_blank">EdX data science courses</a>
 - <a href="https://www.kdnuggets.com/tutorials/index.html" target="_blank">Kdnuggets</a>
 - <a href="https://www.class-central.com/subject/data-science" target="_blank">Class Central</a>
+
 
 ---
 ---
