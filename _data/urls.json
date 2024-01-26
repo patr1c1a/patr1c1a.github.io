@@ -24,8 +24,8 @@
     "text": "Contribuir",
     "url": "/contribuir/",
     "icon": "fa-coffee"
-  }
-    {
+  },
+  {
     "text": "Feed XML",
     "url": "/feed.xml",
     "icon": "fa-feed",
