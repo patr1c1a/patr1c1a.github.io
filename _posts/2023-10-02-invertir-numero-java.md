@@ -26,11 +26,11 @@ Algoritmo para invertir un número entero, paso a paso
 
 Ejemplo: 4752 se convierte en 2574
 
-Paso 1: Empezamos con una variable que guardará el número invertido, inicialmente en 0: `invertido = 0`
+Paso 1: Empezamos con una variable que guardará el número invertido, inicialmente en 0: `invertido = 0`
 
 Paso 2: Tomamos el último dígito del número (dividiendo por 10 y quedándonos con el módulo): `ultimo_digito = numero % 10`
 
-Ejemplo: 4752÷10=475,2
+Ejemplo: 4752÷10=475,2
 
 El resto de la división es 2. Esto es porque la columna de la decena (50) puede dividirse por 10 sin resto, al igual que la columna de la centena (70) y que la unidad de mil (40). El resto de la división será 2, ya que la columna de la unidad no puede dividirse por 10.
 
