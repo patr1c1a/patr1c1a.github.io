@@ -16,7 +16,7 @@ Click sobre una pregunta para desplegar su respuesta:
 
 ### Sobre programación:
 
-<details><summary><b> -¿Cómo empiezo a programar? ¿Qué temas debería aprender?</b></summary>
+<details><summary id="como-empezar-a-programar"><b> -¿Cómo empiezo a programar? ¿Qué temas debería aprender?</b></summary>
 
 <div markdown="1">Normalmente se comienza por conocer los fundamentos de la programación, sin importar el lenguaje (los conceptos son comunes y se aplican de forma muy similar en todos): variables, tipos de datos, entrada/salida, funciones, estructuras de datos, programación orientada a objetos, entre otros.
 
@@ -34,7 +34,7 @@ Click sobre una pregunta para desplegar su respuesta:
 </details>
 
 
-<details><summary><b> -¿Qué lenguaje debería aprender?</b></summary>
+<details><summary id="que-lenguaje-aprender"><b> -¿Qué lenguaje debería aprender?</b></summary>
 <div markdown="1">El lenguaje no es lo más importante cuando se está comenzando a programar. Lo central es afianzar los conocimientos sobre fundamentos de la programación, algoritmos y estructuras de datos, que pueden luego trasladarse a cualquier lenguaje. El razonamiento lógico y las habilidades de resolución de problemas son cruciales en la programación, y eso se adquiere con ejercitación, donde el lenguaje es solo una herramienta para poder implementar.
   
   Es posible aprender los fundamentos de la programación sin utilizar un lenguaje específico, por ejemplo mediante pseudocódigo con [PSeInt](http://pseint.sourceforge.net/){:target="_blank"} o usando programación por bloques, como los desafíos que propone [Pilas Bloques](http://pilasbloques.program.ar/){:target="_blank"} ([en esta lista he publicado varios videos explicativos](https://www.youtube.com/watch?v=9Q9zMx3BeUo&list=PLb_E6BNMg5j5gJoXwKJw_19t0zmpYMGy7){:target="_blank"}) o la herramienta [MIT App Inventor](http://ai2.appinventor.mit.edu/){:target="_blank"} ([en esta serie de videos explico cómo desarrollar una aplicación móvil](https://www.youtube.com/watch?v=rDzScjlWLg8&list=PLb_E6BNMg5j6Zk9uw_bTn3_GSSkhmj-CT){:target="_blank"}). 
@@ -47,39 +47,39 @@ Click sobre una pregunta para desplegar su respuesta:
 </details>
 
 
-<details><summary><b> -¿Qué tipo de computadora necesito para aprender a programar?</b></summary>
+<details><summary id="que-computadora-necesito"><b> -¿Qué tipo de computadora necesito para aprender a programar?</b></summary>
 <div markdown="1">Las bases de la programación pueden aprenderse, incluso, sin una computadora: solo con lápiz y papel. Por supuesto que siempre será más interesante y motivador poder ver nuestros programas en funcionamiento, pero no tener computadora no es un obstáculo para empezar. Y, si tenemos una, cualquier máquina a la que podamos acceder será útil (pensemos que hace 30 años también se programaba, y con aparatos de capacidad muy inferior a la de los que existen actualmente), al menos para iniciarnos.
   
   Si tenemos una computadora con un navegador (Firefox, Chrome, Edge o cualquier otro) y conexión a internet, desde el navegador podremos acceder a gran cantidad de recursos para probar nuestro código (varios de ellos están listados en la [página de enlaces]({{ site.baseurl }}{% link enlaces.md %}){:target="_blank"} de este blog, en la sección "Compiladores e intérpretes online").
   
   Si no tuviéramos la posibilidad de conectarnos a internet, podemos programar en varios lenguajes utilizando solo un editor de textos (como "Bloc de notas" en Windows o Gedit en Linux) y, si instalamos un compilador o intérprete del lenguaje, podremos "traducir" nuestro código y luego ejecutarlo para verlo en funcionamiento. Normalmente estos compiladores o intérpretes no requieren de grandes recursos computacionales (esto significa que pueden usarse en casi cualquier computadora, aunque sea "viejita" y bajo distintos sistemas operativos). También existen aplicaciones para dispositivos móviles que, aunque sean una opción más incómoda usando el teclado en pantalla, también nos permiten escribir, compilar y ejecutar código.
   
-  Una vez que tengamos más experiencia y empecemos a crear programas más complejos, es posible que necesitemos mayor poder de procesamiento (por ejemplo, más memoria RAM o bien una placa gráfica más potente si es que nuestro trabajo involucra gráficos pesados o algunas cuestiones relacionadas a inteligencia artificial), o algún tipo de dispositivo específico (por ejemplo, una Mac o algún dispotivo Apple si es que vamos a programar para iOS). Pero esta necesidad dependerá mucho del tipo de proyectos en que nos involucremos.
+  Una vez que tengamos más experiencia y empecemos a crear programas más complejos, es posible que necesitemos mayor poder de procesamiento (por ejemplo, más memoria RAM o bien una placa gráfica más potente si es que nuestro trabajo involucra gráficos pesados o algunas cuestiones relacionadas a inteligencia artificial), o algún tipo de dispositivo específico (por ejemplo, una Mac o algún dispositivo Apple si es que vamos a programar para iOS). Pero esta necesidad dependerá mucho del tipo de proyectos en que nos involucremos.
   </div>
 <br />&nbsp;
 </details>
 
 
 
-<details><summary><b> -¿Es necesario estudiar en la universidad o algún instituto terciario para trabajar como informático?</b></summary>
-<div markdown="1">En Argentina y en varios otros países la informática no requiere título habilitante (como sí es el caso de los médicos o los abogados, por ejemplo), por lo que es posible trabajar sin tener ningún título. Pero, al momento de postularse para un puesto laboral, el abanico de conocimientos que nos da un estudio académico suele dar ventaja. Además, la universidad nos deja un léxico técnico en común y un contexto general de varios temas que nos convierte en profesionales más completos. Esto no significia que no se puedan adquirir esos conocimientos por fuera del sistema educativo formal, solo que dependerá de las necesidades de cada persona: el aprendizaje autodidacta no es para todos y algunos se organizan y aprenden mejor con un programa de estudios y docentes que los guíen, mientras que otros aprenden mejor buscando su propio camino con libros, cursos y tutoriales. Lo que sí debe tenerse en cuenta es que la informática es una profesión completa y no basta con saber un poco de programación (así como para ser médico no basta con saberse el sistema respiratorio, supongo 😁).
+<details><summary id="universidad"><b> -¿Es necesario estudiar en la universidad o algún instituto terciario para trabajar como informático?</b></summary>
+<div markdown="1">En Argentina y en varios otros países la informática no requiere título habilitante (como sí es el caso de los médicos o los abogados, por ejemplo), por lo que es posible trabajar sin tener ningún título. Pero, al momento de postularse para un puesto laboral, el abanico de conocimientos que nos da un estudio académico suele dar una gran ventaja y, en muchos casos, ser un requerimiento. Además, la universidad nos deja un vocabulario técnico común y un contexto general de varios temas que nos convierte en profesionales más completos. Esto no significia que no se puedan adquirir esos conocimientos por fuera del sistema educativo formal, solo que dependerá de las necesidades de cada persona: el aprendizaje autodidacta no es para todos y algunos se organizan y aprenden mejor con un programa de estudios y docentes que los guíen, mientras que otros obtienen mejores resultados buscando su propio camino con libros, cursos y tutoriales. Lo que sí debe tenerse en cuenta es que la informática es una profesión completa y no basta con saber un poco de programación (así como para ser médico no basta con saberse el sistema respiratorio, supongo 😁), y esto implica mucho trabajo y disciplina.
   
-Por supuesto que podemos aprender todas estas cosas por fuera del sistema educativo, pero entonces mi recomendación es la de no limitarse a un curso/libro/tutorial de una temática en particular sino estar constantemente preparándose y buscando nuevas cosas para aprender. Lamentablemente, es muy común que se ofrezcan cursos de un lenguaje o tecnología de moda sin centrarse en los conocimientos de base y, si bien este tipo de cursos pueden ser un buen complemento, no es recomendable tomarlos como única fuente de conocimientos y quedarnos solo con eso.
+Por supuesto que podemos aprender mucho por fuera del sistema educativo, pero entonces mi recomendación es la de no limitarse a un curso/libro/tutorial de una temática en particular sino estar constantemente preparándose y buscando nuevas cosas para aprender. Lamentablemente, es muy común que se ofrezcan cursos de un lenguaje o tecnología de moda sin centrarse en los conocimientos de base y, si bien este tipo de cursos pueden ser un buen complemento, no es recomendable tomarlos como única fuente de conocimientos y quedarnos solo con eso. Existen muchas "promesas vacías" al respecto, del estilo "estudia programación por 6 meses y gana en dólares" que suelen rozar la estafa (especialmente porque los puestos laborales hoy en día requieren conocimientos reales y en diversas áreas). No esperaríamos que alguien diseñara los planos de nuestra casa luego de haber estudiado solo un curso de 6 meses de, por ejemplo, dibujo técnico, ¿verdad? Simplemente porque no sabría lo suficiente para hacer un trabajo completo y correcto. Y lo mismo sucede con un desarrollador de software.
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary><b> -¿Puedo empezar en la informática si tengo más de 30 años?</b></summary>
+<details><summary id="empezar-despues-de-los-35"><b> -¿Puedo empezar en la informática si tengo más de 35 años?</b></summary>
 <div markdown="1">
-¡Por supuesto! Si hablamos de aprender y hace mucho tiempo que no estudiamos, es posible que debamos tener paciencia hasta adoptar nuevamente el hábito del estudio y que tengamos que habituarnos a tecnologías nuevas que nos resultan totalmente desconocidas. Pero es solo una cuestión de tiempo y determinación. El cerebro humano está preparado para aprender constantemente, en todo momento de su vida. Y mantener la curiosidad y la pasión por hacer algo que nos gusta es altamente gratificante. Y, a riesgo de sonar como autora de libros de autoayuda: la única limitación está en nosotros mismos cuando creemos que no podemos hacer algo. Esto no es solo un decir. La mayoría de informáticos de todas las edades sufrimos en algún momento del "síndrome del impostor" que nos auto-sabotea haciéndonos pensar que no somos suficientemente buenos. Es solo cuestión de mantener la voluntad y desarrollar la tolerancia a la frustración.
+¡Por supuesto! Si hablamos de aprender y hace mucho tiempo que no estudiamos, es posible que debamos tener paciencia hasta adoptar nuevamente el hábito del estudio y que tengamos que habituarnos a tecnologías nuevas que nos resultan totalmente desconocidas. Pero es solo una cuestión de tiempo y determinación. El cerebro humano está preparado para aprender constantemente, en todo momento de su vida. Mantener la curiosidad y la pasión por hacer algo que nos gusta es altamente gratificante. Y, a riesgo de sonar como autora de libros de autoayuda: la única limitación está en nosotros mismos cuando creemos que no podemos hacer algo. Esto no es solo un decir. La mayoría de informáticos de todas las edades sufrimos en algún momento del "síndrome del impostor" que nos auto-sabotea haciéndonos pensar que no somos suficientemente buenos. Es necesario mantener la voluntad y desarrollar la tolerancia a la frustración.
   
-En cuanto al campo profesional, aunque es común que muchas de las personas que se dedican a la informática (en cualquiera de sus roles, ya no solo como programador sino también como tester, analista, project manager, scrum master...) sea menor de 30 años, muchas empresas buscan activamente a personas de mayor edad por muchos motivos (por experiencia de vida, porque desean darles oportunidades, porque tal vez manejan de manera más madura las "habilidades blandas", etc.). El campo laboral está abierto a todo el que demuestre conocimiento, sin importar su edad. 
+En cuanto al campo profesional, aunque es común que muchas de las personas que se dedican a la informática sean menores de 35 años, muchas empresas buscan activamente a personas de mayor edad por muchos motivos (por experiencia de vida, porque desean darles oportunidades, porque tal vez manejan de manera más madura las "habilidades blandas", etc.).
   </div>
 <br />&nbsp;
 </details>
 
-<details><summary><b> -¿En qué universidad/institución debería estudiar y qué carrera debería elegir?</b></summary>
+<details><summary id="en-que-universidad-estudiar"><b> -¿En qué universidad/institución debería estudiar y qué carrera debería elegir?</b></summary>
 <div markdown="1">No conozco demasiado la situación de otros países, por lo que mi opinión va a estar basada en lo que sé del tema dentro de Argentina.
   
   En principio, esta es una decisión muy personal y que va a estar afectada por cuestiones como la económica (¿institución pública o privada?), la disponibilidad de opciones en el lugar donde vivamos o si estamos dispuestos a viajar o reubicarnos en otro lugar para acceder a más alternativas, si los horarios de cursada que ofrecen se condicen con nuestros horarios personales/laborales, etc.
@@ -100,7 +100,7 @@ En cuanto al campo profesional, aunque es común que muchas de las personas que 
 
 
 
-<details><summary><b> -¿Qué libros son recomendables para aprender a programar, ejercitar programación o aprender sobre el mundo del software?</b></summary>
+<details><summary id="libros-recomendables"><b> -¿Qué libros son recomendables para aprender a programar, ejercitar programación o aprender sobre el mundo del software?</b></summary>
 <div markdown="1">Es necesario tener en cuenta que mucho del material más reconocido se encuentra únicamente en inglés. Por suerte, para algunos títulos existen traducciones al español.
     
 Algunos de estos libros son orientados a aprender las bases de la programación y otros son orientados al ejercicio profesional y las buenas prácticas, pero todos ellos son habitualmente recomendados para desarrolladores principiantes y no tanto:
@@ -134,7 +134,7 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 </details>
 
 
-<details><summary><b> -¿Qué recursos en internet pueden ayudarme a aprender o practicar programación?</b></summary>
+<details><summary id="recursos-para-aprender"><b> -¿Qué recursos en internet pueden ayudarme a aprender o practicar programación?</b></summary>
 <div markdown="1">Por suerte, hay muchísimos. En [mi página de enlaces]({{ site.baseurl }}{% link enlaces.md %}){:target="_blank"} vas a encontrar varios, clasificados por categorías.
   
   </div>
@@ -142,20 +142,20 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 </details>
 
 
-<details><summary><b> -¿Qué lenguaje me conviene usar para mi proyecto?</b></summary>
+<details><summary id="lenguajes"><b> -¿Qué lenguaje me conviene usar para mi proyecto?</b></summary>
 <div markdown="1">No hay una respuesta única, aunque el tipo de proyecto influye mucho. Para encarar algo serio, debe hacerse un análisis cuidadoso de las necesidades y arquitectura del proyecto, y definir el "stack tecnológico" más apropiado. En términos generales, [esta publicación]({{ site.baseurl }}{% link _posts/2019-11-01-que-lenguaje-usar.md %}){:target="_blank"} podría servir como guía introductoria.
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary><b> -¿Cómo podría prepararme para una entrevista laboral de programación?</b></summary>
+<details><summary id="entrevista-laboral"><b> -¿Cómo podría prepararme para una entrevista laboral de programación?</b></summary>
 <div markdown="1">En este punto debo mencionar que, para tener éxito como informáticos en el mundo profesional, es casi imprescindible hablar inglés. Sí, es posible trabajar para empresas, organizaciones o clientes de habla hispana, pero el mercado de la tecnología es global por naturaleza y es en esa globalidad donde se hallan grandes oportunidades para crecer y desarrollarnos profesionalmente. Es por eso que la gran mayoría de los recursos y el material más reconocido se encuentra únicamente en inglés.
   
   Aunque [en la página de enlaces puede encontrarse un listado más extenso](http://patriciaemiguel.com/enlaces/), estos son algunos sitios web donde podremos ejercitar nuestras habilidades, con problemas usualmente ordenados por categorías temáticas y según su dificultad:
-<br />* [Codeforces](http://codeforces.com/){:target="_blank"}
 <br />* [Hackerrank](https://www.hackerrank.com/){:target="_blank"}
 <br />* [Leet Code](https://leetcode.com/){:target="_blank"}
+<br />* [Codeforces](http://codeforces.com/){:target="_blank"}
   
   También existen algunos libros orientados exclusivamente a la preparación de entrevistas:
 <br />* [Cracking the Coding Interview: 189 Programming Questions and Solutions - Gayle Laakmann McDowell](https://books.google.com.ar/books/about/Cracking_the_Coding_Interview.html?id=jD8iswEACAAJ){:target="_blank"}
@@ -169,7 +169,7 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 </details>
 
 
-<details><summary><b> -¿Es realmente tan importante hablar inglés si quiero trabajar en informática?</b></summary>
+<details><summary id="idiomas"><b> -¿Es realmente tan importante hablar inglés si quiero trabajar en informática?</b></summary>
 <div markdown="1">No sé si es la respuesta que esperabas, pero: sí. Y no solo por escrito sino que es necesario comprender el inglés hablado y también poder hablarlo (tal vez no sea tan importante la perfección, pero sí poder comunicarse fluidamente).
   
   Uno de los motivos es que las profesiones relacionadas a tecnología suelen tener un carácter global por naturaleza, por lo que un idioma común nos facilita el intercambio de ideas, opiniones, dudas, etc. Y, cuando buscamos información sobre cómo hacer algo, siempre querremos acceder a la mayor cantidad de soluciones posibles, sin barreras idiomáticas.
@@ -184,35 +184,41 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 </details>
 
 
-<details><summary><b> -¿Cómo puedo empezar a trabajar en informática? ¿Existen otros roles además de "programador" o "desarrollador"?</b></summary>
+<details><summary id="roles"><b> -¿Cómo puedo empezar a trabajar en informática? ¿Existen otros roles además de "programador" o "desarrollador"?</b></summary>
 <div markdown="1">¡Por supuesto! Y los hay más técnicos o menos técnicos, así como también algunos son más "amigables" con el principiante. Eso sí: como siempre aclaro, en el mundo profesional ayuda mucho hablar inglés, cualquiera sea el puesto al que aspires. Pero no todo es "programar" y no todos los miembros de un equipo de desarrollo de software tienen tareas tan técnicas. 
   
-  Habitualmente, en los proyectos de software suelen aplicarse "metodologías ágiles" y suele haber ciertos roles -que pueden existir o no- dependiendo de las necesidades, del tamaño del equipo y del tipo de producto. En algunos casos la programación es una habilidad central, en otros es deseable y en otros ni siquiera es necesaria. Por ejemplo, si buscas ser "project manager" será importante que tengas buenas habilidades de comunicación, de liderazgo, de organización y planificación, de manejo de riesgos, etc., y saber programar puede beneficiarte pero normalmente no es un requisito. Si, en cambio, te interesa el camino de QA ("quality assurance" o "quality engineer"), será necesario que tengas pensamiento crítico, atención a los detalles, buena comunicación, y podrías dedicarte únicamente a hacer QA "manual" sin conocimientos de programación, aunque saber programar y otros conocimientos técnicos te abrirían nuevos caminos dentro de esta carrera. Esos son solo dos ejemplos, pero te animo a que investigues otros roles que pueden existir en un equipo de desarrollo y que tal vez te permitan aplicar tus habilidades ya adquiridas o se ajusten más a tus intereses. Por mencionar algunos ejemplos:
+  Habitualmente, en los proyectos de software suelen aplicarse "metodologías ágiles" y suele haber ciertos roles -que pueden existir o no- dependiendo de las necesidades, del tamaño del equipo y del tipo de producto. En algunos casos la programación es una habilidad central, en otros es deseable y en otros ni siquiera es necesaria. Por ejemplo, si buscas ser "project manager" será importante que tengas buenas habilidades de comunicación, de liderazgo, de organización y planificación, de manejo de riesgos, etc., y saber programar puede beneficiarte pero normalmente no es un requisito. Si, en cambio, te interesa el camino de QA ("quality assurance" o "quality engineer"), será necesario que tengas pensamiento crítico, atención a los detalles, buena comunicación, y podrías dedicarte únicamente a hacer QA "manual" sin conocimientos de programación, aunque saber programar y otros conocimientos técnicos te abrirían nuevos caminos dentro de esta carrera y se están volviendo cada vez más un requisito. Esos son solo dos ejemplos, pero te animo a que investigues otros roles que pueden existir en un equipo de desarrollo y que tal vez te permitan aplicar tus habilidades ya adquiridas o se ajusten más a tus intereses. Por mencionar algunos ejemplos:
   
+  * Software developer/engineer (back-end, front-end, full-stack, mobile, etc.)
   * Business Analyst
   * Product Owner
   * Scrum master
   * Project manager
   * Diseñador UX / UI
   * QA (manual, automatizado, y aquí también pueden entrar los expertos en seguridad informática)
-  * Software developer (back-end, front-end, mobile, etc.)
   * Arquitecto de software
-  * DBA
   * DevOps
+  * DBA
+  * Data engineer
   * Machine learning engineer
+
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary><b> -¿Qué habilidades se recomienda tener para iniciarme en el mundo profesional?</b></summary>
-<div markdown="1">Es difícil dar una única respuesta, que además depende del rol que vayas a desempeñar. Aunque siempre hay ciertas técnicas, metodologías y herramientas que están en boga y que pueden ser un buen agregado a nuestro curriculum vitae.
+<details><summary id="habilidades"><b> -¿Qué habilidades se recomienda tener para iniciarme en el mundo profesional?</b></summary>
+<div markdown="1">Es difícil dar una única respuesta, que además depende del rol que vayas a desempeñar. Aunque siempre hay ciertas técnicas, metodologías y herramientas que están en boga y que pueden ser un buen agregado a nuestro curriculum vitae. Revisar qué tecnologías son las más solicitadas en el mercado puede ser un buen indicador, pero siempre el punto de partida deben ser los conceptos básicos (como programación, estructuras de datos, diseño de objetos, diseño de bases de datos, etc.).
   
-  Actualmente, las metodologías ágiles suelen ser las más elegidas para los proyectos de desarrollo de software, por lo que será interesante conocer algo sobre ellas, saber cómo se organiza un equipo (por ejemplo, utilizando "scrum", "kanban" o "lean") y qué se espera de cada integrante, cómo planifican las tareas (usualmente en "sprints"), cuál es el ciclo de vida del software, así como conocer conceptos y terminología generales que nos permitan "hablar un idioma común" con nuestros compañeros. Términos como "requerimiento", "code freeze", "release candidate", "mvp" ("minium viable product"), "daily scrum" o "daily standup", "poker planning", "backlog", "sprint retrospective", "acceptance criteria", "regression test", "continuous integration", "epics", y seguramente varios más que se me están olvidando en este momento, son comunes en el día a día laboral.
+  Actualmente, las metodologías ágiles suelen ser las más elegidas para los proyectos de desarrollo de software, por lo que será interesante conocer algo sobre ellas, saber cómo se organiza un equipo (por ejemplo, utilizando "scrum", "kanban" o "lean") y qué se espera de cada integrante, cómo planifican las tareas (usualmente en "sprints"), cuál es el ciclo de vida del software ("SDLC"), así como conocer conceptos y terminología generales que nos permitan "hablar un idioma común" con nuestros compañeros, donde muchos de ellos se usan directamente en inglés. Términos como "requerimiento", "code freeze", "release candidate", "mvp" ("minium viable product"), "daily scrum" o "daily standup", "poker planning", "backlog", "sprint retrospective", "acceptance criteria", "regression test", "continuous integration", "epics", "code review", "pull request" (o "PR") y seguramente varios más que se me están olvidando en este momento, son comunes en el día a día laboral.
   
-  Por otra parte, habrá herramientas y tecnologías puntuales a dominar en cada rol y cada proyecto. Por ejemplo, si el puesto implica modificar código, seguramente se utilice algún sistema de versionado como [Git](https://git-scm.com/){:target="_blank"} o [Subversion](https://subversion.apache.org/){:target="_blank"}. También suele ser muy útil manejar (aunque sea de forma básica) [Linux](https://www.linux.org/){:target="_blank"}. En caso de que nuestro proyecto utilice virtualización puede que necesitemos conocer sobre tecnologías como [VirtualBox](https://www.virtualbox.org/){:target="_blank"}, [VMware](https://www.vmware.com/){:target="_blank"} o [Vagrant](https://www.vagrantup.com/){:target="_blank"}, o en casos más específicos puede sernos útil conocer sobre [Docker](https://www.docker.com/){:target="_blank"} o [Kubernetes](https://kubernetes.io/){:target="_blank"}. Además, los proyectos medianos y grandes suelen utilizar sistemas de "continuous integration" como [CircleCI](https://circleci.com/){:target="_blank"}, [Travis](https://www.travis-ci.com){:target="_blank"} o [Jenkins](https://www.jenkins.io/){:target="_blank"}.
+  Por otra parte, habrá herramientas y tecnologías puntuales a dominar en cada rol y cada proyecto. Por ejemplo, si el puesto implica modificar código, seguramente se utilice algún sistema de versionado como [Git](https://git-scm.com/){:target="_blank"} o [Subversion](https://subversion.apache.org/){:target="_blank"}. También suele ser muy útil estar familiarizado (aunque sea de forma básica) [Linux](https://www.linux.org/){:target="_blank"}. Hoy es común que los proyectos utilicen algún tipo de contenedores o de virtualización, por lo que necesitaremos conocer sobre tecnologías como [Docker](https://www.docker.com/){:target="_blank"}, [Kubernetes](https://kubernetes.io/){:target="_blank"}, [Vagrant](https://www.vagrantup.com/){:target="_blank"}, [VirtualBox](https://www.virtualbox.org/){:target="_blank"} o [VMware](https://www.vmware.com/){:target="_blank"}. Además, los proyectos medianos y grandes suelen utilizar sistemas de "continuous integration" como [CircleCI](https://circleci.com/){:target="_blank"}, [Travis](https://www.travis-ci.com){:target="_blank"} o [Jenkins](https://www.jenkins.io/){:target="_blank"}.
+
+  Hoy también existen los servicios de computación en la nube, que parecen haber llegado para quedarse: "Software as a Service" (SaaS), "Infrastructure as a Service" (IaaS), "Platform as a Service" (PaaS). Esto es todo un mundo pero es necesario que conozcamos al menos algo de ellos. Los tres principales proveedores son [Amazon Web Services](https://aws.amazon.com/es/), [Azure (Microsoft)](https://azure.microsoft.com/es-es/) y [Google Cloud Platform](https://cloud.google.com/?hl=es). Cada uno tiene cientos (sí, cientos) de soluciones "cloud" para distintos usos, pero suele haber un grupo de servicios más comúnmente usados, como los que permiten gestionar bases de datos, almacenamiento de archivos, crear máquinas virtuales, notificación de eventos, y muchísimos más. 
+
+  Por supuesto, también nos será muy útil tener conocimientos sobre SQL y bases de datos relacionales y no relacionales, APIs (verbos HTTP, REST, SOAP, GraphQL), arquitectura de microservicios, patrones de diseño, infraestructura...
   
-  Y, como esta profesión es tan cambiante y todo varía constantemente, siempre habrá nuevas herramientas, tecnologías y formas de trabajo de las cuales deberemos al menos estar enterados si queremos mantenernos actualizados.
+  Y, como esta profesión es tan cambiante y todo varía constantemente, siempre habrá nuevas tecnologías y formas de trabajo de las cuales deberemos al menos estar enterados si queremos mantenernos actualizados.
   </div>
 <br />&nbsp;
 </details>
@@ -230,7 +236,7 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 </details>
 
 
-<details><summary><b> -¿Cómo empezó?</b></summary>
+<details><summary id="como-empezo"><b> -¿Cómo empezó?</b></summary>
 <div markdown="1">Alrededor de 2011 comencé publicando en este blog algunos artículos que escribía cuando aún era estudiante de Licenciatura en Sistemas.
 <br />Unos años después hice algunos videos explicativos para mis alumnos de la universidad, sin intenciones de que se utilizaran fuera de ese ámbito.
 <br />Luego decidí crear más contenidos, para ponerlos a disposición de cualquier persona que pudiera necesitarlos, y por eso comencé a subir más videos de diferentes temas y a publicar en redes sociales, siempre con el ánimo de divulgar, compartir y continuar aprendiendo.
@@ -239,14 +245,14 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 </details>
 
 
-<details><summary><b> -¿Quién genera los contenidos de Programación Desde Cero?</b></summary>
+<details><summary id="quien-genera-los-contenidos"><b> -¿Quién genera los contenidos de Programación Desde Cero?</b></summary>
 <div markdown="1">Principalmente yo, Patricia 🙂. Aunque siempre estoy recibiendo ayuda de amigos, colegas y compañeros (o ex-compañeros) de universidad y laborales, a los que recurro para consultar cuestiones específicas que ellos conocen en mayor profundidad y en las que tienen mayor experiencia.
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary><b> -¿Puedo enviar mi problema sobre código para que me ayudes a resolverlo?</b></summary>
+<details><summary id="ayuda-con-codigo-y-ejercicios"><b> -¿Puedo enviar mi problema sobre código para que me ayudes a resolverlo?</b></summary>
 <div markdown="1">Lamentablemente, mis actividades no me permiten brindar este tipo de asesorías personalizadas. Además, existe otro motivo por el que no puedo ayudar cuando se trata de una tarea académica: en esos casos es necesario tener en cuenta las restricciones y estilos de código que los docentes hayan decidido adoptar en el curso que se está tomando, por lo que una resolución que no contemple estos detalles posiblemente no sea útil.
 <br />De todas formas, [esta guía]({% post_url 2019-06-14-corregir-errores %}){:target="_blank"} puede ayudarte para resolver problemas de código y [en esta publicación]({% post_url 2021-01-02-leer-mensajes-error %}){:target="_blank"} intento ayudar a investigar los errores en el código. También publiqué [este video](https://www.youtube.com/watch?v=5W14n0PjfyI){:target="_blank"} sobre cómo "debuggear" y [este otro](https://www.youtube.com/watch?v=ZJP0Z5-sbeY){:target="_blank"} sobre cómo probar una función. Y en la [página de enlaces](http://patriciaemiguel.com/enlaces/){:target="_blank"} podrás encontrar varias comunidades de programadores donde es posible hacer preguntas y recibir consejos.
   </div>
@@ -254,14 +260,14 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 </details>
 
 
-<details><summary><b> -¿Con qué grabás tus videos?</b></summary>
+<details><summary id="herramientas-usadas"><b> -¿Con qué grabás tus videos?</b></summary>
 <div markdown="1">A lo largo del tiempo he ido cambiando de software y equipo utilizado. Actualmente uso un micrófono Blue Snowball, [Audacity](https://www.audacityteam.org/){:target="_blank"} y [VoiceMeeter](https://vb-audio.com/Voicemeeter/){:target="_blank"} para grabación y edición del sonido. Para grabar la pantalla utilizo [Flashback Express](https://www.flashbackrecorder.com/express){:target="_blank"} y [HitFilm Express](https://fxhome.com/product/hitfilm-express){:target="_blank"} para la edición de video (ambos en sus versiones gratuitas). En cuanto a los contenidos, uso principalmente [Microsoft PowerPoint](https://www.office.com/launch/powerpoint){:target="_blank"} o [Google Slides](https://docs.google.com/presentation/u/0/){:target="_blank"} para diseñar las presentaciones y luego diferentes herramientas como IDEs o compiladores online (en este aspecto me gusta especialmente la funcionalidad de [Python tutor](http://pythontutor.com){:target="_blank"} para observar los contenidos de la memoria durante la ejecución de un programa).
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary><b> -¿Dictas cursos de programación u otros temas de informática?</b></summary>
+<details><summary id="cursos"><b> -¿Dictas cursos de programación u otros temas de informática?</b></summary>
 <div markdown="1">Por el momento, no. Aunque es algo que me han pedido mucho y es mi intención comenzar a hacer. Pero la organización y preparación de un curso es algo que debe hacerse con tiempo y cuidado, además de buscar la mejor modalidad para que todos los estudiantes puedan sacar el máximo provecho. En cuanto tenga novedades al respecto, estaré publicándolo en las cuentas de Programación Desde Cero en las redes sociales.
   </div>
 <br />&nbsp;
@@ -273,21 +279,21 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 
 ### Sobre mí:
 
-<details><summary><b> -¿Quién crea este sitio web y el canal de Youtube?</b></summary>
+<details><summary id="blog-y-canal"><b> -¿Quién crea este sitio web y el canal de Youtube?</b></summary>
 <div markdown="1">Me llamo Patricia Miguel y soy de Argentina.
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary><b> -¿Qué estudios universitarios cursaste?</b></summary>
+<details><summary id="estudios-universitarios"><b> -¿Qué estudios universitarios cursaste?</b></summary>
 <div markdown="1">Después de graduarme en la facultad de ciencias jurídicas de la [UNLP](http://www.jursoc.unlp.edu.ar){:target="_blank"} y descubrir que no era lo mío, volví a la universidad para estudiar informática en la [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}. Comencé por obtener dos títulos intermedios ("Programador Universitario" y "Analista de Sistemas") y continué estudiando para llegar al título de grado de Licenciatura en Sistemas.
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary><b> -¿Qué experiencia docente tenés?</b></summary>
+<details><summary id="experiencia-docente"><b> -¿Qué experiencia docente tenés?</b></summary>
 <div markdown="1">En 2010, siendo todavía estudiante en [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}, comencé allí mismo como ayudante de cátedra en dos materias del primer año de la universidad, comunes a distintas carreras de informática: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaban a estudiar ese año. Continué en las dos materias mencionadas al principio hasta que, en 2014 empecé a trabajar oficialmente como docente, hasta 2019.
   <br />Fuera del ámbito universitario, a principios de 2021 fui parte del equipo docente de un taller virtual del "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}".
   </div>
@@ -295,7 +301,7 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 </details>
 
 
-<details><summary><b> -¿En qué trabajás?</b></summary>
+<details><summary id="experiencia-laboral"><b> -¿En qué trabajás?</b></summary>
 <div markdown="1">Actualmente soy desarrolladora de software. Previamente, durante 11 años me dediqué a QA ("Quality Assurance") de software y durante 10 años di clases de programación en la universidad de mi ciudad.
   </div>
 <br />&nbsp;
