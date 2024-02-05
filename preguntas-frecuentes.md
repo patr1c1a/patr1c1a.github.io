@@ -223,7 +223,7 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 
 ### Sobre Programación Desde Cero:
 
-<details><summary><b> -¿Qué es Programación Desde Cero?</b></summary>
+<details><summary id="que-es-programacion-desde-cero"><b> -¿Qué es Programación Desde Cero?</b></summary>
 <div markdown="1">Es el espacio a través del cual comparto material educativo sobre programación e informática, especialmente (pero no únicamente) para principiantes. Publico videos en [Youtube](https://www.youtube.com/c/ProgramacionDesdeCero){:target="_blank"} y contenidos breves en redes sociales ([Twitter](https://twitter.com/Programacion_0){:target="_blank"} / [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos){:target="_blank"} / [Instagram](https://www.instagram.com/programaciondesdecero/){:target="_blank"} / [Pinterest](https://www.pinterest.com/ProgramacionDesdeCero/){:target="_blank"}) con conceptos explicados, ejercicios, desafíos, etc. Este blog nuclea esos contenidos publicados en diferentes otros medios.
   </div>
 <br />&nbsp;
@@ -240,7 +240,7 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 
 
 <details><summary><b> -¿Quién genera los contenidos de Programación Desde Cero?</b></summary>
-<div markdown="1">Principalmente yo, Patricia 🙂. Aunque siempre estoy recibiendo ayuda de amigos, colegas y compañeros (o ex-compañeros) de universidad y laborales, a los que recurro para consultar cuestiones específicas que ellos concen en mayor profundidad y en las que tienen mayor experiencia.
+<div markdown="1">Principalmente yo, Patricia 🙂. Aunque siempre estoy recibiendo ayuda de amigos, colegas y compañeros (o ex-compañeros) de universidad y laborales, a los que recurro para consultar cuestiones específicas que ellos conocen en mayor profundidad y en las que tienen mayor experiencia.
   </div>
 <br />&nbsp;
 </details>
