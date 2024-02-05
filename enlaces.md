@@ -62,6 +62,7 @@ permalink: /enlaces/
 
 ### "Hackathons" y competencias de programación:
 - <a href="https://www.hackathon.com/" target="_blank">Hackathon.com</a>
+- <a href="https://codeforces.com/contests" target="_blank">Codeforces</a>
 - <a href="https://challengerocket.com/hackathons-and-challenges.html" target="_blank">Challenge Rocket</a>
 - <a href="https://codingcompetitions.withgoogle.com/" target="_blank">Archivo de competencias de programación de Google (cerradas en 2023)</a>
 - <a href="https://www.topcoder.com/challenges/" target="_blank">TopCoder</a>
