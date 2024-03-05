@@ -10,6 +10,8 @@ published: true
 El diseño orientado a objetos es un paradigma de programación que organiza el código en unidades reutilizables llamadas "objetos". Aprender a diseñar correctamente es importante en la programación orientada a objetos, pues facilita la reutilización de código y el mantenimiento.
 
 ![Ejercicio básico de OO]({{ site.url }}/assets/2024-03-04-ejercicio-OO1.png)
+
+
 ![Ejercicio básico de OO - solución]({{ site.url }}/assets/2024-03-04-ejercicio-OO2.png)
 
 
