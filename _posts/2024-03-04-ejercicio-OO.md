@@ -2,7 +2,7 @@
 layout: post
 title: Diseño de objetos - ejercicio básico
 date: 2024-03-04 21:00:00 -0300
-categories: poo, ejercicios
+categories: poo ejercicios
 tags: objetos modelado
 published: true
 ---
