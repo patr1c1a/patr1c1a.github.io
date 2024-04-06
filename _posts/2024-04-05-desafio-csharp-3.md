@@ -18,7 +18,7 @@ Si quisiéramos ejecutar el código del ejemplo, deberíamos instanciar el objet
   </div>
 {% include codeEditor.html id="66Qm?stdin=0&arg=0&rw=1" %} 
 <br />
-<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2024-04-07-desafio-csharp-3-solucion.png)
+<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2024-04-06-desafio-csharp-3-solucion.png)
   </div></details>
 
 <br />
