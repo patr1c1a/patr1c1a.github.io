@@ -1,3 +1,4 @@
+---
 layout: post
 title: Desafío C# número 3
 date: 2024-04-05 20:00:00 -0300
@@ -44,7 +45,7 @@ class ColorExtendido : Color
     private int tonalidad, saturacion, luminosidad;
 }
 
-// Crear objeto
+// Instanciar objeto:
 ColorExtendido ce = new ColorExtendido();
 ```
 
