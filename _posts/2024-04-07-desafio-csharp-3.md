@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Desafío C# número 3
-date: 2024-04-05 20:00:00 -0300
+date: 2024-04-07 20:00:00 -0300
 categories: desafios csharp
 tags: atributos herencia poo
 published: true
@@ -13,7 +13,7 @@ Si quisiéramos ejecutar el código del ejemplo, deberíamos instanciar el objet
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✅ La respuesta correcta es la c: "r, g, b, tonalidad, saturacion, luminosidad".
 <br />
-<br />✏️ Explicación: La clase `ColorExtendido` hereda de `Color` y, por ende, todos sus atributos.
+<br />✏️ Explicación: La clase `ColorExtendido` hereda de `Color` y, por ende, hereda todos sus atributos. El modificador de visibilidad (en este caso, "private") no modifica esta característica de la herencia (los atributos podrían tener cualquier modificador; la clase hija heredará los atributos de la clase padre).
 <br />
 <br /><div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/66Qm){:target="_blank"}
   </div>
