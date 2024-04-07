@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Desafío C# número 3
-date: 2024-04-07 20:00:00 -0300
+date: 2024-04-07 13:00:00 -0300
 categories: desafios csharp
 tags: atributos herencia poo
 published: true
