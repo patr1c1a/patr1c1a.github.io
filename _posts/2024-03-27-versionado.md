@@ -11,7 +11,7 @@ Asignar de forma correcta y ordenada un número de versión a nuestro software e
 
 El método de versionado más común es el ["versionado semántico", cuya especificación puede verse aquí](https://semver.org/lang/es/).
 
-![Versional]({{ site.url }}/assets/2024-03-27-versionado.png)
+![Versionado de software]({{ site.url }}/assets/2024-03-27-versionado.png)
 
 
 &nbsp;
