@@ -9,6 +9,8 @@ published: true
 
 Veamos un ejemplo con yield que podría generar confusión si no estamos acostumbrados a trabajar con generadores.
 
+([Cómo funciona yield]({% post_url 2023-05-06-python-yield %}))
+
 ![Ejemplo con yield]({{ site.url }}/assets/2024-27-04-ejemplo-generadores-python.png)
 
 
