@@ -11,7 +11,7 @@ Veamos un ejemplo con yield que podría generar confusión si no estamos acostum
 
 [Qué es yield]({% post_url 2023-05-06-python-yield %})
 
-![Ejemplo con yield]({{ site.url }}/assets/2024-27-04-ejemplo-generadores-python.png)
+![Ejemplo con yield]({{ site.url }}/assets/2024-04-27-ejemplo-generadores-python.png)
 
 
 &nbsp;
