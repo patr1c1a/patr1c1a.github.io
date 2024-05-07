@@ -2,7 +2,7 @@
 layout: post
 title: ¡Cuidado con la concatenación implícita!
 date: 2024-05-06 09:00:00 -0300
-categories: python
+categories: python c++
 tags: strings
 published: true
 ---
