@@ -7,7 +7,7 @@ tags: streams
 published: true
 ---
 
-Los streams estándar son una herencia de Unix en los años 70, pero hoy son universales. Todos los lenguajes los usan, y el sistema operativo les asigna los números 0 (stdin), 1 (stdout) y 2 (stderr) para identificarlos.
+Los streams estándar son una herencia de Unix en los años 70, pero hoy son universales. Todos los lenguajes los usan, y el sistema operativo les asigna los números 0 (stdin), 1 (stdout) y 2 (stderr) para identificarlos. Tener un stream específico para errores nos permite separarlos de la salida "normal" del program.
 
 
 ![Streams estándar]({{ site.url }}/assets/2025-04-05-streams-estandar.png)
@@ -19,7 +19,7 @@ Los streams estándar son una herencia de Unix en los años 70, pero hoy son uni
 
 "Streams estándar"
 
-Los programas sin interfaz gráfica (como scripts o herramientas de consola) usan estos canales para comunicarse:
+Son canales básicos que todo programa usa para comunicarse con el sistema, ya sea en terminal o en segundo plano.
 
 0- stdin (Entrada): Datos que ingresa el usuario.
 
