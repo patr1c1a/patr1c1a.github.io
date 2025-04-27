@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bases de Datos relacionales, conceptos esenciales
-date: 2025-04-16 09:00:00 -0300
+date: 2025-04-26 09:00:00 -0300
 categories: bd
 tags: bd relacional tabla pk fk
 published: true
