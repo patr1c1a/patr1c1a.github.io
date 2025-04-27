@@ -7,7 +7,7 @@ tags: bd relacional tabla pk fk
 published: true
 ---
 
-El modelo relacional es un enfoque para organizar y almacenar datos en una base de datos, representándolos en tablas relacionadas. Entender qué son las entidades, las claves primarias y las claves foráneas es fundamental para construir bases de datos sólidas y bien estructuradas.
+El modelo relacional es un enfoque para organizar y almacenar datos en una base de datos (relacional), representándolos en tablas relacionadas. Entender qué son las entidades, las claves primarias y las claves foráneas es fundamental para construir bases de datos sólidas y bien estructuradas.
 
 
 ![Conceptos de Bases de Datos]({{ site.url }}/assets/2025-04-26-conceptos-bd.png)
