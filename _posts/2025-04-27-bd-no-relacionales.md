@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bases de Datos relacionales, conceptos esenciales
+title: Bases de datos no relacionales
 date: 2025-04-27 09:00:00 -0300
 categories: bd
 tags: bd nosql mongodb redis dynamobd neo4j cassandra
