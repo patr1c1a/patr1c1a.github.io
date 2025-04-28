@@ -2,8 +2,8 @@
 layout: post
 title: Tipos subrango y enumerado en Pascal
 date: 2011-06-01 19:00:00
-categories: pascal
-tags: paradigma_imperativo tipos datos variables
+categories: otros
+tags: pascal paradigma_imperativo tipos datos variables
 published: true
 ---
 
