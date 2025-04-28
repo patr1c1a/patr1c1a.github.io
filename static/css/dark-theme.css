@@ -103,17 +103,18 @@ input, textarea, select, .form-control {
   border: 1px solid var(--dark-border-color) !important;
 }
 
-/* Search suggestions dropdown */
-.dropdown-menu, .tt-menu {
+/* Search suggestions */
+.tt-menu {
   background-color: var(--dark-card-bg) !important;
-  border-color: var(--dark-border-color) !important;
+  border: 1px solid var(--dark-border-color) !important;
 }
 
-.dropdown-menu > li > a, .tt-suggestion {
+.tt-suggestion {
   color: var(--dark-text) !important;
 }
 
-.dropdown-menu > li > a:hover, .tt-suggestion:hover {
+.tt-suggestion:hover, 
+.tt-suggestion.tt-cursor {
   background-color: var(--dark-header-bg) !important;
   color: white !important;
 }
@@ -124,6 +125,8 @@ input, textarea, select, .form-control {
 }
 
 /* Pagination buttons */
+.pager li > a, 
+.pager li > span,
 .pagination > li > a, 
 .pagination > li > span {
   background-color: var(--dark-card-bg) !important;
@@ -131,41 +134,51 @@ input, textarea, select, .form-control {
   border-color: var(--dark-border-color) !important;
 }
 
+.pager li > a:hover,
+.pager li > span:hover,
 .pagination > li > a:hover,
-.pagination > li > span:hover,
-.pagination > li > a:focus,
-.pagination > li > span:focus {
+.pagination > li > span:hover {
   background-color: var(--dark-header-bg) !important;
   color: white !important;
+  border-color: var(--dark-header-bg) !important;
 }
 
+.pager .active > a,
+.pager .active > span,
 .pagination > .active > a,
-.pagination > .active > span,
-.pagination > .active > a:hover,
-.pagination > .active > span:hover,
-.pagination > .active > a:focus,
-.pagination > .active > span:focus {
+.pagination > .active > span {
   background-color: var(--teal-accent) !important;
   border-color: var(--teal-accent) !important;
   color: white !important;
 }
 
 /* Categories page title */
-.page-title, .archive-title {
+.page-header {
   background-color: var(--dark-header-bg) !important;
+  border-color: var(--dark-border-color) !important;
+}
+
+.page-header h1 {
   color: white !important;
 }
 
 /* Social media icons */
+.sidebar-social-icons .fa {
+  color: rgba(255, 255, 255, 0.9) !important;
+  transition: all 0.3s ease;
+}
+
 .sidebar-social-icons a {
-  background-color: rgba(255, 255, 255, 0.1) !important;
-  color: white !important;
+  background-color: rgba(0, 0, 0, 0.2) !important;
   transition: all 0.3s ease;
 }
 
 .sidebar-social-icons a:hover {
   background-color: var(--dark-link) !important;
-  color: var(--dark-card-bg) !important;
+}
+
+.sidebar-social-icons a:hover .fa {
+  color: white !important;
 }
 
 /* Override any remaining white backgrounds */
