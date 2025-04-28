@@ -103,22 +103,6 @@ input, textarea, select, .form-control {
   border: 1px solid var(--dark-border-color) !important;
 }
 
-/* Search suggestions */
-.tt-menu {
-  background-color: var(--dark-card-bg) !important;
-  border: 1px solid var(--dark-border-color) !important;
-}
-
-.tt-suggestion {
-  color: var(--dark-text) !important;
-}
-
-.tt-suggestion:hover, 
-.tt-suggestion.tt-cursor {
-  background-color: var(--dark-header-bg) !important;
-  color: white !important;
-}
-
 /* Sidebar menu items */
 .sidebar a, nav a {
   color: white !important;
@@ -152,33 +136,53 @@ input, textarea, select, .form-control {
   color: white !important;
 }
 
+/* Search suggestions */
+.typeahead .tt-query,
+.typeahead .tt-hint,
+.typeahead .tt-menu {
+  background-color: var(--dark-card-bg) !important;
+  color: var(--dark-text) !important;
+  border: 1px solid var(--dark-border-color) !important;
+}
+
+.typeahead .tt-suggestion {
+  color: var(--dark-text) !important;
+  background-color: var(--dark-card-bg) !important;
+}
+
+.typeahead .tt-suggestion:hover,
+.typeahead .tt-suggestion.tt-cursor {
+  background-color: var(--dark-header-bg) !important;
+  color: white !important;
+}
+
 /* Categories page title */
-.page-header {
+.page-header.teal {
   background-color: var(--dark-header-bg) !important;
   border-color: var(--dark-border-color) !important;
 }
 
-.page-header h1 {
+.page-header.teal h1 {
   color: white !important;
 }
 
 /* Social media icons */
-.sidebar-social-icons .fa {
-  color: rgba(255, 255, 255, 0.9) !important;
-  transition: all 0.3s ease;
+.sidebar-module.sidebar-social-icons a {
+  background-color: rgba(0, 0, 0, 0.3) !important;
+  border-radius: 50% !important;
 }
 
-.sidebar-social-icons a {
-  background-color: rgba(0, 0, 0, 0.2) !important;
-  transition: all 0.3s ease;
-}
-
-.sidebar-social-icons a:hover {
+.sidebar-module.sidebar-social-icons a:hover {
   background-color: var(--dark-link) !important;
 }
 
-.sidebar-social-icons a:hover .fa {
+.sidebar-module.sidebar-social-icons .fa {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.sidebar-module.sidebar-social-icons a:hover .fa {
   color: white !important;
+  opacity: 1 !important;
 }
 
 /* Override any remaining white backgrounds */
