@@ -2,8 +2,8 @@
 layout: post
 title: Conjuntos en Pascal
 date: 2011-06-04 19:00:00
-categories: pascal
-tags: paradigma_imperativo tipos datos variables colecciones conjuntos
+categories: otros
+tags: pascal paradigma_imperativo tipos datos variables colecciones conjuntos
 published: true
 ---
 Un conjunto es un grupo de elementos sin orden preestablecido (por lo que no existirá un índice para referenciarlos). Podría simbolizarse como un recipiente que contiene elementos mezclados al azar. Además, estos elementos no pueden estar repetidos (tal como en los conjuntos matemáticos).
