@@ -9,20 +9,29 @@ layout: default
 <div id="post-content">
     <hr />
     {% assign categories_array = "" | split: "" %}
+    {% assign otros_data = "" %}
+    {% assign otros_count = 0 %}
+    
     {% for category in site.categories %}
         {% capture category_slug %}{{ category | first }}{% endcapture %}
         {% assign post_count = site.categories[category_slug] | size %}
         
-        <!-- Pad the count with leading zeros to ensure proper numeric sorting -->
-        {% capture padded_count %}00000{{ post_count }}{% endcapture %}
-        {% assign padded_count = padded_count | slice: -5, 5 %}
-        
-        {% capture category_with_count %}{{ padded_count }}|{{ category_slug }}{% endcapture %}
-        {% assign categories_array = categories_array | push: category_with_count %}
+        {% if category_slug == "otros" %}
+            {% assign otros_count = post_count %}
+            {% capture otros_data %}00000|{{ category_slug }}{% endcapture %}
+        {% else %}
+            <!-- Pad the count with leading zeros to ensure proper numeric sorting -->
+            {% capture padded_count %}00000{{ post_count }}{% endcapture %}
+            {% assign padded_count = padded_count | slice: -5, 5 %}
+            
+            {% capture category_with_count %}{{ padded_count }}|{{ category_slug }}{% endcapture %}
+            {% assign categories_array = categories_array | push: category_with_count %}
+        {% endif %}
     {% endfor %}
     
     {% assign sorted_categories = categories_array | sort | reverse %}
     
+    <!-- Display all categories except "otros" first -->
     {% for category_item in sorted_categories %}
         {% assign category_parts = category_item | split: "|" %}
         {% assign category_slug = category_parts[1] %}
@@ -34,6 +43,15 @@ layout: default
             <a href="{{ site.baseurl }}/category/{{ category_slug }}" class="btn btn-sm btn-default btn-raised">{{ category_slug }} ({{ post_count }})</a>
         {% endif %}
     {% endfor %}
+    
+    <!-- Display "otros" category at the end if it exists -->
+    {% if otros_data != "" %}
+        {% if "otros" == page.categories %}
+            <button class="btn btn-sm btn-primary btn-raised">otros ({{ otros_count }})</button>
+        {% else %}
+            <a href="{{ site.baseurl }}/category/otros" class="btn btn-sm btn-default btn-raised">otros ({{ otros_count }})</a>
+        {% endif %}
+    {% endif %}
     <hr />
 
     {% if site.categories[page.categories] %}
