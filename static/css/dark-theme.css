@@ -66,6 +66,36 @@ header *, nav *, .sidebar * {
   color: white !important;
 }
 
+/* Tooltips */
+.tooltip-inner {
+  background-color: var(--dark-card-bg) !important;
+  color: var(--dark-text) !important;
+  border: 1px solid var(--dark-border-color) !important;
+}
+
+.bs-tooltip-auto[x-placement^=top] .arrow::before, 
+.bs-tooltip-top .arrow::before {
+  border-top-color: var(--dark-border-color) !important;
+}
+
+/* Tables */
+table {
+  background-color: var(--dark-card-bg) !important;
+}
+
+.table > tbody > tr > td,
+.table > tbody > tr > th,
+.table > tfoot > tr > td,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > thead > tr > th {
+  border-color: var(--dark-border-color) !important;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: rgba(255, 255, 255, 0.05) !important;
+}
+
 /* Search box */
 input, textarea, select, .form-control {
   background-color: #333 !important;
@@ -73,9 +103,69 @@ input, textarea, select, .form-control {
   border: 1px solid var(--dark-border-color) !important;
 }
 
+/* Search suggestions dropdown */
+.dropdown-menu, .tt-menu {
+  background-color: var(--dark-card-bg) !important;
+  border-color: var(--dark-border-color) !important;
+}
+
+.dropdown-menu > li > a, .tt-suggestion {
+  color: var(--dark-text) !important;
+}
+
+.dropdown-menu > li > a:hover, .tt-suggestion:hover {
+  background-color: var(--dark-header-bg) !important;
+  color: white !important;
+}
+
 /* Sidebar menu items */
 .sidebar a, nav a {
   color: white !important;
+}
+
+/* Pagination buttons */
+.pagination > li > a, 
+.pagination > li > span {
+  background-color: var(--dark-card-bg) !important;
+  color: var(--dark-link) !important;
+  border-color: var(--dark-border-color) !important;
+}
+
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+  background-color: var(--dark-header-bg) !important;
+  color: white !important;
+}
+
+.pagination > .active > a,
+.pagination > .active > span,
+.pagination > .active > a:hover,
+.pagination > .active > span:hover,
+.pagination > .active > a:focus,
+.pagination > .active > span:focus {
+  background-color: var(--teal-accent) !important;
+  border-color: var(--teal-accent) !important;
+  color: white !important;
+}
+
+/* Categories page title */
+.page-title, .archive-title {
+  background-color: var(--dark-header-bg) !important;
+  color: white !important;
+}
+
+/* Social media icons */
+.sidebar-social-icons a {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  color: white !important;
+  transition: all 0.3s ease;
+}
+
+.sidebar-social-icons a:hover {
+  background-color: var(--dark-link) !important;
+  color: var(--dark-card-bg) !important;
 }
 
 /* Override any remaining white backgrounds */
