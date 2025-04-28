@@ -8,15 +8,18 @@ layout: default
 
 <div id="post-content">
     <hr />
-    {% for category in site.categories %}
+    {% assign sorted_categories = site.categories | sort: 1 | reverse %}
+    {% for category in sorted_categories %}
         {% capture category_slug %}{{ category | first }}{% endcapture %}
+        {% assign post_count = site.categories[category_slug] | size %}
         {% for c_slug in category_slug %}
             {% if c_slug == page.categories %}
-                <button class="btn btn-sm btn-primary btn-raised">{{ c_slug }}</button>
+                <button class="btn btn-sm btn-primary btn-raised">{{ c_slug }} ({{ post_count }})</button>
             {% else %}
-                <a href="{{ site.baseurl }}/category/{{ c_slug }}" class="btn btn-sm btn-default btn-raised">{{ c_slug }}</a>
+                <a href="{{ site.baseurl }}/category/{{ c_slug }}" class="btn btn-sm btn-default btn-raised">{{ c_slug }} ({{ post_count }})</a>
             {% endif %}
         {% endfor %}
+    {% endfor %}
     <hr />
 
     {% if site.categories[page.categories] %}
