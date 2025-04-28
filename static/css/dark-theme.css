@@ -151,7 +151,6 @@ table {
 .typeahead .tt-menu {
   background-color: var(--dark-card-bg) !important;
   color: var(--dark-text) !important;
-  border: 1px solid var(--dark-border-color) !important;
 }
 
 .typeahead .tt-suggestion {
