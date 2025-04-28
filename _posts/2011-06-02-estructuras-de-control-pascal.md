@@ -2,8 +2,8 @@
 layout: post
 title: Estructuras de control en Pascal
 date: 2011-06-02 19:00:00
-categories: pascal
-tags: paradigma_imperativo bucle loop while if for case
+categories: otros
+tags: pascal paradigma_imperativo bucle loop while if for case
 published: true
 ---
 
