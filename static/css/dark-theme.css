@@ -1,0 +1,116 @@
+/* Dark theme colors */
+$dark-background: #1e1e1e;
+$dark-text: #e8e8e8;
+$dark-link: #64b5f6;
+$dark-code-bg: #2d2d2d;
+$dark-blockquote-bg: #2d2d2d;
+$dark-card-bg: #2c2c2c;
+$dark-header-bg: #222222;
+$dark-sidebar-bg: #252525;
+$dark-button-bg: #424242;
+$dark-border-color: #444444;
+
+/* Dark theme styles */
+body {
+  background-color: $dark-background;
+  color: $dark-text;
+}
+
+.navbar, .navbar-default {
+  background-color: $dark-header-bg !important;
+}
+
+.panel, .well, .content, .list-group-item {
+  background-color: $dark-card-bg !important;
+  color: $dark-text !important;
+  border-color: $dark-border-color !important;
+}
+
+.sidebar {
+  background-color: $dark-sidebar-bg !important;
+}
+
+a, a:hover, a:focus {
+  color: $dark-link;
+}
+
+.btn-default {
+  background-color: $dark-button-bg !important;
+  color: $dark-text !important;
+}
+
+.dropdown-menu {
+  background-color: $dark-card-bg !important;
+}
+
+.dropdown-menu > li > a {
+  color: $dark-text !important;
+}
+
+pre, code {
+  background-color: $dark-code-bg !important;
+  color: #f8f8f2 !important;
+  border-color: $dark-border-color !important;
+}
+
+blockquote {
+  background-color: $dark-blockquote-bg !important;
+  border-left-color: $dark-link !important;
+}
+
+/* Table styles */
+table, th, td {
+  border-color: $dark-border-color !important;
+}
+
+th {
+  background-color: $dark-header-bg !important;
+  color: $dark-text !important;
+}
+
+tr:nth-child(even) {
+  background-color: #2a2a2a !important;
+}
+
+/* Search box */
+.form-control {
+  background-color: $dark-card-bg !important;
+  color: $dark-text !important;
+  border-color: $dark-border-color !important;
+}
+
+/* Footer */
+footer {
+  background-color: $dark-header-bg !important;
+  color: $dark-text !important;
+}
+
+/* List group separators */
+.list-group-separator:before {
+  background-color: $dark-border-color !important;
+}
+
+/* Buttons */
+.btn-primary, .btn-raised {
+  background-color: #3f51b5 !important;
+}
+
+/* Text colors for better contrast */
+.text-muted {
+  color: #b0b0b0 !important;
+}
+
+.least-content {
+  color: #b0b0b0 !important;
+}
+
+/* Fix for any light icons */
+.row-action-primary i {
+  color: $dark-link !important;
+  background-color: transparent !important;
+}
+
+/* Category buttons */
+.btn-sm {
+  color: $dark-text !important;
+}
