@@ -132,7 +132,6 @@
             searchResultsEl.style.overflowX = 'hidden';
             searchResultsEl.innerHTML += '<li class="search-meta">' + matchingPosts.length + ' results found</li>';
         }
-        }
         lastSearchResultHash = currentResultHash;
     });
 
