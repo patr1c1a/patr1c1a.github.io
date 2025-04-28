@@ -2,8 +2,8 @@
 layout: post
 title: Video - Tutorial de programación en Android usando Eclipse
 date: 2013-12-23 19:00:00
-categories: mobile tutoriales
-tags: objetos celulares móviles android proyectos
+categories: tutoriales
+tags: celulares móviles android proyectos mobile poo
 published: true
 ---
 
