@@ -12,7 +12,12 @@ layout: default
     {% for category in site.categories %}
         {% capture category_slug %}{{ category | first }}{% endcapture %}
         {% assign post_count = site.categories[category_slug] | size %}
-        {% capture category_with_count %}{{ post_count }}|{{ category_slug }}{% endcapture %}
+        
+        <!-- Pad the count with leading zeros to ensure proper numeric sorting -->
+        {% capture padded_count %}00000{{ post_count }}{% endcapture %}
+        {% assign padded_count = padded_count | slice: -5, 5 %}
+        
+        {% capture category_with_count %}{{ padded_count }}|{{ category_slug }}{% endcapture %}
         {% assign categories_array = categories_array | push: category_with_count %}
     {% endfor %}
     
@@ -21,7 +26,7 @@ layout: default
     {% for category_item in sorted_categories %}
         {% assign category_parts = category_item | split: "|" %}
         {% assign category_slug = category_parts[1] %}
-        {% assign post_count = category_parts[0] %}
+        {% assign post_count = category_parts[0] | plus: 0 %}
         
         {% if category_slug == page.categories %}
             <button class="btn btn-sm btn-primary btn-raised">{{ category_slug }} ({{ post_count }})</button>
