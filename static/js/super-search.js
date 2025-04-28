@@ -122,10 +122,21 @@
         currentResultHash = matchingPosts.reduce(function(hash, post) { return post.title + hash; }, '');
         if (matchingPosts.length && currentResultHash !== lastSearchResultHash) {
             searchResultsEl.classList.remove('is-hidden');
-            searchResultsEl.innerHTML = matchingPosts.map(function (post) {
-                d = new Date(post.pubDate);
-                return '<li><a href="' + post.link + '">' + post.title + '<span class="search__result-date">' + d.toUTCString().replace(/.*(\d{2})\s+(\w{3})\s+(\d{4}).*/,'$2 $1, $3') + '</span></a></li>';
-            }).join('');
+            // Limit to 10 results and add scroll
+var limitedPosts = matchingPosts.slice(0, 10);
+searchResultsEl.innerHTML = limitedPosts.map(function (post) {
+    d = new Date(post.pubDate);
+    return '<li><a href="' + post.link + '">' + post.title + '<span class="search__result-date">' + d.toUTCString().replace(/.*(\d{2})\s+(\w{3})\s+(\d{4}).*/,'$2 $1, $3') + '</span></a></li>';
+}).join('');
+
+// Add scrollable container styles
+searchResultsEl.style.maxHeight = '400px';
+searchResultsEl.style.overflowY = 'auto';
+searchResultsEl.style.overflowX = 'hidden';
+// Optional: Add "Showing X of Y results" message
+if (matchingPosts.length > 10) {
+    searchResultsEl.innerHTML += '<li class="search-meta">Showing 10 of ' + matchingPosts.length + ' results</li>';
+}
         }
         lastSearchResultHash = currentResultHash;
     });
