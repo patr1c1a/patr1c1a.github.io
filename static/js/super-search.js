@@ -130,7 +130,7 @@
             searchResultsEl.style.maxHeight = '400px'; 
             searchResultsEl.style.overflowY = 'auto';
             searchResultsEl.style.overflowX = 'hidden';
-            searchResultsEl.innerHTML += '<li class="search-meta">' + matchingPosts.length + ' results found</li>';
+            searchResultsEl.innerHTML += '<li class="search-meta">' + matchingPosts.length + ' resultados encontrados</li>';
         }
         lastSearchResultHash = currentResultHash;
     });
