@@ -198,3 +198,16 @@ table {
   background-color: var(--dark-card-bg) !important;
   color: var(--dark-text) !important;
 }
+
+.page-header.teal {
+  background-color: transparent !important;
+  padding: 0 !important;
+  margin: 20px 0 !important;
+  border: none !important;
+}
+
+.page-header.teal h1 {
+  background-color: transparent !important;
+  padding: 0 !important;
+  display: inline !important;
+}
