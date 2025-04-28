@@ -96,22 +96,6 @@ table {
   background-color: rgba(255, 255, 255, 0.05) !important;
 }
 
-/* Search box */
-.search__results {
-  background-color: var(--dark-card-bg) !important;
-  border: 1px solid var(--dark-border-color) !important;
-}
-
-.search__results li {
-  background-color: var(--dark-card-bg) !important;
-  color: var(--dark-text) !important;
-}
-
-.search__results li:hover {
-  background-color: var(--dark-header-bg) !important;
-  color: white !important;
-}
-
 /* Sidebar menu items */
 .sidebar a, nav a {
   color: white !important;
@@ -145,7 +129,21 @@ table {
   color: white !important;
 }
 
-/* Search suggestions */
+/* Search box */
+.search__results {
+  background-color: var(--dark-card-bg) !important;
+}
+
+.search__results li {
+  background-color: var(--dark-card-bg) !important;
+  color: var(--dark-text) !important;
+}
+
+.search__results li:hover {
+  background-color: var(--dark-header-bg) !important;
+  color: white !important;
+}
+
 .typeahead .tt-query,
 .typeahead .tt-hint,
 .typeahead .tt-menu {
@@ -164,14 +162,11 @@ table {
   color: white !important;
 }
 
-/* Categories page title */
-.page-header.teal {
-  background-color: var(--dark-header-bg) !important;
-  border-color: var(--dark-border-color) !important;
-}
-
-.page-header.teal h1 {
-  color: white !important;
+/* Post subtitle */
+#post-subtitle {
+  background-color: transparent !important;
+  color: var(--dark-text) !important;
+  padding: 0 !important;
 }
 
 /* Social media icons */
