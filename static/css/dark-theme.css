@@ -97,10 +97,19 @@ table {
 }
 
 /* Search box */
-input, textarea, select, .form-control {
-  background-color: #333 !important;
-  color: var(--dark-text) !important;
+.search__results {
+  background-color: var(--dark-card-bg) !important;
   border: 1px solid var(--dark-border-color) !important;
+}
+
+.search__results li {
+  background-color: var(--dark-card-bg) !important;
+  color: var(--dark-text) !important;
+}
+
+.search__results li:hover {
+  background-color: var(--dark-header-bg) !important;
+  color: white !important;
 }
 
 /* Sidebar menu items */
