@@ -3,7 +3,7 @@ layout: post
 title: Estructura de un programa en Pascal
 date: 2011-05-28 19:12:00
 categories: otros
-tags: paradigma imperativo pascal
+tags: paradigma_imperativo pascal
 published: true
 ---
 
