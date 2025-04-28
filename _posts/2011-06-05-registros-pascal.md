@@ -2,8 +2,8 @@
 layout: post
 title: Registros en Pascal
 date: 2011-06-05 19:00:00
-categories: pascal
-tags: paradigma_imperativo tipos datos colecciones objetos
+categories: otros
+tags: pascal paradigma_imperativo tipos datos colecciones objetos
 published: true
 ---
 Un registro es una estructura que permite agrupar datos de diversos tipos con alguna clase de correspondencia lógica. Cada uno de estos datos que componen un registro es llamado "**campo**".
