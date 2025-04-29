@@ -282,7 +282,7 @@ footer {
 }
 
 @media (max-width: 480px) {
-  .row-action-primary {
+  .list-group-item .row-action-primary .fa-sticky-note {
     display: none;
   }
   .list-group-item {
