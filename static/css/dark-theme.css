@@ -25,10 +25,6 @@ body {
   border-color: var(--dark-border-color) !important;
 }
 
-.list-group-separator {
-  color: #847f7f;
-}
-
 /* Cards and list items */
 .list-group-item, .card {
   background-color: var(--dark-card-bg) !important;
