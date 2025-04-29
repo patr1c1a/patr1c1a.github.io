@@ -295,14 +295,9 @@ footer {
     margin-left: 0;
     padding-left: 0px;
     width: 100%;
-  }
-
-/* Mobile: fix date overlap */
-  .list-group-item .row-content {
     position: relative;
     padding-top: 22px;
   }
-  
   .list-group-item .least-content {
     position: absolute;
     top: 0;
@@ -310,7 +305,6 @@ footer {
     margin-top: 0;
     font-size: 12px;
   }
-  
   .list-group-item-heading {
     margin-top: 4px;
   }
