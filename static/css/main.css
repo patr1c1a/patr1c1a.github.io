@@ -282,12 +282,13 @@ footer {
 }
 
 @media (max-width: 767px) {
-  .list-group-item .row-action-primary .fa-sticky-note {
+  .list-group-item .row-action-primary {
     display: none !important;
   }
   .list-group-item .row-content {
     margin-left: 0;
-    padding-left: 15px;
+    padding-left: 0px;
+    width: 100%;
   }
 }
 
