@@ -281,7 +281,7 @@ footer {
   margin-bottom: 8px;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
   .list-group-item .row-action-primary .fa-sticky-note {
     display: none;
   }
@@ -300,19 +300,3 @@ footer {
   }
 }
 
-@media (min-width: 481px) and (max-width: 768px) {
-  .row-action-primary {
-    width: 30px;
-    min-width: 30px;
-    margin-right: 10px;
-  }
-  .row-action-primary i {
-    font-size: 16px;
-    width: 30px;
-    height: 30px;
-    line-height: 30px;
-  }
-}
-.list-group-separator {
-  margin: 0;
-}
