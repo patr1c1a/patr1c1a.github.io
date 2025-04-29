@@ -249,11 +249,10 @@ footer {
 }
 
 /* Blog post list items and on mobile */
-
 .list-group-item {
   display: flex;
   align-items: flex-start;
-  padding-left: 0px;
+  padding-left: 0px; !important
 }
 .row-action-primary {
   width: 40px;
@@ -261,12 +260,17 @@ footer {
   margin-right: 15px;
 }
 .row-action-primary i {
+  font-size: 18px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+}
+.row-action-primary i.fa-sticky-note {
   font-size: 16px;
+  line-height: 36px;
   width: 36px;
   height: 36px;
-  line-height: 36px;
-  text-align: center;
-  border-radius: 50%;
 }
 .row-content {
   flex: 1;
