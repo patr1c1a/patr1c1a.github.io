@@ -281,22 +281,13 @@ footer {
   margin-bottom: 8px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .list-group-item .row-action-primary .fa-sticky-note {
-    display: none;
+    display: none !important;
   }
-  .list-group-item {
-    padding: 8px 10px;
-  }
-  .row-content {
-    width: 100%;
-  }
-  .least-content {
-    float: none;
-    display: block;
-    text-align: left;
-    margin-bottom: 5px;
-    font-size: 11px;
+  .list-group-item .row-content {
+    margin-left: 0;
+    padding-left: 15px;
   }
 }
 
