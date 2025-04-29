@@ -19,11 +19,14 @@ body {
   background-color: var(--dark-header-bg) !important;
 }
 
-/* Main content area */
 .content, .post-content, .well, .panel, article, .container .white, .post, .home .content-wrapper {
   background-color: var(--dark-card-bg) !important;
   color: var(--dark-text) !important;
   border-color: var(--dark-border-color) !important;
+}
+
+.list-group-separator {
+  color: #847f7f;
 }
 
 /* Cards and list items */
