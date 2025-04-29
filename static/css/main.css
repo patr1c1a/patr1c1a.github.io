@@ -170,13 +170,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
     #portfolio-filter {
         margin-top: 0px;
     }
-
-    .fa-sticky-note {
-        font-size: 0.9em !important;
-        margin-right: 5px !important;
-        padding-left: 0 !important;
-        width: auto !important;
-    }
 }
 footer {
     border-top: 1px solid #C5C0C0;
