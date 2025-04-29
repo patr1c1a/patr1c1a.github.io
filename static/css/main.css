@@ -253,7 +253,7 @@ footer {
 .list-group-item {
   display: flex;
   align-items: flex-start;
-  padding-left: 0px; !important
+  padding-left: 0px;
 }
 .row-action-primary {
   width: 40px;
@@ -261,11 +261,12 @@ footer {
   margin-right: 15px;
 }
 .row-action-primary i {
-  font-size: 18px;
-  width: 40px;
-  height: 40px;
-  line-height: 40px;
+  font-size: 16px;
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
   text-align: center;
+  border-radius: 50%;
 }
 .row-content {
   flex: 1;
@@ -281,6 +282,7 @@ footer {
   margin-bottom: 8px;
 }
 
+/* Mobile: hide icons inlist of  blog entries */
 @media (max-width: 767px) {
   .list-group-item .row-action-primary {
     display: none !important;
