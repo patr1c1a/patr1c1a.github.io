@@ -170,26 +170,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
     #portfolio-filter {
         margin-top: 0px;
     }
-    .row-action-primary {
-        padding-right: 8px !important;
-        min-width: 24px !important;
-    }
-      
-    .row-action-primary .fa-sticky-note {
-        font-size: 16px !important;
-        padding: 0 !important;
-        margin: 0 !important;
-        width: 1em !important;
-        height: 1em !important;
-        display: flex !important;
-        align-items: center !important;
-        justify-content: center !important;
-    }
-      
-    .list-group-item {
-        padding-left: 8px !important;
-        padding-right: 8px !important;
-    }
 }
 footer {
     border-top: 1px solid #C5C0C0;
