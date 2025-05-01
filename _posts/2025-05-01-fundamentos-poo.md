@@ -51,6 +51,7 @@ public class Dispositivo {
     System.out.println("¡Encendido!");
   }
 }
+
 public class Smartphone extends Dispositivo {
   public void llamar() {
     System.out.println("Llamando...");
@@ -73,13 +74,13 @@ Ejemplo: un método público para guardar datos de una persona, que llama a un m
 
 ```java
 public class Usuario {  
+    public void guardarDatos(String email, long dni) {  
+        if (esValido(email)) { ... }
+    }
+
     private boolean esValido(String email) {
       // Método solo accesible a esta clase
     } 
-
-    public void guardarDatos(String email, long dni) {  
-        if (esValido(email)) { ... }
-    }  
 }  
 ```
 
@@ -106,11 +107,13 @@ public class Animal {
     // sobrecarga del método comer
   }
 }
+
 public class Gato extends Animal {
   @Override public void comer() {
     // sobreescritura del método comer
   }
 }
+
 Animal pelusa = new Gato();  // subtipado
 pelusa.comer();
 pelusa.comer("pescado");
