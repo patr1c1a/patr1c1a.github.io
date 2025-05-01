@@ -2,8 +2,8 @@
 layout: post
 title: Fundamentos de programación orientada a objetos (POO)
 date: 2025-04-27 09:00:00 -0300
-categories: bd
-tags: bd nosql mongodb redis dynamobd neo4j cassandra
+categories: poo conceptos
+tags: herencia encapsulamiento ocultamiento abstracción polimorfismo
 published: true
 ---
 
