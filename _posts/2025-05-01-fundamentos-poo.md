@@ -7,7 +7,7 @@ tags: herencia encapsulamiento ocultamiento abstracción polimorfismo
 published: true
 ---
 
-Estas son los pilares para programar con objetos. Nos permiten escribir código limpio, reusable y fácil de modificar.
+Programar con objetos no suele parecernos simple al principio, pero siguiendo estas reglas básicas podemos escribir código limpio, reusable y fácil de modificar.
 
 ![Fundamentos de POO 1]({{ site.url }}/assets/2025-05-01-fundamentos-poo-img1.png)
 
