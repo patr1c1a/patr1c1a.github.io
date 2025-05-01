@@ -48,13 +48,13 @@ Ejemplo: Smartphone "es un" Dispositivo.
 ```java
 public class Dispositivo {
     public void encender() {
-        System.out.println("¡Encendido!");
+        // lógica para encender
     }
 }
 
 public class Smartphone extends Dispositivo {
     public void llamar() {
-        System.out.println("Llamando...");
+        // lógica para llamar
     }
 }
 ```
@@ -81,7 +81,7 @@ public class Usuario {
     }
 
     private boolean esValido(String email) {
-        // Método solo accesible a esta clase
+        // método solo accesible a esta clase
     } 
 }  
 ```
@@ -103,7 +103,7 @@ Ejemplo: la clase Animal puede tener un método comer() y otro comer(comida) don
 ```java
 public class Animal {
     public void comer() {
-        // acá va la implementación
+        // implementación
     }
     public void comer(String comida) {
         // sobrecarga del método comer
