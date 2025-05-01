@@ -47,15 +47,15 @@ Ejemplo: Smartphone "es un" Dispositivo.
 
 ```java
 public class Dispositivo {
-  public void encender() {
-    System.out.println("¡Encendido!");
-  }
+    public void encender() {
+        System.out.println("¡Encendido!");
+    }
 }
 
 public class Smartphone extends Dispositivo {
-  public void llamar() {
-    System.out.println("Llamando...");
-  }
+    public void llamar() {
+        System.out.println("Llamando...");
+    }
 }
 ```
 
@@ -75,11 +75,13 @@ Ejemplo: un método público para guardar datos de una persona, que llama a un m
 ```java
 public class Usuario {  
     public void guardarDatos(String email, long dni) {  
-        if (esValido(email)) { ... }
+        if (esValido(email)) { 
+            // implementación
+        }
     }
 
     private boolean esValido(String email) {
-      // Método solo accesible a esta clase
+        // Método solo accesible a esta clase
     } 
 }  
 ```
@@ -100,18 +102,18 @@ Ejemplo: la clase Animal puede tener un método comer() y otro comer(comida) don
 
 ```java
 public class Animal {
-  public void comer() {
-    // acá va la implementación
-  }
-  public void comer(String comida) {
-    // sobrecarga del método comer
-  }
+    public void comer() {
+        // acá va la implementación
+    }
+    public void comer(String comida) {
+        // sobrecarga del método comer
+    }
 }
 
 public class Gato extends Animal {
-  @Override public void comer() {
-    // sobreescritura del método comer
-  }
+    @Override public void comer() {
+        // sobreescritura del método comer
+    }
 }
 
 Animal pelusa = new Gato();  // subtipado
