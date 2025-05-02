@@ -4,4 +4,4 @@ title: Categorías
 permalink: /categorias/
 ---
 
-Click sobre una categoría para listar sus publicaciones.
+Click sobre una categoría para ver las publicaciones.
