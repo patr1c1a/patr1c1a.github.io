@@ -33,7 +33,7 @@ body {
 }
 
 /* Category link */
-span.categories {
+span.categories a {
   color: white !important;
 }
 
