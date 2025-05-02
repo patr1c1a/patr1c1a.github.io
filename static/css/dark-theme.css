@@ -167,6 +167,11 @@ table {
   padding: 0 !important;
 }
 
+/* Category link */
+span.categories {
+  color: white !important;
+}
+
 /* Social media icons */
 .sidebar-module.sidebar-social-icons a {
   background-color: rgba(0, 0, 0, 0.3) !important;
@@ -191,7 +196,7 @@ table {
   background-color: var(--dark-card-bg) !important;
 }
 
-/* Target specific containers */
+/* Override specific backgrounds */
 #post-content, .post-content, .content-wrapper, main, .main-content {
   background-color: var(--dark-card-bg) !important;
   color: var(--dark-text) !important;
