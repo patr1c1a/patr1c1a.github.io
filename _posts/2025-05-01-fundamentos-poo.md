@@ -9,6 +9,8 @@ published: true
 
 Programar con objetos no suele parecer simple al principio, pero siguiendo estas reglas básicas podemos escribir código limpio, reusable y fácil de modificar.
 
+[Para un artículo más extenso sobre los fundamentos de poo, click acá]({% post_url 2016-01-08-fundamentos-de-poo %}).
+
 ![Fundamentos de POO 1]({{ site.url }}/assets/2025-05-01-fundamentos-poo-img1.png)
 
 ![Fundamentos de POO 2]({{ site.url }}/assets/2025-05-01-fundamentos-poo-img2.png)
