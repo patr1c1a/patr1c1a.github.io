@@ -32,6 +32,11 @@ body {
   border-color: var(--dark-border-color) !important;
 }
 
+/* Category link */
+span.categories {
+  color: white !important;
+}
+
 /* Links */
 a, a:hover, a:focus {
   color: var(--dark-link) !important;
@@ -165,11 +170,6 @@ table {
   background-color: transparent !important;
   color: var(--dark-text) !important;
   padding: 0 !important;
-}
-
-/* Category link */
-span.categories {
-  color: white !important;
 }
 
 /* Social media icons */
