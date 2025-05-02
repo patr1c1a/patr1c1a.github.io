@@ -41,15 +41,15 @@ Por ejemplo, si se tiene a la clase "Empleado" como abstracta, a la clase "Comer
 
 ## Abstracción:
 
-Existen dos enfoques para abstraer un diseño de objetos: desde el punto de vista del modelado se intenta incluir solo lo relevante en un objeto; mientras que desde el punto de vista arquitectural, se busca separar en capas con responsabilidades concretas.
+Existen dos enfoques para abstraer un diseño de objetos: desde el *punto de vista del modelado* se intenta incluir solo lo relevante en un objeto; mientras que desde el *punto de vista arquitectural*, se busca separar en capas con responsabilidades concretas.
 
-Al modelar deberemos pensar en qué objetos (con sus atributos y métodos) conforman la solución al problema. La abstracción consiste en incluir sólo los elementos que son importantes en la situación que se está modelando y dejar afuera aquellos que no influyen de manera relevante. De la misma forma, al diseñar cada uno de los objetos, se incluirán sólo sus características esenciales: aquellas que lo diferencian de los demás objetos. El foco estará en simplificar objetos omitiendo detalles irrelevantes.
+Al *modelar* deberemos pensar en qué objetos (con sus atributos y métodos) conforman la solución al problema. La abstracción consiste en incluir sólo los elementos que son importantes en la situación que se está modelando y dejar afuera aquellos que no influyen de manera relevante. De la misma forma, al diseñar cada uno de los objetos, se incluirán sólo sus características esenciales: aquellas que lo diferencian de los demás objetos. El foco estará en simplificar objetos omitiendo detalles irrelevantes.
 
 _Ejemplo:_
 
 Si se estuviera modelando el sistema de recursos humanos de una empresa, con sus diferentes tipos de empleados, tal vez exista una clase llamada "Empleado Administrativo". Los objetos instanciados a partir de esta clase deberán tener las características que sean importantes para el sistema: nombre, legajo, antigüedad, etc. Pero hay características que, aunque el empleado las tenga, podrían no ser relevantes para esta solución: estatura, música preferida, comidas a la que es alérgico... Por supuesto, esto depende de los requisitos del sistema a diseñar (si, por ejemplo, en la empresa desearan registrar la comida a la que es alérgico cada empleado porque tienen un servicio de catering, entonces este atributo podria volverse relevante). Asimismo, habrá acciones que interesan respecto de este empleado, como realizar cobranzas, facturación, etc., y serán estas las acciones que se deberán modelar, y no otras. De esta manera, al diseñar se eligen los atributos y métodos pertinentes al objeto modelado, dejando afuera los que no aportan a la solución.
 
-En cuanto al diseño arquitectural de la solución, es necesario dividir el sistema en componentes o capas con responsabilidades claras (ej: UI, lógica, datos), para que cada una se encargue de implementar la lógica necesaria de manera de no depender de las demás capas y exponer solo lo necesario. El foco estará en la organización del sistema en módulos independientes.
+En cuanto al *diseño arquitectural* de la solución, es necesario dividir el sistema en componentes o capas con responsabilidades claras (ej: UI, lógica, datos), para que cada una se encargue de implementar la lógica necesaria de manera de no depender de las demás capas y exponer solo lo necesario. El foco estará en la organización del sistema en módulos independientes.
 
 _Ejemplo:_
 
