@@ -3,7 +3,7 @@ layout: post
 title: Cómo practicar con proyectos reales
 date: 2025-05-05 09:00:00 -0300
 categories: otros
-tags: proyectos
+tags: proyectos open_source
 published: true
 ---
 
