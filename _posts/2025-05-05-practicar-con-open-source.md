@@ -11,9 +11,9 @@ Poder leer y modificar código ajeno es importantísimo para un desarrollador, e
 
 Nadie necesita ver tu versión: podés usarlo como un laboratorio personal. Tampoco es necesario hacer grandes cambios: poder hacer correr el código, cambiar un color o mensaje o agregar una nueva validación son interesantes como ejercicio.
 
-Un proyecto interesante es ["Conduit"](https://codebase.show/projects/realworld), una aplicación que imita a Medium.com en distintas versiones, desarrolladas con múltiples lenguajes y frameworks. [Acá puede verse su documentación](https://realworld-docs.netlify.app/introduction/).
+Un proyecto interesante es ["Conduit"](https://codebase.show/projects/realworld){:target="_blank"}, una aplicación que imita a Medium.com en distintas versiones, desarrolladas con múltiples lenguajes y frameworks. [Acá puede verse su documentación](https://realworld-docs.netlify.app/introduction/).
 
-También podriamos encontrar algún repositorio interesante en la lista "[Awesome First Pull Request Opportunities](https://github.com/MunGell/awesome-for-beginners)" que, aunque apunta más a quienes buscan contribuir con su código a un proyecto (es decir, enviar el código para que forme parte del repositorio), los que se listan ahí suelen ser proyectos bien organizados y con buena documentación para poder entenderlos.
+También podríamos encontrar algún repositorio interesante en la lista "[Awesome First Pull Request Opportunities](https://github.com/MunGell/awesome-for-beginners){:target="_blank"}" que, aunque apunta más a quienes buscan contribuir con su código a un proyecto (es decir, enviar el código para que forme parte del repositorio), los que se listan ahí suelen ser proyectos bien organizados y con buena documentación para poder entenderlos.
 
 ![Practicar con proyectos reales]({{ site.url }}/assets/2025-05-05-practicar-con-open-source.png)
 
