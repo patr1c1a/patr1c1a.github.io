@@ -12,8 +12,12 @@ published: true
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✅ La respuesta correcta es la a: "Hola mundo".
 <br />
-<br />✏️ Explicación: saludo es mutable: cuando se llama a `modificar(saludo)`, Java pasa una copia de la referencia (dirección de memoria) al objeto original. `texto.append("mundo")` modifica el objeto original (porque `texto` apunta al mismo StringBuilder que `saludo`).
+<br />✏️ Explicación: saludo es mutable: cuando se llama a `modificar(saludo)`, Java pasa una copia de la referencia (dirección de memoria) al objeto original. 
+
+`texto.append("mundo")` modifica el objeto original (porque `texto` apunta al mismo StringBuilder que `saludo`).
+
 `texto = new StringBuilder("Adiós")` no afecta al original: esta línea hace que texto apunte a un nuevo objeto ("Adios"), pero la referencia original (`saludo`) sigue apuntando a la posición de memoria que contiene "Hola mundo".
+
 Reasignar `texto` solo cambia la referencia local dentro del método `modificar()`. El saludo en `main()` nunca se entera del nuevo objeto.
 <br />
 <br /><div markdown="1">💻 [Código ejecutable](https://paiza.io/projects/k7xwfpdhajPwG17-OI1RCw){:target="_blank"}
@@ -25,9 +29,9 @@ Reasignar `texto` solo cambia la referencia local dentro del método `modificar(
 
 <br />
 <br />
-**Desafío C#** 👇
+**Desafío Java** 👇
 <br />
-![Desafío C# número 3]({{ site.url }}/assets/2025-05-24-desafio-java-7.png)
+![Desafío Java número 7]({{ site.url }}/assets/2025-05-24-desafio-java-7.png)
 
 {% include accesibilidad.html %}
 
