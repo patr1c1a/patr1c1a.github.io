@@ -4,7 +4,7 @@ title: Desafío Java número 7
 date: 2025-05-24 08:00:00 -0300
 categories: desafios java
 tags: variables referencia
-published: true
+published: false
 ---
 
 ¿Qué imprime?
