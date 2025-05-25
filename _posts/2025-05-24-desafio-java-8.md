@@ -16,9 +16,7 @@ published: true
 
 `texto.append("mundo")` modifica el objeto original (porque `texto` apunta al mismo StringBuilder que `saludo`).
 
-`texto = new StringBuilder("Adiós")` no afecta al original: esta línea hace que texto apunte a un nuevo objeto ("Adios"), pero la referencia original (`saludo`) sigue apuntando a la posición de memoria que contiene "Hola mundo".
-
-Reasignar `texto` solo cambia la referencia local dentro del método `modificar()`. El saludo en `main()` nunca se entera del nuevo objeto.
+`texto = new StringBuilder("Adiós")` no afecta al original: esta línea hace que `texto` pase a apuntar a un nuevo objeto ("Adios"), pero la referencia original (`saludo`) sigue apuntando a la posición de memoria que contiene "Hola mundo". Reasignar `texto` solo cambia la referencia local dentro del método `modificar()`. El saludo en `main()` nunca se entera del nuevo objeto.
 <br />
 <br /><div markdown="1">💻 [Código ejecutable](https://paiza.io/projects/k7xwfpdhajPwG17-OI1RCw){:target="_blank"}
   </div>
