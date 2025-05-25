@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Desafío Java número 7
+title: Desafío Java número 8
 date: 2025-05-24 08:00:00 -0300
 categories: desafios java
 tags: variables referencia
@@ -24,14 +24,14 @@ Reasignar `texto` solo cambia la referencia local dentro del método `modificar(
   </div>
 {% include codeEditor_paiza.html id="k7xwfpdhajPwG17-OI1RCw" %} 
 <br />
-<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2025-05-24-desafio-java-7-solucion.png)
+<div markdown="1">![Solución al desafío]({{ site.url }}/assets/2025-05-24-desafio-java-8-solucion.png)
   </div></details>
 
 <br />
 <br />
 **Desafío Java** 👇
 <br />
-![Desafío Java número 7]({{ site.url }}/assets/2025-05-24-desafio-java-7.png)
+![Desafío Java número 8]({{ site.url }}/assets/2025-05-24-desafio-java-8.png)
 
 {% include accesibilidad.html %}
 
