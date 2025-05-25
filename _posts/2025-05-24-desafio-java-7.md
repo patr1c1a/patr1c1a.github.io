@@ -7,7 +7,7 @@ tags: variables referencia
 published: true
 ---
 
-¿Qué imprime?
+¡Veamos un desafío con Java! Este es un tema que suele generar errores comunes al trabajar con colecciones (List, Map), APIs, o cualquier objeto mutable. Entenderlo evita bugs del tipo "¿Por qué mi objeto cambió... o no cambió?".
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✅ La respuesta correcta es la a: "Hola mundo".
