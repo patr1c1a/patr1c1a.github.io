@@ -4,7 +4,7 @@ title: Desafío Java número 7
 date: 2025-05-24 08:00:00 -0300
 categories: desafios java
 tags: variables referencia
-published: false
+published: true
 ---
 
 ¿Qué imprime?
@@ -12,7 +12,7 @@ published: false
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />✅ La respuesta correcta es la a: "Hola mundo".
 <br />
-<br />✏️ Explicación: saludo es mutable: cuando se llama a `modificar(saludo)`, Java pasa una copia de la referencia (dirección de memoria) al objeto original. 
+<br />✏️ Explicación: la variable `saludo` es mutable: cuando se llama a `modificar(saludo)`, Java pasa una copia de la referencia (dirección de memoria) al objeto original. 
 
 `texto.append("mundo")` modifica el objeto original (porque `texto` apunta al mismo StringBuilder que `saludo`).
 
