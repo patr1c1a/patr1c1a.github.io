@@ -7,13 +7,11 @@ tags: modelado clases
 published: true
 ---
 
-En este ejercicio podríamos pensar diferentes formas de modelar las clases, que dependerán de cada caso y de la información que se necesite manejar de cada una. Pero siempre es importante tener algunos conceptos claros, para que el diseño sea lo más ordenado posible.
+En este ejercicio podríamos pensar diferentes formas de modelar las clases, que dependerán de cada caso y de la información que se necesite manejar de cada una.
 
-Por ejemplo, el Viaje probablemente necesite saber qué auto lo realizó, y el Auto podría también conocer sus viajes, pero no es obligatorio si ya existe un gestor (Flota).
+El Viaje probablemente necesite saber qué auto lo realizó, y el Auto podría también conocer sus viajes, pero no es obligatorio si ya existe un gestor (Flota). En esto podríamos aplicar el principio de responsabilidad única ("SRP" o "Single Responsibility Principle"), al determinar que el Auto no es responsable de registrar viajes, porque la Flota (o podría ser "la empresa") es quien organiza y gestiona. Esto nos ayuda a tener una baja dependencia entre objetos, porque el Auto no necesita saber quién lo gestiona ni qué hace con él.
 
-También es interesante ver cómo se desarrolla el principio de responsabilidad única ("SRP" o "Single Responsibility Principle") cuando entendemos que el Auto representa un vehículo y como tal no es responsable de registrar viajes. La Flota (o podría ser "la empresa") es quien organiza y gestiona.
-
-Esto nos da también una baja dependencia entre objetos, porque el Auto no necesita saber quién lo gestiona ni qué hace con él.
+De un Auto podríamos tener atributos como: patente, marca, modelo. Mientras que de un Viaje podríamos querer conocer cosas como el Auto que lo hizo, distancia, duración, fecha, etc. Y la Flota, por ser la entidad gestora del sistema, podría tener como atributos a los autos (lista de objetos Auto) y viajes (lista de objetos Viaje).
 
 ![POO - Modelado de clases]({{ site.url }}/assets/2025-06-22-ejercicio-poo.png)
 
