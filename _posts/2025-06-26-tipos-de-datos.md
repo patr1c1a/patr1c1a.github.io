@@ -9,7 +9,7 @@ published: true
 
 Entender cómo se almacenan los datos nos ayuda a escribir código más eficiente (ahorrando memoria y CPU), debuggear errores raros (como overflows o accesos inválidos), trabajar con archivos binarios, redes o hardware (donde cada byte cuenta).
 
-¿Cuándo vas a necesitar saber esto? Cuando trabajes con:
+Tal vez para los desarrolladores web es algo que no surge en el día a día. Pero será importante conocer sobre los detalles de la memoria cuando trabajes con:
 
 ✓ Sistemas embebidos (memoria limitada),
 
