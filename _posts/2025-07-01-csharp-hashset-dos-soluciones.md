@@ -22,13 +22,14 @@ Caso promedio y peor caso.
 Legibilidad y mantenibilidad.
 - ¿El código es fácil de entender y mantener para otros programadores?
 
-<br /><div markdown="1">💻 [Código ejecutable](https://paiza.io/projects/HQCKSl4qkAk97lpzMnGi-g){:target="_blank"}
-  </div>
-{% include codeEditor_paiza.html id="HQCKSl4qkAk97lpzMnGi-g" %} 
+💻 [Código ejecutable](https://paiza.io/projects/HQCKSl4qkAk97lpzMnGi-g){:target="_blank"}
 
 
 
 ![Dos soluciones para detectar duplicados]({{ site.url }}/assets/2025-07-01-csharp-hashset-dos-soluciones.png)
+
+
+{% include codeEditor_paiza.html id="HQCKSl4qkAk97lpzMnGi-g" %} 
 
 
 &nbsp;
