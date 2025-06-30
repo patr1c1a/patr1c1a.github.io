@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dos soluciones en C# para detectar duplicados
-date: 2025-06-01 12:00:00 -0300
+date: 2025-07-01 12:00:00 -0300
 categories: csharp
 tags: algoritmos hashset duplicados
 published: true
@@ -11,15 +11,15 @@ A veces buscamos escribir código más compacto porque a simple vista parece "m�
 
 Como programadores, es clave entender cómo funciona cada enfoque antes de elegir. Al elegir un algoritmo o implementación, considerá:
 
-Complejidad algorítmica (Big O).
+Complejidad algorítmica (Big O):
 - Tiempo: ¿cuántas veces recorrerá la estructura de datos?
 - Espacio: ¿cuánta memoria extra necesita?
 
-Caso promedio y peor caso.
+Caso promedio y peor caso:
 - ¿Puede detenerse antes si encuentra la respuesta rápido?
 - ¿Siempre procesa toda la entrada?
 
-Legibilidad y mantenibilidad.
+Legibilidad y mantenibilidad:
 - ¿El código es fácil de entender y mantener para otros programadores?
 
 💻 [Código ejecutable](https://paiza.io/projects/HQCKSl4qkAk97lpzMnGi-g){:target="_blank"}
