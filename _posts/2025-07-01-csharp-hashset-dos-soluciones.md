@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dos soluciones en C# para detectar duplicados
-date: 2025-07-01 12:00:00 -0300
+date: 2025-07-01 21:00:00 -0300
 categories: csharp
 tags: algoritmos hashset duplicados
 published: true
