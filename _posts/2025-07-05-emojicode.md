@@ -28,11 +28,11 @@ Cómo se ve el código:
 🍇 😀 🔤Hola mundo🔤 ❗️ 🍉
 ```
 
-🍇 inicia el programa
-😀 es la función print
-🔤...🔤 define el texto
-❗️ cierra la instrucción
-🍉 finaliza el programa
+- 🍇 inicia el programa
+- 😀 es la función print
+- 🔤...🔤 define el texto
+- ❗️ cierra la instrucción
+- 🍉 finaliza el programa
 
 ```text
 🍇 
@@ -40,8 +40,8 @@ Cómo se ve el código:
 🍉
 ```
 
-🍌 define funciones.
-🍇 y 🍉 delimitan bloques.
+- 🍌 define funciones.
+- 🍇 y 🍉 delimitan bloques.
 
 ¡También soporta objetos!
 
