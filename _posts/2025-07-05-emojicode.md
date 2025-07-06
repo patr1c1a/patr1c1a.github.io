@@ -12,7 +12,7 @@ Programar con emojis no es un chiste: existe un lenguaje real llamado Emojicode.
 🔗 [Web oficial](https://www.emojicode.org/){:target="_blank"}
 
 
-![Escribir código con emojis: emojicode]({{ site.url }}/assets/2025-07-01-csharp-hashset-dos-soluciones.png)
+![Escribir código con emojis: emojicode]({{ site.url }}/assets/2025-07-05-emojicode.png)
 
 
 &nbsp;
