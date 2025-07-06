@@ -7,7 +7,7 @@ tags: emojicode
 published: true
 ---
 
-💡 Programar con emojis no es un chiste: existe un lenguaje real llamado Emojicode. Permite escribir programas completos usando solo emojis, incluyendo POO.
+Programar con emojis no es un chiste: existe un lenguaje real llamado Emojicode. Es un lenguaje de programación multiparadigma, fuertemente tipado, que utiliza emojis en lugar de palabras clave tradicionales, y soporta Programación Orientada a Objetos.
 
 🔗 [Web oficial](https://www.emojicode.org/){:target="_blank"}
 
