@@ -25,17 +25,17 @@ Sin ejecutarlo, ¿sabrías decir qué imprime cada `print` del código? Es impor
 
 <br />
 <br />
-**Desafío Java** 👇
+**Desafío Python** 👇
 <br />
-![Desafío Java número 8]({{ site.url }}/assets/2025-07-08-desafio-python-11.png)
+![Desafío Python número 11]({{ site.url }}/assets/2025-07-08-desafio-python-11.png)
 
 {% include accesibilidad.html %}
 
 Desafío Python
 
-¿Qué imprime?
+¿Qué imprime este programa?
 
-```java
+```python
 a = [1,2,3]
 b = [1,2,3]
 c = [1,2,3]
