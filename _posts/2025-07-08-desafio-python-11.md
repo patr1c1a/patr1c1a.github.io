@@ -7,7 +7,7 @@ tags: referencia max id
 published: true
 ---
 
-Sin ejecutarlo, ¿sabrías decir qué imprime cada `print` del código? Es importante saber que la función `max` devuelve el mayor valor cuando se le pasan dos o más argumentos, y en este caso está recibiendo tres listas con el mismo contenido. Por su parte, `id` es una función que devuelve la referencia (dirección de memoria) del objeto que se le pase como argumento.
+Sin ejecutarlo, ¿podrías decir qué imprime cada `print` del código? Es importante saber que la función `max` devuelve el mayor valor cuando se le pasan dos o más argumentos, y en este caso está recibiendo tres listas con el mismo contenido. Por su parte, `id` es una función que devuelve la referencia (dirección de memoria) del objeto que se le pase como argumento.
 
 
 
