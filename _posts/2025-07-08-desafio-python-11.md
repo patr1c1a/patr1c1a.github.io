@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Desafío Python número 11
-date: 2025-07-05 18:00:00 -0300
+date: 2025-07-08 18:00:00 -0300
 categories: desafios python
 tags: referencia max id
 published: true
