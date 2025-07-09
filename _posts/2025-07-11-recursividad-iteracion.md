@@ -18,23 +18,36 @@ No se trata de ver cuál es "más elegante", sino de elegir la herramienta corre
 &nbsp;
 
 {% include accesibilidad.html %}
-Usar recursividad no siempre es "más elegante"
+Usar recursividad no siempre es más elegante
 
-La recursividad divide un problema en subproblemas idénticos más pequeños, pero tiene costos importantes:
-- Cada llamada recursiva agrega un nuevo marco (frame) en el stack de llamadas, consumiendo memoria.
-- Si la recursividad es muy profunda, puede provocar un stack overflow (error cuando el stack supera su límite).
-- Las llamadas recursivas tienen overhead (paso de argumentos, creación de contexto, retorno).
+La recursividad divide un problema en subproblemas más pequeños, pero con costos:
 
-Por eso, no siempre es la mejor opción.
+- Cada llamada consume memoria al agregar un frame al stack.
+- Recursiones profundas pueden causar stack overflow (excede el límite de stack).
+- Overhead en cada llamada (paso de argumentos, creación de contexto y retorno).
+
+Esta función se llama a sí misma muchas veces. Con n=1000, necesita millones de llamadas porque repite cálculos, y eso llena la memoria (stack) hasta dar error:
+
+```python
+def fibonacci(n):
+    if n <= 1:
+        return n
+    return fibonacci(n-1) + fibonacci(n-2)
+ 
+fibonacci(1000)
+```
 
 Usa iteración cuando:
-- La solución requiere recorrer secuencialmente un conjunto de datos sin descomposición natural en subproblemas.
-- La recursividad sería demasiado profunda (por ejemplo, calcular factoriales grandes o secuencias largas).
+
+- El problema se resuelve recorriendo datos secuencialmente, sin dividir en subproblemas.
+- La recursión sería muy profunda (ej. factoriales grandes, secuencias largas).
 - Se busca eficiencia en consumo de memoria y tiempo.
 
 Usa recursividad cuando:
-- El problema tiene definición recursiva clara (como recorrer árboles o grafos, algoritmos de backtracking o división y conquista).
-- La profundidad de la recursividad es controlada y no crece linealmente con el tamaño de entrada.
+
+- El problema se define naturalmente de forma recursiva (árboles, grafos, backtracking, división y conquista).
+- La profundidad de llamadas es controlada y no crece proporcional al tamaño de entrada.
+
 
 
 </div></details>
