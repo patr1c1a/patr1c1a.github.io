@@ -9,7 +9,7 @@ published: true
 
 ¡Usemos Python para escribir nuestro propio generador de contraseñas!
 
-Esta es una versión básica, pero podemos hacer varias mejoras, como permitir que la contraseña solo empiece con una letra, diferenciar mayúsculas de minúsculas, permitir solo ciertos símbolos y no otros, garantizar al menos un carácter de cada tipo seleccionado... ¿Cómo las implementarías? ¿Se te ocurren otras?
+Esta es una versión básica, pero podemos hacer varias mejoras, como permitir que la contraseña solo empiece con una letra, diferenciar mayúsculas de minúsculas, usar solo ciertos símbolos, garantizar al menos un carácter de cada tipo... ¿Cómo las implementarías? ¿Se te ocurren otras?
 
 
 💻 [Código ejecutable](https://paiza.io/projects/Jwz-W0w8G4ULQmqgTjzQRg){:target="_blank"}
