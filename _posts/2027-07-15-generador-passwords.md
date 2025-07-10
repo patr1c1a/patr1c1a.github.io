@@ -17,6 +17,10 @@ published: true
 Esta es una versión básica, pero podemos implementar varias mejoras, como permitir que la contraseña solo empiece con una letra, diferenciar mayúsculas de minúsculas, permitir solo ciertos símbolos y no otros, garantizar al menos un carácter de cada tipo seleccionado... ¿Cómo las implementarías? ¿Se te ocurren otras?
 
 
+💻 [Código ejecutable](https://paiza.io/projects/Jwz-W0w8G4ULQmqgTjzQRg){:target="_blank"}
+
+
+
 ![Cómo crear un generador de contraseñas seguras]({{ site.url }}/assets/2027-07-15-generador-passwords.png)
 
 
