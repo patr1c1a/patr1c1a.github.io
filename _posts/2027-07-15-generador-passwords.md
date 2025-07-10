@@ -9,13 +9,12 @@ published: true
 
 ¡Usemos Python para escribir nuestro propio generador de contraseñas!
 
+Esta es una versión básica, pero podemos implementar varias mejoras, como permitir que la contraseña solo empiece con una letra, diferenciar mayúsculas de minúsculas, permitir solo ciertos símbolos y no otros, garantizar al menos un carácter de cada tipo seleccionado... ¿Cómo las implementarías? ¿Se te ocurren otras?
+
 - string.ascii_letters incluye todas las letras mayúsculas y minúsculas.
 - string.digits incluye los números del 0 al 9.
 - string.punctuation incluye símbolos como !@#$%^&*() dependiendo del sistema operativo.
-- random.choices selecciona k elementos al azar con reemplazo (pueden repetirse).
-
-Esta es una versión básica, pero podemos implementar varias mejoras, como permitir que la contraseña solo empiece con una letra, diferenciar mayúsculas de minúsculas, permitir solo ciertos símbolos y no otros, garantizar al menos un carácter de cada tipo seleccionado... ¿Cómo las implementarías? ¿Se te ocurren otras?
-
+- secrets.choice selecciona elementos al azar de una secuencia.
 
 💻 [Código ejecutable](https://paiza.io/projects/Jwz-W0w8G4ULQmqgTjzQRg){:target="_blank"}
 
