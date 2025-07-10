@@ -22,34 +22,53 @@ Esta es una versión básica, pero podemos hacer varias mejoras, como permitir q
 &nbsp;
 
 {% include accesibilidad.html %}
-Cómo crear un generador de contraseñas seguras
+Cómo crear un generador de contraseñas seguras en Python
 
-Combinando letras, números y símbolos se pueden crear contraseñas difíciles de adivinar. En Python podemos usar el módulo random y la función random.choices para elegir caracteres al azar de un conjunto definido.
+Combinando letras, números y símbolos se pueden crear contraseñas difíciles de adivinar. En Python podemos usar el módulo secrets y la función secrets.choice para elegir caracteres al azar de una secuencia.
+
+¿Por qué no usamos el módulo random?
+
+random es pseudoaleatorio: parece aleatorio pero en realidad es predecible si se conoce la semilla y el algoritmo usados:
+
+```python
+import random
+
+random.seed(123)
+print(random.choices(range(1,70)))
+```
+
+El ejemplo anterior siempre imprime 4.
+
+El módulo secrets genera datos criptográficamente seguros y es preferible cuando se necesitan datos sensibles (como contraseñas, tokens, etc.).
+
+Generador:
 
 ```python
 import string
 import secrets
-
-def generar_password(longitud=12, usar_letras=True, usar_numeros=True, usar_simbolos=True):
-    caracteres = ""
-    if usar_letras:
-        caracteres += string.ascii_letters
-    if usar_numeros:
-        caracteres += string.digits
-    if usar_simbolos:
-        caracteres += string.punctuation
-
-    if not caracteres:
-        raise ValueError("Debe elegir al menos un tipo de carácter.")
-
-    password = ''.join(secrets.choice(caracteres) for _ in range(longitud))
+ 
+def generar_password(longitud=12):
+    letras = string.ascii_letters
+    numeros = string.digits
+    simbolos = string.punctuation
+    todos = letras + numeros + simbolos
+ 
+    password = ""
+ 
+    for i in range(longitud):
+        c = secrets.choice(todos)
+        password += c
+ 
     return password
-
+ 
 # Ejemplo de uso:
-print(generar_password(longitud=10))
+print(generar_password(16))
 ```
 
-¿Qué mejoras le harías?
+- secrets.choice() retorna un elemento al azar de la secuencia que le pasemos como argumento.
+- string.ascii_letters incluye todas las letras mayúsculas y minúsculas.
+- string.digits incluye los números del 0 al 9.
+- string.punctuation incluye símbolos como !@#$%^&*().
 
 
 </div></details>
