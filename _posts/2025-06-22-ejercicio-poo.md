@@ -2,7 +2,7 @@
 layout: post
 title: POO - ¿cómo diseñarías estas clases?
 date: 2025-06-22 09:00:00 -0300
-categories: poo
+categories: poo ejercicios
 tags: modelado clases
 published: true
 ---
