@@ -3,7 +3,7 @@ layout: post
 title: Cómo crear un generador de contraseñas seguras en Python
 date: 2025-07-15 13:00:00 -0300
 categories: python
-tags: secrets passwords
+tags: secrets passwords criptografia
 published: true
 ---
 
