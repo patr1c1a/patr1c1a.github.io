@@ -16,7 +16,7 @@ Esta es una versión básica, pero podemos hacer varias mejoras, como forzar que
 
 
 
-![Cómo crear un generador de contraseñas seguras]({{ site.url }}/assets/2027-07-15-generador-passwords.png)
+![Cómo crear un generador de contraseñas seguras]({{ site.url }}/assets/2025-07-15-generador-passwords.png)
 
 
 &nbsp;
