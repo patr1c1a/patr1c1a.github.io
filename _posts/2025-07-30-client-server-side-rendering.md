@@ -7,8 +7,9 @@ tags: web rendering
 published: true
 ---
 
-Hoy las páginas web pueden generar su contenido en el servidor o directamente en tu navegador. Este cambio en cómo se construyen aplicaciones web permitió crear experiencias más dinámicas e interactivas, pero también trajo nuevos desafíos para la velocidad y el SEO.
-Entender Client Side Rendering y Server Side Rendering es clave para programar la web actual.
+🌎 Hoy las páginas web pueden generar su contenido en el servidor o directamente en tu navegador. Este cambio en cómo se construyen aplicaciones web permitió crear experiencias más dinámicas e interactivas, pero también trajo nuevos desafíos para la velocidad y el SEO.
+
+Entender Client Side Rendering y Server Side Rendering es clave para la programación web actual.
 
 ![Client y Server Side Rendering en desarrollo web]({{ site.url }}/assets/2025-07-30-client-server-side-rendering.png)
 
