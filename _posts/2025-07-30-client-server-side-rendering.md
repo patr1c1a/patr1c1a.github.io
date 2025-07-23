@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cómo funcionan Client y Server Side Rendering en desarrollo web
-date: 2025-08-03 15:00:00 -0300
+date: 2025-07-30 15:00:00 -0300
 categories: conceptos
 tags: web rendering
 published: true
@@ -11,7 +11,7 @@ published: true
 
 Entender Client Side Rendering y Server Side Rendering es clave para la programación web actual.
 
-![Client y Server Side Rendering en desarrollo web]({{ site.url }}/assets/2025-08-03-client-server-side-rendering.png)
+![Client y Server Side Rendering en desarrollo web]({{ site.url }}/assets/2025-07-30-client-server-side-rendering.png)
 
 
 &nbsp;
