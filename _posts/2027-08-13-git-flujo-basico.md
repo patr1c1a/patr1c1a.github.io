@@ -1,4 +1,4 @@
-<img width="1721" height="144" alt="image" src="https://github.com/user-attachments/assets/d4eaa651-273a-4e51-a6d9-1be17da7bb86" />---
+---
 layout: post
 title: Lo que todo programador debe saber sobre git
 date: 2025-08-13 15:00:00 -0300
