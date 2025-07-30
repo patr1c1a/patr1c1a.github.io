@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Por qué 0.1 + 0.2 no da 0.3?
-date: 2025-08-01 15:00:00 -0300
+date: 2025-09-03 15:00:00 -0300
 categories: conceptos
 tags: float double precision punto_flotante ieee754
 published: true
@@ -11,7 +11,7 @@ Este es un problema que ocurre en prácticamente todos los lenguajes modernos. P
 
 No existe un lenguaje moderno popular que use decimales exactos como tipo numérico por defecto.
 
-![Por qué 0.1 + 0.2 no da 0.3]({{ site.url }}/assets/2025-08-01-precision-float.png)
+![Por qué 0.1 + 0.2 no da 0.3]({{ site.url }}/assets/2025-09-03-precision-float.png)
 
 
 &nbsp;
