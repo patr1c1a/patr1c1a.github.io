@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Sabías que Instagram empezó con Python?
-date: 2025-08-03 15:00:00 -0300
+date: 2025-08-27 15:00:00 -0300
 categories: otros
 tags: instagram arquitectura
 published: true
@@ -11,7 +11,7 @@ Incluso las apps más grandes del mundo empezaron con una arquitectura base senc
 
 La arquitectura inicial de Instagram usó un stack simple pero poderoso. Hoy, en Meta, combina sistemas distribuidos avanzados con infraestructura 100% propia.
 
-![Instagram empezó con Python]({{ site.url }}/assets/2025-08-03-instagram.png)
+![Instagram empezó con Python]({{ site.url }}/assets/2025-08-27-instagram.png)
 
 
 &nbsp;
