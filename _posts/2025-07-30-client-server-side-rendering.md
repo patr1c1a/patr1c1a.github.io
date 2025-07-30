@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cómo funcionan Client y Server Side Rendering en desarrollo web
-date: 2025-07-30 15:00:00 -0300
+date: 2025-07-30 13:00:00 -0300
 categories: conceptos
 tags: web rendering
 published: true
