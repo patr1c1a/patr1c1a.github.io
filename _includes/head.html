@@ -3,21 +3,18 @@
 <script type="text/javascript">window.baseurl = '{{ site.url }}';</script>
 {% include css.html %}
 
-<!-- Metricool Tracking (Async) -->
+<!-- Metricool Tracking Script -->
 <script>
-  window.metricoolQueue = window.metricoolQueue || [];
-  function loadMetricool() {
-    var s = document.createElement('script');
-    s.src = 'https://tracker.metricool.com/resources/be.js';
-    s.async = true;
-    document.head.appendChild(s);
+  function loadScript(a){
+    var b=document.getElementsByTagName("head")[0],
+    c=document.createElement("script");
+    c.type="text/javascript",
+    c.src="https://tracker.metricool.com/resources/be.js",
+    c.onreadystatechange=a,
+    c.onload=a,
+    b.appendChild(c)
   }
-  // Load after page is fully rendered
-  if (document.readyState === 'complete') {
-    loadMetricool();
-  } else {
-    window.addEventListener('load', loadMetricool);
-  }
-  // Store tracking data until script loads
-  metricoolQueue.push({hash: "a66a35625be90da1df3d203bb211b6e5"});
+  loadScript(function(){
+    beTracker.t({hash:"a66a35625be90da1df3d203bb211b6e5"})
+  });
 </script>
