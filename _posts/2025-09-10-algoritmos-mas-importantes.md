@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Los algoritmos más importantes
-date: 2025-07-10 15:00:00 -0300
+date: 2025-09-10 15:00:00 -0300
 categories: otros
 tags: algoritmos euclides fourier backpropagation
 published: true
