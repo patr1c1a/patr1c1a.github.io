@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Cómo sabe la computadora dónde está cada elemento de un array?
-date: 2025-08-20 15:00:00 -0300
+date: 2025-08-20 13:00:00 -0300
 categories: conceptos
 tags: arrays offset memoria
 published: true
