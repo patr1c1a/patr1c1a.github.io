@@ -35,7 +35,7 @@ published: true
 
 {% include accesibilidad.html %}
 
-Detectar el error en este programa C++
+Detectar el error en este programa C++. Este programa debe permitir almacenar hasta 10 números en un arreglo, para después imprimirlo. ¿Qué error tiene? 
 
 ```cpp
 #include <iostream>
