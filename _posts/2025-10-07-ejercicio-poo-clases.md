@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Un ejercicio rápido de POO
-date: 2025-09-17 15:00:00 -0300
+date: 2025-10-07 16:00:00 -0300
 categories: ejercicios poo
 tags: clases instancias
 published: true
@@ -9,7 +9,7 @@ published: true
 
 ¿Te animás a crear un ejemplo propio, con al menos 2 clases y sus instancias?
 
-![Ejercicio rápido de POO]({{ site.url }}/assets/2025-09-17-ejercicio-poo-clases.png)
+![Ejercicio rápido de POO]({{ site.url }}/assets/2025-10-07-ejercicio-poo-clases.png)
 
 
 &nbsp;
