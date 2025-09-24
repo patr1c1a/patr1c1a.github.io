@@ -11,7 +11,7 @@ published: true
 
 Este concepto aparece más de lo que creemos: en entrevistas técnicas (especialmente cuando preguntan por punteros o alineación de memoria), en bugs silenciosos al manipular buffers, o incluso al optimizar el uso de memoria en estructuras de datos.
 
-Si ejecutamos este código C podremos ver cómo un solo int ocupa cuatro bytes, y acceder a él como un puntero a char revela su representación interna:
+Si ejecutamos [este código C](https://paiza.io/projects/vwbjjzD1Dx781rBUqedeow){:target="_blank"} podremos ver cómo un solo int ocupa cuatro bytes, y acceder a él como un puntero a char revela su representación interna:
 
 ```c
 int a = 0x12345678;
