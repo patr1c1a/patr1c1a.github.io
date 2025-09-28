@@ -10,7 +10,7 @@ published: true
 Acá encontrarás ejercicios para practicar la estructura de control de bucle o repetición condicional (while).
 
 En los siguientes videos podrás ver una explicación de la estructura y también la resolución paso a paso de estos ejercicios:
-+ [Repetición condicional: while](https://youtu.be/Rkv3GtEZEnw){:target="_blank"}
++ [Repetición condicional: while](https://youtu.be/Ll8Q48_yPIM){:target="_blank"}
 + [Ejercicios con la estructura de repetición condicional](https://www.youtube.com/watch?v=I6T_qjYiDDM){:target="_blank"}
 + [Ejercicios con break y continue](https://www.youtube.com/watch?v=lG-DTUOZVZg){:target="_blank"}
 
