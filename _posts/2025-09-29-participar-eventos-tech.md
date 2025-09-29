@@ -47,6 +47,7 @@ incluso si no entendés todo, podés quedarte con palabras clave y conceptos gen
 - El día previo, descansar bien (estos eventos suelen durar muchas horas e, incluso, días).
 - El día del evento, planeá tu llegada con tiempo de anticipación. Siempre unos cuantos minutos antes (15, al menos) porque si hay demasiada concurrencia puede que la etapa de acreditaciones se extienda y te pierdas alguna actividad que tenga horario temprano.
 - Llevar agua y algo para comer (los puestos pueden ser caros o colapsar de gente).
+- No olvides usar ropa y calzado cómodo (especialmente si vas a estar muchas horas en el evento).
 - Ir con disponibilidad de tiempo para disfrutar al máximo.
 
 
