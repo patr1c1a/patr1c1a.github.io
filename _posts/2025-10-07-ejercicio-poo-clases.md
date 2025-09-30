@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Un ejercicio rápido de POO
-date: 2025-10-07 16:00:00 -0300
+date: 2025-10-28 16:00:00 -0300
 categories: ejercicios poo
 tags: clases instancias
 published: true
