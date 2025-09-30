@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Video - Tu código puede tener un bug invisible
-date: 2025-10-08 16:00:00
+date: 2025-10-14 16:00:00
 categories: conceptos
-tags: variables memoria overflow
+tags: variables memoria overflow integer enteros
 published: true
 ---
 
