@@ -7,7 +7,7 @@ tags: variables memoria overflow integer enteros
 published: true
 ---
 
-En programación, no todo lo que cuenta… cuenta bien. Aunque suene paradójico, uno de los errores más antiguos —y aún vigentes— tiene que ver con cómo las computadoras representan los números. Específicamente, con los límites de los tipos de datos enteros.
+En programación, no todo lo que "cuenta"… "cuenta" bien. Aunque suene paradójico, uno de los errores más antiguos —y aún vigentes— tiene que ver con cómo las computadoras representan los números. Específicamente, con los límites de los tipos de datos enteros.
 
 El "integer overflow" ocurre cuando un cálculo produce un valor que excede la capacidad máxima del tipo de dato utilizado. Muchos lenguajes no arrojan un error cuando esto sucede, por lo que puede pasar desapercibido durante pruebas, pero en producción puede causar fallos silenciosos, corrupción de datos o incluso vulnerabilidades de seguridad.
 
