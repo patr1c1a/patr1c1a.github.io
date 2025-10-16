@@ -19,13 +19,13 @@ max = max + 1; // Provoca overflow
 std::cout << "Después del overflow: " << max << std::endl;
 ```
 
-Este tipo de problema no es teórico: en 2015 se descubrió que los sistemas de los aviones Boeing 787 podían fallar tras estar encendidos más de 248 días seguidos debido a un contador de tiempo de 32 bits que se desbordaba. Y en 2014, YouTube tuvo que migrar su contador de vistas de un entero con signo de 32 bits a uno de 64 bits cuando Gangnam Style superó los 2.100 millones de reproducciones —el límite práctico de ese tipo de dato.
+Este tipo de problema no es solo teórico: en 2015 se descubrió que los sistemas de los aviones Boeing 787 podían fallar tras estar encendidos más de 248 días seguidos debido a un contador de tiempo de 32 bits que se desbordaba. Y en 2014, YouTube tuvo que migrar su contador de vistas de un entero con signo de 32 bits a uno de 64 bits cuando Gangnam Style superó los 2.100 millones de reproducciones (el límite práctico de ese tipo de dato).
 
-Lo interesante del overflow no es solo su existencia, sino que muchas veces ocurre en contextos donde “nunca pasaría”: contadores de usuarios, cálculos financieros, tiempos de ejecución… Hasta que pasa.
+Lo interesante del overflow es que muchas veces ocurre en contextos donde "nunca pasaría": contadores de usuarios, cálculos financieros, tiempos de ejecución… Hasta que pasa.
 
-▶️ En este video breve, te cuento más detalles sobre este tema.
+▶️ En este video breve, te cuento más detalles sobre el tema.
 
-Después de verlo, tal vez podríamos pensar en qué pasa si sumamos dos números grandes y el resultado se desborda… pero luego restamos uno de ellos ¿Volvería al valor original, o el daño ya está hecho?
+Después de verlo, tal vez podríamos pensar en qué sucedería si sumamos dos números grandes y el resultado se desborda, pero luego restamos uno de ellos. ¿Volvería al valor original, o el daño ya está hecho?
 
 {% include youtubePlayer.html id="xwxz9fNyvJo" %}
 
