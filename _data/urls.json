@@ -6,6 +6,11 @@
     "layout": "post"
   },
   {
+    "text": "¡Nuevo libro!",
+    "url": "/24desafios/",
+    "icon": "fa-solid fa-book"
+  },
+  {
     "text": "Por categoría",
     "url": "/categorias/",
     "icon": "fa-tag"
