@@ -11,7 +11,7 @@ permalink: /24desafios/
 
 &nbsp;
 
-Llegó este momento que soñé por años, desde que era profe en la universidad y quería escribir un libro para ayudar a los estudiantes, explicándoles cómo resolver los ejercicios de manera profesional, para que apunten a **ser los mejores** desde el principio.
+Llegó un momento que soñé por años: desde que era profe en la universidad y se me ocurrió escribir un libro para ayudar a los estudiantes a escribir algoritmos de forma más "profesional", para que apunten a **ser los mejores** desde el principio.
 
 👉 **[Ver el libro en Payhip](https://payhip.com/b/WSi0z)**
 
@@ -38,7 +38,9 @@ No. Si entendés bucles, funciones y estructuras de datos básicas (arreglos, co
 PDF descargable. Más de 200 páginas por edición.
 
 **¿En qué lenguaje de programación está?
-Todos los algoritmos están en pseudocódigo y las soluciones definitivas están disponibles en tres lenguajes: Python, Java o C# (según la edición del libro que compres). Además, hay una Edición Completa con los 3 lenguajes juntos.
+Hay 4 ediciones diferentes, para que elijas el lenguaje que prefieras.
+
+Todos los algoritmos están en pseudocódigo y las soluciones definitivas están disponibles en: Python, Java o C# y, además, hay una Edición Completa con los 3 lenguajes juntos.
 
 **¿Puedo imprimir el libro?**  
 Sí. Una vez comprado, el PDF es tuyo para uso personal.
@@ -51,8 +53,18 @@ Esta es la primera edición. Futuras actualizaciones serán gratuitas para compr
 
 **👉 [Comprar ahora en Payhip](https://payhip.com/b/WSi0z)**
 
-Código de descuento: **HELLOWORLD** (válido hasta 30 nov)
-```
+Código de descuento: **HELLOWORLD** (válido hasta 30 nov de 2025).
+
+Precio regular (sin descuento): 17 USD / 30 USD.
+
+---
+
+### 🎄 24 Desafíos de Adviento
+
+Del 1 al 24 de diciembre voy a publicar un ejercicio del libro por día en mis redes sociales para que puedas intentar resolverlos.
+
+Seguí el desafío con el hashtag **#24DesafiosDeAdviento**
+
 
 &nbsp;
 &nbsp;
