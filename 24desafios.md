@@ -40,6 +40,9 @@ Completamente en español. Con explicaciones aptas para principiantes.
 - **Patrones reutilizables**: Aprende estrategias que aplicás en problemas reales
 - **Narrativa realista**: Ejercicios con contexto del mundo real
 
+&nbsp;
+
+
 ### Preguntas frecuentes
 
 **¿Necesito conocimientos avanzados?**  
@@ -60,7 +63,11 @@ Sí. Una vez comprado, el PDF es tuyo para uso personal.
 Esta es la primera edición. Futuras actualizaciones serán gratuitas para compradores (¡asegurate de suscribirte a la lista de email!).
 
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 **👉 [Comprar ahora en Payhip](https://payhip.com/b/WSi0z)**
 
@@ -69,6 +76,8 @@ Código de descuento: **HELLOWORLD** (válido hasta 30 nov de 2025).
 Precio regular (sin descuento): 17 USD / 30 USD.
 
 ---
+
+&nbsp;
 
 ### 🎄 24 Desafíos de Adviento
 
