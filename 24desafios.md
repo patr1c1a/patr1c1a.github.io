@@ -7,7 +7,8 @@ permalink: /24desafios/
 ## 24 días, 24 desafíos de código - Desde "mi código funciona" hasta la solución profesional
 
 &nbsp;
-![Portada del libro](/assets/libro_24desafios_portada.png)
+
+![Portada del libro (edición completa)]({{ site.url }}/assets/libro_24desafios_portada.png)
 
 &nbsp;
 
