@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ¡Mi nuevo libro ya está disponible!
-permalink: /gracias/
+permalink: /24desafios/
 ---
 
 ## 24 días, 24 desafíos de código - Desde "mi código funciona" hasta la solución profesional
