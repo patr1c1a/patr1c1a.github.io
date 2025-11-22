@@ -24,7 +24,7 @@ Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son
 
 ## 👉 **[Ir al libro](https://payhip.com/b/WSi0z)**
 
-<span style="color:orange;">**Descuento de lanzamiento:** 35% (con el código "HELLOWORLD")</span>
+<span style="color:orange;">**Descuento de lanzamiento:** 35% (con el código "<mark>HELLOWORLD</mark>")</span>
 
 Este enlace acepta pagos PayPal, tarjeta de débito y de crédito.
 
