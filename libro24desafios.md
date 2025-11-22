@@ -22,11 +22,11 @@ Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son
 
 &nbsp;
 
-## 👉 **[Ver el libro en Payhip](https://payhip.com/b/WSi0z)**
+## 👉 **[Ir al libro](https://payhip.com/b/WSi0z)**
 
-**Descuento de lanzamiento:** 35% (con el código "HELLOWORLD")
+<span style="color:orange;">**Descuento de lanzamiento:** 35% (con el código "HELLOWORLD")</span>
 
-Ese enlace acepta pagos PayPal, tarjeta de débito y de crédito.
+Este enlace acepta pagos PayPal, tarjeta de débito y de crédito.
 
 **→ Si necesitas pagar con MercadoPago, contactame a programaciondesdecero@patriciaemiguel.com y te genero un enlace personalizado.**
 
