@@ -9,7 +9,7 @@ published: true
 
 ¿Te animás a crear un ejemplo propio, con al menos 2 clases y sus instancias?
 
-![Ejercicio rápido de POO]({{ site.url }}/assets/2025-10-07-ejercicio-poo-clases.png)
+![Ejercicio rápido de POO]({{ site.url }}/assets/2025-10-28-ejercicio-poo-clases.png)
 
 
 &nbsp;
