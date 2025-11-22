@@ -1,14 +1,14 @@
 ---
 layout: page
 title: ¡Mi nuevo libro ya está disponible!
-permalink: /24desafios/
+permalink: /libro24desafios/
 ---
 
 ## 24 días, 24 desafíos de código - Desde "mi código funciona" hasta la solución profesional
 
 &nbsp;
 
-![Portada del libro (edición completa)]({{ site.url }}/assets/libro_24desafios_portada.png)
+![Portada del libro (edición multilenguaje)]({{ site.url }}/assets/libro_24desafios_portada.png)
 
 &nbsp;
 
@@ -51,10 +51,10 @@ No. Si entendés bucles, funciones y estructuras de datos básicas (arreglos, co
 **¿En qué formato viene?**  
 PDF descargable. Más de 200 páginas por edición.
 
-**¿En qué lenguaje de programación está?
-Hay 4 ediciones diferentes, para que elijas el lenguaje que prefieras.
+**¿En qué lenguaje de programación está?**
+Hay 4 ediciones diferentes, para que elijas el lenguaje que prefieras: Python, Java, C# o Multilenguaje (los 3 lenguajes juntos).
 
-Todos los algoritmos están en pseudocódigo y las soluciones definitivas están disponibles en: Python, Java o C# y, además, hay una Edición Completa con los 3 lenguajes juntos.
+Todos los algoritmos están en pseudocódigo y las soluciones definitivas están disponibles en el lenguaje elegido.
 
 **¿Puedo imprimir el libro?**  
 Sí. Una vez comprado, el PDF es tuyo para uso personal.
@@ -73,7 +73,7 @@ Esta es la primera edición. Futuras actualizaciones serán gratuitas para compr
 
 Código de descuento: **HELLOWORLD** (válido hasta 30 nov de 2025).
 
-Precio regular (sin descuento): 17 USD / 30 USD.
+Precio regular (sin descuento): 17 USD (edición de un lenguaje) / 30 USD (edición multilenguaje).
 
 ---
 
