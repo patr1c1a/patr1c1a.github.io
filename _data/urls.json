@@ -5,6 +5,11 @@
     "icon": "fa-home",
     "layout": "post"
   },
+   {
+    "text": "¡Nuevo libro!",
+    "url": "/libro24desafios/",
+    "icon": "fa-solid fa-book"
+  },
   {
     "text": "Por categoría",
     "url": "/categorias/",
