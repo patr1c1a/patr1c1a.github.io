@@ -12,7 +12,7 @@ permalink: /libro24desafios/
 
 &nbsp;
 
-Llegó un momento que soñé por años: desde que era profe en la universidad y se me ocurrió escribir un libro para ayudar a los estudiantes a escribir algoritmos de forma más "profesional", para que apunten a **ser los mejores** desde el principio.
+Llegó un momento que soñé por años: desde que era profe en la universidad quise escribir un libro que ayudara a los estudiantes a crear sus algoritmos de forma más "profesional", para que apunten a **ser los mejores** desde el principio.
 
 Este libro busca que **no pierdas tiempo y avances rápidamente**.
 
@@ -51,7 +51,7 @@ No. Si entendés bucles, funciones y estructuras de datos básicas (arreglos, co
 **¿En qué formato viene?**  
 PDF descargable. Más de 200 páginas por edición.
 
-**¿En qué lenguaje de programación está?**
+**¿En qué lenguaje de programación está?**  
 Hay 4 ediciones diferentes, para que elijas el lenguaje que prefieras: Python, Java, C# o Multilenguaje (los 3 lenguajes juntos).
 
 Todos los algoritmos están en pseudocódigo y las soluciones definitivas están disponibles en el lenguaje elegido.
