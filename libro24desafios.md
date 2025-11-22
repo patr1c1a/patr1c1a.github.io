@@ -16,7 +16,7 @@ Llegó un momento que soñé por años: desde que era profe en la universidad qu
 
 Este libro busca que **no pierdas tiempo y avances rápidamente**.
 
-Muchas personas me dicen que ya saben lo básico pero no saben por dónde seguir. Y se ponen a aprender más lenguajes, más frameworks, más tecnologías. Después las tecnologías pasan de moda, o se dan cuenta de que no era necesario aprenderlos a todos porque con uno ya fácilmente podían migrar al siguiente. ¿El resultado? Perdieron tiempo. Y en esta industria el tiempo es oro.
+Muchas personas me dicen que ya saben lo básico pero no saben **por dónde seguir**. Y se ponen a aprender más lenguajes, más frameworks, más tecnologías. Después las tecnologías pasan de moda, o se dan cuenta de que aprendiendo una fácilmente se puede migrar a otras similares. ¿El resultado? Perdieron tiempo. Y en esta industria **el tiempo es oro**.
 
 Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son deficientes, no importa en qué lenguaje los escribas o cuántos frameworks les pongas encima. Las entrevistas de trabajo se están centrando en eso: buscan gente que sepa razonar y explicar por qué usa cierta estructura y no otra.
 
@@ -26,11 +26,16 @@ Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son
 
 **Descuento de lanzamiento:** 35% (con el código "HELLOWORLD")
 
+Completamente en español. Con explicaciones aptas para principiantes.
+
 &nbsp;
 
 ---
 
-Completamente en español. Con explicaciones aptas para principiantes.
+&nbsp;
+&nbsp;
+
+Este no es un simple "libro de ejercicios". Es un "mini-curso" premium en español, con enfoque en la pedagogía (análisis paso a paso, complejidad, pruebas, estrategias ineficientes vs. óptimas, implementaciones alternativas), enfocado en **principiantes que quieren avanzar rápido**.
 
 ### Lo que hace diferente a este libro
 
