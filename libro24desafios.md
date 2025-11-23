@@ -12,7 +12,7 @@ permalink: /libro24desafios/
 
 &nbsp;
 
-Llegó un momento que soñé por años: desde que era profe en la universidad quise escribir un libro que ayudara a los estudiantes a crear sus algoritmos de forma más "profesional", para que apunten a **ser los mejores** desde el principio.
+Desde que era profe en la universidad quise escribir un libro que ayudara a los estudiantes a no caer en la confusión de no saber por dónde seguir, y que puedan crear algoritmos de forma profesional, para que apunten a **ser los mejores** desde el principio.
 
 Este libro busca que **no pierdas tiempo y avances rápidamente**.
 
@@ -24,11 +24,11 @@ Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son
 
 ## 👉 **[Ir al libro](https://payhip.com/b/WSi0z)**
 
-<span style="color:orange;">**Descuento de lanzamiento:** 35% (con el código "<mark>HELLOWORLD</mark>")</span>
+<span style="color:orange;">**Precio de lanzamiento:** 35% de descuento hasta diciembre.</span>
 
 Este enlace acepta pagos PayPal, tarjeta de débito y de crédito.
 
-**→ Si necesitas pagar con MercadoPago, contactame a programaciondesdecero@patriciaemiguel.com y te genero un enlace personalizado.**
+**→ Si necesitas pagar con MercadoPago, contactame a <programaciondesdecero@patriciaemiguel.com> y te genero un enlace personalizado.**
 
 &nbsp;
 
@@ -37,23 +37,22 @@ Este enlace acepta pagos PayPal, tarjeta de débito y de crédito.
 &nbsp;
 &nbsp;
 
-Este no es un simple "libro de ejercicios". Es un "mini-curso" premium en español, con enfoque en la pedagogía (análisis paso a paso, complejidad, pruebas, estrategias ineficientes vs. óptimas, implementaciones alternativas), enfocado en **principiantes que quieren avanzar rápido**.
+Este no es un simple "libro de ejercicios". Es tu "mapa de ruta" en español, con análisis paso a paso, pruebas, estrategias algorítmicas y cómo mejorarlas y técnicas que vas a poder trasladar a otros problemas, enfocado en **principiantes que quieren avanzar rápido**.
 
 ### Lo que hace diferente a este libro
 
-- **No son solo respuestas**: Cada ejercicio muestra múltiples intentos de solución
-- **Proceso completo**: Desde el enfoque ingenuo hasta el óptimo
-- **Casos de prueba**: Código listo para ejecutar y verificar
-- **Patrones reutilizables**: Aprende estrategias que aplicás en problemas reales
-- **Narrativa realista**: Ejercicios con contexto del mundo real
+- **No son solo respuestas**: cada ejercicio muestra múltiples intentos de solución
+- **Proceso completo**: desde el enfoque inicial hasta el eficiente
+- **Casos de prueba**: código listo para ejecutar y verificar
+- **Patrones reutilizables**: aprendés estrategias que aplicás en problemas reales
+- **Narrativa realista**: ejercicios con contexto del mundo real
 
 &nbsp;
-
 
 ### Preguntas frecuentes
 
 **¿Necesito conocimientos avanzados?**  
-No. Si entendés bucles, funciones y estructuras de datos básicas (arreglos, conjuntos, diccionarios), es suficiente.
+No. Si entendés bucles, funciones y estructuras de datos básicas (arreglos, conjuntos, diccionarios), es suficiente. Mi [curso de programación desde cero](https://www.youtube.com/playlist?list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb){:target="_blank"} es el punto de partida perfecto.
 
 **¿En qué formato viene?**  
 PDF descargable. Más de 200 páginas por edición.
@@ -67,8 +66,7 @@ Todos los algoritmos están en pseudocódigo y las soluciones definitivas están
 Sí. Una vez comprado, el PDF es tuyo para uso personal.
 
 **¿Hay actualizaciones?**  
-Esta es la primera edición. Futuras actualizaciones serán gratuitas para compradores (¡asegurate de suscribirte a la lista de email!).
-
+Esta es la primera edición. Futuras actualizaciones serán gratuitas para compradores (¡asegurate de [suscribirte a la lista de email](https://programaciondesdecero.eo.page/lista){:target="_blank"}!).
 
 &nbsp;
 
@@ -78,9 +76,9 @@ Esta es la primera edición. Futuras actualizaciones serán gratuitas para compr
 
 **👉 [Comprar ahora en Payhip](https://payhip.com/b/WSi0z)**
 
-Código de descuento: **HELLOWORLD** (válido hasta 30 nov de 2025).
+Precio lanzamiento durante el evento de Adviento:
 
-Precio regular (sin descuento): 17 USD (edición de un lenguaje) / 30 USD (edición multilenguaje).
+11 USD (edición de un lenguaje) / 20 USD (edición multilenguaje).
 
 ---
 
@@ -91,7 +89,6 @@ Precio regular (sin descuento): 17 USD (edición de un lenguaje) / 30 USD (edici
 Del 1 al 24 de diciembre voy a publicar un ejercicio del libro por día en mis redes sociales para que puedas intentar resolverlos.
 
 Seguí el desafío con el hashtag **#24DesafiosDeAdviento**
-
 
 &nbsp;
 &nbsp;
