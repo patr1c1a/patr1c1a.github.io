@@ -22,7 +22,7 @@ Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son
 
 &nbsp;
 
-## 👉 **[Ver detalles del libro](https://payhip.com/b/WSi0z)**
+## 👉 **[Ir al libro](https://payhip.com/b/WSi0z)**
 
 <span style="color:orange;">**Precio de lanzamiento:** 35% de descuento hasta diciembre.</span>
 
@@ -34,6 +34,11 @@ Este enlace acepta pagos PayPal, tarjeta de débito y de crédito.
 
 ---
 
+👉 [Descargar muestra del libro]({{ site.url }}/assets/24Dias24DesafiosDeCodigo_preview.pdf)
+
+(La muestra solo contiene el índice, introducción y parte del primer desafío).
+
+---
 &nbsp;
 &nbsp;
 
