@@ -22,13 +22,13 @@ Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son
 
 &nbsp;
 
-## 👉 **[Ir al libro](https://payhip.com/b/WSi0z)**
+## 👉 **[Ver detalles del libro](https://payhip.com/b/WSi0z)**
 
 <span style="color:orange;">**Precio de lanzamiento:** 35% de descuento hasta diciembre.</span>
 
 Este enlace acepta pagos PayPal, tarjeta de débito y de crédito.
 
-**→ Si necesitas pagar con MercadoPago, contactame a <programaciondesdecero@patriciaemiguel.com> y te genero un enlace personalizado.**
+→ Si necesitas pagar con **MercadoPago**, contactame a <programaciondesdecero@patriciaemiguel.com> y te genero un enlace personalizado.
 
 &nbsp;
 
