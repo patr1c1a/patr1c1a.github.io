@@ -101,9 +101,10 @@ En cuanto al campo profesional, aunque es común que muchas de las personas que 
 
 
 <details><summary id="libros-recomendables"><b> -¿Qué libros son recomendables para aprender a programar, ejercitar programación o aprender sobre el mundo del software?</b></summary>
-<div markdown="1">Es necesario tener en cuenta que mucho del material más reconocido se encuentra únicamente en inglés. Por suerte, para algunos títulos existen traducciones al español.
-    
-Algunos de estos libros son orientados a aprender las bases de la programación y otros son orientados al ejercicio profesional y las buenas prácticas, pero todos ellos son habitualmente recomendados para desarrolladores principiantes y no tanto:
+<div markdown="1">Si ya conocés lo básico de programación y querés mejorar tus algoritmos, escribí ["24 días, 24 desafíos de código"](http://patriciaemiguel.com/libro24desafios/), un libro en español que te muestra cómo transformar código de principiante en soluciones profesionales.
+
+Además, hay otros libros recomendables pero es necesario tener en cuenta que mucho del material más reconocido se encuentra únicamente en inglés. Solo para algunos títulos existen traducciones al español. Te menciono algunos orientados a las bases de la programación y otros al ejercicio profesional y las buenas prácticas:
+
 <br />* [El programador pragmático - Andrew Hunt, David Thomas](https://books.google.com.ar/books?id=5wBQEp6ruIAC){:target="_blank"}
 <br />* [Código Limpio: Manual de estilo para el desarrollo ágil de software - Robert Martin](https://www.amazon.es/Código-Limpio-desarrollo-software-Programación/dp/8441532109){:target="_blank"}
 <br />* [Introduction To Algorithms - "CLRS"](https://books.google.com.ar/books?id=NLngYyWFl_YC){:target="_blank"}
@@ -112,7 +113,6 @@ Algunos de estos libros son orientados a aprender las bases de la programación 
 <br />* [Head First Design Patterns - Eric Freeman, Elisabeth Robson, Elisabeth Freeman, Kathy Sierra, Bert Bates](https://books.google.com.ar/books/about/Head_First_Design_Patterns.html?id=GGpXN9SMELMC){:target="_blank"}
 <br />* [Agile Software Development: Principles, Patterns, and Practices - Robert Martin](https://books.google.com.ar/books?id=0HYhAQAAIAAJ){:target="_blank"}
 <br />* [Fundamentos de programación - Luis Joyanes Aguilar](https://books.google.com.ar/books?id=nrNvPwAACAAJ){:target="_blank"}
-
   
 Y, fuera de lo que es la programación concretamente, también hay varios libros muy interesantes sobre temas variados, que nos tocan de cerca en esta profesión. Por ejemplo: los sistemas operativos, la arquitectura de computadoras, conceptos de matemática y lógica avanzada, procesos de desarrollo de software, la experiencia de usuario, y hasta cómo desarrollar los buenos hábitos y la disciplina (¡muy importantes cuando aprendemos algo nuevo!):
   
@@ -136,6 +136,8 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 
 <details><summary id="recursos-para-aprender"><b> -¿Qué recursos en internet pueden ayudarme a aprender o practicar programación?</b></summary>
 <div markdown="1">Por suerte, hay muchísimos. En [mi página de enlaces]({{ site.baseurl }}{% link enlaces.md %}){:target="_blank"} vas a encontrar varios, clasificados por categorías.
+
+Y si ya conocés lo básico pero no sabés por dónde seguir para programar de forma profesional, mi libro ["24 días, 24 desafíos de código"](/libro24desafios/) te guía paso a paso.
   
   </div>
 <br />&nbsp;
@@ -214,7 +216,7 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
   
   Por otra parte, habrá herramientas y tecnologías puntuales a dominar en cada rol y cada proyecto. Por ejemplo, si el puesto implica modificar código, seguramente se utilice algún sistema de versionado como [Git](https://git-scm.com/){:target="_blank"} o [Subversion](https://subversion.apache.org/){:target="_blank"}. También suele ser muy útil estar familiarizado (aunque sea de forma básica) [Linux](https://www.linux.org/){:target="_blank"}. Hoy es común que los proyectos utilicen algún tipo de contenedores o de virtualización, por lo que necesitaremos conocer sobre tecnologías como [Docker](https://www.docker.com/){:target="_blank"}, [Kubernetes](https://kubernetes.io/){:target="_blank"}, [Vagrant](https://www.vagrantup.com/){:target="_blank"}, [VirtualBox](https://www.virtualbox.org/){:target="_blank"} o [VMware](https://www.vmware.com/){:target="_blank"}. Además, los proyectos medianos y grandes suelen utilizar sistemas de "continuous integration" como [CircleCI](https://circleci.com/){:target="_blank"}, [Travis](https://www.travis-ci.com){:target="_blank"} o [Jenkins](https://www.jenkins.io/){:target="_blank"}.
 
-  Hoy también existen los servicios de computación en la nube, que parecen haber llegado para quedarse: "Software as a Service" (SaaS), "Infrastructure as a Service" (IaaS), "Platform as a Service" (PaaS). Esto es todo un mundo pero es necesario que conozcamos al menos algo de ellos. Los tres principales proveedores son [Amazon Web Services](https://aws.amazon.com/es/), [Azure (Microsoft)](https://azure.microsoft.com/es-es/) y [Google Cloud Platform](https://cloud.google.com/?hl=es). Cada uno tiene cientos (sí, cientos) de soluciones "cloud" para distintos usos, pero suele haber un grupo de servicios más comúnmente usados, como los que permiten gestionar bases de datos, almacenamiento de archivos, crear máquinas virtuales, notificación de eventos, y muchísimos más. 
+  Hoy también existen los servicios de computación en la nube, que parecen haber llegado para quedarse: "Software as a Service" (SaaS), "Infrastructure as a Service" (IaaS), "Platform as a Service" (PaaS). Esto es todo un mundo pero es necesario que conozcamos al menos algo de ellos. Los tres principales proveedores son [Amazon Web Services](https://aws.amazon.com/es/), [Azure (Microsoft)](https://azure.microsoft.com/es-es/) y [Google Cloud Platform](https://cloud.google.com/?hl=es). Cada uno tiene cientos (sí, cientos) de soluciones "cloud" para distintos usos, pero suele haber un grupo de servicios más comúnmente usados, como los que permiten gestionar bases de datos, almacenamiento de archivos, crear máquinas virtuales, notificación de eventos, y muchísimos más.
 
   Por supuesto, también nos será muy útil tener conocimientos sobre SQL y bases de datos relacionales y no relacionales, APIs (verbos HTTP, REST, SOAP, GraphQL), arquitectura de microservicios, patrones de diseño, infraestructura...
   
@@ -230,11 +232,16 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 ### Sobre Programación Desde Cero:
 
 <details><summary id="que-es-programacion-desde-cero"><b> -¿Qué es Programación Desde Cero?</b></summary>
-<div markdown="1">Es el espacio a través del cual comparto material educativo sobre programación e informática, especialmente (pero no únicamente) para principiantes. Publico videos en [Youtube](https://www.youtube.com/c/ProgramacionDesdeCero){:target="_blank"} y contenidos breves en redes sociales ([Twitter](https://twitter.com/Programacion_0){:target="_blank"} / [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos){:target="_blank"} / [Instagram](https://www.instagram.com/programaciondesdecero/){:target="_blank"} / [Pinterest](https://www.pinterest.com/ProgramacionDesdeCero/){:target="_blank"}) con conceptos explicados, ejercicios, desafíos, etc. Este blog nuclea esos contenidos publicados en diferentes otros medios.
+<div markdown="1">Es el espacio a través del cual comparto material educativo sobre programación e informática, especialmente (pero no únicamente) para principiantes. Publico videos en [Youtube](https://www.youtube.com/c/ProgramacionDesdeCero){:target="_blank"} y contenidos breves en redes sociales ([Instagram](https://www.instagram.com/programaciondesdecero/){:target="_blank"} / [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos){:target="_blank"} / [Twitter](https://twitter.com/Programacion_0){:target="_blank"} / [Pinterest](https://www.pinterest.com/ProgramacionDesdeCero/){:target="_blank"}) con conceptos explicados, ejercicios, desafíos, etc. Este blog nuclea esos contenidos publicados en diferentes otros medios.
   </div>
 <br />&nbsp;
 </details>
 
+<details><summary id="newsletter"><b> -¿Cómo puedo estar al tanto de nuevos contenidos y productos educativos?</b></summary>
+<div markdown="1">La mejor forma es suscribirte a mi [lista de email](https://programaciondesdecero.eo.page/lista), donde comparto novedades, nuevos materiales y lanzamientos antes que en ningún otro lado. También podés seguirme en [YouTube](https://www.youtube.com/c/ProgramacionDesdeCero){:target="_blank"}, [Instagram](https://www.instagram.com/programaciondesdecero/){:target="_blank"}, [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos){:target="_blank"}, [Twitter](https://twitter.com/Programacion_0){:target="_blank"} y [Pinterest](https://www.pinterest.com/ProgramacionDesdeCero/){:target="_blank"}.
+</div>
+<br />&nbsp;
+</details>
 
 <details><summary id="como-empezo"><b> -¿Cómo empezó?</b></summary>
 <div markdown="1">Alrededor de 2011 comencé publicando en este blog algunos artículos que escribía cuando aún era estudiante de Licenciatura en Sistemas.
@@ -253,7 +260,8 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 
 
 <details><summary id="ayuda-con-codigo-y-ejercicios"><b> -¿Puedo enviar mi problema sobre código para que me ayudes a resolverlo?</b></summary>
-<div markdown="1">Lamentablemente, mis actividades no me permiten brindar este tipo de asesorías personalizadas. Además, existe otro motivo por el que no puedo ayudar cuando se trata de una tarea académica: en esos casos es necesario tener en cuenta las restricciones y estilos de código que los docentes hayan decidido adoptar en el curso que se está tomando, por lo que una resolución que no contemple estos detalles posiblemente no sea útil.
+<div markdown="1">No ofrezco asesorías personalizadas sobre código. En su lugar, he creado [recursos que te enseñan a resolver problemas por tu cuenta](http://patriciaemiguel.com/libro24desafios/), que es una habilidad fundamental para cualquier programador.
+<br />Además, existe otro motivo por el que no puedo ayudar cuando se trata de una tarea académica: en esos casos es necesario tener en cuenta las restricciones y estilos de código que los docentes hayan decidido adoptar en el curso que se está tomando, por lo que una resolución que no contemple estos detalles posiblemente no sea útil.
 <br />De todas formas, [esta guía]({% post_url 2019-06-14-corregir-errores %}){:target="_blank"} puede ayudarte para resolver problemas de código y [en esta publicación]({% post_url 2021-01-02-leer-mensajes-error %}){:target="_blank"} intento ayudar a investigar los errores en el código. También publiqué [este video](https://www.youtube.com/watch?v=5W14n0PjfyI){:target="_blank"} sobre cómo "debuggear" y [este otro](https://www.youtube.com/watch?v=ZJP0Z5-sbeY){:target="_blank"} sobre cómo probar una función. Y en la [página de enlaces](http://patriciaemiguel.com/enlaces/){:target="_blank"} podrás encontrar varias comunidades de programadores donde es posible hacer preguntas y recibir consejos.
   </div>
 <br />&nbsp;
@@ -268,7 +276,7 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 
 
 <details><summary id="cursos"><b> -¿Dictas cursos de programación u otros temas de informática?</b></summary>
-<div markdown="1">Por el momento, no. Aunque es algo que me han pedido mucho y es mi intención comenzar a hacer. Pero la organización y preparación de un curso es algo que debe hacerse con tiempo y cuidado, además de buscar la mejor modalidad para que todos los estudiantes puedan sacar el máximo provecho. En cuanto tenga novedades al respecto, estaré publicándolo en las cuentas de Programación Desde Cero en las redes sociales.
+<div markdown="1">Actualmente creo productos educativos digitales. Mi primer libro, "24 días, 24 desafíos de código", ya está disponible. Para futuras novedades sobre cursos y nuevos materiales, suscribite a mi [lista de email](https://programaciondesdecero.eo.page/lista).
   </div>
 <br />&nbsp;
 </details>
@@ -286,8 +294,8 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 </details>
 
 
-<details><summary id="estudios-universitarios"><b> -¿Qué estudios universitarios cursaste?</b></summary>
-<div markdown="1">Después de graduarme en la facultad de ciencias jurídicas de la [UNLP](http://www.jursoc.unlp.edu.ar){:target="_blank"} y descubrir que no era lo mío, volví a la universidad para estudiar informática en la [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}. Comencé por obtener dos títulos intermedios ("Programador Universitario" y "Analista de Sistemas") y continué estudiando para llegar al título de grado de Licenciatura en Sistemas.
+<details><summary id="estudios-universitarios"><b> -¿Qué estudios universitarios tenés?</b></summary>
+<div markdown="1">Después de graduarme como abogada y escribana en la facultad de ciencias jurídicas de la [UNLP](http://www.jursoc.unlp.edu.ar){:target="_blank"} y descubrir que no era lo mío, volví a la universidad para estudiar informática en la [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}. Comencé por obtener dos títulos intermedios ("Programador Universitario" y "Analista de Sistemas") y continué estudiando para llegar al título de grado de Licenciatura en Sistemas.
   </div>
 <br />&nbsp;
 </details>
@@ -301,8 +309,8 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 </details>
 
 
-<details><summary id="experiencia-laboral"><b> -¿En qué trabajás?</b></summary>
-<div markdown="1">Actualmente soy desarrolladora de software. Previamente, durante 11 años me dediqué a QA ("Quality Assurance") de software y durante 10 años di clases de programación en la universidad de mi ciudad.
+<details><summary id="experiencia-laboral"><b> -¿A qué te dedicás?</b></summary>
+<div markdown="1">Actualmente me dedico "full-time" a la educación, creando contenidos sobre programación. En 2011 empecé a trabajar en proyectos comerciales de software, donde primero fui QA y luego desarrolladora backend. Y durante 10 años di clases de programación en dos materias de la universidad donde estudié.
   </div>
 <br />&nbsp;
 </details>
@@ -313,7 +321,9 @@ Y, fuera de lo que es la programación concretamente, también hay varios libros
 
 Antes que nada, muchas gracias por el aprecio. ❤️
 
-La mayoría de los contenidos que publico son gratuitos pero, si te resultan útiles y quisieras brindar tu apoyo, podrías  [<b>invitarme un "cafecito"</b>](https://cafecito.app/programaciondesde0){:target="_blank"} (Mercadopago/Bitcoin), o también hacerlo mediante [<b>Paypal</b>](https://www.paypal.com/donate/?hosted_button_id=NVEMP8C2B7238){:target="_blank"}.
+**La mejor forma de apoyarme es adquiriendo mis productos educativos**, como mi libro ["24 días, 24 desafíos de código"](/libro24desafios/), donde concentro años de experiencia docente en material de alta calidad.
+
+También he publicado (y sigo publicando) cientos de contenidos educativos gratuitos en redes sociales y en este blog. Si te resultan útiles y querés brindar tu apoyo, podés [<b>invitarme un "cafecito"</b>](https://cafecito.app/programaciondesde0){:target="_blank"} (Mercadopago/Bitcoin), o hacerlo mediante [<b>Paypal</b>](https://www.paypal.com/donate/?hosted_button_id=NVEMP8C2B7238){:target="_blank"}.
 
 ---
 
