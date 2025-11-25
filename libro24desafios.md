@@ -77,7 +77,7 @@ PDF descargable. Más de 200 páginas por edición.
 **¿En qué lenguaje de programación está?**  
 Hay 4 ediciones diferentes, para que elijas el lenguaje que prefieras: Python, Java, C# o Multilenguaje (los 3 lenguajes juntos).
 
-Los desafíos y explicaciones son iguales para todas las ediciones. Además, todos los algoritmos están en pseudocódigo. Solo las soluciones definitivas están implementadas en el lenguaje elegido.
+Los desafíos y explicaciones son iguales para todas las ediciones y todos los algoritmos están en pseudocódigo. Solo las soluciones definitivas varían, mostrándose implementadas en el lenguaje elegido.
 
 **¿Puedo imprimir el libro?**  
 Sí. Una vez comprado, el PDF es tuyo para uso personal.
