@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¡Mi nuevo libro ya está disponible!
+title: 24 Desafíos de Código - El libro
 permalink: /libro24desafios/
 ---
 
@@ -12,7 +12,7 @@ permalink: /libro24desafios/
 
 &nbsp;
 
-Desde que era profe en la universidad quise escribir un libro que ayudara a los estudiantes a no caer en la confusión de no saber por dónde seguir, y que puedan crear algoritmos de forma profesional, para que apunten a **ser los mejores** desde el principio.
+Después de 10 años enseñando programación en la universidad y crear contenido para más de 34.000 suscriptores en YouTube, este es el libro que siempre quise escribir.
 
 Este libro busca que **no pierdas tiempo y avances rápidamente**.
 
@@ -24,7 +24,7 @@ Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son
 
 ## 👉 **[Ir al libro](https://payhip.com/b/WSi0z)**
 
-<span style="color:orange;">**Precio de lanzamiento:** 35% de descuento hasta diciembre.</span>
+<span style="color:orange;">**Precio de lanzamiento:** 35% de descuento hasta el 24 de diciembre.</span>
 
 Este enlace acepta pagos PayPal, tarjeta de débito y de crédito.
 
@@ -34,12 +34,11 @@ Este enlace acepta pagos PayPal, tarjeta de débito y de crédito.
 
 ---
 
-👉 [Descargar muestra del libro]({{ site.url }}/assets/24Dias24DesafiosDeCodigo_preview.pdf)
+👉 [**Descargar muestra**]({{ site.url }}/assets/24Dias24DesafiosDeCodigo_preview.pdf)
 
-(La muestra solo contiene el índice, introducción y parte del primer desafío).
+(La muestra contiene el índice, introducción y parte del primer desafío).
 
 ---
-&nbsp;
 &nbsp;
 
 Este no es un simple "libro de ejercicios". Es tu "mapa de ruta" en español, con análisis paso a paso, pruebas, estrategias algorítmicas y cómo mejorarlas y técnicas que vas a poder trasladar a otros problemas, enfocado en **principiantes que quieren avanzar rápido**.
@@ -51,6 +50,19 @@ Este no es un simple "libro de ejercicios". Es tu "mapa de ruta" en español, co
 - **Casos de prueba**: código listo para ejecutar y verificar
 - **Patrones reutilizables**: aprendés estrategias que aplicás en problemas reales
 - **Narrativa realista**: ejercicios con contexto del mundo real
+
+&nbsp;
+&nbsp;
+
+### Es el momento de mejorar tus algoritmos
+
+Este libro no va a enseñarte trucos. Te va a enseñar a PENSAR como piensan los programadores profesionales.
+
+**👉 [Comprar ahora](https://payhip.com/b/WSi0z) - Descuento del 35% hasta el 24/12**
+
+&nbsp;
+
+---
 
 &nbsp;
 
@@ -73,11 +85,14 @@ Sí. Una vez comprado, el PDF es tuyo para uso personal.
 **¿Hay actualizaciones?**  
 Esta es la primera edición. Futuras actualizaciones serán gratuitas para compradores (¡asegurate de [suscribirte a la lista de email](https://programaciondesdecero.eo.page/lista){:target="_blank"}!).
 
+**Política de devoluciones**
+Debido a la naturaleza digital del producto, no se aceptan devoluciones una vez descargado el archivo, excepto en caso de defecto técnico grave (archivo corrupto, contenido significativamente diferente al descrito en la página de venta). De existir problemas técnicos, contactame dentro de las 48 horas posteriores a la compra.
+
 &nbsp;
 
 ---
 
-&nbsp;
+
 
 **👉 [Comprar ahora en Payhip](https://payhip.com/b/WSi0z)**
 
