@@ -5,28 +5,28 @@
     "description": "Canal de Youtube"
   },
   {
-    "icon": "fa-twitter",
-    "link": "https://twitter.com/Programacion_0",
-    "description": "Perfil en Twitter"
+    "icon": "fa-github",
+    "link": "https://github.com/programacion-desde-cero",
+    "description": "Repositorios en Github"
   },
   {
-    "icon": "fa-facebook",
-    "link": "https://www.facebook.com/ProgramacionDesdeCer0",
-    "description": "Página de Facebook"
+    "icon": "fa-twitter",
+    "link": "https://x.com/Programacion_0",
+    "description": "Perfil en X"
   },
-    {
+  {
     "icon": "fa-instagram",
     "link": "https://www.instagram.com/ProgramacionDesdeCero/",
     "description": "Perfil en Instagram"
   },
   {
-    "icon": "fa-pinterest",
-    "link": "https://www.pinterest.com/ProgramacionDesdeCero/",
-    "description": "Perfil en Pinterest"
+    "icon": "fa-tiktok",
+    "link": "https://www.tiktok.com/@programaciondesdecero",
+    "description": "Perfil en TikTok"
   },
   {
-    "icon": "fa-github",
-    "link": "https://github.com/programacion-desde-cero",
-    "description": "Repositorios en Github"
+    "icon": "fa-facebook",
+    "link": "https://www.facebook.com/ProgramacionDesdeCer0",
+    "description": "Página de Facebook"
   }
 ]
