@@ -182,11 +182,11 @@ table {
   background-color: var(--dark-link) !important;
 }
 
-.sidebar-module.sidebar-social-icons .fa {
+.sidebar-module.sidebar-social-icons i {
   color: rgba(255, 255, 255, 0.9) !important;
 }
 
-.sidebar-module.sidebar-social-icons a:hover .fa {
+.sidebar-module.sidebar-social-icons a:hover i {
   color: white !important;
   opacity: 1 !important;
 }
