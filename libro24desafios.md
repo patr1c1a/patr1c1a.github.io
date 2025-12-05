@@ -72,7 +72,7 @@ Este libro no va a enseñarte trucos. Te va a enseñar a PENSAR como piensan los
 No. Si entendés bucles, funciones y estructuras de datos básicas (arreglos, conjuntos, diccionarios), es suficiente. Mi [curso de programación desde cero](https://www.youtube.com/playlist?list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb){:target="_blank"} es el punto de partida perfecto.
 
 **¿En qué formato viene?**  
-PDF descargable. Más de 200 páginas por edición.
+PDF descargable. Más de 290 páginas por edición.
 
 **¿En qué lenguaje de programación está?**  
 Hay 4 ediciones diferentes, para que elijas el lenguaje que prefieras: Python, Java, C# o Multilenguaje (los 3 lenguajes juntos).
