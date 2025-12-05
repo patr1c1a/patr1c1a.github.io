@@ -8,7 +8,7 @@ permalink: /libro24desafios/
 
 &nbsp;
 
-![Portada del libro (edición multilenguaje)]({{ site.url }}/assets/libro_24desafios_portada.png)
+[![Portada del libro (edición multilenguaje)]({{ site.url }}/assets/libro_24desafios_portada.png)](https://payhip.com/b/WSi0z){:target="_blank"}
 
 &nbsp;
 
