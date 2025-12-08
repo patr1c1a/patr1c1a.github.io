@@ -16,7 +16,7 @@ Tu pago fue procesado correctamente.
 
 **Recibirás tu producto en las próximas 24 horas hábiles** al email que proporcionaste.
 
-Si realizaste tu compra a través de **MercadoPago**, por favor enviame un email a **[tu email]** con:
+Si realizaste tu compra a través de **MercadoPago**, por favor enviame un email a **[programaciondesdecero@patriciaemiguel.com](mailto:programaciondesdecero@patriciaemiguel.com)** con:
 - Comprobante de pago (captura o PDF)
 - Nombre y apellido completos
 - Email para personalizar tu producto
@@ -32,8 +32,8 @@ Explorá más contenido gratuito en el [canal de YouTube](https://www.youtube.co
 &nbsp;
 ---
 
-&nbsp;
-
 ¿Algún problema con tu compra? Escribime a [programaciondesdecero@patriciaemiguel.com](mailto:programaciondesdecero@patriciaemiguel.com)
+
+&nbsp;
 
 ¡GRACIAS!
