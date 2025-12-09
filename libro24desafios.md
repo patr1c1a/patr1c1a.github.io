@@ -66,6 +66,8 @@ Del 1 al 24 de diciembre publico un ejercicio del libro por día en redes social
 Con el libro tenés todo resuelto desde el día 1. Seguí el hashtag #24DesafiosDeAdviento si querés participar.
 
 ---
+
+&nbsp;
  
 ### 👉 Comprar ahora - 35% OFF hasta 24/12
 
