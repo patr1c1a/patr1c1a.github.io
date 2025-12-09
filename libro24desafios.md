@@ -12,53 +12,64 @@ permalink: /libro24desafios/
 
 &nbsp;
 
-Después de 10 años enseñando programación en la universidad y crear contenido para más de 34.000 suscriptores en YouTube, este es el libro que siempre quise escribir.
+Después de 10 años enseñando programación en la universidad, este es el libro que siempre quise escribir: el camino más corto para que no pierdas tiempo.
 
-Este libro busca que **no pierdas tiempo y avances rápidamente**.
+Muchas personas me dicen que ya saben lo básico pero no saben **por dónde seguir**. Se ponen a aprender más lenguajes, más frameworks, más tecnologías. Las tecnologías pasan de moda. El resultado: **pierden meses**.
 
-Muchas personas me dicen que ya saben lo básico pero no saben **por dónde seguir**. Y se ponen a aprender más lenguajes, más frameworks, más tecnologías. Después las tecnologías pasan de moda, o se dan cuenta de que aprendiendo una fácilmente se puede migrar a otras similares. ¿El resultado? Perdieron tiempo. Y en esta industria **el tiempo es oro**.
+Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son deficientes, no importa en qué lenguaje los escribas. Las entrevistas técnicas buscan gente que sepa razonar y explicar por qué usa cierta estructura y no otra.
 
-Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son deficientes, no importa en qué lenguaje los escribas o cuántos frameworks les pongas encima. Las entrevistas de trabajo se están centrando en eso: buscan gente que sepa razonar y explicar por qué usa cierta estructura y no otra.
+Este libro te da exactamente eso: **24 ejercicios estratégicos con todo el razonamiento explicado paso a paso**.
 
 &nbsp;
 
-## 👉 **[Ir al libro](https://payhip.com/b/WSi0z)**
+## 👉 **[Comprar ahora en Payhip](https://payhip.com/b/WSi0z)**
 
 <span style="color:orange;">**Precio de lanzamiento:** 35% de descuento hasta el 24 de diciembre.</span>
 
-Este enlace acepta pagos PayPal, tarjeta de débito y de crédito.
+Acepta PayPal, tarjeta de débito y de crédito.
 
-→ Si necesitas pagar con **MercadoPago**, contactame a <programaciondesdecero@patriciaemiguel.com> y te genero un enlace personalizado.
+→ Si necesitas pagar con **MercadoPago**, contactame a <programaciondesdecero@patriciaemiguel.com> y te genero un link de pago.
 
 &nbsp;
 
 ---
 
-👉 [**Descargar muestra**]({{ site.url }}/assets/24Dias24DesafiosDeCodigo_preview.pdf)
+👉 [**Descargar muestra gratis**]({{ site.url }}/assets/24Dias24DesafiosDeCodigo_vistaPrevia.pdf)
 
-(La muestra contiene el índice, introducción y parte del primer desafío).
+(Índice completo + introducción + primer desafío + parte del segundo desafío)
 
 ---
 &nbsp;
 
-Este no es un simple "libro de ejercicios". Es tu "mapa de ruta" en español, con análisis paso a paso, pruebas, estrategias algorítmicas y cómo mejorarlas y técnicas que vas a poder trasladar a otros problemas, enfocado en **principiantes que quieren avanzar rápido**.
+Qué hace diferente a este libro
 
-### Lo que hace diferente a este libro
+✅ **Proceso completo:** desde la solución básica hasta la profesional
 
-- **No son solo respuestas**: cada ejercicio muestra múltiples intentos de solución
-- **Proceso completo**: desde el enfoque inicial hasta el eficiente
-- **Casos de prueba**: código listo para ejecutar y verificar
-- **Patrones reutilizables**: aprendés estrategias que aplicás en problemas reales
-- **Narrativa realista**: ejercicios con contexto del mundo real
+✅ **Razonamiento explícito:** por qué una solución es mejor que otra
+
+✅ **Código ejecutable:** repositorio incluido con todas las implementaciones validadas
+
+✅ **Casos de prueba:** para verificar cada solución
+
+✅ **Patrones reutilizables:** estrategias que aplicás a problemas reales
+
+No son solo respuestas. Es **cómo PENSAR los problemas**.
 
 &nbsp;
-&nbsp;
 
-### Es el momento de mejorar tus algoritmos
+---
 
-Este libro no va a enseñarte trucos. Te va a enseñar a PENSAR como piensan los programadores profesionales.
+### 🎄 24 Desafíos de Adviento
 
-**👉 [Comprar ahora](https://payhip.com/b/WSi0z) - Descuento del 35% hasta el 24/12**
+Del 1 al 24 de diciembre publico un ejercicio del libro por día en redes sociales.
+
+Con el libro tenés todo resuelto desde el día 1. Seguí el hashtag #24DesafiosDeAdviento si querés participar.
+
+---
+ 
+### 👉 Comprar ahora - 35% OFF hasta 24/12
+
+11 USD (edición de un lenguaje) / 20 USD (edición multilenguaje)
 
 &nbsp;
 
@@ -69,44 +80,22 @@ Este libro no va a enseñarte trucos. Te va a enseñar a PENSAR como piensan los
 ### Preguntas frecuentes
 
 **¿Necesito conocimientos avanzados?**  
-No. Si entendés bucles, funciones y estructuras de datos básicas (arreglos, conjuntos, diccionarios), es suficiente. Mi [curso de programación desde cero](https://www.youtube.com/playlist?list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb){:target="_blank"} es el punto de partida perfecto.
+No. Con bucles, funciones y estructuras básicas (arreglos, conjuntos, diccionarios) alcanza. Mi [curso de programación desde cero](https://www.youtube.com/playlist?list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb){:target="_blank"} es el punto de partida ideal.
 
 **¿En qué formato viene?**  
-PDF descargable. Más de 290 páginas por edición.
+PDF descargable (290+ páginas por edición) + repositorio de código ejecutable.
 
-**¿En qué lenguaje de programación está?**  
-Hay 4 ediciones diferentes, para que elijas el lenguaje que prefieras: Python, Java, C# o Multilenguaje (los 3 lenguajes juntos).
-
-Los desafíos y explicaciones son iguales para todas las ediciones y todos los algoritmos están en pseudocódigo. Solo las soluciones definitivas varían, mostrándose implementadas en el lenguaje elegido.
+**¿Qué lenguajes incluye?**  
+Hay 4 ediciones: Python, Java, C# o Multilenguaje (los 3 juntos). Los desafíos y explicaciones son idénticos, solo cambian las implementaciones finales.
 
 **¿Puedo imprimir el libro?**  
-Sí. Una vez comprado, el PDF es tuyo para uso personal.
+Sí. Una vez comprado es tuyo para uso personal.
 
-**¿Hay actualizaciones?**  
-Esta es la primera edición. Futuras actualizaciones serán gratuitas para compradores (¡asegurate de [suscribirte a la lista de email](https://programaciondesdecero.eo.page/lista){:target="_blank"}!).
+**¿Hay actualizaciones futuras?**  
+Sí. Correcciones de erratas, mejoras de formato y aclaraciones son gratuitas para compradores. [Suscribite a la lista](https://programaciondesdecero.eo.page/lista){:target="_blank"} para recibir notificaciones.
 
-**Política de devoluciones**
-Debido a la naturaleza digital del producto, no se aceptan devoluciones una vez descargado el archivo, excepto en caso de defecto técnico grave (archivo corrupto, contenido significativamente diferente al descrito en la página de venta). De existir problemas técnicos, contactame dentro de las 48 horas posteriores a la compra.
-
-&nbsp;
-
----
-
-**👉 [Comprar ahora en Payhip](https://payhip.com/b/WSi0z)**
-
-Precio lanzamiento durante el evento de Adviento:
-
-11 USD (edición de un lenguaje) / 20 USD (edición multilenguaje).
-
----
-
-&nbsp;
-
-### 🎄 24 Desafíos de Adviento
-
-Del 1 al 24 de diciembre voy a publicar un ejercicio del libro por día en mis redes sociales para que puedas intentar resolverlos.
-
-Seguí el desafío con el hashtag **#24DesafiosDeAdviento**
+**Política de devoluciones**  
+No se aceptan devoluciones una vez descargado, excepto por defecto técnico grave (archivo corrupto, contenido diferente al descripto). Contactame dentro de las 48hs posteriores a la compra si hay problemas.
 
 &nbsp;
 &nbsp;
