@@ -12,23 +12,28 @@ permalink: /libro24desafios/
 
 &nbsp;
 
-Después de 10 años enseñando programación en la universidad, este es el libro que siempre quise escribir: el camino más corto para que no pierdas tiempo.
+Este libro busca que **no pierdas tiempo y avances rápidamente**.
 
-Muchas personas me dicen que ya saben lo básico pero no saben **por dónde seguir**. Se ponen a aprender más lenguajes, más frameworks, más tecnologías. Las tecnologías pasan de moda. El resultado: **pierden meses**.
+Mis 10 años enseñando programación en la universidad y mis años creando contenido gratuito para más de 34.000 suscriptores en YouTube me confirman que es lo que necesita quien quiere dar el siguiente paso como programador.
 
-Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son deficientes, no importa en qué lenguaje los escribas. Las entrevistas técnicas buscan gente que sepa razonar y explicar por qué usa cierta estructura y no otra.
+Muchas personas me dicen que ya saben lo básico pero no **por dónde seguir**. Y se ponen a aprender más lenguajes, más frameworks, más tecnologías. Después las tecnologías pasan de moda, o se dan cuenta de que aprendiendo una fácilmente se puede migrar a otras similares. ¿El resultado? Perdieron tiempo. Y en esta industria **el tiempo es oro**.
 
-Este libro te da exactamente eso: **24 ejercicios estratégicos con todo el razonamiento explicado paso a paso**.
+Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son deficientes, no importa en qué lenguaje los escribas o cuántos frameworks les pongas encima. Las entrevistas de trabajo se están centrando en eso: buscan gente que sepa razonar y explicar por qué usa cierta estrategia y no otra.
 
 &nbsp;
 
-## 👉 **[Comprar ahora en Payhip](https://payhip.com/b/WSi0z)**
+## 👉 **[Ir al libro](https://payhip.com/b/WSi0z)**
 
 <span style="color:orange;">**Precio de lanzamiento:** 35% de descuento hasta el 24 de diciembre.</span>
 
-Acepta PayPal, tarjeta de débito y de crédito.
+Este enlace acepta pagos PayPal, tarjeta de débito y de crédito.
 
-→ Si necesitas pagar con **MercadoPago**, contactame a <programaciondesdecero@patriciaemiguel.com> y te genero un link de pago.
+→ [Si necesitas pagar con **MercadoPago**, usa este link de pago: https://mpago.la/2aPAg3Q](https://mpago.la/2aPAg3Q){:target="_blank"}
+
+- El proceso con MercadoPago es manual: te enviaré el libro con tu nombre y email dentro de las 24 horas.
+- El precio en pesos argentinos se actualiza según el tipo de cambio oficial (BNA).
+
+Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com> y te genero un enlace personalizado.
 
 &nbsp;
 
