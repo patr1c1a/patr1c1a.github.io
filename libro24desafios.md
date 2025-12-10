@@ -16,20 +16,27 @@ Este libro busca que **no pierdas tiempo y avances rápidamente**.
 
 &nbsp;
 
-<span style="color:orange;">**Precio de lanzamiento:** 35% de descuento hasta el 24 de diciembre.</span>
+### <span style="color: orange; font-weight: bold;">Precio de lanzamiento: 35% de descuento hasta el 24 de diciembre.</span>
 
 &nbsp;
 
-## 👉 **[Ir al libro](https://payhip.com/b/WSi0z)**
+## 👉 **[Comprar el libro](https://payhip.com/b/WSi0z)**
 
 Medios de pago: PayPal, tarjeta de débito y de crédito.
 
-→ [Click acá para pagar con **MercadoPago**](https://mpago.la/2aPAg3Q){:target="_blank"}
+O:
+
+## 👉 [**Pagar con MercadoPago**](https://mpago.la/2aPAg3Q){:target="_blank"}
+
 
 - El proceso con MercadoPago es manual: te enviaré el libro con tu nombre y email dentro de las 24 horas.
 - El precio en pesos argentinos se actualiza según el tipo de cambio oficial (BNA).
 
-Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com> y te genero un enlace personalizado.
+Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com>.
+
+&nbsp;
+
+---
 
 &nbsp;
 
