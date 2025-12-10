@@ -14,6 +14,12 @@ permalink: /libro24desafios/
 
 Este libro busca que **no pierdas tiempo y avances rápidamente**.
 
+&nbsp;
+
+<span style="color:orange;">**Precio de lanzamiento:** 35% de descuento hasta el 24 de diciembre.</span>
+
+&nbsp;
+
 Mis 10 años enseñando programación en la universidad y mis años creando contenido gratuito para más de 34.000 suscriptores en YouTube me confirman que es lo que necesita quien quiere dar el siguiente paso como programador.
 
 Muchas personas me dicen que ya saben lo básico pero no **por dónde seguir**. Y se ponen a aprender más lenguajes, más frameworks, más tecnologías. Después las tecnologías pasan de moda, o se dan cuenta de que aprendiendo una fácilmente se puede migrar a otras similares. ¿El resultado? Perdieron tiempo. Y en esta industria **el tiempo es oro**.
@@ -24,11 +30,9 @@ Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son
 
 ## 👉 **[Ir al libro](https://payhip.com/b/WSi0z)**
 
-<span style="color:orange;">**Precio de lanzamiento:** 35% de descuento hasta el 24 de diciembre.</span>
+Medios de pago: PayPal, tarjeta de débito y de crédito.
 
-Este enlace acepta pagos PayPal, tarjeta de débito y de crédito.
-
-→ [Si necesitas pagar con **MercadoPago**, usa este link de pago: https://mpago.la/2aPAg3Q](https://mpago.la/2aPAg3Q){:target="_blank"}
+→ [Click acá para pagar con **MercadoPago**](https://mpago.la/2aPAg3Q){:target="_blank"}
 
 - El proceso con MercadoPago es manual: te enviaré el libro con tu nombre y email dentro de las 24 horas.
 - El precio en pesos argentinos se actualiza según el tipo de cambio oficial (BNA).
