@@ -20,14 +20,6 @@ Este libro busca que **no pierdas tiempo y avances rápidamente**.
 
 &nbsp;
 
-Mis 10 años enseñando programación en la universidad y mis años creando contenido gratuito para más de 34.000 suscriptores en YouTube me confirman que es lo que necesita quien quiere dar el siguiente paso como programador.
-
-Muchas personas me dicen que ya saben lo básico pero no **por dónde seguir**. Y se ponen a aprender más lenguajes, más frameworks, más tecnologías. Después las tecnologías pasan de moda, o se dan cuenta de que aprendiendo una fácilmente se puede migrar a otras similares. ¿El resultado? Perdieron tiempo. Y en esta industria **el tiempo es oro**.
-
-Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son deficientes, no importa en qué lenguaje los escribas o cuántos frameworks les pongas encima. Las entrevistas de trabajo se están centrando en eso: buscan gente que sepa razonar y explicar por qué usa cierta estrategia y no otra.
-
-&nbsp;
-
 ## 👉 **[Ir al libro](https://payhip.com/b/WSi0z)**
 
 Medios de pago: PayPal, tarjeta de débito y de crédito.
@@ -40,6 +32,12 @@ Medios de pago: PayPal, tarjeta de débito y de crédito.
 Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com> y te genero un enlace personalizado.
 
 &nbsp;
+
+Mis 10 años enseñando programación en la universidad y mis años creando contenido gratuito para más de 34.000 suscriptores en YouTube me confirman que es lo que necesita quien quiere dar el siguiente paso como programador.
+
+Muchas personas me dicen que ya saben lo básico pero no **por dónde seguir**. Y se ponen a aprender más lenguajes, más frameworks, más tecnologías. Después las tecnologías pasan de moda, o se dan cuenta de que aprendiendo una fácilmente se puede migrar a otras similares. ¿El resultado? Perdieron tiempo. Y en esta industria **el tiempo es oro**.
+
+Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son deficientes, no importa en qué lenguaje los escribas o cuántos frameworks les pongas encima. Las entrevistas de trabajo se están centrando en eso: buscan gente que sepa razonar y explicar por qué usa cierta estrategia y no otra.
 
 ---
 
