@@ -16,7 +16,7 @@ permalink: /libro24desafios/
 
 ### <span style="color: orange; font-weight: bold;">35% OFF hasta 24/12</span>
 
-**$11 USD** (edición individual) | **$20 USD** (edición multilenguaje)
+**$11 USD** (edición individual) / **$20 USD** (edición multilenguaje)
 
 &nbsp;
 
@@ -57,7 +57,7 @@ Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com>.
 
 &nbsp;
 
-**Este libro te lleva al siguiente nivel como programador:**
+### Este libro te lleva al siguiente nivel como programador
 
 ❌ Las plataformas en inglés no explican el proceso
 
@@ -81,11 +81,15 @@ Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com>.
 - **Casos de prueba:** Para verificar cada solución  
 - **Patrones reutilizables:** Estrategias aplicables a problemas reales  
 
+&nbsp;
+
 No son solo respuestas. Es cómo **PENSAR** los problemas.
 
 ---
 
 ## Qué incluye tu compra
+
+&nbsp;
 
 📘 **PDF descargable**
 
@@ -131,7 +135,7 @@ Muchas personas me dicen que ya saben lo básico pero no **por dónde seguir**. 
 
 ### 🎄 "Calendario de Adviento"
 
-Te ayudo a ir a ritmo: del 1 al 24 de diciembre publico un ejercicio del libro por día en redes sociales, con el hashtag #24DesafiosDeAdviento.
+Te ayudo a ir a ritmo: del 1 al 24 de diciembre publico un ejercicio del libro por día en redes sociales, con el hashtag **#24DesafiosDeAdviento**.
 
 &nbsp;
 
