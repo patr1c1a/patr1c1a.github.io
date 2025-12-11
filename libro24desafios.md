@@ -12,22 +12,29 @@ permalink: /libro24desafios/
 
 &nbsp;
 
-Este libro busca que **no pierdas tiempo y avances rápidamente**.
+### 24 desafíos de código para pensar como programador profesional
+
+✓ Preparación para entrevistas técnicas
+✓ De la solución básica a la optimizada
+✓ Todo en español, con código ejecutable
 
 &nbsp;
 
-### <span style="color: orange; font-weight: bold;">Precio de lanzamiento: 35% de descuento hasta el 24 de diciembre.</span>
+---
 
 &nbsp;
 
-## 👉 **[Comprar el libro](https://payhip.com/b/WSi0z)**
+### <span style="color: orange; font-weight: bold;">35% OFF hasta 24/12.</span>
 
-Medios de pago: PayPal, tarjeta de débito y de crédito.
+&nbsp;
 
-O:
+## 👉 **[Comprar ahora](https://payhip.com/b/WSi0z)**
 
-## 👉 [**Pagar con MercadoPago**](https://mpago.la/2aPAg3Q){:target="_blank"}
+Con PayPal, tarjeta de débito o crédito.
 
+Otra opción:
+
+## 👉 [**Con MercadoPago**](https://mpago.la/2aPAg3Q){:target="_blank"}
 
 - El proceso con MercadoPago es manual: te enviaré el libro con tu nombre y email dentro de las 24 horas.
 - El precio en pesos argentinos se actualiza según el tipo de cambio oficial (BNA).
@@ -38,56 +45,33 @@ Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com>.
 
 ---
 
+👉 [**Ver muestra gratis**]({{ site.url }}/assets/24Dias24DesafiosDeCodigo_vistaPrevia.pdf)
+
+---
+
 &nbsp;
 
-Mis 10 años enseñando programación en la universidad y mis años creando contenido gratuito para más de 34.000 suscriptores en YouTube me confirman que es lo que necesita quien quiere dar el siguiente paso como programador.
+❌ Sabés lo básico pero no cómo optimizar
+❌ Las plataformas en inglés no explican el proceso
+❌ No sabés si tu solución es "profesional" o no
 
-Muchas personas me dicen que ya saben lo básico pero no **por dónde seguir**. Y se ponen a aprender más lenguajes, más frameworks, más tecnologías. Después las tecnologías pasan de moda, o se dan cuenta de que aprendiendo una fácilmente se puede migrar a otras similares. ¿El resultado? Perdieron tiempo. Y en esta industria **el tiempo es oro**.
+✅ 24 ejercicios con progresión clara
+✅ Explicaciones completas del razonamiento  
+✅ Análisis de complejidad para cada solución
+
+&nbsp;
+
+---
+
+Muchas personas me dicen que ya saben lo básico pero no **por dónde seguir**. Y se ponen a aprender más lenguajes, más frameworks, más tecnologías. Después las tecnologías pasan de moda, o se dan cuenta de que aprendiendo una fácilmente se puede migrar a otras similares. ¿El resultado? Perdieron tiempo. Por eso, este libro es **LA SOLUCIÓN para que pases al siguiente nivel**.
 
 Lo voy a repetir siempre: **lo importante son las bases**. Si tus algoritmos son deficientes, no importa en qué lenguaje los escribas o cuántos frameworks les pongas encima. Las entrevistas de trabajo se están centrando en eso: buscan gente que sepa razonar y explicar por qué usa cierta estrategia y no otra.
 
 ---
 
-👉 [**Descargar muestra gratis**]({{ site.url }}/assets/24Dias24DesafiosDeCodigo_vistaPrevia.pdf)
+### 🎄 "Calendario de Adviento"
 
-(Índice completo + introducción + primer desafío + parte del segundo desafío)
-
----
-&nbsp;
-
-Qué hace diferente a este libro
-
-✅ **Proceso completo:** desde la solución básica hasta la profesional
-
-✅ **Razonamiento explícito:** por qué una solución es mejor que otra
-
-✅ **Código ejecutable:** repositorio incluido con todas las implementaciones validadas
-
-✅ **Casos de prueba:** para verificar cada solución
-
-✅ **Patrones reutilizables:** estrategias que aplicás a problemas reales
-
-No son solo respuestas. Es **cómo PENSAR los problemas**.
-
-&nbsp;
-
----
-
-### 🎄 24 Desafíos de Adviento
-
-Del 1 al 24 de diciembre publico un ejercicio del libro por día en redes sociales.
-
-Con el libro tenés todo resuelto desde el día 1. Seguí el hashtag #24DesafiosDeAdviento si querés participar.
-
----
-
-&nbsp;
- 
-### 👉 Comprar ahora - 35% OFF hasta 24/12
-
-11 USD (edición de un lenguaje) / 20 USD (edición multilenguaje)
-
-&nbsp;
+Te ayudo a ir a ritmo: del 1 al 24 de diciembre publico un ejercicio del libro por día en redes sociales, con el hashtag #24DesafiosDeAdviento.
 
 ---
 
@@ -95,20 +79,14 @@ Con el libro tenés todo resuelto desde el día 1. Seguí el hashtag #24Desafios
 
 ### Preguntas frecuentes
 
-**¿Necesito conocimientos avanzados?**  
-No. Con bucles, funciones y estructuras básicas (arreglos, conjuntos, diccionarios) alcanza. Mi [curso de programación desde cero](https://www.youtube.com/playlist?list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb){:target="_blank"} es el punto de partida ideal.
+**¿Qué nivel necesito?**  
+Los de un curso básico: con bucles, funciones y estructuras básicas (arreglos, conjuntos, diccionarios) alcanza. Mi [curso de programación desde cero](https://www.youtube.com/playlist?list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb){:target="_blank"} es el punto de partida ideal.
 
-**¿En qué formato viene?**  
-PDF descargable (290+ páginas por edición) + repositorio de código ejecutable.
+**¿En qué formato viene?**
+PDF descargable (270+ páginas por edición) + repositorio de código ejecutable.
 
 **¿Qué lenguajes incluye?**  
 Hay 4 ediciones: Python, Java, C# o Multilenguaje (los 3 juntos). Los desafíos y explicaciones son idénticos, solo cambian las implementaciones finales.
-
-**¿Puedo imprimir el libro?**  
-Sí. Una vez comprado es tuyo para uso personal.
-
-**¿Hay actualizaciones futuras?**  
-Sí. Correcciones de erratas, mejoras de formato y aclaraciones son gratuitas para compradores. [Suscribite a la lista](https://programaciondesdecero.eo.page/lista){:target="_blank"} para recibir notificaciones.
 
 **Política de devoluciones**  
 No se aceptan devoluciones una vez descargado, excepto por defecto técnico grave (archivo corrupto, contenido diferente al descripto). Contactame dentro de las 48hs posteriores a la compra si hay problemas.
