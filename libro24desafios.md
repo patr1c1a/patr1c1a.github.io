@@ -148,7 +148,7 @@ Te ayudo a ir a ritmo: del 1 al 24 de diciembre publico un ejercicio del libro p
 **¿Qué nivel necesito?**  
 Los de un curso básico: con bucles, funciones y estructuras básicas (arreglos, conjuntos, diccionarios) alcanza. Mi [curso de programación desde cero](https://www.youtube.com/playlist?list=PLb_E6BNMg5j7-MJ0ctjvKQlv2PU7qbMDb){:target="_blank"} es el punto de partida ideal.
 
-**¿En qué formato viene?**
+**¿En qué formato viene?**  
 PDF descargable (270+ páginas por edición) + repositorio de código ejecutable.
 
 **¿Qué lenguajes incluye?**  
