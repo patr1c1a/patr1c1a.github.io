@@ -34,11 +34,11 @@ permalink: /libro24desafios/
 
 ## 👉 Comprar ahora
 
-### ▶ [OPCIÓN 1 → PayPal / Tarjeta de crédito-débito internacional](https://payhip.com/b/WSi0z){:target="_blank"}
+▶ [**OPCIÓN 1 → PayPal / Tarjeta de crédito-débito internacional**](https://payhip.com/b/WSi0z){:target="_blank"}
 
 - Entrega automática inmediata
 
-### ▶ [OPCIÓN 2 → MercadoPago](https://mpago.la/2aPAg3Q){:target="_blank"}
+▶ [**OPCIÓN 2 → MercadoPago**](https://mpago.la/2aPAg3Q){:target="_blank"}
 
 - El proceso con MercadoPago es manual: te enviaré el libro con tu nombre y email dentro de las 24 horas.
 - Precio expresado en pesos argentinos actualizado según tipo de cambio BNA.
@@ -51,7 +51,7 @@ Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com>.
 
 ---
 
-🎁 [**Obtener muestra gratis**]({{ site.url }}/assets/24Dias24DesafiosDeCodigo_vistaPrevia.pdf)
+### 🎁 [**Obtener muestra gratis**]({{ site.url }}/assets/24Dias24DesafiosDeCodigo_vistaPrevia.pdf)
 
 ---
 
@@ -60,11 +60,15 @@ Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com>.
 **Este libro te lleva al siguiente nivel como programador:**
 
 ❌ Las plataformas en inglés no explican el proceso
+
 ❌ Sabes lo básico pero no cómo optimizar
+
 ❌ No sabes si tu solución es "profesional" o no
 
 ✅ 24 ejercicios con progresión clara
+
 ✅ Explicaciones completas del razonamiento  
+
 ✅ Qué se aprende de cada desafío para aplicar en problemas reales
 
 &nbsp;
@@ -128,6 +132,8 @@ Muchas personas me dicen que ya saben lo básico pero no **por dónde seguir**. 
 ### 🎄 "Calendario de Adviento"
 
 Te ayudo a ir a ritmo: del 1 al 24 de diciembre publico un ejercicio del libro por día en redes sociales, con el hashtag #24DesafiosDeAdviento.
+
+&nbsp;
 
 ---
 
