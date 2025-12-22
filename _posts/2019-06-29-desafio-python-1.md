@@ -7,7 +7,7 @@ tags: strings
 published: true
 ---
 
-En la imagen se ven dos líneas con instrucciones. La primera asigna un string a una variable. ¿Qué hace la segunda? (no olvides que el símbolo *>>>* implica el uso del intérprete interactivo de Python, por lo que la ejecución de una operación mostrará inmediatamente su resultado).
+En la imagen se ven dos líneas con instrucciones. La primera asigna un string a una variable. ¿Qué hace la segunda? (no olvides que el símbolo `>>>` implica el uso del intérprete interactivo de Python, por lo que la ejecución de una operación mostrará inmediatamente su resultado).
 
 ▶️ [Para ver cómo hacer estas y otras operaciones con strings en Python, visitá este video](https://www.youtube.com/watch?v=xAigyL6Lz2s){:target="_blank"}
 
