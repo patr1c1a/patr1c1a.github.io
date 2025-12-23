@@ -14,7 +14,7 @@ permalink: /libro24desafios/
 
 &nbsp;
 
-### <span style="color: orange; font-weight: bold;">35% OFF hasta 24/12</span>
+### <span style="color: orange; font-weight: bold;">35% OFF hasta 31/12</span>
 
 **$11 USD** (edición individual) / **$20 USD** (edición multilenguaje)
 
