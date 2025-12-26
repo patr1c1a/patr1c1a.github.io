@@ -12,8 +12,8 @@ Sin ejecutar el código, ¿podrías decir qué instrucciones darían error y por
 <br />✅ La respuesta correcta es: líneas 6 y 10.
 <br />
 <br />✏️ Explicación:
-<br />La línea 6 arroja el error "variable x is already defined in method funcion()". Esto sucede porque existe una variable llamada x (con el valor 1) dentro del ámbito de la función y luego, dentro de un bloque comprendido en esa misma función, se intenta reusar el mismo nombre de variable.
-<br />La línea 10 arroja el error "cannot find symbol" debido a que la variable y (con el valor 3) solo existe dentro del bloque comprendido por las llaves de las líneas 5 y 8, lo que hace que no pueda accederse a ella desde fuera del ámbito de ese bloque.
+<br />La línea 6 arroja el error "_variable x is already defined in method funcion()_". Esto sucede porque existe una variable llamada `x` (con el valor 1) dentro del ámbito de la función y luego, dentro de un bloque comprendido en esa misma función, se intenta reusar el mismo nombre de variable.
+<br />La línea 10 arroja el error "_cannot find symbol_" debido a que la variable `y` (con el valor 3) solo existe dentro del bloque comprendido por las llaves de las líneas 5 y 8, lo que hace que no pueda accederse a ella desde fuera del ámbito de ese bloque.
 <br /><div markdown="1">💻 [Código ejecutable](https://jdoodle.com/a/6onl){:target="_blank"}
   </div>
 {% include codeEditor.html id="6onl?stdin=0&arg=0&rw=1" %}
