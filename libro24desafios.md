@@ -51,7 +51,7 @@ Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com>.
 
 ---
 
-### 🎁 [**Obtener muestra gratis**]({{ site.url }}/assets/24Dias24DesafiosDeCodigo_vistaPrevia.pdf)
+### 🎁 [**Obtener muestra gratis**](https://forms.gle/Ek6ZjaTX43YaPftc8)
 
 ---
 
