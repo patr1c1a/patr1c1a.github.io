@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 24 Desafíos de Código - El libro
+title: 24 Días, 24 Desafíos de Código - Libro digital
 permalink: /libro24desafios/
 ---
 
