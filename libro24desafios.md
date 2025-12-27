@@ -135,7 +135,7 @@ Muchas personas me dicen que ya saben lo básico pero no **por dónde seguir**. 
 
 ### 🎄 "Calendario de Adviento"
 
-Te ayudo a ir a ritmo: del 1 al 24 de diciembre publico un ejercicio del libro por día en redes sociales, con el hashtag **#24DesafiosDeAdviento**.
+Te ayudo a ir a ritmo: del 1 al 24 de diciembre publiqué un ejercicio del libro por día en redes sociales, con el hashtag **#24DesafiosDeAdviento**. Para que puedas ver de qué se trata e intentar resolver los desafíos por tu cuenta, con la guía de los videos (en el libro podrás tener el desarrollo completo de cada uno).
 
 &nbsp;
 
