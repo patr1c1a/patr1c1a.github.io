@@ -10,9 +10,14 @@ permalink: /libro24desafios/
 
 &nbsp;
 
-[![Portada del libro (edición multilenguaje)]({{ site.url }}/assets/libro_24desafios_portada.png)](https://payhip.com/b/WSi0z){:target="_blank"}
+[![Portada del libro (edición multilenguaje)]({{ site.url }}/assets/libro_24desafios_portada.png)](https://forms.gle/Ek6ZjaTX43YaPftc8){:target="_blank"}
 
 &nbsp;
+
+### 🎁 [**Descargar muestra gratis**](https://forms.gle/Ek6ZjaTX43YaPftc8)
+
+---
+
 
 ### <span style="color: orange; font-weight: bold;">35% OFF hasta 31/12</span>
 
@@ -48,10 +53,6 @@ permalink: /libro24desafios/
 Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com>.
 
 &nbsp;
-
----
-
-### 🎁 [**Obtener muestra gratis**](https://forms.gle/Ek6ZjaTX43YaPftc8)
 
 ---
 
