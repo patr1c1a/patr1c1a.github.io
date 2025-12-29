@@ -6,19 +6,15 @@ permalink: /libro24desafios/
 
 ## 24 días, 24 desafíos de código - Desde "mi código funciona" hasta la solución profesional
 
-### Preparación para entrevistas técnicas + optimización de algoritmos
+### 🎁 [**¡Descarga la muestra gratis para participar del sorteo!**](https://forms.gle/Ek6ZjaTX43YaPftc8)
+
+El ganador se anuncia el 6 de enero de 2026.
 
 &nbsp;
 
 [![Portada del libro (edición multilenguaje)]({{ site.url }}/assets/libro_24desafios_portada.png)](https://forms.gle/Ek6ZjaTX43YaPftc8){:target="_blank"}
 
 &nbsp;
-
-### 🎁 [**¡Descarga la muestra gratis para participar del sorteo!**](https://forms.gle/Ek6ZjaTX43YaPftc8)
-
-El ganador se anuncia el 6 de enero de 2026.
-
----
 
 ### <span style="color: orange; font-weight: bold;">35% OFF hasta 31/12</span>
 
