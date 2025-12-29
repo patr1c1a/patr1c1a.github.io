@@ -14,10 +14,11 @@ permalink: /libro24desafios/
 
 &nbsp;
 
-### 🎁 [**Descargar muestra gratis**](https://forms.gle/Ek6ZjaTX43YaPftc8)
+### 🎁 [**¡Descarga la muestra gratis para participar del sorteo!**](https://forms.gle/Ek6ZjaTX43YaPftc8)
+
+El ganador se anuncia el 6 de enero de 2026.
 
 ---
-
 
 ### <span style="color: orange; font-weight: bold;">35% OFF hasta 31/12</span>
 
