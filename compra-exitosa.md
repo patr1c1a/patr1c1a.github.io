@@ -17,13 +17,13 @@ Tu pago fue procesado correctamente.
 **Recibirás tu producto en las próximas 24 horas hábiles** al email que proporcionaste.
 
 Si realizaste tu compra a través de **MercadoPago**, por favor enviame un email a **[programaciondesdecero@patriciaemiguel.com](mailto:programaciondesdecero@patriciaemiguel.com)** con:
-- Comprobante de pago (captura o PDF)
+
+- Versión del libro que deseas: Python, C#, Java, Multilenguaje
 - Nombre y apellido completos
 - Email para personalizar tu producto
 
 &nbsp;
 &nbsp;
-
 
 ### Mientras esperás
 

@@ -16,9 +16,7 @@ El ganador se anuncia el 6 de enero de 2026.
 
 &nbsp;
 
-### <span style="color: orange; font-weight: bold;">35% OFF hasta 31/12</span>
-
-**$11 USD** (edición individual) / **$20 USD** (edición multilenguaje)
+**$17 USD** (edición individual) / **$30 USD** (edición multilenguaje)
 
 &nbsp;
 
@@ -40,9 +38,14 @@ El ganador se anuncia el 6 de enero de 2026.
 
 - Entrega automática inmediata
 
-▶ [**OPCIÓN 2 → MercadoPago**](https://mpago.la/2aPAg3Q){:target="_blank"}
+▶ **OPCIÓN 2 → MercadoPago**
+
+[Edición de un lenguaje (Python, Java, C#)](https://mpago.la/15XMoCK){:target="_blank"}
+
+[Edición multilenguaje (los 3: Python, Java, C#)](https://mpago.la/15zNXay){:target="_blank"}
 
 - El proceso con MercadoPago es manual: te enviaré el libro con tu nombre y email dentro de las 24 horas.
+- Debes confirmarme la variante que deseas.
 - Precio expresado en pesos argentinos actualizado según tipo de cambio BNA.
 
 &nbsp;
