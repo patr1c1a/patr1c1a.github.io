@@ -6,29 +6,17 @@ permalink: /libro24desafios/
 
 ## 24 días, 24 desafíos de código - Desde "mi código funciona" hasta la solución profesional
 
-### 🎁 [**¡Descarga la muestra gratis para participar del sorteo!**](https://forms.gle/Ek6ZjaTX43YaPftc8)
-
-El ganador se anuncia el 6 de enero de 2026.
-
 &nbsp;
 
-[![Portada del libro (edición multilenguaje)]({{ site.url }}/assets/libro_24desafios_portada.png)](https://forms.gle/Ek6ZjaTX43YaPftc8){:target="_blank"}
+[![Portada del libro (edición multilenguaje)]({{ site.url }}/assets/libro_24desafios_portada.png)](https://payhip.com/b/WSi0z){:target="_blank"}
 
 &nbsp;
 
 **$17 USD** (edición individual) / **$30 USD** (edición multilenguaje)
 
-&nbsp;
+---
 
-### 24 desafíos de código para pensar como programador profesional
-
-✓ Preparación para entrevistas técnicas
-
-✓ De la solución básica a la optimizada
-
-✓ Todo en español, con código ejecutable
-
-&nbsp;
+### 🎁 [**¡Descarga la muestra gratis!**](https://forms.gle/Ek6ZjaTX43YaPftc8)
 
 ---
 
@@ -51,6 +39,20 @@ El ganador se anuncia el 6 de enero de 2026.
 &nbsp;
 
 Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com>.
+
+&nbsp;
+
+---
+
+&nbsp;
+
+### 24 desafíos de código para pensar como programador profesional
+
+✓ Preparación para entrevistas técnicas
+
+✓ De la solución básica a la optimizada
+
+✓ Todo en español, con código ejecutable
 
 &nbsp;
 
