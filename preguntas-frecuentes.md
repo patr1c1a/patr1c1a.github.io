@@ -238,7 +238,7 @@ Y si ya conocés lo básico pero no sabés por dónde seguir para programar de f
 </details>
 
 <details><summary id="newsletter"><b> -¿Cómo puedo estar al tanto de nuevos contenidos y productos educativos?</b></summary>
-<div markdown="1">La mejor forma es suscribirte a mi [lista de email](https://programaciondesdecero.eo.page/lista), donde comparto novedades, nuevos materiales y lanzamientos antes que en ningún otro lado. También podés seguirme en [YouTube](https://www.youtube.com/c/ProgramacionDesdeCero){:target="_blank"}, [Instagram](https://www.instagram.com/programaciondesdecero/){:target="_blank"}, [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos){:target="_blank"}, [Twitter](https://twitter.com/Programacion_0){:target="_blank"} y [Pinterest](https://www.pinterest.com/ProgramacionDesdeCero/){:target="_blank"}.
+<div markdown="1">La mejor forma es suscribirte a mi [lista de email](https://programaciondesdecero.eo.page/lista), donde comparto novedades, nuevos materiales y lanzamientos antes que en ningún otro lado (solo cuando hay lanzamiento, así que no necesitás preocuparte por posible "spam"). También podés seguirme en [YouTube](https://www.youtube.com/c/ProgramacionDesdeCero){:target="_blank"}, [Instagram](https://www.instagram.com/programaciondesdecero/){:target="_blank"}, [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos){:target="_blank"}, [Twitter](https://twitter.com/Programacion_0){:target="_blank"}, [TikTok](https://www.tiktok.com/@programaciondesdecero){:target="_blank"} y [Pinterest](https://www.pinterest.com/ProgramacionDesdeCero/){:target="_blank"}, donde publico contenidos gratuitos todas las semanas.
 </div>
 <br />&nbsp;
 </details>
@@ -288,7 +288,7 @@ Y si ya conocés lo básico pero no sabés por dónde seguir para programar de f
 ### Sobre mí:
 
 <details><summary id="blog-y-canal"><b> -¿Quién crea este sitio web y el canal de Youtube?</b></summary>
-<div markdown="1">Me llamo Patricia Miguel y soy de Argentina.
+<div markdown="1">Me llamo Patricia E. Miguel y soy de Argentina.
   </div>
 <br />&nbsp;
 </details>
@@ -302,15 +302,16 @@ Y si ya conocés lo básico pero no sabés por dónde seguir para programar de f
 
 
 <details><summary id="experiencia-docente"><b> -¿Qué experiencia docente tenés?</b></summary>
-<div markdown="1">En 2010, siendo todavía estudiante en [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}, comencé allí mismo como ayudante de cátedra en dos materias del primer año de la universidad, comunes a distintas carreras de informática: "Introducción a la Programación Imperativa" y "Programación Imperativa". Durante 2011 también fui ayudante en el curso de ingreso para los alumnos que comenzaban a estudiar ese año. Continué en las dos materias mencionadas al principio hasta que, en 2014 empecé a trabajar oficialmente como docente, hasta 2019.
-  <br />Fuera del ámbito universitario, a principios de 2021 fui parte del equipo docente de un taller virtual del "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}".
+<div markdown="1">En 2010, siendo todavía estudiante en [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}, comencé como ayudante de cátedra en dos materias de las carreras de informática en esa universidad: "Introducción a la Programación Imperativa" y "Programación Imperativa", donde eneseñaba a programar con Python y C++ (aunque inicialmente fue con Pascal). Durante un tiempo, también fui ayudante en el Curso de Ingreso para los alumnos que comenzaban a estudiar. Continué siendo ayudante en las dos materias mencionadas al principio hasta que empecé a trabajar oficialmente como docente, lo cual continué haciendo hasta 2019.
+<br />Desde ese momento, solo he enseñado de manera online.
+<br />Además, en 2021 fui mentora en de un taller virtual del "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}" y en 2026 de un equipo competidor en [Technovation Girls](https://technovationchallenge.org/){:target="_blank"}.
   </div>
 <br />&nbsp;
 </details>
 
 
-<details><summary id="experiencia-laboral"><b> -¿A qué te dedicás?</b></summary>
-<div markdown="1">Actualmente me dedico "full-time" a la educación, creando contenidos sobre programación. En 2011 empecé a trabajar en proyectos comerciales de software, donde primero fui QA y luego desarrolladora backend. Y durante 10 años di clases de programación en dos materias de la universidad donde estudié.
+<details><summary id="experiencia-laboral"><b> -¿Cuál es tu experiencia en el software?</b></summary>
+<div markdown="1">Además de mi carrera en educación (que comenté en la respuesta anterior), en 2011 empecé a trabajar en proyectos comerciales de software, donde primero fui QA y luego desarrolladora backend.
   </div>
 <br />&nbsp;
 </details>
