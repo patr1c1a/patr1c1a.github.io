@@ -331,4 +331,4 @@ También he publicado (y sigo publicando) cientos de contenidos educativos gratu
 &nbsp;
 &nbsp;
 
-[YouTube](https://www.youtube.com/c/Programaciondesdecero) · [Twitter](https://twitter.com/Programacion_0) · [Instagram](https://www.instagram.com/programaciondesdecero) · [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos) · [Pinterest](www.pinterest.com/ProgramacionDesdeCero) · [GitHub](https://github.com/programacion-desde-cero)
+[YouTube](https://www.youtube.com/c/Programaciondesdecero) · [Twitter](https://twitter.com/Programacion_0) · [Instagram](https://www.instagram.com/programaciondesdecero) · [Facebook](https://www.facebook.com/ProgramacionDesdeCeroParaTodos) · [TikTok](https://www.tiktok.com/@programaciondesdecero){:target="_blank"} · [Pinterest](www.pinterest.com/ProgramacionDesdeCero) · [GitHub](https://github.com/programacion-desde-cero)
