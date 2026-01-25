@@ -1,15 +1,15 @@
 ---
 layout: post
-title: La complejidad algorítmica
+title: Resumen de complejidad algorítmica
 date: 2019-09-04 21:00:00
 categories: conceptos
 tags: algoritmos complejidad bigO
 published: true
 ---
 
-Un breve resumen con algunos tipos de complejidad algorítmica comunes.
+Sabemos que un mismo problema podría resolverse con diferentes algoritmos, y la complejidad nos ayuda a evaluar la eficiencia de cada uno para optar por el mejor.
 
-Un problema podría resolverse con diferentes algoritmos y la complejidad nos ayuda a evaluar su eficiencia.
+Este resumen muestra los tipos más comunes de complejidad algorítmica respecto al tiempo.
 
 ![Complejidad algorítmica y "big O"]({{ site.url }}/assets/2019-09-04-complejidad-algoritmica-01.png)
 <br />
