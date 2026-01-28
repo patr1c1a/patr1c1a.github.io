@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video - El primer bug en informática
+title: El primer bug en informática
 date: 2025-09-16 16:00:00
 categories: otros
 tags: bug grace_hopper historia

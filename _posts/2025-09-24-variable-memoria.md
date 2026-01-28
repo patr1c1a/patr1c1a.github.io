@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video - ¿Por qué una variable no siempre es una "dirección de memoria"?
+title: ¿Por qué una variable no siempre es una "dirección de memoria"?
 date: 2025-09-24 16:00:00
 categories: conceptos
 tags: variables memoria
