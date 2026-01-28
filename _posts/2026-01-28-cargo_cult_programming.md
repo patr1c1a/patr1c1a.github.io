@@ -3,7 +3,7 @@ layout: post
 title: Cargo Cult Programming, cuidado al copiar código o patrones
 date: 2026-01-28 16:00:00
 categories: otros
-tags: patrones cargo_cult 
+tags: patrones cargo_cult programadores 
 published: true
 ---
 
