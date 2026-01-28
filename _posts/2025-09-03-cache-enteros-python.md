@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video - Array de pequeños enteros en Python
+title: Array de pequeños enteros en Python
 date: 2025-09-03 11:00:00
 categories: python
 tags: memoria cache
