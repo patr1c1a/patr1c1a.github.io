@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Este ejemplo de POO confunde a los principiantes
-date: 2026-02-04 16:00:00
+date: 2026-02-10 16:00:00
 categories: poo
 tags: clases instancias objetos
 published: true
@@ -17,4 +17,4 @@ En el video tomo un ejemplo muy común, lo bajo a una situación real y muestro 
 
 Si alguna vez sentiste que "en abstracto" lo entendés, pero en la práctica no, en el video te explico por qué.
 
-{% include youtubePlayer.html id="KQtyDnW1-wk" %}
+{% include youtubePlayer.html id="DTmuhiQFnJw" %}
