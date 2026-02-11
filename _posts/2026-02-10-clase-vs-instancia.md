@@ -3,7 +3,7 @@ layout: post
 title: Este ejemplo de POO confunde a los principiantes
 date: 2026-02-10 16:00:00
 categories: poo
-tags: clases instancias objetos
+tags: clases instancias objetos poo
 published: true
 ---
 
