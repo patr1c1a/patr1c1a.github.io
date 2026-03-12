@@ -25,8 +25,7 @@ Analizando la función dada, ¿qué características debe tener el argumento par
 
 ![Desafío C# 1]({{ site.url }}/assets/2019-09-15-desafio-csharp-1.png)
 
-<hr />
-### Versión accesible (apta para lectores electrónicos):
+{% include accesibilidad.html %}
 
 Dada la siguiente función en C#:
 
@@ -52,3 +51,6 @@ Dar un ejemplo de un string que podría usarse como argumento en la llamada a es
 string cadena="aquí la cadena a usar";
 Console.WriteLine(f(cadena));
 ```
+
+</div></details>
+---
