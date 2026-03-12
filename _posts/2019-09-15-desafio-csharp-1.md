@@ -11,11 +11,11 @@ Analizando la función dada, ¿qué características debe tener el argumento par
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />
-<br />La función retorna true si la cadena es un palíndromo o vacía, considerando mayúsculas y minúsculas y también espacios, pero exceptuando acentos y signos gramaticales. Con cualquier palíndromo que cumpla estas condiciones retornará true.
+<br />La función retorna true si la cadena es un palíndromo o vacía, ignorando mayúsculas y minúsculas y también espacios (pero no los símbolos, letras acentuadas o signos gramaticales). Con cualquier palíndromo que cumpla estas condiciones retornará true.
 <br />
-<div markdown="1">💻 [Ejecutar el código](https://jdoodle.com/a/3pAs){:target="_blank"}
+<div markdown="1">💻 [Ejecutar el código](https://paiza.io/projects/fBJV3dwtgfhpjc3iefe9ZA){:target="_blank"}
   </div>
-{% include codeEditor.html id="3pAs?stdin=0&arg=0&rw=1" %}
+{% include codeEditor_paiza.html id="fBJV3dwtgfhpjc3iefe9ZA" %}
 <br />
 <div markdown="1">![Solución al desafío]({{ site.url }}/assets/2019-09-15-desafio-csharp-1-solucion.png)
   </div></details>
