@@ -11,7 +11,7 @@ Analizando la función dada, ¿qué características debe tener el argumento par
 
 <details><summary>Click aquí para desplegar la solución. 👈</summary>
 <br />
-<br />La función retorna true si la cadena es un palíndromo o vacía, ignorando mayúsculas y minúsculas y también espacios (pero no los símbolos, letras acentuadas o signos gramaticales). Con cualquier palíndromo que cumpla estas condiciones retornará true.
+<br />La función retorna true si la cadena es un palíndromo o vacía, ignorando mayúsculas y minúsculas y también espacios (pero no los símbolos, letras acentuadas o signos gramaticales). Con cualquier palíndromo que cumpla estas condiciones retornará true. Ejemplo: "¿Acaso hubo búhos acá?" retorna false porque tiene signos gramaticales y letras acentuadas. Sin embargo, "acaso hubo buhos aca" retornará true.
 <br />
 <div markdown="1">💻 [Ejecutar el código](https://paiza.io/projects/fBJV3dwtgfhpjc3iefe9ZA){:target="_blank"}
   </div>
