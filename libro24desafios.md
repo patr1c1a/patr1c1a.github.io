@@ -12,8 +12,6 @@ permalink: /libro24desafios/
 
 &nbsp;
 
-**$17 USD** (edición individual) / **$30 USD** (edición multilenguaje)
-
 ---
 
 ### 🎁 [**¡Descarga la muestra gratis!**](https://forms.gle/Ek6ZjaTX43YaPftc8)
@@ -22,8 +20,9 @@ permalink: /libro24desafios/
 
 ## 👉 Comprar ahora
 
-▶ [**OPCIÓN 1 → PayPal / Tarjeta de crédito-débito internacional**](https://payhip.com/b/WSi0z){:target="_blank"}
+▶ **OPCIÓN 1 → PayPal
 
+- [Tarjeta de crédito-débito internacional**](https://payhip.com/b/WSi0z){:target="_blank"}
 - Entrega automática inmediata
 
 ▶ **OPCIÓN 2 → MercadoPago**
