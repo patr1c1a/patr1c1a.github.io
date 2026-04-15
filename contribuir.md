@@ -11,7 +11,7 @@ permalink: /contribuir/
 
 Antes que nada, muchas gracias por el aprecio. ❤️
 
-La mayoría de los contenidos de **Programación Desde Cero son gratuitos** pero, si has encontrado utilidad en ellos y quisieras brindar tu apoyo es posible usar ["Cafecito"](https://cafecito.app/programaciondesde0){:target="_blank"} (Mercadopago o Bitcoin) o también mediante [Paypal](https://www.paypal.com/donate/?hosted_button_id=NVEMP8C2B7238){:target="_blank"}.
+La mayoría de los contenidos de **Programación Desde Cero son gratuitos** pero, si has encontrado utilidad en ellos y quisieras brindar tu apoyo es posible hacerlo usando ["Cafecito"](https://cafecito.app/programaciondesde0){:target="_blank"} (Mercadopago o Bitcoin) o también mediante [Paypal](https://www.paypal.com/donate/?hosted_button_id=NVEMP8C2B7238){:target="_blank"}.
 
 &nbsp;
 &nbsp;
