@@ -2,7 +2,7 @@
 layout: post
 title: Usando ChatGPT para programar
 date: 2023-04-20 13:00:00 -0300
-categories: otros
+categories: ia
 tags: chatgpt ia ai
 published: true
 ---
