@@ -18,6 +18,10 @@ permalink: /libro24desafios/
 
 ---
 
+### ¡Por el día del libro, descuento del 30% hasta el 30 de abril!
+
+---
+
 ## 👉 Comprar ahora
 
 ▶ **OPCIÓN 1 → PayPal
@@ -27,9 +31,9 @@ permalink: /libro24desafios/
 
 ▶ **OPCIÓN 2 → MercadoPago**
 
-[Edición de un lenguaje (Python, Java, C#)](https://mpago.la/15XMoCK){:target="_blank"}
+[Edición de un lenguaje (Python, Java, C#)](https://mpago.la/2767mcZ){:target="_blank"}
 
-[Edición multilenguaje (los 3: Python, Java, C#)](https://mpago.la/15zNXay){:target="_blank"}
+[Edición multilenguaje (los 3: Python, Java, C#)](https://mpago.la/1ZZPaoa){:target="_blank"}
 
 - El proceso con MercadoPago es manual: te enviaré el libro con tu nombre y email dentro de las 24 horas.
 - Debes confirmarme la variante que deseas.
