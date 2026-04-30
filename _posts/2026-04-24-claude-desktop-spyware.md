@@ -7,7 +7,7 @@ tags: ia claude mac
 published: true
 ---
 
-![Claude Desktop spyware]({{ site.url }}/assets/2026-04-24-anthropic-spyware.png)
+![Claude Desktop spyware]({{ site.url }}/assets/2026-04-24-anthropic-spyware.png){: width="40%" }
 
 Si instalaste Claude Desktop en tu Mac, también se instaló una puerta de acceso en tu navegador (sin preguntar, sin avisar, sin que pudieras decir que no).
 

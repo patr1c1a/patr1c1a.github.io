@@ -7,6 +7,8 @@ tags: chatgpt claude
 published: true
 ---
 
+![Vibehackers contra el gobierno mexicano]({{ site.url }}/assets/2026-04-24-anthropic-spyware.png){: width="40%" }
+
 ¿Ahora además de "vibe-coders" hay "vibe-hackers"?
 
 Un informe de Gambit Security revela que organismos estatales de México fueron "vibe-hackeados" por alguien solo usando Claude y ChatGPT.

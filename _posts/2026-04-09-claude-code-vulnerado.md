@@ -7,7 +7,7 @@ tags: claude seguridad
 published: true
 ---
 
-![Claude Code vulnerado]({{ site.url }}/assets/2026-04-09-claude-code-vulnerado.png)
+![Claude Code vulnerado]({{ site.url }}/assets/2026-04-09-claude-code-vulnerado.png){: width="40%" }
 
 El 31 de marzo, cuando se lanzaba la versión 2.1.88 de [Claude Code](https://code.claude.com){:target="_blank"}, el usuario de X "Fried_rice" anunció que se había filtrado el código. Eran 512.000 líneas de código en alrededor de 2.000 archivos, conteniendo referencias a funcionalidad deshabilitada, oculta o inactiva.
 
