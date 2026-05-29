@@ -295,23 +295,22 @@ Y si ya conocés lo básico pero no sabés por dónde seguir para programar de f
 
 
 <details><summary id="estudios-universitarios"><b> -¿Qué estudios universitarios tenés?</b></summary>
-<div markdown="1">Después de graduarme como abogada y escribana en la facultad de ciencias jurídicas de la [UNLP](http://www.jursoc.unlp.edu.ar){:target="_blank"} y descubrir que no era lo mío, volví a la universidad para estudiar informática en la [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}. Comencé por obtener dos títulos intermedios ("Programador Universitario" y "Analista de Sistemas") y continué estudiando para llegar al título de grado de Licenciatura en Sistemas.
+<div markdown="1">Después de graduarme en 2007 como abogada y escribana en la Facultad de Ciencias Jurídicas de la [UNLP](http://www.jursoc.unlp.edu.ar){:target="_blank"} y descubrir que no era lo mío, volví a la universidad para estudiar informática en la [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}. Comencé por obtener dos títulos intermedios ("Programador Universitario" y "Analista de Sistemas") y continué estudiando para llegar al título de grado de Licenciatura en Sistemas.
   </div>
 <br />&nbsp;
 </details>
 
 
 <details><summary id="experiencia-docente"><b> -¿Qué experiencia docente tenés?</b></summary>
-<div markdown="1">En 2010, siendo todavía estudiante en [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}, comencé como ayudante de cátedra en dos materias de las carreras de informática en esa universidad: "Introducción a la Programación Imperativa" y "Programación Imperativa", donde eneseñaba a programar con Python y C++ (aunque inicialmente fue con Pascal). Durante un tiempo, también fui ayudante en el Curso de Ingreso para los alumnos que comenzaban a estudiar. Continué siendo ayudante en las dos materias mencionadas al principio hasta que empecé a trabajar oficialmente como docente, lo cual continué haciendo hasta 2019.
+<div markdown="1">En 2010, siendo todavía estudiante en [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}, comencé como ayudante de cátedra en dos materias de las carreras de informática en esa universidad: "Introducción a la Programación Imperativa" y "Programación Imperativa", donde eneseñaba a programar con Python y C++ (aunque inicialmente fue con Pascal). Durante un tiempo, también fui ayudante en el Curso de Ingreso para los alumnos que comenzaban a estudiar. Continué siendo ayudante en las dos materias mencionadas al principio hasta que empecé a trabajar oficialmente como docente, lo cual continué haciendo hasta 2019. Además, en 2021 fui mentora en de un taller virtual del "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}"
 <br />Desde ese momento, solo he enseñado de manera online.
-<br />Además, en 2021 fui mentora en de un taller virtual del "[Club de chicas programadoras](http://www.chicasprogramadoras.club/){:target="_blank"}" y en 2026 de un equipo competidor en [Technovation Girls](https://technovationchallenge.org/){:target="_blank"}.
   </div>
 <br />&nbsp;
 </details>
 
 
 <details><summary id="experiencia-laboral"><b> -¿Cuál es tu experiencia en el software?</b></summary>
-<div markdown="1">Además de mi carrera en educación (que comenté en la respuesta anterior), en 2011 empecé a trabajar en proyectos comerciales de software, donde primero fui QA y luego desarrolladora backend.
+<div markdown="1">Además de mi carrera en educación (que comenté en la respuesta anterior), en 2011 empecé a trabajar en proyectos comerciales de software, donde primero fui QA y luego pasé al rol de desarrolladora backend.
   </div>
 <br />&nbsp;
 </details>
