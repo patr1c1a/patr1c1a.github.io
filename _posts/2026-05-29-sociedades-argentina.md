@@ -46,7 +46,7 @@ Las DAOs suelen utilizar blockchain, tokens y smart contracts para ejecutar regl
 
 ## El desafío es técnico y también legal
 
-Como persona de sistemas y abogada, lo que más me llama la atención no es la tecnología en sí, sino los desafíos legales que abre.
+Como informática y abogada, lo que más me llama la atención no es la tecnología en sí, sino los desafíos legales que abre.
 
 Si un sistema de inteligencia artificial toma una decisión financiera equivocada, incumple una regulación, discrimina en un proceso automatizado o provoca un daño económico, aparecen preguntas como ¿quién responde legalmente? Y la respuesta no es simple. ¿Responden los desarrolladores? ¿Los propietarios de la organización? ¿Los administradores? ¿La propia estructura societaria?
 
