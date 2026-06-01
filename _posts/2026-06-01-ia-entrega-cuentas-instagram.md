@@ -35,7 +35,7 @@ Aunque no de forma exclusiva, muchas de las cuentas afectadas eran cuentas consi
 
 Una de las cuentas fue la cuenta de Obama de la Casa Blanca "@obamawhitehouse" que, aunque inactiva desde 2017, inesperadamente publicó una imagen:
 
-![Post de la cuenta @obamawhitehouse]({{ site.url }}/assets/2026-06-01-ia-entrega-cuentas-instagram-2.png)
+![Post de la cuenta @obamawhitehouse]({{ site.url }}/assets/2026-06-01-ia-entrega-cuentas-instagram-2.png){: width="60%" }
 
 ## Asegurar las cuentas
 
