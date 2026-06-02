@@ -11,37 +11,27 @@ published: true
 
 ## ¿La IA ya está ayudando a crear ataques cibernéticos de nueva generación?
 
-[Google Threat Intelligence](https://cloud.google.com/blog/topics/threat-intelligence){:target="_blank"} acaba de confirmar algo que muchos veníamos anticipando: un grupo criminal utilizó inteligencia artificial para descubrir una vulnerabilidad de tipo "zero-day" y generar un exploit funcional que incluso burlaba la autenticación de dos factores (2FA).
+[Google Threat Intelligence](https://cloud.google.com/blog/topics/threat-intelligence){:target="_blank"} acaba de confirmar algo que muchos expertos venían anticipando: un grupo criminal utilizó inteligencia artificial para descubrir una vulnerabilidad de tipo "zero-day" y generar un exploit funcional (que incluso burlaba la autenticación de dos factores o "2FA").
 
 ## ¿Qué pasó?
 
-Criminales usaron IA para:
+Por primera vez se confirma que los atacantes fueron capaces de usar IA para descubrir una vulnerabilidad desconocida, crear código que burle el 2FA y preparar un ataque masivo. Aunque Google lo detuvo a tiempo.
 
-- Descubrir una vulnerabilidad desconocida,
-- Crear código que burlaba el 2FA,
-- Preparar un ataque masivo.
+Se pudo saber que el código era generado por IA porque había ciertos patrones que lo delataban, como una excesiva cantidad de comentarios "educativos", un formato tipo "libro de texto" y hasta la inclusión de un puntaje CVSS inventado (esto una alucinación típica de los modelos). Esas son pistas que permiten detectar este tipo de código creado por IA generativa.
 
-Google lo detuvo a tiempo.
+## ¿Por qué este caso es diferente?
 
-El código generado por IA tenía patrones muy claros que la delataban: comentarios educativos excesivos, formato tipo libro de texto y hasta un puntaje CVSS inventado (una alucinación típica de los modelos). Esto nos da una pista de cómo detectar este tipo de código en el futuro.
+Esta vez la IA no solo ayudó sino que descubrió un ataque de tipo "zero-day" y generó el exploit completo que los atacantes pensaban usar. Es la primera vez que se confirma algo así.
 
-## ¿Por qué es diferente?
+Por eso este caso marca un antes y un después: ya no solo hablamos de IA para phishing o automatizar ataques conocidos sino que ahora estamos viendo a la IA participando activamente en la creación de nuevas "armas cibernéticas".
 
-Esta vez la IA no solo ayudó… Descubrió un "zero-day" y generó el exploit completo. Es la primera vez confirmada que criminales lo logran.
+## Ataques tipo "Zero-day" o "día cero"
 
-Este caso marca un antes y un después: ya no solo hablamos de IA para phishing o automatizar ataques conocidos. Ahora estamos viendo a la IA participando activamente en la creación de nuevas armas cibernéticas.
-
-## ¿Qué es un "Zero-day" o "día cero"?
-
-Es una vulnerabilidad desconocida por el fabricante de software: nadie la ha descubierto aún, por lo tanto no tiene parche. Y es una de las armas más peligrosas en ciberseguridad.
+Un ataque se considera de "día cero" cuando la vulnerabilidad es desconocida por el fabricante del software: nadie la ha descubierto aún, por lo tanto no tiene parche posible. Es una de las armas más peligrosas en ciberseguridad.
 
 ## El juego cambió
 
-- Los zero-day serán más fáciles de crear.
-- Herramientas open-source en riesgo.
-- La IA acelera tanto el ataque como la defensa.
-
-Como desarrolladores, esto nos obliga a ser más rigurosos que nunca:
+La IA hará a los "zero-day" más fáciles de crear, lo que pone a las herramientas open-source especialmente en riesgo. Aunque la IA acelera tanto el ataque como la defensa. Y, como desarrolladores, esto nos obliga a ser más rigurosos que nunca:
 
 - Revisar con atención el código generado por IA,
 - No confiar ciegamente en herramientas de IA para lógica crítica,
