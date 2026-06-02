@@ -9,43 +9,33 @@ published: true
 
 ![X publicó su algoritmo]({{ site.url }}/assets/2026-05-19-x-algoritmo-open-source.png){: width="40%" }
 
-## Ya podemos ver el código fuente del "Para ti"
+## Ya podemos ver el código fuente del "Para ti" de la red social X
 
-X publicó parte del código de su sistema de recomendaciones y hay detalles técnicos bastante interesantes cuando lo miramos más de cerca.
+X decidió publicar parte del código de su sistema de recomendaciones. Ahora que podemos ver el código, hay detalles técnicos bastante interesantes que quedan al descubierto. Por ejemplo:
 
-Por ejemplo:
+- el "feed" no se genera en un único paso, sino en varias etapas donde se aplican filtros y puntuaciones.
+- hay mecanismos para evitar que alguna cuenta en particular domine todo el contenido que se muestra.
+- el sistema diferencia contenido de cuentas seguidas y cuentas no seguidas.
+- hay señales negativas (como bloquear o reportar) que reciben un trato especial dentro del algoritmo.
 
-• el "feed" no se genera en un único paso, sino en varias etapas de filtrado y puntuación.
-• hay mecanismos para evitar que una sola cuenta domine todo el contenido que se muestra.
-• el sistema diferencia contenido de cuentas seguidas y cuentas no seguidas.
-• algunas señales negativas (como bloquear o reportar) tienen un tratamiento especial dentro del algoritmo.
-• y varias partes sensibles quedaron fuera del código publicado por "razones de seguridad".
+Varias partes sensibles quedaron fuera del código publicado por "razones de seguridad". Y también faltan componentes importantes, como moderación, sistema de anuncios, parámetros internos y algunos servicios auxiliares. Es decir que publicaron bastante más de lo que suele mostrar una red social grande… pero no todo.
 
-También faltan componentes importantes como:
-
-- moderación,
-- sistema de anuncios,
-- parámetros internos,
-- y algunos servicios auxiliares.
-
-Es decir: publicaron bastante más de lo que suele mostrar una red social grande… pero claramente no todo.
-
-## Lo que más importa (según el código)
+## Lo que más importa (según el código) para decidir qué alcance tienen las publicaciones
 
 - Responder pesa mucho más que dar "me gusta",
 - Bloquear/reportar afecta muchísimo,
 - El algoritmo mide cuánto tiempo miramos algo.
 
-Y además se usan modelos de IA para predecir la probabilidad de que interactúes con cada publicación.
+Y además se usan modelos de IA para predecir la probabilidad de que el usuario interactúe con cada publicación.
 
 ## El "transformer" detrás de todo
 
-El sistema incluye un modelo tipo “transformer”: una IA que analiza patrones de comportamiento para estimar qué publicaciones probablemente le interesen a cada usuario.
+El sistema incluye un modelo tipo "transformer": una IA que analiza patrones de comportamiento para estimar qué publicaciones probablemente le interesen a cada usuario.
 
-## ¿Por qué esto importa?
+## ¿Cuál es la importancia de esto?
 
-Es código real de un sistema de recomendación a gran escala.
+Lo que se publicó es código real de un sistema de recomendación a gran escala. Probablemente requiera conocimiento especializado para entenderlo, pero vale la pena "espiar" un poco cómo funciona.
 
-Muchos imaginan “el algoritmo” como magia. Pero al final: son datos, probabilidades y muchísimo código.
+Aunque no entendamos todo, seguramente algo interesante nos va a quedar para aumentar nuestro conocimiento, aunque más no sea una noción de la cantidad de lógica necesaria para que una red social tan grande funcione.
 
 [El código puede verse en Github](https://github.com/xai-org/x-algorithm){:target="_blank"}
