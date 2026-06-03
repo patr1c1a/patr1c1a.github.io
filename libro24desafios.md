@@ -26,7 +26,7 @@ permalink: /libro24desafios/
 
 ▶ **OPCIÓN 1 → PayPal**
 
-- [Tarjeta de crédito-débito internacional**](https://payhip.com/b/WSi0z){:target="_blank"}
+- [Tarjeta de crédito-débito internacional](https://payhip.com/b/WSi0z){:target="_blank"}
 - Entrega automática inmediata
 
 ▶ **OPCIÓN 2 → MercadoPago**
