@@ -24,7 +24,7 @@ permalink: /libro24desafios/
 
 ## 👉 Comprar ahora
 
-▶ **OPCIÓN 1 → PayPal
+▶ **OPCIÓN 1 → PayPal**
 
 - [Tarjeta de crédito-débito internacional**](https://payhip.com/b/WSi0z){:target="_blank"}
 - Entrega automática inmediata
