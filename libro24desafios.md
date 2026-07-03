@@ -111,8 +111,6 @@ No son solo respuestas. Es cómo **PENSAR** los problemas.
 
 _Los desafíos y explicaciones son idénticos. Solo cambian las implementaciones._
 
----
-
 &nbsp;
 
 ---
@@ -133,11 +131,11 @@ Hay 4 ediciones disponibles, para que elijas la que te interese: Python, Java, C
 **¿Puedo imprimirlo?**  
 Sí, una vez comprado es tuyo para uso personal.
 
-**Política de devoluciones**  
-No se aceptan devoluciones una vez descargado, excepto por defecto técnico grave (archivo corrupto, contenido diferente al descripto). Contactame dentro de las 48hs posteriores a la compra si hay problemas.
-
-**Por qué creaste este libro**
+**¿Por qué creaste este libro?**  
 Muchas personas me dicen que ya saben lo básico de programación pero no por dónde seguir. Y se ponen a aprender más lenguajes, más frameworks, más tecnologías. Pero las tecnologías pasan de moda, y aprendiendo una fácilmente se puede migrar a otras similares. ¿El resultado? Perdieron tiempo. Lo importante son las bases: si un algoritmo es deficiente, no importa en qué lenguaje se escriba o cuántos frameworks se le pongan encima. Y las entrevistas de trabajo se están centrando en eso: buscan gente que sepa razonar y explicar por qué usa cierta estrategia y no otra.
+
+**Política de devoluciones**  
+No se aceptan devoluciones una vez descargado, excepto por defecto técnico grave (archivo corrupto, contenido diferente al descripto). Contactame dentro de las 48hs posteriores a la compra si hay problemas, escribiendo a <programaciondesdecero@patriciaemiguel.com>.
 
 &nbsp;
 &nbsp;
