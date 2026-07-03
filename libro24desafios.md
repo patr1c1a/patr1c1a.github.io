@@ -18,10 +18,6 @@ permalink: /libro24desafios/
 
 ---
 
-### ¡Por el día del libro, descuento del 30% hasta el 30 de abril!
-
----
-
 ## 👉 Comprar ahora
 
 ▶ **OPCIÓN 1 → PayPal**
@@ -49,49 +45,30 @@ Por cualquier duda, contactame a <programaciondesdecero@patriciaemiguel.com>.
 
 &nbsp;
 
-### 24 desafíos de código para pensar como programador profesional
+### Te ahorras MESES de práctica dispersa
 
-✓ Preparación para entrevistas técnicas
+Para quienes ya aprendieron a programar pero no saben por dónde seguir.
 
-✓ De la solución básica a la optimizada
+Mucha gente pierde tiempo saltando entre tutoriales, ejercicios sin sentido y código hecho por IA.
 
-✓ Todo en español, con código ejecutable
+Pero este libro te da el camino más corto:
 
-&nbsp;
+- 24 ejercicios estratégicamente seleccionados
+- Explicaciones completas en español
+- El razonamiento detrás de cada optimización (no solo "código que funciona")
+- Aprender a evaluar soluciones (tiempo vs. espacio vs. legibilidad)
+- Entender el proceso mental de un programador con experiencia
+- Código listo para probar y ejecutar
 
----
-
-&nbsp;
-
-### Este libro te lleva al siguiente nivel como programador
-
-❌ Las plataformas en inglés no explican el proceso
-
-❌ Sabes lo básico pero no cómo optimizar
-
-❌ No sabes si tu solución es "profesional" o no
-
-✅ 24 ejercicios con progresión clara
-
-✅ Explicaciones completas del razonamiento  
-
-✅ Qué se aprende de cada desafío para aplicar en problemas reales
-
-&nbsp;
-
-### Qué hace diferente a este libro
-
-- **Proceso completo:** Desde la solución básica hasta la profesional  
-- **Razonamiento explícito:** Por qué una solución es mejor que otra  
-- **Código ejecutable:** Repositorio con implementaciones validadas  
-- **Casos de prueba:** Para verificar cada solución  
-- **Patrones reutilizables:** Estrategias aplicables a problemas reales  
-
-&nbsp;
+La IA es una calculadora. Este libro te enseña a hacer las cuentas.
 
 No son solo respuestas. Es cómo **PENSAR** los problemas.
 
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## Qué incluye tu compra
 
@@ -99,7 +76,7 @@ No son solo respuestas. Es cómo **PENSAR** los problemas.
 
 📘 **PDF descargable**
 
-- 270+ páginas (edición individual)
+- 270+ páginas (edición lenguaje individual)
 - 380+ páginas (edición multilenguaje)
 
 💻 **Repositorio de código**
@@ -128,20 +105,12 @@ No son solo respuestas. Es cómo **PENSAR** los problemas.
 
 _Los desafíos y explicaciones son idénticos. Solo cambian las implementaciones._
 
-&nbsp;
-
----
-
-Muchas personas me dicen que ya saben lo básico pero no **por dónde seguir**. Y se ponen a aprender más lenguajes, más frameworks, más tecnologías. Después las tecnologías pasan de moda, o se dan cuenta de que aprendiendo una fácilmente se puede migrar a otras similares. ¿El resultado? Perdieron tiempo. Por eso, este libro es **LA SOLUCIÓN para que pases al siguiente nivel**.
-
-**Lo importante son las bases:** Si un algoritmo es deficiente, no importa en qué lenguaje se escriba o cuántos frameworks se le pongan encima. Y las entrevistas de trabajo se están centrando en eso: buscan gente que sepa razonar y explicar por qué usa cierta estrategia y no otra.
-
 ---
 &nbsp;
 
-### 🎄 "Calendario de Adviento"
+### Te ayudo a ir a ritmo
 
-Te ayudo a ir a ritmo: del 1 al 24 de diciembre publiqué un ejercicio del libro por día en redes sociales, con el hashtag **#24DesafiosDeAdviento**. Para que puedas ver de qué se trata e intentar resolver los desafíos por tu cuenta, con la guía de los videos (en el libro podrás tener el desarrollo completo de cada uno).
+[En esta lista de videos](https://www.youtube.com/playlist?list=PLb_E6BNMg5j5i5lJocZSidKcGXWeHWkRo){:target="_blank"} podrás ver de qué trata cada ejercicio y una idea de solución.
 
 &nbsp;
 
@@ -165,6 +134,9 @@ Sí, una vez comprado es tuyo para uso personal.
 
 **Política de devoluciones**  
 No se aceptan devoluciones una vez descargado, excepto por defecto técnico grave (archivo corrupto, contenido diferente al descripto). Contactame dentro de las 48hs posteriores a la compra si hay problemas.
+
+**Por qué creaste este libro**
+Muchas personas me dicen que ya saben lo básico de programación pero no por dónde seguir. Y se ponen a aprender más lenguajes, más frameworks, más tecnologías. Pero las tecnologías pasan de moda, y aprendiendo una fácilmente se puede migrar a otras similares. ¿El resultado? Perdieron tiempo. Lo importante son las bases: si un algoritmo es deficiente, no importa en qué lenguaje se escriba o cuántos frameworks se le pongan encima. Y las entrevistas de trabajo se están centrando en eso: buscan gente que sepa razonar y explicar por qué usa cierta estrategia y no otra.
 
 &nbsp;
 &nbsp;
