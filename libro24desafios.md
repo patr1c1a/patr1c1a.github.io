@@ -16,7 +16,13 @@ permalink: /libro24desafios/
 
 ### 🎁 [**¡Descarga la muestra gratis!**](https://forms.gle/Ek6ZjaTX43YaPftc8)
 
+También, [en esta lista de videos](https://www.youtube.com/playlist?list=PLb_E6BNMg5j5i5lJocZSidKcGXWeHWkRo){:target="_blank"} podrás ver de qué trata cada ejercicio y una idea de solución.
+
+&nbsp;
+
 ---
+
+&nbsp;
 
 ## 👉 Comprar ahora
 
@@ -106,11 +112,6 @@ No son solo respuestas. Es cómo **PENSAR** los problemas.
 _Los desafíos y explicaciones son idénticos. Solo cambian las implementaciones._
 
 ---
-&nbsp;
-
-### Te ayudo a ir a ritmo
-
-[En esta lista de videos](https://www.youtube.com/playlist?list=PLb_E6BNMg5j5i5lJocZSidKcGXWeHWkRo){:target="_blank"} podrás ver de qué trata cada ejercicio y una idea de solución.
 
 &nbsp;
 
