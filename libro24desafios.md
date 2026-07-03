@@ -95,12 +95,6 @@ No son solo respuestas. Es cómo **PENSAR** los problemas.
 
 - Con tu nombre y email (sin cubrir el texto)
 
-🔄 **Actualizaciones gratuitas**
-
-- Correcciones de erratas
-- Mejoras de formato
-- [Suscribite a la lista](https://programaciondesdecero.eo.page/lista){:target="_blank"} para notificaciones
-
 ---
 
 &nbsp;
