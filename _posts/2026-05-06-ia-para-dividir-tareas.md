@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IA para avanzar en tus proyectos
-date: 2026-04-05 16:00:00
+date: 2026-05-06 16:00:00
 categories: ia
 tags: chatgpt claude gemini
 published: true
