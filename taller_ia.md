@@ -58,7 +58,7 @@ Cuando tu pago se verifique, recibirás un mensaje de confirmación. El cupo sol
 
 ### Si querés saber más
 
-**Descubrí tu perfil de usuario de IA:** usando la herramienta gratuita que desarrollé especialmente para esto. Son 10 preguntas que te ayudarán a entender mejor tu relación con la IA y recibir algunos consejos para avanzar.
+**Descubrí tu perfil de usuario de IA:** [usando la herramienta gratuita que desarrollé](https://iatest.patriciaemiguel.com/){:target="_blank"} especialmente para esto. Son 10 preguntas que te ayudarán a entender mejor tu relación con la IA y recibir algunos consejos para avanzar.
 
 **Algunos videos:** [en esta lista](https://www.youtube.com/playlist?list=PLFxq8PzRNgQM){:target="_blank"} vas a encontrar algunos donde explico conceptos y trucos sobre inteligencia artificial.
 
