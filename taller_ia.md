@@ -10,21 +10,19 @@ permalink: /taller_ia/
 
 ### Presencial - Cupos muy limitados
 
----
-
 &nbsp;
 
 📅 Fecha y hora: 8 de agosto de 2026 - 16:00 h.
 
 ⏰ Duración aproximada: 2 horas
 
+&nbsp;
+
 **No se requieren conocimientos previos**
 
 &nbsp;
 
 ---
-
-&nbsp;
 
 ### ¿Qué vas a aprender?
 
@@ -38,8 +36,6 @@ En 2 horas te voy a demostrar que no es necesario que aprendas las múltiples he
 
 ---
 
-&nbsp;
-
 ### Costo e inscripción
 
 &nbsp;
@@ -48,7 +44,7 @@ En 2 horas te voy a demostrar que no es necesario que aprendas las múltiples he
 
 ➡️ Forma de pago: transferencia al alias **patricia.miguel**.
 
-🔶 Luego de realizar el pago, completa el [formulario de inscripción](https://forms.gle/ajuRc3oVJRbUvius5){:target="_blank"}
+📜 Luego de realizar el pago, completa el [formulario de inscripción](https://forms.gle/ajuRc3oVJRbUvius5){:target="_blank"}
 
 &nbsp;
 
@@ -58,8 +54,6 @@ Cuando tu pago se verifique, recibirás un mensaje de confirmación. El cupo sol
 
 ---
 
-&nbsp;
-
 ### Si querés saber más
 
 &nbsp;
@@ -68,7 +62,7 @@ Cuando tu pago se verifique, recibirás un mensaje de confirmación. El cupo sol
 
 &nbsp;
 
-👉 **Algunos videos:** [en youtube](https://www.youtube.com/playlist?list=PLFxq8PzRNgQM){:target="_blank"} vas a encontrar algunos donde explico conceptos y trucos sobre inteligencia artificial.
+👉 **Videos:** [en youtube](https://www.youtube.com/playlist?list=PLFxq8PzRNgQM){:target="_blank"} vas a encontrar algunos videos cortos donde explico conceptos y trucos sobre inteligencia artificial.
 
 &nbsp;
 &nbsp;
