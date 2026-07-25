@@ -22,6 +22,10 @@ permalink: /taller_ia/
 
 &nbsp;
 
+✨ Este es un taller distendido. Podés traerte té, café, equipo de mate o lo que quieras.
+
+&nbsp;
+
 ---
 
 ### ¿Qué vas a aprender?
@@ -30,7 +34,7 @@ permalink: /taller_ia/
 
 Técnicas sencillas para obtener respuestas más útiles, reducir errores y aprovechar mucho mejor herramientas como ChatGPT, Gemini, Claude y otras.
 
-En 2 horas te voy a demostrar que no es necesario que aprendas las múltiples herramientas que surgen constantemente, ni tampoco que pagues para tener mejores resultados.
+Durante el taller vas a descubrir que no es necesario que aprendas las múltiples aplicaciones que surgen constantemente, ni tampoco que pagues para tener mejores resultados.
 
 &nbsp;
 
