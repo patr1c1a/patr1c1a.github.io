@@ -18,7 +18,7 @@ permalink: /taller_ia/
 
 ⏰ Duración aproximada: 2 horas
 
-**No se requieren conocimientos técnicos**
+**No se requieren conocimientos previos**
 
 &nbsp;
 
@@ -28,9 +28,11 @@ permalink: /taller_ia/
 
 ### ¿Qué vas a aprender?
 
+&nbsp;
+
 Técnicas sencillas para obtener respuestas más útiles, reducir errores y aprovechar mucho mejor herramientas como ChatGPT, Gemini, Claude y otras.
 
-En 2 horas te voy a demostrar que no es necesario que corras detrás de las decenas de herramientas que aparecen constantemente, ni tampoco que pagues para tener mejores resultados.
+En 2 horas te voy a demostrar que no es necesario que aprendas las múltiples herramientas que surgen constantemente, ni tampoco que pagues para tener mejores resultados.
 
 &nbsp;
 
@@ -38,7 +40,9 @@ En 2 horas te voy a demostrar que no es necesario que corras detrás de las dece
 
 &nbsp;
 
-### 👉 Costo e inscripción
+### Costo e inscripción
+
+&nbsp;
 
 💲 $30.000 (pesos argentinos)
 
@@ -58,9 +62,13 @@ Cuando tu pago se verifique, recibirás un mensaje de confirmación. El cupo sol
 
 ### Si querés saber más
 
-**Descubrí tu perfil de usuario de IA:** [usando la herramienta gratuita que desarrollé](https://iatest.patriciaemiguel.com/){:target="_blank"} especialmente para esto. Son 10 preguntas que te ayudarán a entender mejor tu relación con la IA y recibir algunos consejos para avanzar.
+&nbsp;
 
-**Algunos videos:** [en esta lista](https://www.youtube.com/playlist?list=PLFxq8PzRNgQM){:target="_blank"} vas a encontrar algunos donde explico conceptos y trucos sobre inteligencia artificial.
+👉 **Descubrí tu perfil de usuario de IA:** [usando la herramienta gratuita que desarrollé](https://iatest.patriciaemiguel.com/){:target="_blank"} especialmente para esto. Son 10 preguntas que te ayudarán a entender mejor tu relación con la IA y recibir algunos consejos para avanzar.
+
+&nbsp;
+
+👉 **Algunos videos:** [en youtube](https://www.youtube.com/playlist?list=PLFxq8PzRNgQM){:target="_blank"} vas a encontrar algunos donde explico conceptos y trucos sobre inteligencia artificial.
 
 &nbsp;
 &nbsp;
