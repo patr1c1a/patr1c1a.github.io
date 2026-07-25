@@ -46,7 +46,7 @@ Durante el taller vas a descubrir que no es necesario que aprendas las múltiple
 
 💲 $30.000 (pesos argentinos)
 
-➡️ Forma de pago: transferencia al alias **patricia.miguel**.
+➡️ Forma de pago: transferencia al alias **patricia.miguel**
 
 📜 Luego de realizar el pago, completa el [formulario de inscripción](https://forms.gle/ajuRc3oVJRbUvius5){:target="_blank"}
 
