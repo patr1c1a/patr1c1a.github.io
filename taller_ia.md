@@ -22,7 +22,7 @@ permalink: /taller_ia/
 
 &nbsp;
 
-✨ Este es un taller distendido. Podés traerte té, café, equipo de mate o lo que quieras.
+✨ Este es un taller distendido. Podés traerte café, té, equipo de mate o lo que quieras.
 
 &nbsp;
 
