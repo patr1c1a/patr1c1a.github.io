@@ -34,9 +34,11 @@ permalink: /taller_ia/
 
 Técnicas sencillas para obtener respuestas más útiles, reducir errores y aprovechar mucho mejor herramientas como ChatGPT, Gemini, Claude y otras.
 
-Durante el taller vamos a ver por qué para tener mejores resultados no es necesario que aprendas las múltiples aplicaciones que surgen constantemente, ni tampoco que pagues.
+Eso nos va a llevar a entender por qué para tener mejores resultados no es necesario aprender las múltiples aplicaciones que surgen constantemente, ni tampoco pagar.
 
 Descubrirás que muchas de las funciones más útiles de las herramientas actuales tienen un mismo objetivo: darle a la IA el contexto adecuado para que pueda responder mejor.
+
+Veremos cuándo alcanza con escribir un buen mensaje y cuándo conviene complementar la conversación con archivos, información actualizada o instrucciones personalizadas para obtener respuestas mucho más útiles.
 
 &nbsp;
 
