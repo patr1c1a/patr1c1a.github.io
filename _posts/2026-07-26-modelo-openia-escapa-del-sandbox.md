@@ -38,3 +38,10 @@ Lo novedoso del suceso es que la IA no tuvo ninguna dirección humana para hacer
 Pero todo era porque buscaba cumplir con el objetivo que le habían dado.
 
 Entonces, ¿las máquinas están buscando liberarse? Esa afirmación me parece digna de cualquier medio sensacionalista, pero no describe de ninguna manera lo que sucedió acá.
+
+---
+
+**Fuentes:**
+
+- [OpenAI](https://openai.com/index/hugging-face-model-evaluation-security-incident/){:target="_blank"}
+- [Hugging Face](https://huggingface.co/blog/security-incident-july-2026){:target="_blank"}
