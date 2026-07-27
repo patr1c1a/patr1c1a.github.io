@@ -56,6 +56,10 @@ Veremos cuándo alcanza con escribir un buen mensaje y cuándo conviene compleme
 
 &nbsp;
 
+El cupo solo se reserva cuando se confirma el pago y el formulario de inscripción.
+
+&nbsp;
+
 ---
 
 ### Si querés saber más
