@@ -56,10 +56,6 @@ Veremos cuándo alcanza con escribir un buen mensaje y cuándo conviene compleme
 
 &nbsp;
 
-Cuando tu pago se verifique, recibirás un mensaje de confirmación. El cupo solo se reserva cuando se verifican el pago y el formulario de inscripción.
-
-&nbsp;
-
 ---
 
 ### Si querés saber más
