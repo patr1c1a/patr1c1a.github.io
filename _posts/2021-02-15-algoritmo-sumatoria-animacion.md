@@ -9,7 +9,7 @@ published: true
 
 Algoritmo paso a paso: sumar los dígitos de un número (en Python).
 
-Un algoritmo simple que, [escrito en pseudocódigo, se vería así]({% post_url 2019-08-17-algoritmo-sumar-digitos %}).
+Un algoritmo simple que, [escrito en pseudocódigo, se vería así]({% post_url 2019-08-16-algoritmo-sumar-digitos %}).
 
 <br />&nbsp;
 
