@@ -229,6 +229,37 @@ Y si ya conocés lo básico pero no sabés por dónde seguir para programar de f
 
 ---
 
+### Sobre IA:
+
+<details><summary id="como-empezar-a-programar"><b> -¿Qué necesito aprender sobre inteligencia artificial?</b></summary>
+
+<div markdown="1">El mundo de la tecnología se caracteriza por ser muy cambiante y eso puede dar la sensación de que necesitamos aprender todo ya mismo y que siempre estamos "quedándonos atrás". La IA trasladó esa sensación no solo a quienes nos dedicamos a la informática sino a toda la gente en general.
+
+Mi recomendación es que busques lo que hoy necesitás saber de acuerdo a tus objetivos. Si tu objetivo no es trabajar en el desarrollo de software, probablemente no necesites aprender a dominar cientos de herramientas, a pesar de lo que quieren hacerte creer muchos cursos. Basta con evaluar si algo que hoy estás haciendo sin inteligencia artificial se podría beneficiar de ella, y aprender lo necesario para potenciar tu vida personal o tu trabajo.
+
+Si, por el contrario, estás empezando o ya trabajando en el mundo del desarrollo de software, la recomendación que puedo darte es similar: no te desesperes por probar todo y desplegar proyectos constantemente. La práctica y el aprendizaje son más sólidos si se hacen aprendiendo a conciencia. Muchas tecnologías de IA pueden probarse creando pequeñas aplicaciones que las implementen, aunque no sean aplicaciones que puedas vender.
+  </div>
+<br />&nbsp;
+</details>
+
+<details><summary id="como-empezar-a-programar"><b> -¿Es mejor usar ChatGPT, Claude, Gemini o cuál?</b></summary>
+
+<div markdown="1">No hay una única respuesta a eso, ya que todas ellas son herramientas en constante evolución. Además, cada una permite usar diferentes modelos de lenguaje (algunos de acceso gratuito y otros de acceso pago), por lo que lo más indicado es comparar a los modelos. Para eso existen "benchmarks", que son pruebas que los evalúan en distintas tareas. Las pruebas se ejecutan constantemente y las empresas lanzan nuevos modelos todo el tiempo.
+
+Sin embargo, sí puede decirse que las herramientas también aportan su parte, ya que el modelo solo se ocupa de "razonar", pero la aplicación agrega toda la funcionalidad adicional, como navegación web, generación de imágenes, análisis de archivos, memoria, búsqueda en conversaciones anteriores, tareas programadas,conectores externos, etc.
+  </div>
+<br />&nbsp;
+</details>
+
+<details><summary id="como-empezar-a-programar"><b> -¿Cuál es la mejor IA para...?</b></summary>
+
+<div markdown="1">En la respuesta a la pregunta anterior aclaré que hay que diferenciar entre el modelo de lenguaje ("LLM") y la herramienta o aplicación que lo usa. Entonces, si lo que estás buscando es el modelo que tenga mejor capacidad para ciertas tareas, te recomiendo que revises algunas de las evaluaciones que los expertos hacen ("benchmarks"). Existen muchas y cada una tiene sus propios criterios. Algunas de las más conocidas son MMLU, GPQA, y SWE-bench.
+  </div>
+<br />&nbsp;
+</details>
+
+---
+
 ### Sobre Programación Desde Cero:
 
 <details><summary id="que-es-programacion-desde-cero"><b> -¿Qué es Programación Desde Cero?</b></summary>
