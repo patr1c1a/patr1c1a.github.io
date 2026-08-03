@@ -275,7 +275,7 @@ Sin embargo, sí puede decirse que las herramientas también aportan su parte, y
 </details>
 
 <details><summary id="como-empezo"><b> -¿Cómo empezó?</b></summary>
-<div markdown="1">Alrededor de 2011 comencé publicando en este blog algunos artículos que escribía cuando aún era estudiante de Licenciatura en Sistemas.
+<div markdown="1">Alrededor de 2011 comencé publicando en este blog algunos artículos que escribía cuando aún era estudiante universitaria.
 <br />Unos años después hice algunos videos explicativos para mis alumnos de la universidad, sin intenciones de que se utilizaran fuera de ese ámbito.
 <br />Luego decidí crear más contenidos, para ponerlos a disposición de cualquier persona que pudiera necesitarlos, y por eso comencé a subir más videos de diferentes temas y a publicar en redes sociales, siempre con el ánimo de divulgar, compartir y continuar aprendiendo.
   </div>
@@ -326,7 +326,7 @@ Sin embargo, sí puede decirse que las herramientas también aportan su parte, y
 
 
 <details><summary id="estudios-universitarios"><b> -¿Qué estudios universitarios tenés?</b></summary>
-<div markdown="1">Después de graduarme en 2007 como abogada y escribana en la Facultad de Ciencias Jurídicas de la [UNLP](http://www.jursoc.unlp.edu.ar){:target="_blank"} y descubrir que no era lo mío, volví a la universidad para estudiar informática en la [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}. Comencé por obtener dos títulos intermedios ("Programador Universitario" y "Analista de Sistemas") y continué estudiando para llegar al título de grado de Licenciatura en Sistemas.
+<div markdown="1">Después de graduarme en 2007 como abogada y escribana en la Facultad de Ciencias Jurídicas de la [UNLP](http://www.jursoc.unlp.edu.ar){:target="_blank"} y descubrir que no era lo mío, volví a la universidad para estudiar informática en la [UNNOBA](http://www.unnoba.edu.ar/){:target="_blank"}. Mientras estudiaba alcancé dos títulos intermedios ("Programador Universitario" y "Analista de Sistemas"), hasta que llegué a obtener el título de grado de Licenciatura en Sistemas.
   </div>
 <br />&nbsp;
 </details>
