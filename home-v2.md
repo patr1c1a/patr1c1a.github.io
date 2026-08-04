@@ -1,10 +1,9 @@
 ---
 layout: home
-title: Nueva Home
+title: Home V2
 permalink: /home-v2/
-published: true
 ---
 
-# Home V2
+# Nueva Home
 
-En construcción.
+Esta página reemplazará al index actual.
