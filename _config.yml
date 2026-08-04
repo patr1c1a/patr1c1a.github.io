@@ -26,3 +26,7 @@ markdown: kramdown
 plugins: [jekyll-paginate, jekyll-gist]
 
 theme_mode: dark
+
+collections:
+  products:
+    output: true
