@@ -2,12 +2,10 @@
 <html>
   <head>
     {% include head.html %}
+    <link rel="stylesheet" href="/static/css/redesign/main.css">
   </head>
 
-  <body class="home overflow-hidden">
-    {% include header.html %}
-    {% include main.html %}
-    {% include js.html %}
-    {% include analytics.html %}
+  <body>
+    {{ content }}
   </body>
 </html>

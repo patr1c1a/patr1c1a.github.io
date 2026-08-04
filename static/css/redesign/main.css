@@ -29,7 +29,7 @@ main {
     padding: 2rem;
 }
 
-.site-header-v2 {
+.site-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -37,12 +37,12 @@ main {
     margin-bottom: 3rem;
 }
 
-.site-header-v2 nav {
+.site-header nav {
     display: flex;
     gap: 1.5rem;
 }
 
-.site-header-v2 a {
+.site-header a {
     text-decoration: none;
     color: inherit;
 }
