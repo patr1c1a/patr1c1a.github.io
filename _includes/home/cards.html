@@ -4,29 +4,33 @@
 
     <div class="cards-grid">
 
-        <article class="home-card">
-            <h3>No sé por dónde empezar</h3>
-            <p>Encontrá un recorrido para comenzar.</p>
-            <a href="/empezar/">Empezar</a>
-        </article>
+        {% include card.html
+            title="No sé por dónde empezar"
+            description="Encontrá un recorrido para comenzar."
+            button_text="Empezar"
+            button_url="/empezar/"
+        %}
 
-        <article class="home-card">
-            <h3>Quiero aprender programación</h3>
-            <p>Recursos, herramientas y productos.</p>
-            <a href="/programacion/">Programación</a>
-        </article>
+        {% include card.html
+            title="Quiero aprender programación"
+            description="Recursos, herramientas y productos."
+            button_text="Programación"
+            button_url="/programacion/"
+        %}
 
-        <article class="home-card">
-            <h3>Quiero aprender a usar IA</h3>
-            <p>Recursos para personas técnicas y no técnicas.</p>
-            <a href="/ia/">IA</a>
-        </article>
+        {% include card.html
+            title="Quiero aprender a usar IA"
+            description="Recursos para personas técnicas y no técnicas."
+            button_text="IA"
+            button_url="/ia/"
+        %}
 
-        <article class="home-card">
-            <h3>Buscar temas</h3>
-            <p>Encontrá un contenido específico.</p>
-            <button>Buscar</button>
-        </article>
+        {% include card.html
+            title="Buscar temas"
+            description="Encontrá un contenido específico."
+            button_text="Buscar"
+            button_url="#"
+        %}
 
     </div>
 
