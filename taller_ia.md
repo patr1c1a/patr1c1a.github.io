@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Taller "¿Cómo aprovecho mejor a la IA?"
+title: Taller "¿Cómo aprovecho mejor la IA?"
 permalink: /taller_ia/
 ---
 
-## Taller teórico-práctico: "¿Cómo aprovecho mejor a la IA?"
+## Taller teórico-práctico: "¿Cómo aprovecho mejor la IA?"
 
 &nbsp;
 
