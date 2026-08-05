@@ -316,3 +316,23 @@ main {
 .button-primary:hover {
     opacity: .9;
 }
+
+.post-type {
+    display: inline-block;
+    margin: 1rem 0;
+    padding: .3rem .75rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    font-size: .8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+}
+
+.post-card img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    border-radius: var(--radius);
+}
