@@ -1,0 +1,15 @@
+items:
+  - title: "24 Días, 24 Desafíos de Código"
+    description: "Ebook con ejercicios explicados paso a paso."
+    type: "Libro"
+    url: "/productos/libro-24desafios/"
+
+  - title: "Taller de IA"
+    description: "Taller práctico para aprender a usar IA."
+    type: "Taller"
+    url: "/productos/taller-ia/"
+
+  - title: "Experiencia guiada de IA"
+    description: "Primer ciclo de experiencia grupal mediante WhatsApp."
+    type: "Grupo"
+    url: "/productos/experiencia-ia-1/"

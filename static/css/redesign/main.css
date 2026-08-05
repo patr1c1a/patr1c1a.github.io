@@ -226,3 +226,24 @@ main {
 .footer-about h3 {
     margin-top: 0;
 }
+
+.section-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.section-header h2 {
+    margin: 0;
+}
+
+.section-header a {
+    color: var(--text);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.section-header a:hover {
+    color: var(--primary);
+}

@@ -1,0 +1,32 @@
+{% assign items = site.data.home_highlights.items %}
+
+{% if items.size > 0 %}
+
+<section class="home-section">
+
+    <div class="section-header">
+        <h2>Lo nuevo</h2>
+
+        <a href="/tienda/">
+            Ver todos →
+        </a>
+    </div>
+
+    <div class="cards-grid">
+
+        {% for item in items %}
+
+            {% include card.html
+                title=item.title
+                description=item.description
+                button_text="Más información"
+                button_url=item.url
+            %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
+{% endif %}
