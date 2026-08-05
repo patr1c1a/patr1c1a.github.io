@@ -1,0 +1,25 @@
+<article class="card product-card">
+
+    {% if include.type %}
+        <div class="product-type">
+            {{ include.type }}
+        </div>
+    {% endif %}
+
+    {% if include.image %}
+        <img src="{{ include.image }}" alt="{{ include.title }}">
+    {% endif %}
+
+    <h3>{{ include.title }}</h3>
+
+    {% if include.description %}
+        <p>{{ include.description }}</p>
+    {% endif %}
+
+    {% if include.button_text and include.button_url %}
+        <a href="{{ include.button_url }}">
+            {{ include.button_text }}
+        </a>
+    {% endif %}
+
+</article>

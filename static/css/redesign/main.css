@@ -247,3 +247,19 @@ main {
 .section-header a:hover {
     color: var(--primary);
 }
+
+.product-card {
+    position: relative;
+}
+
+.product-type {
+    display: inline-block;
+    margin-bottom: 1rem;
+    padding: .3rem .75rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    font-size: .8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+}
