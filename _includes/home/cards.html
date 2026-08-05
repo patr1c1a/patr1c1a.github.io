@@ -1,37 +1,15 @@
 <section class="home-section">
-
     <h2>¿Qué querés hacer hoy?</h2>
-
     <div class="cards-grid">
+        {% for item in site.data.home.quick_access %}
 
-        {% include card.html
-            title="No sé por dónde empezar"
-            description="Encontrá un recorrido para comenzar."
-            button_text="Empezar"
-            button_url="/empezar/"
-        %}
+            {% include card.html
+                title=item.title
+                description=item.description
+                button_text=item.button
+                button_url=item.url
+            %}
 
-        {% include card.html
-            title="Quiero aprender programación"
-            description="Recursos, herramientas y productos."
-            button_text="Programación"
-            button_url="/programacion/"
-        %}
-
-        {% include card.html
-            title="Quiero aprender a usar IA"
-            description="Recursos para personas técnicas y no técnicas."
-            button_text="IA"
-            button_url="/ia/"
-        %}
-
-        {% include card.html
-            title="Buscar temas"
-            description="Encontrá un contenido específico."
-            button_text="Buscar"
-            button_url="#"
-        %}
-
+        {% endfor %}
     </div>
-
 </section>
