@@ -1,0 +1,24 @@
+items:
+  - title: "¿Por dónde empezar a programar?"
+    type: "Guía"
+    description: "Una guía para comenzar desde cero."
+    image: "/static/img/destacados1.png"
+    url: "/blog/post1/"
+
+  - title: "Los fundamentos de POO"
+    type: "Infografía"
+    description: "Fundamentos de programación orientada a objetos, simplificados."
+    image: "/static/img/destacados2.png"
+    url: "/poo/conceptos/2025/04/27/fundamentos-poo.html"
+
+  - title: "5 herramientas de IA"
+    type: "Carrusel"
+    description: "Cinco herramientas que uso todos los días."
+    image: "/static/img/destacados3.png"
+    url: "/blog/post3/"
+
+  - title: "Ejercicios de lógica"
+    type: "Ejercicio"
+    description: "Problemas para practicar pensamiento lógico."
+    image: "/static/img/destacados4.png"
+    url: "/blog/post4/"
