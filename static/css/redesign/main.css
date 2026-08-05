@@ -263,3 +263,56 @@ main {
     text-transform: uppercase;
     letter-spacing: .04em;
 }
+
+.start-guide {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    align-items: center;
+    gap: 4.5rem;
+    padding: 2.5rem 11rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+}
+
+.start-guide-content h2 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.start-guide-content p {
+    margin-bottom: 2rem;
+    color: var(--muted);
+}
+
+.start-guide-image {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    justify-self: center;
+}
+
+.start-guide-image img {
+    display: block;
+    width: 140px;
+    height: auto;
+}
+
+.start-guide-content {
+    min-width: 0;
+}
+
+.button-primary {
+    display: inline-block;
+    padding: .85rem 1.6rem;
+    border-radius: 999px;
+    background: var(--primary);
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    transition: opacity .2s;
+}
+
+.button-primary:hover {
+    opacity: .9;
+}
