@@ -17,8 +17,8 @@ items:
     image: "/static/img/home/featured_posts/thumbnail_24_desafios.png"
     url: "/ejercicios/desafios/2025/12/24/calendario-adviento/"
 
-  - title: "Ejercicios de lógica"
-    type: "Ejercicio"
-    description: "Problemas para practicar pensamiento lógico."
-    image: "/static/img/home/featured_posts/thumbnail_post4.png"
-    url: "/blog/post4/"
+  - title: "Modelos de IA"
+    type: "Video"
+    description: "En 1 minuto te ayudo a entender qué es un modelo de inteligencia artificial."
+    image: "/static/img/home/featured_posts/thumbnail_modelos_ia.png"
+    url: "/ia/2026/08/05/que-es-un-modelo-ia/"
