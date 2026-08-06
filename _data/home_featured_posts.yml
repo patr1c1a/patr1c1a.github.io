@@ -20,5 +20,5 @@ items:
   - title: "Modelos de IA"
     type: "Video"
     description: "En 1 minuto te ayudo a entender qué es un modelo de inteligencia artificial."
-    image: "/static/img/home/featured_posts/thumbnail_modelos_ia.png"
+    image: "/static/img/home/featured_posts/thumbnail_modelo_ia.png"
     url: "/ia/2026/08/05/que-es-un-modelo-ia/"
