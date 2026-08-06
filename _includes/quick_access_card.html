@@ -1,0 +1,21 @@
+<article class="card quick-access-card">
+
+    {% if include.icon %}
+        <div class="quick-access-icon">
+            <img src="{{ include.icon }}" alt="">
+        </div>
+    {% endif %}
+
+    <h3>{{ include.title }}</h3>
+
+    {% if include.description %}
+        <p>{{ include.description }}</p>
+    {% endif %}
+
+    {% if include.button_text and include.button_url %}
+        <a href="{{ include.button_url }}">
+            {{ include.button_text }}
+        </a>
+    {% endif %}
+
+</article>
