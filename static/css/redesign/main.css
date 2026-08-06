@@ -376,3 +376,48 @@ main {
     text-decoration: none;
     font-weight: 600;
 }
+
+.mailing-list {
+    display: grid;
+    grid-template-columns: 80px 1fr auto;
+    gap: 2rem;
+    align-items: center;
+    padding: 2rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+}
+
+.mailing-list-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5rem;
+}
+
+.mailing-list-title h2 {
+    margin: 0;
+}
+
+.mailing-list-form form {
+    display: flex;
+    gap: 1rem;
+}
+
+.mailing-list-form input {
+    width: 260px;
+    padding: .8rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    font: inherit;
+}
+
+.mailing-list-form button {
+    padding: .8rem 1.5rem;
+    border: none;
+    border-radius: 999px;
+    cursor: pointer;
+    background: var(--primary);
+    color: white;
+    font: inherit;
+}
