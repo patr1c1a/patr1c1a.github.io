@@ -1,0 +1,12 @@
+items:
+  - title: "Plataforma de práctica"
+    description: "Desafíos de programación en Python para mejorar tus habilidades."
+    button: "Ir a la plataforma"
+    image: "/static/img/home/tools/thumbnail_code.png"
+    url: "https://code.patriciaemiguel.com"
+
+  - title: "Test de IA"
+    description: "Para descubrir cómo es tu relación con la IA y obtener sugerencias de acuerdo a tu perfil."
+    button: "Ir al test"
+    image: "/static/img/home/tools/thumbnail_iatest.png"
+    url: "https://iatest.patriciaemiguel.com"

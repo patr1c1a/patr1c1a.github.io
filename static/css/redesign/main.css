@@ -336,3 +336,43 @@ main {
     object-fit: cover;
     border-radius: var(--radius);
 }
+
+.tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+    gap: 1.5rem;
+}
+
+.tool-card {
+    display: grid;
+    grid-template-columns: 88px 1fr;
+    gap: 1.5rem;
+    align-items: center;
+
+    padding: 1.5rem;
+
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+}
+
+.tool-image img {
+    display: block;
+    width: 88px;
+    height: 88px;
+    border-radius: 12px;
+}
+
+.tool-content h3 {
+    margin: 0 0 .5rem;
+}
+
+.tool-content p {
+    margin: 0 0 1rem;
+    color: var(--muted);
+}
+
+.tool-content a {
+    text-decoration: none;
+    font-weight: 600;
+}
