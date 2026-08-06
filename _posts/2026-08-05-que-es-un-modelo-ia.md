@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¿Qué es en realidad un "modelo" de IA?
-date: 2026-07-22 16:00:00
+date: 2026-08-05 16:00:00
 categories: ia
 tags: modelo llm machine_learning entrenamiento redes_neuronales chatgpt claude gemini 
 published: true
