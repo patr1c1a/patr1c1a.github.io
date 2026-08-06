@@ -1,7 +1,7 @@
 <section class="home-section">
     <h2>¿Qué querés hacer hoy?</h2>
     <div class="cards-grid">
-        {% for item in site.data.home.quick_access %}
+        {% for item in site.data.home_quick_access.quick_access %}
 
             {% include quick_access_card.html
                 title=item.title
