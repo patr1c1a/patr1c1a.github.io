@@ -1,20 +1,20 @@
 quick_access:
   - title: "No sé por dónde empezar"
-    description: "Encontrá un recorrido para comenzar."
+    description: "Encontrar un recorrido para comenzar."
     button: "Empezar"
     url: "/empezar/"
 
   - title: "Quiero aprender programación"
-    description: "Recursos, herramientas y productos."
+    description: "Desde cero o para seguir avanzando."
     button: "Programación"
     url: "/programacion/"
 
   - title: "Quiero aprender a usar IA"
-    description: "Recursos para personas técnicas y no técnicas."
+    description: "Para ser más productivo aunque no seas programador."
     button: "IA"
     url: "/ia/"
 
   - title: "Buscar temas"
-    description: "Encontrá un contenido específico."
+    description: "Encontrar un contenido específico."
     button: "Buscar"
     url: "#"
