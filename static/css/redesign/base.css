@@ -1,0 +1,68 @@
+:root {
+    --background: #e8edf2;
+    --surface: #ffffff;
+    --text: #1f2937;
+    --muted: #5b6470;
+    --primary: #2563eb;
+    --border: #d5dbe3;
+
+    --radius: 14px;
+
+    --content-width: 1200px;
+
+    --space-1: .5rem;
+    --space-2: .75rem;
+    --space-3: 1rem;
+    --space-4: 1.5rem;
+    --space-5: 2rem;
+    --space-6: 3rem;
+
+    --text-sm: .875rem;
+    --text-base: 1rem;
+    --text-lg: 1.125rem;
+    --text-xl: 1.5rem;
+    --text-2xl: 2rem;
+    --text-3xl: 2.5rem;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+main {
+    width: 100%;
+    padding: 0 2rem 2rem;
+}
+
+body {
+    margin: 0;
+    background: var(--background);
+    color: var(--text);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    line-height: 1.6;
+    padding: 1.5rem;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 2.25rem;
+}
+
+h2 {
+    font-size: 1.75rem;
+}
+
+h3 {
+    font-size: 1.25rem;
+}
+
+h4 {
+    font-size: 1.05rem;
+}
+
+p,
+li,
+a,
+button {
+    font-size: 1rem;
+}
