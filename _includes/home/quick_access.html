@@ -4,6 +4,7 @@
         {% for item in site.data.home_quick_access.quick_access %}
 
             {% include quick_access_card.html
+                icon=item.icon
                 title=item.title
                 description=item.description
                 button_text=item.button

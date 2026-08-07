@@ -2,7 +2,7 @@
 
     {% if include.icon %}
         <div class="quick-access-icon">
-            <img src="{{ include.icon }}" alt="">
+            {% include icon.html name=include.icon %}
         </div>
     {% endif %}
 
@@ -12,10 +12,14 @@
         <p>{{ include.description }}</p>
     {% endif %}
 
-    {% if include.button_text and include.button_url %}
-        <a class="button-primary" href="{{ include.button_url }}">
-            {{ include.button_text }}
-        </a>
-    {% endif %}
+    <div class="quick-access-footer">
+
+        {% if include.button_text and include.button_url %}
+            <a class="button-primary" href="{{ include.button_url }}">
+                {{ include.button_text }}
+            </a>
+        {% endif %}
+
+    </div>
 
 </article>

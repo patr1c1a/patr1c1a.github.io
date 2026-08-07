@@ -427,7 +427,6 @@ main {
     font-weight: 600;
 }
 
-.product-card img,
 .post-card img {
     display: block;
     width: 100%;
@@ -446,6 +445,42 @@ main {
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: .04em;
+}
+
+.quick-access-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.quick-access-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    font-size: 3rem;
+    line-height: 1;
+}
+
+.quick-access-footer {
+    margin-top: auto;
+}
+
+.quick-access-card h3,
+.quick-access-card p,
+.quick-access-footer {
+    text-align: center;
+}
+
+.quick-access-card .button-primary {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+    min-width: 150px;
+    align-self: center;
+
+    border-radius: 10px;
 }
 
 .highlighted-product-footer {

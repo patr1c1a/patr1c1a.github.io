@@ -1,20 +1,24 @@
 quick_access:
-  - title: "No sé por dónde empezar"
+  - icon: compass
+    title: "No sé por dónde empezar"
     description: "Encontrar un recorrido para comenzar."
     button: "Empezar"
     url: "/empezar/"
 
-  - title: "Quiero aprender programación"
+  - icon: code
+    title: "Quiero aprender programación"
     description: "Desde cero o para seguir avanzando."
     button: "Programación"
     url: "/programacion/"
 
-  - title: "Quiero aprender a usar IA"
+  - icon: brain
+    title: "Quiero aprender a usar IA"
     description: "Para ser más productivo aunque no seas programador."
     button: "IA"
     url: "/ia/"
 
-  - title: "Buscar temas"
+  - icon: search
+    title: "Buscar temas"
     description: "Encontrar un contenido específico."
     button: "Buscar"
     url: "#"
