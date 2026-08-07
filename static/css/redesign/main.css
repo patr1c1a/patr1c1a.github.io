@@ -262,10 +262,6 @@ main {
     color: var(--primary);
 }
 
-.product-card {
-    position: relative;
-}
-
 .start-guide {
     display: grid;
     grid-template-columns: auto minmax(0, 1fr);
@@ -317,14 +313,6 @@ main {
 
 .button-primary:hover {
     opacity: .9;
-}
-
-.post-card img {
-    display: block;
-    width: 100%;
-    aspect-ratio: 3 / 2;
-    object-fit: cover;
-    border-radius: var(--radius);
 }
 
 .tools-grid {
@@ -425,14 +413,6 @@ main {
     align-self: flex-end;
     font-size: 1.4rem;
     font-weight: 600;
-}
-
-.post-card img {
-    display: block;
-    width: 100%;
-    aspect-ratio: 3 / 2;
-    object-fit: cover;
-    border-radius: var(--radius);
 }
 
 .card-badge {
