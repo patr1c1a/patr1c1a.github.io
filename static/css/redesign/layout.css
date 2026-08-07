@@ -161,3 +161,21 @@
 .section-header a:hover {
     color: var(--primary);
 }
+
+.landing-page {
+    width: 100%;
+}
+
+.landing-hero {
+    margin-bottom: 3rem;
+}
+
+.landing-hero h1 {
+    margin-bottom: 1rem;
+}
+
+.landing-hero p {
+    max-width: 720px;
+    color: var(--muted);
+    font-size: 1.1rem;
+}
