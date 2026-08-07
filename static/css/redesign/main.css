@@ -252,18 +252,6 @@ main {
     position: relative;
 }
 
-.product-type {
-    display: inline-block;
-    margin-bottom: 1rem;
-    padding: .3rem .75rem;
-    border: 1px solid var(--border);
-    border-radius: 999px;
-    font-size: .8rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: .04em;
-}
-
 .start-guide {
     display: grid;
     grid-template-columns: auto minmax(0, 1fr);
@@ -315,18 +303,6 @@ main {
 
 .button-primary:hover {
     opacity: .9;
-}
-
-.post-type {
-    display: inline-block;
-    margin: 1rem 0;
-    padding: .3rem .75rem;
-    border: 1px solid var(--border);
-    border-radius: 999px;
-    font-size: .8rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: .04em;
 }
 
 .post-card img {
@@ -444,4 +420,27 @@ main {
     aspect-ratio: 3 / 2;
     object-fit: cover;
     border-radius: var(--radius);
+}
+
+.card-badge {
+    display: inline-block;
+    margin: 1rem 0;
+    padding: .3rem .75rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    font-size: .8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+}
+
+.highlighted-product-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+}
+
+.highlighted-product-link {
+    font-weight: 600;
 }

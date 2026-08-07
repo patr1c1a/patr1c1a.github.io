@@ -1,0 +1,28 @@
+<a class="card highlighted-product-card"
+   href="{{ include.url }}">
+
+    {% if include.type %}
+        <div class="card-badge">
+            {{ include.type }}
+        </div>
+    {% endif %}
+
+    <h3>{{ include.title }}</h3>
+
+    {% if include.description %}
+        <p>{{ include.description }}</p>
+    {% endif %}
+
+    <div class="highlighted-product-footer">
+
+        <span class="highlighted-product-link">
+            Más información
+        </span>
+
+        <span class="card-arrow">
+            →
+        </span>
+
+    </div>
+
+</a>
