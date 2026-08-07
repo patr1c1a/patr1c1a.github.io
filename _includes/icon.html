@@ -1,0 +1,18 @@
+{% case include.name %}
+    {% when "calendar" %}
+        📅
+    {% when "clock" %}
+        🕒
+    {% when "users" %}
+        👥
+    {% when "book" %}
+        📘
+    {% when "code" %}
+        💻
+    {% when "mail" %}
+        ✉
+    {% when "search" %}
+        🔍
+    {% else %}
+        •
+{% endcase %}
