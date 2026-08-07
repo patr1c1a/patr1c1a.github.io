@@ -1,0 +1,18 @@
+<div class="metadata-item">
+
+    <span class="metadata-icon">
+        {% case include.icon %}
+            {% when "calendar" %}📅
+            {% when "clock" %}🕒
+            {% when "users" %}👥
+            {% when "book" %}📘
+            {% when "code" %}💻
+            {% else %}• 
+        {% endcase %}
+    </span>
+
+    <span class="metadata-text">
+        {{ include.text }}
+    </span>
+
+</div>

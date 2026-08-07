@@ -1,21 +1,30 @@
 items:
   - title: "Taller de IA"
     metadata:
-      - "Inscripción abierta"
-      - "Fecha a definir"
+      - icon: "clock"
+        text: "Inscripción abierta"
+      
+      - icon: "calendar"
+        text: "Fecha a definir"
     type: "Taller"
     url: "/productos/taller-ia-1/"
 
   - title: "Experiencia guiada de IA"
     metadata:
-      - "Inicia en septiembre"
-      - "Mediante WhatsApp"
+      - icon: "calendar"
+        text: "Inicia en septiembre"
+      
+      - icon: "users"
+        text: "Mediante WhatsApp"
     type: "Práctica"
     url: "/productos/experiencia-ia-1/"
 
   - title: "24 Días, 24 Desafíos de Código"
     metadata:
-      - "PDF descargable"
-      - "24 ejercicios"
+      - icon: "book"
+        text: "PDF descargable"
+
+      - icon: "code"
+        text: "24 ejercicios"
     type: "Libro"
     url: "/productos/libro-24desafios/"

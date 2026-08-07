@@ -456,3 +456,17 @@ main {
     color: var(--muted);
     font-size: .95rem;
 }
+
+.metadata-item {
+    display: flex;
+    align-items: center;
+    gap: .6rem;
+}
+
+.metadata-icon {
+    flex: 0 0 auto;
+}
+
+.metadata-text {
+    color: var(--muted);
+}

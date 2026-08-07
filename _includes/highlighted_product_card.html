@@ -11,9 +11,14 @@
 
     {% if include.metadata %}
         <ul class="product-metadata">
-            {% for item in include.metadata %}
-                <li>{{ item }}</li>
-            {% endfor %}
+        {% for item in include.metadata %}
+            <li>
+                {% include metadata_item.html
+                    icon=item.icon
+                    text=item.text
+                %}
+            </li>
+        {% endfor %}
         </ul>
     {% endif %}
 
