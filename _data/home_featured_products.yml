@@ -1,15 +1,18 @@
 items:
   - title: "24 Días, 24 Desafíos de Código"
-    description: "Ebook con ejercicios explicados paso a paso."
     type: "Libro"
+    description: "Ebook con ejercicios explicados paso a paso."
+    image: "/static/img/home/featured_products/thumbnail_24_desafios.png"
     url: "/productos/libro-24desafios/"
 
   - title: "Taller de IA"
-    description: "Taller práctico para aprender a usar IA."
     type: "Taller"
+    description: "Taller práctico para aprender a usar IA."
+    image: "/static/img/home/featured_products/thumbnail_taller_ia.png"
     url: "/productos/taller-ia-1/"
 
   - title: "Experiencia guiada de IA"
-    description: "Primer ciclo de experiencia grupal mediante WhatsApp"
     type: "Práctica"
+    description: "Primer ciclo de experiencia grupal mediante WhatsApp"
+    image: "/static/img/home/featured_products/thumbnail_practica_ia.png"
     url: "/productos/experiencia-ia-1/"

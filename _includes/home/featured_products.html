@@ -15,9 +15,9 @@
 
             {% include featured_resource_card.html
                 title=item.title
+                image=item.image
                 type=item.type
-                button_text="Más información"
-                button_url=item.url
+                url=item.url
             %}
 
         {% endfor %}
