@@ -421,3 +421,27 @@ main {
     color: white;
     font: inherit;
 }
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: inherit;
+}
+
+.card-arrow {
+    margin-top: auto;
+    align-self: flex-end;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.product-card img,
+.post-card img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    border-radius: var(--radius);
+}

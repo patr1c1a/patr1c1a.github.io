@@ -7,9 +7,9 @@ items:
   - title: "Taller de IA"
     description: "Taller práctico para aprender a usar IA."
     type: "Taller"
-    url: "/productos/taller-ia/"
+    url: "/productos/taller-ia-1/"
 
   - title: "Experiencia guiada de IA"
     description: "Primer ciclo de experiencia grupal mediante WhatsApp."
-    type: "Grupo"
+    type: "Práctica"
     url: "/productos/experiencia-ia-1/"
