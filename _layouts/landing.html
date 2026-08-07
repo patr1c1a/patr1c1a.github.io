@@ -2,4 +2,19 @@
 layout: default
 ---
 
-{{ content }}
+{% include header.html %}
+
+<main class="landing-page">
+
+    <section class="landing-hero container">
+        <h1>{{ page.hero_title }}</h1>
+        {% if page.hero_text %}
+            <p>{{ page.hero_text }}</p>
+        {% endif %}
+    </section>
+    
+    {{ content }}
+
+</main>
+
+{% include footer.html %}
