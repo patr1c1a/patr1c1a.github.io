@@ -9,8 +9,12 @@
 
     <h3>{{ include.title }}</h3>
 
-    {% if include.description %}
-        <p>{{ include.description }}</p>
+    {% if include.metadata %}
+        <ul class="product-metadata">
+            {% for item in include.metadata %}
+                <li>{{ item }}</li>
+            {% endfor %}
+        </ul>
     {% endif %}
 
     <div class="highlighted-product-footer">

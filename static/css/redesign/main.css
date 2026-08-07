@@ -444,3 +444,15 @@ main {
 .highlighted-product-link {
     font-weight: 600;
 }
+
+.product-metadata {
+    margin: 1rem 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+.product-metadata li {
+    margin-bottom: .4rem;
+    color: var(--muted);
+    font-size: .95rem;
+}
