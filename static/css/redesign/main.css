@@ -168,7 +168,7 @@ main {
 
 .card {
     background: var(--surface);
-    border-radius: var(--radius);
+    
     padding: 1.25rem;
     border: 1px solid var(--border);
 }
@@ -417,6 +417,7 @@ main {
 
 .card-badge {
     display: inline-block;
+    align-self: flex-start;
     margin: 1rem 0;
     padding: .3rem .75rem;
     border: 1px solid var(--border);
@@ -498,4 +499,32 @@ main {
 
 .metadata-text {
     color: var(--muted);
+}
+
+.featured-resource-card {
+    padding: 0;
+    overflow: hidden;
+}
+
+.featured-resource-image img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+}
+
+.featured-resource-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+
+    padding: 1.25rem;
+}
+
+.featured-resource-content h3 {
+    margin: .8rem 0 0;
+}
+
+.featured-resource-content .card-arrow {
+    margin-top: auto;
 }
