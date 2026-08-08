@@ -206,6 +206,10 @@
     scroll-margin-top: 2rem;
 }
 
+.learning-guide-section + .learning-guide-section {
+    margin-top: 10rem;
+}
+
 .back-to-toc {
     margin-top: 2rem;
     margin-bottom: 3rem;

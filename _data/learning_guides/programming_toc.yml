@@ -1,21 +1,21 @@
 toc:
   - title: Antes de aprender nada
-    url: "#antes-de-aprender"
+    id: antes-de-aprender
 
   - title: ¿Cómo está organizado todo este mundo?
-    url: "#ecosistema"
+    id: ecosistema
 
   - title: ¿Qué deberías aprender primero?
-    url: "#que-aprender-primero"
+    id: que-aprender-primero
 
   - title: Los errores más comunes
-    url: "#errores"
+    id: errores
 
   - title: ¿Cómo priorizar qué aprender?
-    url: "#priorizar"
+    id: priorizar
 
   - title: ¿Qué cambia con la IA?
-    url: "#cambios-ia"
+    id: cambios-ia
 
   - title: ¿Cuál debería ser tu próximo paso?
-    url: "#proximo-paso"
+    id: proximo-paso

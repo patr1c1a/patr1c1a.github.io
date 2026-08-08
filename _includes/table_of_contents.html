@@ -1,17 +1,15 @@
-{% assign toc = include.items %}
-
 <nav id="contenido" class="table-of-contents">
 
     <h3>Contenido</h3>
 
-    <ul>
-        {% for item in toc %}
+    <ol>
+        {% for item in include.items %}
             <li>
-                <a href="{{ item.url }}">
+                <a href="#{{ item.id }}">
                     {{ item.title }}
                 </a>
             </li>
         {% endfor %}
-    </ul>
+    </ol>
 
 </nav>

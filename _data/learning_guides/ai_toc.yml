@@ -1,24 +1,24 @@
 toc:
   - title: Antes de elegir una herramienta
-    url: "#antes-de-elegir"
+    id: antes-de-elegir
 
   - title: No toda la IA requiere conocimientos técnicos
-    url: "#conocimientos"
+    id: conocimientos
 
   - title: ¿Qué deberías aprender primero?
-    url: "#primeros-pasos"
+    id: primeros-pasos
 
   - title: ¿Necesito aprender otra herramienta?
-    url: "#otra-herramienta"
+    id: otra-herramienta
 
   - title: ¿Cuál es la mejor IA?
-    url: "#mejor-ia"
+    id: mejor-ia
 
-  - title: Los errores más comunes
-    url: "#errores"
+  - title: Los errores más comunes al empezar
+    id: errores
 
-  - title: ¿Cómo seguir aprendiendo?
-    url: "#seguir"
+  - title: ¿Cómo seguir aprendiendo sin apabullarte?
+    id: seguir
 
   - title: ¿Cuál debería ser tu próximo paso?
-    url: "#proximo-paso"
+    id: proximo-paso
