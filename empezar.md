@@ -8,31 +8,25 @@ published: true
 ---
 
 <section class="learning-path-selector">
+    {% include learning_path_card.html
+        title="Programación y desarrollo"
+        description="Construir una base sólida para desenvolverte en el mundo del desarrollo de software."
+        button_text="Comenzar recorrido"
+        url="#programacion"
+    %}
 
-{% include learning_path_card.html
-title="Programación"
-description="Construir una base sólida para desenvolverte en el mundo del desarrollo de software."
-button_text="Comenzar recorrido"
-url="#programacion"
-%}
-
-{% include learning_path_card.html
-title="Inteligencia Artificial"
-description="Aprender a aprovechar la IA para trabajar mejor, crear más y resolver tareas."
-button_text="Comenzar recorrido"
-url="#ia"
-%}
-
+    {% include learning_path_card.html
+        title="Inteligencia Artificial"
+        description="Aprender a aprovechar la IA para trabajar mejor, crear más y automatizar tareas."
+        button_text="Comenzar recorrido"
+        url="#ia"
+    %}
 </section>
 
-<section id="programacion">
-
-{% include landing/learning_guides/programming.html %}
-
+<section id="programacion" class="learning-guide-section">
+    {% include landing/learning_guides/programming.html %}
 </section>
 
-<section id="ia">
-
-{% include landing/learning_guides/ai.html %}
-
+<section id="ia" class="learning-guide-section">
+    {% include landing/learning_guides/ai.html %}
 </section>
