@@ -27,24 +27,12 @@ url="#ia"
 
 <section id="programacion">
 
-<h2>Guía para empezar en Desarrollo de Software</h2>
-
-{% include table_of_contents.html
-items=site.data.start_landing.programming.toc
-%}
-
-<p>(Contenido pendiente)</p>
+{% include landing/learning_guides/programming.html %}
 
 </section>
 
 <section id="ia">
 
-<h2>Guía para empezar con Inteligencia Artificial</h2>
-
-{% include table_of_contents.html
-items=site.data.start_landing.ai.toc
-%}
-
-<p>(Contenido pendiente)</p>
+{% include landing/learning_guides/ai.html %}
 
 </section>
