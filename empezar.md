@@ -27,13 +27,11 @@ url="#ia"
 
 <section id="programacion">
 
-<h2>Guía para empezar en informática</h2>
+<h2>Guía para empezar en Desarrollo de Software</h2>
 
-{% assign toc = "
-Antes de aprender nada:entender-el-mapa|
-¿Cómo está organizado todo?:ecosistema|
-¿Qué deberías aprender primero?:primeros-pasos
-" | split:"|" %}
+{% include table_of_contents.html
+items=site.data.start_landing.programming.toc
+%}
 
 <p>(Contenido pendiente)</p>
 
@@ -42,6 +40,10 @@ Antes de aprender nada:entender-el-mapa|
 <section id="ia">
 
 <h2>Guía para empezar con Inteligencia Artificial</h2>
+
+{% include table_of_contents.html
+items=site.data.start_landing.ai.toc
+%}
 
 <p>(Contenido pendiente)</p>
 
