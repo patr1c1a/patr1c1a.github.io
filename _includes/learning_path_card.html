@@ -1,0 +1,11 @@
+<a class="learning-path-card" href="{{ include.url }}">
+    <h2>{{ include.title }}</h2>
+
+    {% if include.description %}
+        <p>{{ include.description }}</p>
+    {% endif %}
+
+    <span class="learning-path-link">
+        {{ include.button_text }} →
+    </span>
+</a>

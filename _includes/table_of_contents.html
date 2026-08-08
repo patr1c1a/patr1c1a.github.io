@@ -1,0 +1,15 @@
+<nav class="table-of-contents">
+
+    <h3>Contenido</h3>
+
+    <ol>
+        {% for item in include.items %}
+            <li>
+                <a href="#{{ item.id }}">
+                    {{ item.title }}
+                </a>
+            </li>
+        {% endfor %}
+    </ol>
+
+</nav>

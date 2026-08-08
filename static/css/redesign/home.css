@@ -190,4 +190,45 @@
     font: inherit;
 }
 
+.learning-path-selector {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
+    margin: 3rem 0 5rem;
+}
 
+.learning-path-card {
+    display: flex;
+    flex-direction: column;
+
+    padding: 2rem;
+
+    background: var(--surface);
+
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+
+    text-decoration: none;
+    color: inherit;
+
+    transition: border-color .2s, transform .2s;
+}
+
+.learning-path-card:hover {
+    border-color: var(--primary);
+    transform: translateY(-2px);
+}
+
+.learning-path-card h2 {
+    margin-top: 0;
+}
+
+.learning-path-card p {
+    flex: 1;
+    color: var(--muted);
+}
+
+.learning-path-link {
+    margin-top: 2rem;
+    font-weight: 600;
+}
