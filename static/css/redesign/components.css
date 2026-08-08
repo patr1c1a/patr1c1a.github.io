@@ -162,3 +162,42 @@
 .table-of-contents a:hover {
     color: var(--primary);
 }
+
+.learning-guide {
+    max-width: 900px;
+}
+
+.learning-guide > h2:first-child {
+    margin-top: 0;
+}
+
+.learning-guide h2 {
+    margin-top: 3rem;
+    scroll-margin-top: 2rem;
+}
+
+.learning-guide h3 {
+    margin-top: 2rem;
+}
+
+.learning-guide table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+}
+
+.learning-guide th,
+.learning-guide td {
+    padding: .75rem;
+    border: 1px solid var(--border);
+    text-align: left;
+}
+
+.learning-guide th {
+    background: #f7f9fb;
+}
+
+.learning-guide ul,
+.learning-guide ol {
+    padding-left: 1.5rem;
+}

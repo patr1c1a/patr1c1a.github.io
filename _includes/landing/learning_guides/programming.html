@@ -1,7 +1,553 @@
-<h2>Guía para empezar en informática</h2>
-
 {% include table_of_contents.html
-items=site.data.start_landing.programming.toc
-%}
+    items=site.data.learning_guides.programming_toc.toc %}
 
-<p>(Contenido pendiente)</p>
+<article class="learning-guide">
+
+    <h2>Guía para empezar en informática</h2>
+
+    <h2 id="antes-de-aprender">1. Antes de aprender nada, es necesario entender el "mapa"</h2>
+
+    <p>
+        Muchas personas creen que aprender programación solo sirve para convertirse en desarrollador, pero en realidad la programación es solo una herramienta y se utiliza en muchísimas áreas diferentes. Antes de decidir qué aprender, conviene conocer las principales posibilidades.
+    </p>
+
+    <h3>Desarrollo de software</h3>
+
+    <p>
+        Es la salida profesional más conocida. Consiste en crear aplicaciones, sitios web, videojuegos, aplicaciones móviles, APIs y todo tipo de software.
+    </p>
+
+    <p>
+        Es ideal para quienes disfrutan resolver problemas y construir cosas. Muchas veces se trabaja en equipos formados por varios desarrolladores y también personas que cumplen otros roles dentro del ciclo de vida del software.
+    </p>
+
+    <h3>Ciencia de datos</h3>
+
+    <p>
+        Consiste en obtener información útil a partir de grandes cantidades de datos.
+    </p>
+
+    <p>
+        Se utiliza en negocios, salud, deportes, investigación y prácticamente cualquier industria.
+    </p>
+
+    <h3>Inteligencia Artificial y Machine Learning</h3>
+
+    <p>
+        Se dedica a construir sistemas capaces de reconocer patrones, hacer predicciones o generar contenido.
+    </p>
+
+    <p>
+        Es un área que combina programación, matemática y análisis de datos. El cálculo y la estadística son dos áreas de la matemática que importan mucho en este sector.
+    </p>
+
+    <h3>Ciberseguridad</h3>
+
+    <p>
+        Se enfoca en proteger sistemas, redes y datos frente a ataques.
+    </p>
+
+    <p>
+        Quienes disfrutan investigar cómo funcionan las cosas suelen sentirse muy cómodos en este campo.
+    </p>
+
+    <h3>Cloud e infraestructura</h3>
+
+    <p>
+        Hace posible que las aplicaciones funcionen de manera confiable en servidores y centros de datos distribuidos por todo el mundo.
+    </p>
+
+    <h3>Quality Assurance</h3>
+
+    <p>
+        Los expertos en esta área se dedican a probar el software y asegurarse de que cumpla con parámetros de calidad y con las especificaciones.
+    </p>
+
+    <p>
+        Hoy, la mayoría de esas pruebas se hacen de forma automatizada y para eso se usan lenguajes de programación y frameworks que permiten interactuar con el software para ejecutar las pruebas y determinar si fueron exitosas o no.
+    </p>
+
+    <h3>Bases de datos</h3>
+
+    <p>
+        Casi toda aplicación necesita almacenar información y las bases de datos suelen ser uno de los componentes preferidos para eso.
+    </p>
+
+    <p>
+        Existen especialistas cuyo trabajo consiste en diseñar, optimizar y mantener esos sistemas.
+    </p>
+
+    <h3>Arquitectura de software</h3>
+
+    <p>
+        Cuando los proyectos crecen, alguien debe decidir cómo organizar cientos o miles de componentes para que el sistema siga siendo mantenible durante años. Ese es el trabajo de un arquitecto de software. El arquitecto, muchas veces, es un programador experimentado.
+    </p>
+
+    <h3>Sistemas embebidos, robótica e Internet de las Cosas</h3>
+
+    <p>
+        Programar dispositivos físicos, sensores, electrodomésticos, automóviles, drones o robots.
+    </p>
+
+    <h3>Videojuegos</h3>
+
+    <p>
+        En la industria de los videojuegos no solo existen programadores (cuyo trabajo es muy similar al de cualquier otro programador en otras industrias). También hay especialistas en motores gráficos, física, inteligencia artificial, networking y herramientas para desarrollo de juegos.
+    </p>
+    
+    <h3>Investigación</h3>
+
+    <p>
+        Muchas universidades y empresas desarrollan nuevas tecnologías, nuevos algoritmos y nuevos modelos de inteligencia artificial.
+    </p>
+
+    <h3>Lo importante</h3>
+
+    <p>
+        No es necesario decidir hoy mismo cuál será tu especialidad. De hecho, la mayoría de las personas cambia varias veces de área durante su carrera.
+    </p>
+
+    <p>
+        El objetivo inicial es descubrir qué posibilidades existen, no elegir para siempre.
+    </p>
+
+    <h2 id="ecosistema">
+        2. ¿Cómo está organizado todo este mundo?
+    </h2>
+
+    <p>
+        Una de las mayores fuentes de confusión para quienes empiezan es que escuchan hablar de cientos de nombres diferentes y creen que todos representan lo mismo cuando en realidad pertenecen a categorías distintas. Comprender esto elimina gran parte de la sensación de caos.
+    </p>
+
+    <h3>Lenguajes de programación</h3>
+
+    <p>
+        Son la forma en que escribimos instrucciones para la computadora. Ejemplos:
+    </p>
+
+    <ul>
+        <li>Python</li>
+        <li>Java
+        <li>C#
+        <li>JavaScript</li>
+        <li>Go</li>
+        <li>C++</li>
+    </ul>
+    
+    <p>
+        No es necesario aprender muchos. Aprender uno bien hace que aprender el siguiente sea muchísimo más fácil. Aunque no necesariamente hay que quedarse con un único lenguaje.
+    </p>
+
+    <p>
+        El punto medio que muchas veces se recomienda es el de dominar al menos un lenguaje de "scripting" (Python, JavaScript, Ruby, Bash, etc.) y uno compilado (Java, Rust, Go, C++, etc.), porque cada tipo de lenguaje te enseña a pensar de formas distintas y resuelve problemas en contextos diferentes. Sin embargo, también depende de tu especialidad. Si solo haces front-end web, quizás no necesites C. Si solo haces ciencia de datos, quizás no necesites Rust. Si solo haces DevOps, Bash y Python pueden bastarte.
+    </p>
+
+    <h3>Frameworks</h3>
+
+    <p>
+        Un framework es una base ya preparada para desarrollar cierto tipo de aplicaciones. No reemplaza al lenguaje sino que está construido sobre él. Incluso, algunos frameworks ofrecen variantes para más de un lenguaje.
+    </p>
+
+    <p>
+        Es simplemente código ya escrito por alguien (o por varias personas) para ahorrarte parte del trabajo y poder avanzar más rápido. Por ejemplo:
+    </p>
+
+    <ul>
+        <li>Python: Django, FastAPI, Flask</li>
+        <li>JavaScript: React, Angular, Vue</li>
+        <li>C#: ASP.NET Core</li>
+        <li>Java: Spring Boot</li>
+    </ul>
+
+    <h3>Bibliotecas (librerías)</h3>
+
+    <p>
+        Son conjuntos de herramientas que resuelven problemas específicos. Por ejemplo:
+    </p>
+
+    <ul>
+        <li>procesar imágenes</li>
+        <li>conectarse a una base de datos</li>
+        <li>crear gráficos</li>
+        <li>trabajar con inteligencia artificial</li>
+    </ul>
+
+    <p>
+        Normalmente usarás muchísimas durante tu carrera.
+    </p>
+
+    <h3>Compiladores e intérpretes</h3>
+
+    <p>
+        Son programas que permiten ejecutar el código que escribas. Cada lenguaje utiliza mecanismos diferentes.
+    </p>
+
+    <p>
+        Como principiante no necesitarás preocuparte demasiado por esto, pero es importante saber que, en algún punto del proceso, intervienen herramientas de este tipo.
+    </p>
+
+    <h3>IDEs y editores</h3>
+
+    <p>
+        Son las herramientas donde escribimos el código. Visual Studio Code, Visual Studio, IntelliJ IDEA o PyCharm son ejemplos.
+    </p>
+
+    <p>
+        Muchas veces ofrecen herramientas adicionales, como autocompletado de texto, resaltado con colores, detección de errores de sintaxis, etc.
+    </p>
+
+    <h3>Depurador o Debugger</h3>
+
+    <p>
+        Se usa para encontrar, aislar y corregir problemas ("bugs") en un programa.
+    </p>
+
+    <p>
+        Permite controlar la ejecución del código en tiempo real para ver qué falla y por qué.
+    </p>
+
+    <h3>Bases de datos</h3>
+
+    <p>
+        Son sistemas especializados para almacenar información. Las hay de muchos tipos.
+    </p>
+
+    <p>
+        Un lenguaje muy popular, utilizado en cierto tipo de bases de datos, es SQL.
+    </p>
+
+    <h3>Git</h3>
+
+    <p>
+        Git merece una categoría aparte. Porque no sirve para programar sino para registrar cambios en el código y trabajar en equipo. Incluso trabajando solo es una buena práctica utilizar Git, porque ayuda a ordenar las modificaciones y cómo va avanzando el proceso de desarrollo.
+    </p>
+
+    <p>
+        Es una herramienta prácticamente obligatoria para cualquier desarrollador profesional.
+    </p>
+
+    <h3>Todo esto forma un ecosistema</h3>
+
+    <p>
+        Un proyecto real suele combinar muchas piezas.
+    </p>
+
+    <p>
+        Por ejemplo:
+    </p>
+
+    <ul>
+        <li>un lenguaje</li>
+        <li>uno o varios frameworks</li>
+        <li>varias bibliotecas</li>
+        <li>una base de datos</li>
+        <li>Git</li>
+        <li>un editor</li>
+        <li>herramientas de despliegue ("deploy")</li>
+    </ul>
+
+    <p>
+        Eso no significa que tengas que aprenderlas todas desde el principio. Simplemente cumplen funciones distintas.
+    </p>
+
+    <h2 id="que-aprender-primero">
+        3. ¿Qué deberías aprender primero?
+    </h2>
+
+    <p>
+        Acá creo que está uno de los errores más comunes, porque muchas veces podemos dedicar demasiado tiempo a buscar "el mejor framework" cuando todavía no aprendimos a programar (es parecido a querer elegir el mejor modelo de auto antes de aprender a conducir). Pero el orden importa mucho más que la herramienta.
+    </p>
+
+    <p>
+        Mi recomendación sería algo así:
+    </p>
+
+    <ul>
+        <li>Elegí un lenguaje adecuado para tu objetivo.</li>
+        <li>Aprendé los conceptos básicos mientras escribís código.</li>
+        <li>Empezá proyectos pequeños cuanto antes.</li>
+        <li>Usá IA para destrabarte, pero no para pensar por vos.</li>
+        <li>Incorporá Git desde tus primeros proyectos.</li>
+        <li>Cuando los proyectos empiecen a quedar chicos, aprendé el framework correspondiente.</li>
+        <li>A medida que aparezcan nuevas necesidades, agregá las herramientas que realmente vayas a usar.</li>
+    </ul>
+
+    <h3>¿Qué lenguaje elegir para empezar?</h3>
+
+    <p>
+        Elegir el primer lenguaje no es una decisión para toda la vida, pero sí conviene evitar opciones demasiado antiguas o con comunidades muy pequeñas, porque vas a encontrar menos material para aprender, menos ejemplos y menos oportunidades laborales.
+    </p>
+
+    <p>
+        Si bien los conceptos importantes existen en todos los lenguajes, eso no significa que todos sean igual de convenientes para empezar. Cambiar de un lenguaje moderno a otro suele ser relativamente sencillo; pero empezar con uno que casi no se usa hoy puede hacer tu aprendizaje más difícil y limitar las oportunidades para practicar o conseguir ayuda.
+    </p>
+
+    <p>
+        Una buena elección suele ser un lenguaje que cumpla tres condiciones:
+    </p>
+
+    <ul>
+        <li>Tiene una comunidad grande y activa.</li>
+        <li>Se utiliza profesionalmente.</li>
+        <li>Cuenta con abundantes recursos, documentación y proyectos de ejemplo.</li>
+    </ul>
+
+    <p>
+        Además, si ya sabés qué área te interesa, podés elegir un lenguaje que sea especialmente común en ese campo:
+    </p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Si te interesa...</th>
+                <th>Un buen punto de partida puede ser...</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Desarrollo web backend</td>
+                <td>Python, C# o Java</td>
+            </tr>
+            <tr>
+                <td>Desarrollo web frontend</td>
+                <td>JavaScript (y más adelante TypeScript)</td>
+            </tr>
+            <tr>
+                <td>Desarrollo móvil Android</td>
+                <td>Kotlin</td>
+            </tr>
+            <tr>
+                <td>Desarrollo móvil iOS</td>
+                <td>Swift</td>
+            </tr>
+            <tr>
+                <td>Ciencia de datos e IA</td>
+                <td>Python</td>
+            </tr>
+            <tr>
+                <td>Videojuegos</td>
+                <td>C# (Unity) o C++ (Unreal Engine)</td>
+            </tr>
+            <tr>
+                <td>Sistemas embebidos</td>
+                <td>C o C++</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>
+        Si todavía no tenés claro qué querés hacer, Python suele ser una de las opciones más recomendables para empezar porque tiene una sintaxis sencilla, una comunidad enorme y se utiliza en muchas áreas distintas. C# y Java también son excelentes alternativas si tu objetivo principal es trabajar desarrollando software.
+    </p>
+
+    <p>
+        Ahora tu objetivo no debería ser encontrar el lenguaje perfecto, sino empezar con uno que tenga futuro, aprender bien los conceptos y ganar experiencia construyendo proyectos. Después cambiar de lenguaje será mucho más fácil.
+    </p>
+
+    <h3>¿Cuándo aprender frameworks?</h3>
+
+    <p>
+        Una buena regla práctica es esta: No estudies un framework porque alguien dijo que está de moda. Estudialo cuando empieces a construir un tipo de aplicación para el que ese framework fue diseñado.
+    </p>
+
+    <p>
+        Por ejemplo:
+    </p>
+
+    <ul>
+        <li>Si vas a desarrollar APIs con Python, probablemente tenga sentido aprender FastAPI o Django.</li>
+        <li>Si vas a crear aplicaciones web con C#, aprenderás ASP.NET Core.</li>
+        <li>Si vas a desarrollar interfaces web, seguramente terminarás aprendiendo React, Angular o Vue.</li>
+    </ul>
+
+    <p>
+        La pregunta correcta nunca es "¿qué framework es mejor?", sino "¿qué problema necesito resolver?". Los frameworks cambian con el tiempo; los fundamentos permanecen.
+    </p>
+
+    <h2 id="errores">
+        4. Los errores más comunes al empezar
+    </h2>
+
+    <p>
+        Hay algo que es muy probable que te pase, más tarde o más temprano: sentir que todo el mundo parece saber más que vos, que aparecen tecnologías nuevas todas las semanas y que nunca terminás de entender qué deberías aprender.
+    </p>
+
+    <p>
+        Prácticamente todas las personas que empiezan pasan por esa etapa, pero es bueno tenerlo presente para saber reconocerlo a tiempo. Porque muchos de los problemas no vienen de la dificultad de programar, sino de intentar aprender demasiadas cosas al mismo tiempo.
+    </p>
+
+    <p>
+        Estas son algunas de las confusiones más frecuentes.
+    </p>
+
+    <h3>"Tengo que aprender muchos lenguajes"</h3>
+
+    <p>
+        No. Necesitás aprender uno. Porque los conceptos importantes (variables, funciones, estructuras de control, algoritmos, modularidad, depuración, etc.) existen en prácticamente todos los lenguajes.
+    </p>
+
+    <p>
+        Además, cambiar de lenguaje suele ser mucho más sencillo que aprender el primero. Por eso, dedicar meses comparando Python, Java, C# o JavaScript normalmente es perder tiempo. Elegí uno y empezá.
+    </p>
+
+    <p>
+        Podés ignorar por ahora: compiladores, optimización, patrones de diseño, arquitecturas de microservicios y diferencias entre lenguajes. Elegí uno y empezá a programar.
+    </p>
+
+    <h3>"Tengo que aprender todos los frameworks"</h3>
+
+    <p>
+        Tampoco. Los frameworks existen para resolver problemas específicos. No son un requisito para aprender programación.
+    </p>
+
+    <p>
+        Cuando entiendas los fundamentos y empieces a construir aplicaciones reales, recién ahí tendrá sentido aprender el framework que mejor se adapte al tipo de proyecto que querés desarrollar.
+    </p>
+
+    <p>
+        No necesitás aprender React, Angular y Vue. Ni Django, Flask y FastAPI. Ni Spring Boot y Quarkus.
+    </p>
+
+    <p>
+        Normalmente alcanza con aprender uno de cada categoría cuando realmente lo necesitás.
+    </p>
+
+    <p>
+        Podés ignorar por ahora: comparativas entre React y Vue, Django vs FastAPI, cuál framework tiene más salida laboral o cuál es más rápido. Primero aprendé a resolver problemas; elegir un framework será mucho más fácil después.
+    </p>
+
+    <h3>"Tengo que aprender todas las tecnologías que aparecen en las ofertas laborales"</h3>
+
+    <p>
+        Las ofertas suelen listar una enorme cantidad de herramientas, pero eso no significa que esperen que un postulante junior domine absolutamente todas. Muchas veces representan una lista de deseos más que un conjunto de requisitos estrictos. Lo importante es desarrollar una buena base y demostrar que sabés aprender tecnologías nuevas.
+    </p>
+
+    <p>
+        Las herramientas cambian constantemente, mientras que la capacidad de aprender permanece.
+    </p>
+
+    <p>
+        Todavía no necesitás preocuparte por: Kubernetes, Docker, CI/CD, arquitecturas distribuidas, escalabilidad, sistemas de mensajería, optimización de rendimiento, machine learning o especializarte en un área. Todo eso puede venir más adelante.
+    </p>
+
+    <h3>"Tengo que decidir hoy a qué me voy a dedicar"</h3>
+
+    <p>
+        No hace falta. Pocas personas terminan trabajando exactamente en el área que imaginaban cuando comenzaron.
+    </p>
+
+    <p>
+        Algunos empiezan haciendo desarrollo web y luego pasan a datos. Otros descubren que disfrutan la ciberseguridad. Otros terminan trabajando con infraestructura o inteligencia artificial.
+    </p>
+
+    <p>
+        No conocer todavía tu especialidad no significa que te estés quedando atrás.
+    </p>
+
+    <h3>"Necesito saber absolutamente todo antes de buscar trabajo"</h3>
+
+    <p>
+        Nunca vas a sentir que sabés todo. Ni siquiera después de muchos años. Porque la informática cambia demasiado rápido.
+    </p>
+
+    <p>
+        El objetivo no es llegar al punto en que no tengas dudas, sino llegar al punto en que seas capaz de aprender las que vayan apareciendo.
+    </p>
+
+    <h2 id="priorizar">
+        5. ¿Cómo priorizar qué aprender?
+    </h2>
+
+    <p>
+        La informática evoluciona constantemente: cada año aparecen nuevos frameworks, nuevas herramientas, nuevos lenguajes y nuevas modas. Intentar seguir todo al mismo tiempo es imposible.
+    </p>
+
+    <p>
+        Una buena forma de decidir qué merece tu tiempo es hacerte estas preguntas:
+    </p>
+
+    <h3>¿Es un fundamento o una herramienta?</h3>
+
+    <p>
+        Los fundamentos cambian muy poco, mientras que las herramientas cambian constantemente. Entonces, invertir tiempo en fundamentos suele dar mejores resultados a largo plazo.
+    </p>
+
+    <p>
+        Por ejemplo, son fundamentos:
+    </p>
+
+    <ul>
+        <li>lógica de programación</li>
+        <li>algoritmos</li>
+        <li>estructuras de datos</li>
+        <li>depuración</li>
+        <li>diseño de software</li>
+        <li>bases de datos</li>
+        <li>redes</li>
+        <li>sistemas operativos</li>
+    </ul>
+
+    <p>
+        En cambio, un framework específico o una herramienta concreta puede dejar de usarse dentro de algunos años. Eso no significa que no debas aprenderlos, sino que conviene hacerlo después de construir una base sólida.
+    </p>
+
+    <h3>¿Lo necesito ahora para un proyecto real?</h3>
+
+    <p>
+        Muchas personas estudian tecnologías porque alguien dijo que "hay que saberlas". Pero una mejor estrategia es aprenderlas cuando aparece una necesidad concreta.
+    </p>
+
+    <p>
+        Los proyectos reales suelen ser el mejor filtro para decidir qué aprender después.
+    </p>
+
+    <h3>¿Esto me acerca a mi objetivo?</h3>
+
+    <p>
+        No todas las personas quieren lo mismo. Alguien que quiere desarrollar videojuegos no debería priorizar exactamente lo mismo que alguien interesado en ciencia de datos.
+    </p>
+
+    <p>
+        Antes de empezar un tema nuevo, preguntate: "¿Esto me acerca al tipo de trabajo que quiero conseguir?"
+    </p>
+
+    <p>
+        Si la respuesta es no, probablemente pueda esperar.
+    </p>
+
+    <h2 id="cambios-ia">
+        6. ¿Qué cambia con la inteligencia artificial?
+    </h2>
+
+    <p>
+        Es normal preguntarse si todavía tiene sentido aprender programación cuando existen herramientas capaces de generar código automáticamente. La respuesta corta es sí.
+    </p>
+
+    <p>
+        La inteligencia artificial cambió la forma de trabajar, pero no eliminó la necesidad de comprender lo que estamos construyendo.
+    </p>
+
+    <p>
+        Hoy un desarrollador puede utilizar IA para escribir código más rápido, generar documentación, detectar errores o explorar alternativas. Pero sigue siendo necesario entender el problema, evaluar si la solución propuesta tiene sentido y detectar cuándo la IA se equivoca o se desvía del objetivo planteado.
+    </p>
+
+    <p>
+        Cuanto mejor entiendas programación, mejor vas a poder aprovechar estas herramientas. Porque la IA puede escribir código mucho más rápido que vos, pero lo que todavía no puede hacer es decidir qué problema conviene resolver, entender el contexto completo de un proyecto o saber si una solución realmente satisface tus necesidades.
+    </p>
+
+    <p>
+        Tu objetivo no es competir con la IA escribiendo código más rápido, sino entender lo suficiente para dirigirla, evaluar sus propuestas y corregirlas cuando sea necesario.
+    </p>
+
+    <h2 id="proximo-paso">
+        7. ¿Cuál debería ser tu próximo paso?
+    </h2>
+
+    <p>
+        Ahora ya conocés el panorama general. Sabés que existen muchas áreas dentro de la informática. Entendés que no necesitás aprender todo al mismo tiempo. Y también sabés cuáles son las prioridades para empezar.
+    </p>
+
+    <p>
+        El siguiente paso es construir un plan de aprendizaje adaptado a tus objetivos.
+    </p>
+
+</article>
