@@ -1,0 +1,16 @@
+posts:
+  - title: "Programación Orientada a Objetos"
+    url: "/poo/2019/07/31/video-introduccion-poo/"
+    image: "/static/img/programming_landing/thumbnail_intro_poo.png"
+
+  - title: "Recursividad en detalle, con ejemplos"
+    url: "/conceptos/2020/01/07/video-recursividad/"
+    image: "/static/img/programming_landing/thumbnail_recursividad.png"
+
+  - title: "¿Qué proyectos hacer para practicar?"
+    url: "/otros/2025/05/02/proyectos-para-practicar/"
+    image: "/static/img/programming_landing/thumbnail_proyectos_practicar.png"
+
+  - title: "4 APIs gratis para crear proyectos reales"
+    url: "/otros/2026/05/22/apis-gratis/"
+    image: "/static/img/programming_landing/thumbnail_4apis.png"
