@@ -5,20 +5,20 @@ items:
     image: "/static/img/home/featured_posts/thumbnail_5_formas_practicar_programacion.png"
     url: "/otros/2026/06/16/ideas-para-practicar/"
 
-  - title: "Los fundamentos de POO"
+  - title: "Programación Orientada a Objetos"
     type: "Infografía"
     description: "Fundamentos de programación orientada a objetos, simplificados."
     image: "/static/img/home/featured_posts/thumbnail_fundamentos_poo.png"
     url: "/poo/conceptos/2025/04/27/fundamentos-poo/"
 
-  - title: "Ejercicios de entrevista"
-    type: "Playlist"
-    description: "Una playlist con 24 videos cortos explicando desafíos de entrevistas."
-    image: "/static/img/home/featured_posts/thumbnail_24_desafios.png"
-    url: "/ejercicios/desafios/2025/12/24/calendario-adviento/"
-
-  - title: "Modelos de IA"
+  - title: "Modelos de IA en 1 minuto"
     type: "Video"
     description: "En 1 minuto te ayudo a entender qué es un modelo de inteligencia artificial."
     image: "/static/img/home/featured_posts/thumbnail_modelo_ia.png"
     url: "/ia/2026/08/05/que-es-un-modelo-ia/"
+
+  - title: "Ejercicios de algoritmos usados en entrevistas"
+    type: "Playlist"
+    description: "Una playlist con 24 videos cortos explicando desafíos de entrevistas."
+    image: "/static/img/home/featured_posts/thumbnail_24_desafios.png"
+    url: "/ejercicios/desafios/2025/12/24/calendario-adviento/"
