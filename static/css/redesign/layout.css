@@ -187,8 +187,9 @@
     margin: 3rem 0 5rem;
 }
 
-.programming-course {
+.landing-section + .landing-section {
+    margin-top: 2rem;
+    border-top: 1px solid var(--border);
+    padding-top: 2rem;
     padding-bottom: 4rem;
-    border-bottom: 1px solid var(--border);
-    margin-bottom: 4rem;
 }

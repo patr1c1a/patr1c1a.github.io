@@ -24,7 +24,6 @@ published: true
     %}
 
     <div class="cards-grid">
-
         {% for post in site.data.programming_landing.posts %}
 
             {% include featured_resource_card.html
@@ -34,7 +33,26 @@ published: true
             %}
 
         {% endfor %}
-
     </div>
+
+</section>
+
+<section class="landing-section programming-practice">
+
+    {% include section_header.html
+        title="Practicar ejercicios con Python"
+    %}
+
+    {% for tool in site.data.tools.items %}
+        {% if tool.title == "Plataforma de práctica" %}
+            {% include tool_card.html
+                title=tool.title
+                description=tool.description
+                button=tool.button
+                url=tool.url
+                image=tool.image
+            %}
+        {% endif %}
+    {% endfor %}
 
 </section>
