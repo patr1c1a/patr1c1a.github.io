@@ -2,6 +2,7 @@
 layout: product
 title: Placeholder Product
 permalink: /products/placeholder/
+audience: programacion
 published: true
 ---
 

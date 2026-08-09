@@ -56,3 +56,7 @@ published: true
     {% endfor %}
 
 </section>
+
+{% include landing/related_products.html
+    audience="programacion"
+%}

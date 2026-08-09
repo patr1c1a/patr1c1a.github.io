@@ -1,0 +1,26 @@
+{% assign related_products = site.products | where: "audience", include.audience %}
+
+{% if related_products.size > 0 %}
+
+<section class="landing-section related-products">
+
+    {% include section_header.html
+        title="Productos relacionados"
+        url="/tienda/"
+    %}
+
+    <div class="cards-grid">
+        {% for product in related_products %}
+
+            {% include featured_resource_card.html
+                title=product.title
+                url=product.url
+                image=product.image
+            %}
+
+        {% endfor %}
+    </div>
+
+</section>
+
+{% endif %}
