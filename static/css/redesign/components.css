@@ -164,20 +164,27 @@
 }
 
 .learning-guide {
+    width: 100%;
     max-width: 900px;
+    margin: 0 auto;
 }
 
 .learning-guide > h2:first-child {
     margin-top: 0;
-}
-
-.learning-guide h2 {
-    margin-top: 3rem;
-    scroll-margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .learning-guide h3 {
+    margin-top: 4rem;
+    margin-bottom: 1.25rem;
+    scroll-margin-top: 2rem;
+    font-size: 1.7rem;
+}
+
+.learning-guide h4 {
     margin-top: 2rem;
+    margin-bottom: .75rem;
+    font-size: 1.2rem;
 }
 
 .learning-guide table {
