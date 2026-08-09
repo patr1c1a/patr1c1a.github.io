@@ -186,3 +186,9 @@
     gap: 1.5rem;
     margin: 3rem 0 5rem;
 }
+
+.programming-course {
+    padding-bottom: 4rem;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 4rem;
+}
