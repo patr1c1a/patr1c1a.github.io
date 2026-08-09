@@ -231,3 +231,39 @@
 .back-to-toc a:hover {
     color: var(--primary);
 }
+
+.table-of-contents {
+    margin: 0 0 3rem;
+    padding: 1.25rem 1.5rem;
+
+    background: var(--background);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+}
+
+.table-of-contents h3 {
+    margin: 0 0 1rem;
+    font-size: 1rem;
+}
+
+.table-of-contents ol {
+    margin: 0;
+    padding-left: 1.5rem;
+}
+
+.table-of-contents li {
+    margin-bottom: .5rem;
+}
+
+.table-of-contents li:last-child {
+    margin-bottom: 0;
+}
+
+.table-of-contents a {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.table-of-contents a:hover {
+    color: var(--primary);
+}
