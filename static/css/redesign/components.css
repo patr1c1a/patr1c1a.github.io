@@ -105,62 +105,75 @@
 }
 
 .table-of-contents {
-    margin: 2rem 0 3rem;
-}
+    margin: 0 0 3rem;
+    padding: 1.25rem 1.5rem;
 
-.table-of-contents h3 {
-    margin-top: 0;
-    margin-bottom: 1rem;
-}
-
-.table-of-contents ol {
-    margin: 0;
-    padding-left: 1.4rem;
-}
-
-.table-of-contents li + li {
-    margin-top: .5rem;
-}
-
-.table-of-contents a {
-    color: inherit;
-    text-decoration: none;
-}
-
-.table-of-contents a:hover {
-    color: var(--primary);
-}
-
-.table-of-contents {
-    margin: 2rem 0 3rem;
-    padding: 1.5rem;
-    background: var(--surface);
+    background: var(--background);
     border: 1px solid var(--border);
     border-radius: var(--radius);
 }
 
 .table-of-contents h3 {
-    margin-top: 0;
-    margin-bottom: 1rem;
-    font-size: 1.05rem;
+    margin: 0 0 1rem;
+    font-size: 1rem;
 }
 
-.table-of-contents ul {
+.table-of-contents ol {
     margin: 0;
-    padding-left: 1.2rem;
+    padding-left: 1.5rem;
 }
 
-.table-of-contents li + li {
-    margin-top: .5rem;
+.table-of-contents li {
+    margin-bottom: .5rem;
+}
+
+.table-of-contents li:last-child {
+    margin-bottom: 0;
 }
 
 .table-of-contents a {
-    color: inherit;
+    color: var(--text);
     text-decoration: none;
 }
 
 .table-of-contents a:hover {
     color: var(--primary);
+}
+
+.learning-path-card {
+    display: flex;
+    flex-direction: column;
+
+    padding: 2rem;
+
+    background: var(--surface);
+
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+
+    text-decoration: none;
+    color: inherit;
+
+    transition: border-color .2s, transform .2s;
+}
+
+.learning-path-card:hover {
+    border-color: var(--primary);
+    transform: translateY(-2px);
+}
+
+.learning-path-card h2 {
+    margin-top: 0;
+}
+
+.learning-path-card p {
+    flex: 1;
+    color: var(--muted);
+}
+
+.learning-path-link {
+    margin-top: 2rem;
+    font-weight: 600;
 }
 
 .learning-guide {
