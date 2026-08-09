@@ -193,3 +193,9 @@
     padding-top: 2rem;
     padding-bottom: 4rem;
 }
+
+.related-products-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+}
