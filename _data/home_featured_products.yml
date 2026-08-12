@@ -1,9 +1,9 @@
 items:
   - title: "24 Días, 24 Desafíos de Código: ejercicios paso a paso"
-    type: "Libro"
+    type: "Ebook"
     description: "Ebook con ejercicios explicados paso a paso."
     image: "/static/img/home/featured_products/thumbnail_24_desafios.png"
-    url: "/productos/libro-24desafios/"
+    url: "/productos/ebook-24-desafios/"
 
   - title: "Taller teórico-práctico de IA, sin conocimientos previos"
     type: "Taller"
