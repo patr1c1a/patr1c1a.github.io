@@ -30,3 +30,4 @@ theme_mode: dark
 collections:
   products:
     output: true
+    permalink: /recursos/:name/

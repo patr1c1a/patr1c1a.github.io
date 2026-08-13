@@ -7,7 +7,7 @@ items:
       - icon: "calendar"
         text: "Fecha a definir"
     type: "Taller"
-    url: "/productos/taller-ia-1/"
+    url: "/recursos/taller-virtual-como-aprovecho-la-ia/"
 
   - title: "Experiencia guiada de IA"
     metadata:
@@ -17,9 +17,9 @@ items:
       - icon: "users"
         text: "Mediante WhatsApp"
     type: "Práctica"
-    url: "/productos/experiencia-ia-1/"
+    url: "/recursos/experiencia-guiada-ia-practica/"
 
-  - title: "24 Días, 24 Desafíos de Código"
+  - title: "Ebook 24 Días, 24 Desafíos de Código"
     metadata:
       - icon: "book"
         text: "PDF descargable"
@@ -27,4 +27,4 @@ items:
       - icon: "code"
         text: "24 ejercicios"
     type: "Libro"
-    url: "/productos/libro-24desafios/"
+    url: "/recursos/ebook-24-dias-24-desafios-de-codigo/"
