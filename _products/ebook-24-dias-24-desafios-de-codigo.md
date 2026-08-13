@@ -1,8 +1,9 @@
 ---
+layout: product
 title: "24 días, 24 desafíos de código - Desde “mi código funciona” hasta la solución profesional"
 slug: "ebook-24-dias-24-desafios-de-codigo"
 description: "Ebook con 24 desafíos de programación explicados paso a paso. Disponible en 3 lenguajes."
-image: "/static/img/products/ebook-24-desafios/thumbnail_24_desafios.png"
+image: "/static/img/products/ebook-24-desafios/thumbnail_ebook_24_dias_24_desafios_de_codigo.png"
 type: ebook
 status: evergreen
 audience: programacion

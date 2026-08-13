@@ -199,3 +199,43 @@
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 1.5rem;
 }
+
+.product-page {
+    width: 100%;
+}
+
+.product {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.product-header {
+    display: grid;
+    grid-template-columns: minmax(240px, 320px) minmax(0, 1fr);
+    gap: 3rem;
+    align-items: center;
+}
+
+.product-image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius);
+}
+
+.product-intro h1 {
+    margin-top: 1rem;
+    margin-bottom: 1.25rem;
+}
+
+.product-description {
+    color: var(--muted);
+    font-size: 1.1rem;
+}
+
+.product-content {
+    margin-top: 4rem;
+    padding-top: 4rem;
+    border-top: 1px solid var(--border);
+}
