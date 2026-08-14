@@ -70,11 +70,11 @@ variants:
     <h2>¿Qué incluye tu compra?</h2>
 
     <ul>
-        <li>PDF descargable (más de 270 páginas en las ediciones individuales o más de 380 páginas en la edición multilenguaje).</li>
-        <li>Repositorio de código ejecutable con todas las soluciones eficientes.</li>
-        <li>Instrucciones para ejecutar cada desafío.</li>
-        <li>Acceso inmediato y permanente.</li>
-        <li>Marca de agua personalizada (que no cubre el texto del libro).</li>
+        <li>📘 PDF descargable (más de 270 páginas en las ediciones individuales o más de 380 páginas en la edición multilenguaje).</li>
+        <li>💻 Repositorio de código ejecutable con todas las soluciones eficientes.</li>
+        <li>💬 Instrucciones para ejecutar cada desafío.</li>
+        <li>🔓 Acceso inmediato y permanente.</li>
+        <li>🔖 Marca de agua personalizada (que no cubre el texto del libro).</li>
     </ul>
 
 </section>
@@ -102,10 +102,44 @@ variants:
 
 <section id="comprar" class="product-section product-purchase">
 
-    <h2>Selecciona tu edición</h2>
+    <h2>Seleccionar edición</h2>
 
     <p>
         Todos los desafíos y explicaciones son idénticos. Lo que cambia entre las ediciones es el lenguaje utilizado en las implementaciones finales.
     </p>
+
+    <div class="product-variants">
+        {% for variant in page.variants %}
+            <article class="product-variant">
+                <div class="product-variant-image">
+                    <img
+                        src="{{ variant.image }}"
+                        alt="{{ variant.title }}"
+                    >
+                </div>
+
+                <div class="product-variant-content">
+
+                    <h3>{{ variant.title }}</h3>
+                    <p>{{ variant.description }}</p>
+                    <p class="product-variant-price">
+                        {{ variant.currency }} {{ variant.price }}
+                    </p>
+
+                    {% if variant.payment_provider == "payhip" %}
+                        <a
+                            href="https://payhip.com/b/{{ variant.payment_data.product }}"
+                            class="payhip-buy-button product-primary-action"
+                            data-target-variant="{{ variant.payment_data.variant }}"
+                            data-theme="blue"
+                            data-product="{{ variant.payment_data.product }}"
+                        >
+                            Comprar
+                        </a>
+                    {% endif %}
+                </div>
+            </article>
+        {% endfor %}
+    </div>
 
 </section>

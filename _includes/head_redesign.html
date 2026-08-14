@@ -15,3 +15,11 @@
 <link
     rel="stylesheet"
     href="/static/css/redesign/main.css">
+
+{% if page.variants %}
+    {% assign payhip_variants = page.variants | where: "payment_provider", "payhip" %}
+
+    {% if payhip_variants.size > 0 %}
+        <script type="text/javascript" src="https://payhip.com/payhip.js"></script>
+    {% endif %}
+{% endif %}

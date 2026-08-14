@@ -1,0 +1,51 @@
+<section id="comprar" class="product-section product-variants">
+
+    <h2>Elegir edición</h2>
+
+    <div class="product-variants-grid">
+
+        {% for variant in page.variants %}
+
+            <article class="product-variant">
+
+                <div class="product-variant-image">
+                    <img
+                        src="{{ variant.image }}"
+                        alt="{{ variant.title }}"
+                        loading="lazy"
+                    >
+                </div>
+
+                <div class="product-variant-content">
+
+                    <h3>{{ variant.title }}</h3>
+
+                    <p>{{ variant.description }}</p>
+
+                    <p class="product-variant-price">
+                        USD {{ variant.price }}
+                    </p>
+
+                    {% if variant.payment_provider == "payhip" %}
+
+                        <a
+                            href="https://payhip.com/b/{{ variant.payment_data.product }}"
+                            class="payhip-buy-button product-primary-action"
+                            data-target-variant="{{ variant.payment_data.variant }}"
+                            data-theme="blue"
+                            data-product="{{ variant.payment_data.product }}"
+                        >
+                            Comprar
+                        </a>
+
+                    {% endif %}
+
+                </div>
+
+            </article>
+
+        {% endfor %}
+
+    </div>
+
+</section>
