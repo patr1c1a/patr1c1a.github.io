@@ -232,8 +232,7 @@
 
 .product-header {
     display: grid;
-    grid-template-columns: minmax(240px, 320px) minmax(0, 1fr);
-    gap: 4rem;
+    grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
     align-items: center;
 }
 
@@ -244,7 +243,7 @@
 
 .product-image img {
     display: block;
-    width: 240px;
+    width: 300px;
     max-width: 100%;
     height: auto;
     border-radius: var(--radius);
