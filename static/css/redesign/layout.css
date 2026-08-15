@@ -412,3 +412,8 @@
     margin: 1rem 0 0;
     color: var(--muted);
 }
+
+.product-content > .product-section + .product-section {
+    margin-top: 4rem;
+    border-top: 0.5px dashed var(--border);
+}
