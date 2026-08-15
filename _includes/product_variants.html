@@ -1,8 +1,12 @@
-<section id="comprar" class="product-section product-variants">
+<section id="comprar" class="product-section product-purchase">
 
-    <h2>Elegir edición</h2>
+    <h2>Seleccionar edición</h2>
 
-    <div class="product-variants-grid">
+    <p>
+        Todos los desafíos y explicaciones son idénticos. Lo que cambia entre las ediciones es el lenguaje utilizado en las implementaciones finales.
+    </p>
+
+    <div class="product-variants">
 
         {% for variant in page.variants %}
 
@@ -23,7 +27,7 @@
                     <p>{{ variant.description }}</p>
 
                     <p class="product-variant-price">
-                        USD {{ variant.price }}
+                        {{ variant.currency }} {{ variant.price }}
                     </p>
 
                     {% if variant.payment_provider == "payhip" %}
