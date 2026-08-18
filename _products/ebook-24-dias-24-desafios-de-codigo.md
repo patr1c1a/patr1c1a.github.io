@@ -24,45 +24,61 @@ variants:
     title: "Edición Python"
     description: "24 desafíos de programación resueltos con Python."
     image: "/static/img/products/ebook-24-desafios/portada_python.png"
-    price: 17
-    currency: USD
-    payment_provider: payhip
-    payment_data:
-      product: "WSi0z"
-      variant: "1763755283979"
+
+    purchase_options:
+      - id: usd
+        title: "Dólares estadounidenses"
+        price: 17
+        currency: USD
+        payment_provider: payhip
+        payment_data:
+          product: "WSi0z"
+          variant: "1763755283979"
 
   - id: java
     title: "Edición Java"
     description: "24 desafíos de programación resueltos con Java."
     image: "/static/img/products/ebook-24-desafios/portada_java.png"
-    price: 17
-    currency: USD
-    payment_provider: payhip
-    payment_data:
-      product: "WSi0z"
-      variant: "1763762998340"
+
+    purchase_options:
+      - id: usd
+        title: "Dólares estadounidenses"
+        price: 17
+        currency: USD
+        payment_provider: payhip
+        payment_data:
+          product: "WSi0z"
+          variant: "1763762998340"
 
   - id: csharp
     title: "Edición C#"
     description: "24 desafíos de programación resueltos con C#."
     image: "/static/img/products/ebook-24-desafios/portada_cs.png"
-    price: 17
-    currency: USD
-    payment_provider: payhip
-    payment_data:
-      product: "WSi0z"
-      variant: "1763763166781"
+
+    purchase_options:
+      - id: usd
+        title: "Dólares estadounidenses"
+        price: 17
+        currency: USD
+        payment_provider: payhip
+        payment_data:
+          product: "WSi0z"
+          variant: "1763763166781"
 
   - id: multilenguaje
     title: "Edición multilenguaje"
     description: "Los 24 desafíos de programación resueltos con Python, Java y C#."
     image: "/static/img/products/ebook-24-desafios/portada_multilenguaje.png"
-    price: 29.99
-    currency: USD
-    payment_provider: payhip
-    payment_data:
-      product: "WSi0z"
-      variant: "1763763190695"
+
+    purchase_options:
+      - id: usd
+        title: "Dólares estadounidenses"
+        price: 29.99
+        currency: USD
+        payment_provider: payhip
+        payment_data:
+          product: "WSi0z"
+          variant: "1763763190695"
 ---
 
 <section class="product-section product-value">

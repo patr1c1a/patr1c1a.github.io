@@ -26,23 +26,27 @@
 
                     <p>{{ variant.description }}</p>
 
-                    <p class="product-variant-price">
-                        {{ variant.currency }} {{ variant.price }}
-                    </p>
+                    {% for option in variant.purchase_options %}
 
-                    {% if variant.payment_provider == "payhip" %}
+                        <p class="product-variant-price">
+                            {{ option.currency }} {{ option.price }}
+                        </p>
 
-                        <a
-                            href="https://payhip.com/b/{{ variant.payment_data.product }}"
-                            class="payhip-buy-button product-primary-action"
-                            data-target-variant="{{ variant.payment_data.variant }}"
-                            data-theme="blue"
-                            data-product="{{ variant.payment_data.product }}"
-                        >
-                            Comprar
-                        </a>
+                        {% if option.payment_provider == "payhip" %}
 
-                    {% endif %}
+                            <a
+                                href="https://payhip.com/b/{{ option.payment_data.product }}"
+                                class="payhip-buy-button product-primary-action"
+                                data-target-variant="{{ option.payment_data.variant }}"
+                                data-theme="blue"
+                                data-product="{{ option.payment_data.product }}"
+                            >
+                                Comprar
+                            </a>
+
+                        {% endif %}
+
+                    {% endfor %}
 
                 </div>
 
