@@ -1,0 +1,56 @@
+<article class="premium-resource-card">
+
+    <a href="{{ include.url }}" class="premium-resource-card-image">
+        {% if include.image %}
+            <img
+                src="{{ include.image }}"
+                alt="{{ include.title }}"
+                loading="lazy"
+            >
+        {% else %}
+            <img
+                src="{{ include.fallback_image }}"
+                alt="{{ include.title }}"
+                loading="lazy"
+            >
+        {% endif %}
+    </a>
+
+    <div class="premium-resource-card-content">
+
+        {% if include.type %}
+            <div class="card-badge">
+                {{ include.type }}
+            </div>
+        {% endif %}
+
+        <a href="{{ include.url }}" class="premium-resource-card-title">
+            <h2>{{ include.title }}</h2>
+
+            {% if include.subtitle %}
+                <span class="premium-resource-card-subtitle">
+                    {{ include.subtitle }}
+                </span>
+            {% endif %}
+        </a>
+
+        {% if include.description %}
+            <p>{{ include.description }}</p>
+        {% endif %}
+
+        {% if include.price %}
+            <p class="premium-resource-card-price">
+                {{ include.price }}
+            </p>
+        {% endif %}
+
+        <a
+            href="{{ include.url }}"
+            class="premium-resource-card-action"
+        >
+            Más información →
+        </a>
+
+    </div>
+
+</article>

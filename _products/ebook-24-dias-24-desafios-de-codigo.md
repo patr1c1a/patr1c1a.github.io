@@ -6,6 +6,7 @@ slug: "ebook-24-dias-24-desafios-de-codigo"
 description: "Libro digital con 24 ejercicios de programación explicados y optimizados en detalle. Disponible en 4 ediciones."
 image: "/static/img/products/ebook-24-desafios/thumbnail_ebook_24_dias_24_desafios_de_codigo.png"
 product_image: "/static/img/products/ebook-24-desafios/portada_multilenguaje.png"
+catalog_image: "/static/img/products/ebook-24-desafios/catalogo.png"
 type: ebook
 status: evergreen
 audience: programacion
