@@ -1,0 +1,148 @@
+<section class="product-section product-contact">
+
+    <h2>¿Dudas? ¿Consultas?</h2>
+
+    <form class="product-contact-form" id="product-contact-form">
+
+        <input
+            type="hidden"
+            name="access_key"
+            value="72d67b40-ccba-4dd0-a7af-31a88664fd68"
+        >
+
+        <input
+            type="hidden"
+            name="producto"
+            value="{{ page.slug }}"
+        >
+
+        <input
+            type="hidden"
+            name="subject"
+            value="Consulta sobre {{ page.title }}"
+        >
+
+        <div class="form-field">
+            <label for="product-contact-name">Tu nombre</label>
+            <input
+                type="text"
+                id="product-contact-name"
+                name="name"
+                required
+            >
+        </div>
+
+        <div class="form-field">
+            <label for="product-contact-email">Correo electrónico</label>
+            <input
+                type="email"
+                id="product-contact-email"
+                name="email"
+                required
+            >
+        </div>
+
+        <div class="form-field">
+            <label for="product-contact-message">Mensaje</label>
+            <textarea
+                id="product-contact-message"
+                name="message"
+                rows="6"
+                required
+            ></textarea>
+        </div>
+
+        <button type="submit" class="product-primary-action">
+            Enviar consulta
+        </button>
+
+    </form>
+
+    <p
+        class="product-contact-result"
+        id="product-contact-result"
+        aria-live="polite"
+    ></p>
+
+</section>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+    const form = document.getElementById("product-contact-form");
+    const result = document.getElementById("product-contact-result");
+
+    if (!form || !result) {
+        return;
+    }
+
+    form.addEventListener("submit", async function (event) {
+
+        event.preventDefault();
+
+        result.textContent = "Enviando...";
+        result.className = "product-contact-result";
+
+        const submitButton = form.querySelector('button[type="submit"]');
+
+        if (submitButton) {
+            submitButton.disabled = true;
+        }
+
+        const formData = new FormData(form);
+        const data = Object.fromEntries(formData.entries());
+
+        try {
+
+            const response = await fetch(
+                "https://api.web3forms.com/submit",
+                {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json",
+                        "Accept": "application/json"
+                    },
+                    body: JSON.stringify(data)
+                }
+            );
+
+            const resultData = await response.json();
+
+            if (response.ok) {
+
+                form.style.display = "none";
+
+                result.textContent =
+                    "Tu mensaje fue enviado correctamente.";
+
+                result.className =
+                    "product-contact-result success";
+
+            } else {
+
+                result.textContent =
+                    "No se pudo enviar el mensaje. Por favor recarga la página para volver a intentar.";
+
+                result.className =
+                    "product-contact-result error";
+
+                if (submitButton) {
+                    submitButton.disabled = false;
+                }
+            }
+
+        } catch (error) {
+
+            result.textContent =
+                "No se pudo enviar la consulta. Intentá nuevamente.";
+
+            result.className =
+                "product-contact-result error";
+
+            if (submitButton) {
+                submitButton.disabled = false;
+            }
+        }
+    });
+});
+</script>

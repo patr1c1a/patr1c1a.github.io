@@ -90,11 +90,11 @@ variants:
     <h2>Muestra gratis: para probar antes de comprar</h2>
 
     <p>
-        La muestra gratuita contiene la introducción y el primer capítulo completos.
+        La muestra gratuita contiene la introducción, el primer capítulo completo y parte del segundo capítulo.
     </p>
 
     <p>
-        También está disponible una lista de videos donde analizo los 24 desafíos y explico las ideas detrás de sus soluciones.
+        También está disponible en Youtube una lista de videos donde analizo los 24 desafíos y explico las ideas detrás de sus soluciones.
     </p>
 
     <div class="product-resource-links">
@@ -114,7 +114,7 @@ variants:
             rel="noopener noreferrer"
             class="product-secondary-action"
         >
-            Ver los videos de los 24 desafíos
+            Ver videos de los 24 desafíos
         </a>
 
     </div>

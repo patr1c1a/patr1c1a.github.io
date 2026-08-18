@@ -417,3 +417,58 @@
     margin-top: 4rem;
     border-top: 0.5px dashed var(--border);
 }
+
+.product-contact {
+    max-width: 700px;
+}
+
+.product-contact-form {
+    margin-top: 2rem;
+}
+
+.product-contact-form .form-field {
+    margin-bottom: 1.5rem;
+}
+
+.product-contact-form label {
+    display: block;
+    margin-bottom: .5rem;
+    font-weight: 600;
+}
+
+.product-contact-form input[type="text"],
+.product-contact-form input[type="email"],
+.product-contact-form textarea {
+    display: block;
+    width: 100%;
+    padding: .75rem;
+    font: inherit;
+    color: var(--text);
+    background: var(--background);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-sizing: border-box;
+}
+
+.product-contact-form textarea {
+    resize: vertical;
+}
+
+.product-contact-form input:focus,
+.product-contact-form textarea:focus {
+    outline: 2px solid var(--primary);
+    outline-offset: 1px;
+}
+
+.product-contact-result {
+    min-height: 1.5rem;
+    margin-top: 1rem;
+}
+
+.product-contact-result.success {
+    color: var(--primary);
+}
+
+.product-contact-result.error {
+    color: var(--error, #b42318);
+}
