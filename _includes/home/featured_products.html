@@ -13,12 +13,16 @@
 
         {% for item in items %}
 
-            {% include featured_resource_card.html
-                title=item.title
-                image=item.image
-                type=item.type
-                url=item.url
-            %}
+            {% assign product = site.products | where: "slug", item.product | first %}
+
+            {% if product %}
+                {% include featured_resource_card.html
+                    title=product.title
+                    image=product.image
+                    type=product.type
+                    url=product.url
+                %}
+            {% endif %}
 
         {% endfor %}
 

@@ -1,18 +1,4 @@
 items:
-  - title: "24 Días, 24 Desafíos de Código"
-    type: "Ebook"
-    description: "Ebook con ejercicios explicados paso a paso."
-    image: "/static/img/home/featured_products/thumbnail_ebook_24_dias_24_desafios_de_codigo.png"
-    url: "/recursos/ebook-24-dias-24-desafios-de-codigo/"
-
-  - title: "Taller teórico-práctico sobre cómo aprovechar mejor la IA"
-    type: "Taller"
-    description: "Taller práctico para aprovechar mejor la IA."
-    image: "/static/img/home/featured_products/thumbnail_taller_virtual_como_aprovecho_la_ia.png"
-    url: "/recursos/taller-virtual-como-aprovecho-la-ia/"
-
-  - title: "Experiencia guiada de IA para practicar en grupo"
-    type: "Práctica"
-    description: "Primer ciclo de experiencia grupal mediante WhatsApp"
-    image: "/static/img/home/featured_products/thumbnail_experiencia_guiada_ia_practica.png"
-    url: "/recursos/experiencia-guiada-ia-practica/"
+  - product: "ebook-24-dias-24-desafios-de-codigo"
+  - product: "taller-virtual-como-aprovecho-la-ia"
+  - product: "experiencia-guiada-ia-practica"
