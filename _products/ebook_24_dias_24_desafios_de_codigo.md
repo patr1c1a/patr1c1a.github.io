@@ -7,9 +7,15 @@ description: "Libro digital con 24 ejercicios de programación explicados y opti
 image: "/static/img/products/ebook_24_desafios/thumbnail_ebook_24_dias_24_desafios_de_codigo.png"
 product_image: "/static/img/products/ebook_24_desafios/portada_multilenguaje.png"
 catalog_image: "/static/img/products/ebook_24_desafios/catalogo.png"
+catalog_order: 3
 type: ebook
 status: evergreen
 audience: programacion
+catalog_metadata:
+  - icon: "book"
+    text: "PDF de 290+ páginas"
+  - icon: "code"
+    text: "24 ejercicios"
 topics:
   - programacion
   - ejercicios

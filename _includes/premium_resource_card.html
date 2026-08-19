@@ -1,26 +1,27 @@
 <article class="premium-resource-card">
 
     <a href="{{ include.url }}" class="premium-resource-card-image">
-        {% if include.image %}
-            <img
-                src="{{ include.image }}"
-                alt="{{ include.title }}"
-                loading="lazy"
-            >
-        {% else %}
-            <img
-                src="{{ include.fallback_image }}"
-                alt="{{ include.title }}"
-                loading="lazy"
-            >
-        {% endif %}
+        <img
+            src="{{ include.image }}"
+            alt="{{ include.title }}"
+            loading="lazy"
+        >
     </a>
 
     <div class="premium-resource-card-content">
 
         {% if include.type %}
             <div class="card-badge">
-                {{ include.type }}
+                {% case include.type %}
+                    {% when "ebook" %}
+                        Ebook
+                    {% when "workshop" %}
+                        Taller
+                    {% when "guided_experience" %}
+                        Experiencia guiada
+                    {% else %}
+                        {{ include.type }}
+                {% endcase %}
             </div>
         {% endif %}
 
@@ -36,6 +37,19 @@
 
         {% if include.description %}
             <p>{{ include.description }}</p>
+        {% endif %}
+
+        {% if include.metadata %}
+            <ul class="product-metadata">
+                {% for item in include.metadata %}
+                    <li>
+                        {% include metadata_item.html
+                            icon=item.icon
+                            text=item.text
+                        %}
+                    </li>
+                {% endfor %}
+            </ul>
         {% endif %}
 
         {% if include.price %}
