@@ -6,7 +6,7 @@ slug: "experiencia-guiada-ia-practica"
 description: "Experiencia grupal para practicar el uso de inteligencia artificial mediante actividades guiadas y acompañamiento."
 image: "/static/img/products/experiencia_guiada_ia_practica/thumbnail_experiencia_guiada_ia_practica.png"
 catalog_order: 2
-type: guided_experience
+type: "Experiencia guiada"
 status: scheduled
 audience: ia
 catalog_metadata:

@@ -13,14 +13,25 @@
 
         {% for item in items %}
 
-            {% include highlighted_product_card.html
-                title=item.title
-                metadata=item.metadata
-                image=item.image
-                type=item.type
-                url=item.url
-                link_text="Más información"
+            {% assign product = site.products
+                | where: "slug", item.product
+                | first
             %}
+
+            {% if product and product.published %}
+
+                {% assign card_image = product.catalog_image | default: product.image %}
+
+                {% include highlighted_product_card.html
+                    title=product.title
+                    metadata=product.catalog_metadata
+                    image=card_image
+                    type=product.type
+                    button_url=product.url
+                    link_text=product.cta
+                %}
+
+            {% endif %}
 
         {% endfor %}
 

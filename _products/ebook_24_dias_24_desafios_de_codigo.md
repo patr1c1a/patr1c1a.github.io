@@ -8,14 +8,16 @@ image: "/static/img/products/ebook_24_desafios/thumbnail_ebook_24_dias_24_desafi
 product_image: "/static/img/products/ebook_24_desafios/portada_multilenguaje.png"
 catalog_image: "/static/img/products/ebook_24_desafios/catalogo.png"
 catalog_order: 3
-type: ebook
+type: "Ebook"
 status: evergreen
 audience: programacion
 catalog_metadata:
   - icon: "book"
     text: "PDF de 290+ páginas"
+  - icon: "file"
+    text: "Incluye repositorio"
   - icon: "code"
-    text: "24 ejercicios"
+    text: "Ejercicios detallados"
 topics:
   - programacion
   - ejercicios

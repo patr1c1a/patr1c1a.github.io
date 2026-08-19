@@ -12,16 +12,7 @@
 
         {% if include.type %}
             <div class="card-badge">
-                {% case include.type %}
-                    {% when "ebook" %}
-                        Ebook
-                    {% when "workshop" %}
-                        Taller
-                    {% when "guided_experience" %}
-                        Experiencia guiada
-                    {% else %}
-                        {{ include.type }}
-                {% endcase %}
+                {{ include.type }}
             </div>
         {% endif %}
 
