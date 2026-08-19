@@ -4,9 +4,9 @@ title: "24 días, 24 desafíos de código"
 subtitle: "Desde “mi código funciona” hasta la solución profesional"
 slug: "ebook-24-dias-24-desafios-de-codigo"
 description: "Libro digital con 24 ejercicios de programación explicados y optimizados en detalle. Disponible en 4 ediciones."
-image: "/static/img/products/ebook-24-desafios/thumbnail_ebook_24_dias_24_desafios_de_codigo.png"
-product_image: "/static/img/products/ebook-24-desafios/portada_multilenguaje.png"
-catalog_image: "/static/img/products/ebook-24-desafios/catalogo.png"
+image: "/static/img/products/ebook_24_desafios/thumbnail_ebook_24_dias_24_desafios_de_codigo.png"
+product_image: "/static/img/products/ebook_24_desafios/portada_multilenguaje.png"
+catalog_image: "/static/img/products/ebook_24_desafios/catalogo.png"
 type: ebook
 status: evergreen
 audience: programacion
@@ -23,7 +23,7 @@ variants:
   - id: python
     title: "Edición Python"
     description: "24 desafíos de programación resueltos con Python."
-    image: "/static/img/products/ebook-24-desafios/portada_python.png"
+    image: "/static/img/products/ebook_24_desafios/portada_python.png"
 
     purchase_options:
       - id: usd
@@ -38,7 +38,7 @@ variants:
   - id: java
     title: "Edición Java"
     description: "24 desafíos de programación resueltos con Java."
-    image: "/static/img/products/ebook-24-desafios/portada_java.png"
+    image: "/static/img/products/ebook_24_desafios/portada_java.png"
 
     purchase_options:
       - id: usd
@@ -53,7 +53,7 @@ variants:
   - id: csharp
     title: "Edición C#"
     description: "24 desafíos de programación resueltos con C#."
-    image: "/static/img/products/ebook-24-desafios/portada_cs.png"
+    image: "/static/img/products/ebook_24_desafios/portada_cs.png"
 
     purchase_options:
       - id: usd
@@ -68,7 +68,7 @@ variants:
   - id: multilenguaje
     title: "Edición multilenguaje"
     description: "Los 24 desafíos de programación resueltos con Python, Java y C#."
-    image: "/static/img/products/ebook-24-desafios/portada_multilenguaje.png"
+    image: "/static/img/products/ebook_24_desafios/portada_multilenguaje.png"
 
     purchase_options:
       - id: usd
