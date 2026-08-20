@@ -1,0 +1,19 @@
+{% if page.status != "closed" and page.purchase_options %}
+
+<section id="comprar" class="product-section product-purchase">
+
+    <h2>{{ page.purchase_title | default: "Comprar" }}</h2>
+
+    {% if page.purchase_description %}
+        <p>
+            {{ page.purchase_description }}
+        </p>
+    {% endif %}
+
+    {% include product_purchase_options.html
+        options=page.purchase_options
+    %}
+
+</section>
+
+{% endif %}
