@@ -1,0 +1,72 @@
+{% if page.status == "closed" %}
+
+<section class="product-waiting-list">
+
+    <h2>Enterate cuando vuelva a estar disponible</h2>
+
+    <p>
+        Este recurso no está disponible en este momento. Deja tu e-mail para recibir novedades.
+    </p>
+
+    <form
+        id="waiting-list-form"
+        class="product-waiting-list-form"
+        action="https://api.lazyforms.com/f/5665c804-86a7-427f-9dab-ffed99fde8b5"
+        method="POST"
+    >
+
+        <div class="form-field">
+
+            <input
+                type="email"
+                id="product-waiting-list-email"
+                name="email"
+                placeholder="Ingresa tu correo electrónico"
+                required
+            >
+
+        </div>
+
+        <input
+            type="hidden"
+            name="producto"
+            value="{{ page.slug }}"
+        >
+
+        <button
+            type="submit"
+            class="product-primary-action"
+        >
+            Avisarme novedades
+        </button>
+
+    </form>
+
+    <div id="waiting-list-success" hidden>
+        ¡Listo! Recibirás novedades por correo.
+    </div>
+
+</section>
+
+<script>
+    const form = document.getElementById("waiting-list-form");
+    const success = document.getElementById("waiting-list-success");
+
+    form.addEventListener("submit", async (event) => {
+        event.preventDefault();
+
+        const response = await fetch(form.action, {
+            method: "POST",
+            body: new FormData(form)
+        });
+
+        const result = await response.json();
+
+        if (response.ok && result.success) {
+            form.hidden = true;
+            success.hidden = false;
+        }
+    });
+</script>
+
+{% endif %}

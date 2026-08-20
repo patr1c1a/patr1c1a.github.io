@@ -30,21 +30,27 @@ layout: default
                     </p>
                 {% endif %}
 
-                {% if page.price_display %}
-                    <p class="product-price">
-                        {{ page.price_display.text }}
-                    </p>
-                {% endif %}
+                {% if page.status != "closed" %}
 
-                {% if page.cta %}
-                    <a href="#comprar" class="product-primary-action">
-                        {{ page.cta }}
-                    </a>
+                    {% if page.price_display %}
+                        <p class="product-price">
+                            {{ page.price_display.text }}
+                        </p>
+                    {% endif %}
+
+                    {% if page.cta %}
+                        <a href="#comprar" class="product-primary-action">
+                            {{ page.cta }}
+                        </a>
+                    {% endif %}
+                
                 {% endif %}
 
             </div>
 
         </header>
+
+        {% include product_waiting_list.html %}
 
         {% if content %}
             <div class="product-content">

@@ -576,3 +576,41 @@
 .premium-resource-card-closed .premium-resource-card-action {
     font-weight: 600;
 }
+
+.product-waiting-list {
+    max-width: 700px;
+    margin-top: 4rem;
+    padding-top: 4rem;
+    border-top: 1px solid var(--border);
+}
+
+.product-waiting-list-form {
+    margin-top: 2rem;
+}
+
+.product-waiting-list-form .form-field {
+    margin-bottom: 1.5rem;
+}
+
+.product-waiting-list-form label {
+    display: block;
+    margin-bottom: .5rem;
+    font-weight: 600;
+}
+
+.product-waiting-list-form input[type="email"] {
+    display: block;
+    width: 100%;
+    padding: .75rem;
+    font: inherit;
+    color: var(--text);
+    background: var(--background);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-sizing: border-box;
+}
+
+.product-waiting-list-form input[type="email"]:focus {
+    outline: 2px solid var(--primary);
+    outline-offset: 1px;
+}
