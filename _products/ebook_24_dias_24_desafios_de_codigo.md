@@ -27,6 +27,8 @@ published: true
 price_display:
   text: "Desde USD 17"
 
+variants_title: "Seleccionar edición"
+variants_description: "Todos los desafíos y explicaciones son idénticos. Lo que cambia entre las ediciones es el lenguaje utilizado en las implementaciones finales."
 variants:
   - id: python
     title: "Edición Python"
