@@ -16,10 +16,22 @@ catalog_metadata:
     text: "Comienza el 7 de septiembre"
   - icon: "clock"
     text: "4 semanas"
+
+product_details:
+  - icon: "whatsapp"
+    text: "Grupo de práctica por WhatsApp."
+  - icon: "calendar"
+    text: "Inicio: 7 de septiembre de 2026."
+  - icon: "clock"
+    text: "Duración: 4 semanas."
+  - icon: "target"
+    text: "No se necesitan conocimientos previos de inteligencia artificial."
+
 topics:
   - ia
   - inteligencia-artificial
   - productividad
+
 cta: "Inscribirme"
 published: true
 
@@ -44,3 +56,63 @@ purchase_options:
     payment_provider: paypal
     payment_data: {}
 ---
+
+<section class="product-section product-value">
+
+    <h2>¿Cómo funciona?</h2>
+
+    <p>
+        Durante 4 semanas practicaremos distintos usos de inteligencia artificial
+        mediante un grupo de WhatsApp.
+    </p>
+
+    <p>
+        Una vez por semana voy a proponer una actividad para probar una herramienta
+        o una forma diferente de utilizar la IA. Cada integrante podrá realizarla
+        a su propio ritmo.
+    </p>
+
+    <p>
+        Después, quienes quieran podrán compartir con el resto del grupo qué hicieron
+        y cuál fue el resultado.
+    </p>
+
+    <p>
+        Conocer cómo otras personas utilizan estas herramientas es una excelente
+        manera de descubrir nuevas posibilidades y aprender de la experiencia. Y yo voy a estar guiando el proceso durante todo el recorrido.
+    </p>
+
+</section>
+
+<section class="product-section">
+
+    <h2>¿Qué esperar de esta experiencia?</h2>
+
+    <ul>
+        <li>Una propuesta práctica diferente cada semana.</li>
+        <li>La posibilidad de experimentar con IA a tu propio ritmo.</li>
+        <li>Ideas y ejemplos aportados por otras personas del grupo.</li>
+        <li>Acompañamiento durante las 4 semanas.</li>
+        <li>Un espacio para probar, equivocarte y descubrir nuevas formas de utilizar la IA.</li>
+    </ul>
+
+</section>
+
+<section class="product-section">
+
+    <h2>Detalles de esta propuesta</h2>
+      
+    <ul class="product-metadata">
+      {% for item in page.product_details %}
+          <li>
+              {% include metadata_item.html
+                  icon=item.icon
+                  text=item.text
+              %}
+          </li>
+      {% endfor %}
+    </ul>
+
+</section>
+
+{% include product_purchase.html %}

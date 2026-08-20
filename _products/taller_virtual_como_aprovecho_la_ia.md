@@ -18,6 +18,17 @@ catalog_metadata:
     text: "29 de agosto · 16 h"
   - icon: "clock"
     text: "2 horas"
+product_details:
+  - icon: "calendar"
+    text: "Fecha: 29 de agosto de 2026"
+  - icon: "clock"
+    text: "Horario: 16 h (Argentina)"
+  - icon: "clock"
+    text: "Duración aproximada: 2 horas"
+  - icon: "video"
+    text: "Modalidad: virtual"
+  - icon: "target"
+    text: "No se necesitan conocimientos previos"
 topics:
   - ia
   - inteligencia-artificial
@@ -78,12 +89,15 @@ purchase_options:
 
     <h2>Datos del taller</h2>
 
-    <ul>
-        <li>📅 Fecha: 29 de agosto de 2026.</li>
-        <li>🕓 Horario: 16 h (Argentina).</li>
-        <li>⏱️ Duración aproximada: 2 horas.</li>
-        <li>💻 Modalidad: virtual.</li>
-        <li>🎯 No se necesitan conocimientos previos.</li>
+    <ul class="product-metadata">
+        {% for item in page.product_details %}
+            <li>
+                {% include metadata_item.html
+                    icon=item.icon
+                    text=item.text
+                %}
+            </li>
+        {% endfor %}
     </ul>
 
 </section>

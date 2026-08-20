@@ -1,44 +1,47 @@
-<section id="comprar" class="product-section product-purchase">
+{% if page.status != "closed" and page.product_variants %}
 
-    <h2>{{ page.variants_title | default: "Seleccionar opción" }}</h2>
-    {% if page.variants_description %}
-        <p>
-            {{ page.variants_description }}
-        </p>
-    {% endif %}
-    
-    <div class="product-variants">
+    <section id="comprar" class="product-section product-purchase">
 
-        {% for variant in page.variants %}
+        <h2>{{ page.variants_title | default: "Seleccionar opción" }}</h2>
+        {% if page.variants_description %}
+            <p>
+                {{ page.variants_description }}
+            </p>
+        {% endif %}
+        
+        <div class="product-variants">
 
-            <article class="product-variant">
+            {% for variant in page.variants %}
 
-                <div class="product-variant-image">
-                    <img
-                        src="{{ variant.image }}"
-                        alt="{{ variant.title }}"
-                        loading="lazy"
-                    >
-                </div>
+                <article class="product-variant">
 
-                <div class="product-variant-content">
+                    <div class="product-variant-image">
+                        <img
+                            src="{{ variant.image }}"
+                            alt="{{ variant.title }}"
+                            loading="lazy"
+                        >
+                    </div>
 
-                    <h3>{{ variant.title }}</h3>
+                    <div class="product-variant-content">
 
-                    {% if variant.description %}
-                        <p>{{ variant.description }}</p>
-                    {% endif %}
+                        <h3>{{ variant.title }}</h3>
 
-                    {% include product_purchase_options.html
-                        options=variant.purchase_options
-                    %}
+                        {% if variant.description %}
+                            <p>{{ variant.description }}</p>
+                        {% endif %}
 
-                </div>
+                        {% include product_purchase_options.html
+                            options=variant.purchase_options
+                        %}
 
-            </article>
+                    </div>
 
-        {% endfor %}
+                </article>
 
-    </div>
+            {% endfor %}
 
-</section>
+        </div>
+
+    </section>
+{% endif %}

@@ -18,6 +18,19 @@ catalog_metadata:
     text: "Incluye repositorio"
   - icon: "code"
     text: "Ejercicios detallados"
+
+product_details:
+  - icon: "book"
+    text: "PDF descargable (más de 290 páginas en las ediciones individuales o más de 380 páginas en la edición multilenguaje)."
+  - icon: "code"
+    text: "Repositorio de código ejecutable con todas las soluciones eficientes."
+  - icon: "comment"
+    text: "Instrucciones para ejecutar cada desafío."
+  - icon: "lock"
+    text: "Acceso inmediato y permanente."
+  - icon: "tag"
+    text: "Marca de agua personalizada (que no cubre el texto del libro)."
+
 topics:
   - programacion
   - ejercicios
@@ -154,12 +167,15 @@ variants:
 
     <h2>¿Qué incluye tu compra?</h2>
 
-    <ul>
-        <li>📘 PDF descargable (más de 270 páginas en las ediciones individuales o más de 380 páginas en la edición multilenguaje).</li>
-        <li>💻 Repositorio de código ejecutable con todas las soluciones eficientes.</li>
-        <li>💬 Instrucciones para ejecutar cada desafío.</li>
-        <li>🔓 Acceso inmediato y permanente.</li>
-        <li>🔖 Marca de agua personalizada (que no cubre el texto del libro).</li>
+    <ul class="product-metadata">
+        {% for item in page.product_details %}
+            <li>
+                {% include metadata_item.html
+                    icon=item.icon
+                    text=item.text
+                %}
+            </li>
+        {% endfor %}
     </ul>
 
 </section>
