@@ -17,7 +17,7 @@ published: true
 
             {% assign card_image = product.catalog_image | default: product.image %}
 
-            {% include premium_resource_card.html
+            {% include catalog/premium_resource_card.html
                 title=product.title
                 subtitle=product.subtitle
                 type=product.type

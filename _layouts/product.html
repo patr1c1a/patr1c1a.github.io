@@ -46,7 +46,7 @@ layout: default
 
         </header>
 
-        {% include product_waiting_list.html %}
+        {% include product/product_waiting_list.html %}
 
         {% assign content_parts = content | split: "<!-- PRODUCT_PURCHASE -->" %}
 
@@ -59,9 +59,9 @@ layout: default
         {% if page.status != "closed" %}
 
             {% if page.variants %}
-                {% include product_variants.html %}
+                {% include product/product_variants.html %}
             {% elsif page.purchase_options %}
-                {% include product_purchase.html %}
+                {% include product/product_purchase.html %}
             {% endif %}
 
         {% endif %}
@@ -72,7 +72,7 @@ layout: default
             </div>
         {% endif %}
 
-        {% include product_contact.html %}
+        {% include product/product_contact.html %}
 
     </article>
 
