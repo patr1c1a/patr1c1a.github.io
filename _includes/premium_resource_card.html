@@ -1,4 +1,4 @@
-<article class="premium-resource-card">
+<article class="premium-resource-card{% if include.status == "closed" %} premium-resource-card-closed{% endif %}">
 
     <a href="{{ include.url }}" class="premium-resource-card-image">
         <img
@@ -30,31 +30,48 @@
             <p>{{ include.description }}</p>
         {% endif %}
 
-        {% if include.metadata %}
-            <ul class="product-metadata">
-                {% for item in include.metadata %}
-                    <li>
-                        {% include metadata_item.html
-                            icon=item.icon
-                            text=item.text
-                        %}
-                    </li>
-                {% endfor %}
-            </ul>
-        {% endif %}
+        {% if include.status == "closed" %}
 
-        {% if include.price %}
-            <p class="premium-resource-card-price">
-                {{ include.price }}
+            <p class="premium-resource-card-status">
+                No disponible actualmente
             </p>
-        {% endif %}
 
-        <a
-            href="{{ include.url }}"
-            class="premium-resource-card-action"
-        >
-            Más información →
-        </a>
+            <a
+                href="{{ include.url }}"
+                class="premium-resource-card-action"
+            >
+                Avisarme novedades →
+            </a>
+
+        {% else %}
+
+            {% if include.metadata %}
+                <ul class="product-metadata">
+                    {% for item in include.metadata %}
+                        <li>
+                            {% include metadata_item.html
+                                icon=item.icon
+                                text=item.text
+                            %}
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+
+            {% if include.price %}
+                <p class="premium-resource-card-price">
+                    {{ include.price }}
+                </p>
+            {% endif %}
+
+            <a
+                href="{{ include.url }}"
+                class="premium-resource-card-action"
+            >
+                Más información →
+            </a>
+
+        {% endif %}
 
     </div>
 

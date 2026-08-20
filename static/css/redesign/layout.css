@@ -561,3 +561,18 @@
     line-height: 1.35;
     color: var(--muted);
 }
+
+.premium-resource-card-closed {
+    opacity: 0.72;
+}
+
+.premium-resource-card-status {
+    margin-top: auto;
+    font-weight: 600;
+    font-style: italic;
+    color: var(--muted);
+}
+
+.premium-resource-card-closed .premium-resource-card-action {
+    font-weight: 600;
+}

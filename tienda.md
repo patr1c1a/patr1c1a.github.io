@@ -25,6 +25,7 @@ published: true
                 metadata=product.catalog_metadata
                 image=card_image
                 price=product.price_display.text
+                status=product.status
                 url=product.url
             %}
         {% endfor %}

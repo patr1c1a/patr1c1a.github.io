@@ -27,7 +27,7 @@ start_date: "2026-09-07"
 length: "4 semanas"
 
 price_display:
-  text: "🇦🇷 ARS 15.000 / 🇺🇸 USD 10"
+  text: "ARS 15.000 / USD 10"
 
 purchase_options:
   - id: ars
