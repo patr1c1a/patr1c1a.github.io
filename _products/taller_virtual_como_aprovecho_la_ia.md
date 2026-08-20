@@ -3,7 +3,7 @@ layout: product
 title: "¿Cómo aprovecho mejor la IA?"
 subtitle: "Taller virtual sin conocimientos previos"
 slug: "taller-virtual-como-aprovecho-la-ia"
-description: "Taller práctico para aprender a aprovechar mejor la inteligencia artificial en tareas cotidianas."
+description: "2 horas para aprender a aprovechar mejor la inteligencia artificial en tareas cotidianas."
 image: "/static/img/products/taller_virtual_como_aprovecho_la_ia/thumbnail_taller_virtual_como_aprovecho_la_ia.png"
 catalog_order: 1
 type: "Taller"
@@ -43,3 +43,49 @@ purchase_options:
     payment_provider: paypal
     payment_data: {}
 ---
+
+<section class="product-section product-value">
+
+    <h2>¿Qué vas a aprender?</h2>
+
+    <p>
+      Técnicas sencillas para obtener respuestas más útiles, reducir errores y aprovechar mucho mejor herramientas como ChatGPT, Gemini, Claude y otras.
+    </p>
+    <p>
+      Eso nos va a llevar a entender por qué para tener mejores resultados no es necesario aprender las múltiples aplicaciones que surgen constantemente, ni tampoco pagar.
+    </p>
+    <p>
+      Descubrirás que muchas de las funciones más útiles de las herramientas actuales tienen un mismo objetivo: darle a la IA el contexto adecuado para que pueda responder mejor.
+    </p>
+    <p>
+      Veremos cuándo alcanza con escribir un buen mensaje y cuándo conviene complementar la conversación con archivos, información actualizada o instrucciones personalizadas para obtener respuestas mucho más útiles.
+    </p>
+    
+</section>
+
+<section class="product-section">
+
+    <h2>Si te interesa saber más</h2>
+
+    <ul>
+      <li>👉 <a href="https://iatest.patriciaemiguel.com/" target="_blank" rel="noopener noreferrer">Descubrí tu perfil de usuario de IA</a>: usando la herramienta gratuita que desarrollé especialmente para esto. Son 10 preguntas que te ayudarán a entender mejor tu relación con la IA y recibir algunos consejos para avanzar.</li>
+      <li>👉 <a href="https://www.youtube.com/playlist?list=PLFxq8PzRNgQM" target="_blank" rel="noopener noreferrer">Videos</a>: en youtube vas a encontrar algunos videos cortos donde explico conceptos y trucos sobre inteligencia artificial.</li>
+    </ul>
+
+</section>
+
+<section class="product-section">
+
+    <h2>Datos del taller</h2>
+
+    <ul>
+        <li>📅 Fecha: 29 de agosto de 2026.</li>
+        <li>🕓 Horario: 16 h (Argentina).</li>
+        <li>⏱️ Duración aproximada: 2 horas.</li>
+        <li>💻 Modalidad: virtual.</li>
+        <li>🎯 No se necesitan conocimientos previos.</li>
+    </ul>
+
+</section>
+
+{% include product_purchase.html %}
