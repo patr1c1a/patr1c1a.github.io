@@ -30,20 +30,16 @@ layout: default
                     </p>
                 {% endif %}
 
-                {% if page.status != "closed" %}
+                {% if page.price_display %}
+                    <p class="product-price">
+                        {{ page.price_display.text }}
+                    </p>
+                {% endif %}
 
-                    {% if page.price_display %}
-                        <p class="product-price">
-                            {{ page.price_display.text }}
-                        </p>
-                    {% endif %}
-
-                    {% if page.cta %}
-                        <a href="#comprar" class="product-primary-action">
-                            {{ page.cta }}
-                        </a>
-                    {% endif %}
-                
+                {% if page.cta %}
+                    <a href="#comprar" class="product-primary-action">
+                        {{ page.cta }}
+                    </a>
                 {% endif %}
 
             </div>
@@ -52,9 +48,27 @@ layout: default
 
         {% include product_waiting_list.html %}
 
-        {% if content %}
+        {% assign content_parts = content | split: "<!-- PRODUCT_PURCHASE -->" %}
+
+        {% if content_parts[0] %}
             <div class="product-content">
-                {{ content }}
+                {{ content_parts[0] }}
+            </div>
+        {% endif %}
+
+        {% if page.status != "closed" %}
+
+            {% if page.variants %}
+                {% include product_variants.html %}
+            {% elsif page.purchase_options %}
+                {% include product_purchase.html %}
+            {% endif %}
+
+        {% endif %}
+
+        {% if content_parts[1] %}
+            <div class="product-content">
+                {{ content_parts[1] }}
             </div>
         {% endif %}
 

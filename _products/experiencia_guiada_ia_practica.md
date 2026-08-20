@@ -115,4 +115,4 @@ purchase_options:
 
 </section>
 
-{% include product_purchase.html %}
+<!-- PRODUCT_PURCHASE -->

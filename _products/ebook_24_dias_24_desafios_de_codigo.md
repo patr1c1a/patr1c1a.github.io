@@ -161,7 +161,7 @@ variants:
 
 </section>
 
-{% include product_variants.html %}
+<!-- PRODUCT_PURCHASE -->
 
 <section class="product-section">
 
