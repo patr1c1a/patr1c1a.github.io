@@ -11,6 +11,7 @@ catalog_order: 3
 type: "Ebook"
 status: evergreen
 audience: programacion
+registration_required: false
 catalog_metadata:
   - icon: "book"
     text: "PDF de 290+ páginas"
@@ -161,8 +162,6 @@ variants:
 
 </section>
 
-<!-- PRODUCT_PURCHASE -->
-
 <section class="product-section">
 
     <h2>¿Qué incluye tu compra?</h2>
@@ -178,6 +177,11 @@ variants:
         {% endfor %}
     </ul>
 
+    {% if page.cta %}
+        <a href="#comprar" class="product-primary-action">
+            {{ page.cta }}
+        </a>
+    {% endif %}
 </section>
 
 <section class="product-section product-faq">

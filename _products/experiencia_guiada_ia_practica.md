@@ -9,6 +9,11 @@ catalog_order: 2
 type: "Experiencia guiada"
 status: scheduled
 audience: ia
+registration_required: true
+registration_fields:
+  - name
+  - email
+  - whatsapp
 catalog_metadata:
   - icon: "whatsapp"
     text: "Grupo de práctica"
@@ -40,6 +45,9 @@ length: "4 semanas"
 
 price_display:
   text: "ARS 15.000 / USD 10"
+
+purchase_title: "¿Cómo inscribirse?"
+purchase_description: "Ingresa tus datos en el formulario y completa el pago con el medio que prefieras."
 
 purchase_options:
   - id: ars
@@ -114,5 +122,3 @@ purchase_options:
     </ul>
 
 </section>
-
-<!-- PRODUCT_PURCHASE -->

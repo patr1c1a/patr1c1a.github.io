@@ -30,16 +30,20 @@ layout: default
                     </p>
                 {% endif %}
 
-                {% if page.price_display %}
-                    <p class="product-price">
-                        {{ page.price_display.text }}
-                    </p>
-                {% endif %}
+                {% if page.status != "closed" %}
 
-                {% if page.cta %}
-                    <a href="#comprar" class="product-primary-action">
-                        {{ page.cta }}
-                    </a>
+                    {% if page.price_display %}
+                        <p class="product-price">
+                            {{ page.price_display.text }}
+                        </p>
+                    {% endif %}
+
+                    {% if page.cta %}
+                        <a href="#comprar" class="product-primary-action">
+                            {{ page.cta }}
+                        </a>
+                    {% endif %}
+
                 {% endif %}
 
             </div>
@@ -48,28 +52,16 @@ layout: default
 
         {% include product/product_waiting_list.html %}
 
-        {% assign content_parts = content | split: "<!-- PRODUCT_PURCHASE -->" %}
-
-        {% if content_parts[0] %}
+        {% if content %}
             <div class="product-content">
-                {{ content_parts[0] }}
+                {{ content }}
             </div>
         {% endif %}
 
-        {% if page.status != "closed" %}
-
-            {% if page.variants %}
-                {% include product/product_variants.html %}
-            {% elsif page.purchase_options %}
-                {% include product/product_purchase.html %}
-            {% endif %}
-
-        {% endif %}
-
-        {% if content_parts[1] %}
-            <div class="product-content">
-                {{ content_parts[1] }}
-            </div>
+        {% if page.variants %}
+            {% include product/product_variants.html %}
+        {% elsif page.purchase_options %}
+            {% include product/product_purchase.html %}
         {% endif %}
 
         {% include product/product_contact.html %}

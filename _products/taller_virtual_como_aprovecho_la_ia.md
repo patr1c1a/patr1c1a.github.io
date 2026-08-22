@@ -11,6 +11,11 @@ duration: "2 horas"
 modality: "Virtual"
 status: scheduled
 audience: ia
+registration_required: true
+registration_fields:
+  - name
+  - email
+  - phone
 catalog_metadata:
   - icon: "video"
     text: "Modalidad virtual"
@@ -38,6 +43,9 @@ published: true
 
 price_display:
   text: "ARS 30.000 / USD 20"
+
+purchase_title: "¿Cómo inscribirse?"
+purchase_description: "Ingresa tus datos en el formulario y completa el pago con el medio que prefieras."
 
 purchase_options:
   - id: ars
@@ -101,5 +109,3 @@ purchase_options:
     </ul>
 
 </section>
-
-<!-- PRODUCT_PURCHASE -->
