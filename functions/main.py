@@ -1,6 +1,7 @@
 import json
+import mercadopago
+from firebase_functions.params import SecretParam
 from pathlib import Path
-
 from firebase_functions import https_fn
 from firebase_functions.options import set_global_options
 from firebase_admin import initialize_app, firestore
@@ -15,6 +16,7 @@ initialize_app()
 
 
 CATALOG_PATH = Path(__file__).parent / "product_catalog.json"
+MERCADOPAGO_ACCESS_TOKEN = SecretParam("MERCADOPAGO_ACCESS_TOKEN")
 
 
 def load_catalog():
@@ -27,15 +29,12 @@ def find_purchase_option(product, purchase_option_id):
         if option.get("id") == purchase_option_id:
             return option
 
-    for variant in product.get("variants", []):
-        for option in variant.get("purchase_options", []):
-            if option.get("id") == purchase_option_id:
-                return option
-
     return None
 
 
-@https_fn.on_request()
+@https_fn.on_request(
+    secrets=[MERCADOPAGO_ACCESS_TOKEN]
+)
 def createRegistration(req: https_fn.Request) -> https_fn.Response:
 
     if req.method != "POST":
@@ -120,13 +119,70 @@ def createRegistration(req: https_fn.Request) -> https_fn.Response:
     }
 
     document = db.collection("registrations").add(registration)
+    registration_id = document[1].id
+
+    if option["payment_provider"] == "mercadopago":
+
+        sdk = mercadopago.SDK(
+            MERCADOPAGO_ACCESS_TOKEN.value
+        )
+
+        preference_data = {
+            "items": [
+                {
+                    "title": product["title"],
+                    "quantity": 1,
+                    "unit_price": option["price"],
+                    "currency_id": option["currency"],
+                }
+            ],
+            "external_reference": registration_id,
+        }
+
+        preference_response = sdk.preference().create(
+            preference_data
+        )
+
+        if preference_response["status"] not in range(200, 300):
+            db.collection("registrations").document(
+                registration_id
+            ).update({
+                "status": "payment_creation_failed",
+            })
+
+            return https_fn.Response(
+                "Could not create payment",
+                status=502,
+            )
+
+        preference = preference_response["response"]
+
+        payment_url = preference.get("init_point")
+        preference_id = preference.get("id")
+
+        db.collection("registrations").document(
+            registration_id
+        ).update({
+            "preference_id": preference_id,
+            "payment_url": payment_url,
+        })
+
+        return https_fn.Response(
+            json.dumps({
+                "registration_id": registration_id,
+                "status": "pending_payment",
+                "payment_url": payment_url,
+            }),
+            status=201,
+            headers={
+                "Content-Type": "application/json"
+            },
+        )
 
     return https_fn.Response(
         json.dumps({
-            "registration_id": document[1].id,
+            "registration_id": registration_id,
             "status": "pending_payment",
-            "amount": option["price"],
-            "currency": option["currency"],
             "payment_provider": option["payment_provider"],
         }),
         status=201,
