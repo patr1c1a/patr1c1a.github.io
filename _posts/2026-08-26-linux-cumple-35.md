@@ -7,7 +7,9 @@ tags: linux
 published: true
 ---
 
-Un proyecto que nació como un pasatiempos de [Linus Torvalds](https://github.com/torvalds){:target="_blank"} terminó corriendo en gran parte de los sistemas de la internet moderna.
+Después de años trabajando en sistemas, sigo encontrando comandos y flags de Linux que no conocía.
+
+Nadie sabe todo. Este proyecto que "no iba a ser grande" (palabras del propio [Linus Torvalds](https://github.com/torvalds){:target="_blank"}) acaba de cumplir 35 años y sigue demostrando que no hace falta ser un "gurú" para construir algo relevante.
 
 [Web oficial de Linux](https://www.linux.org/){:target="_blank"}
 
