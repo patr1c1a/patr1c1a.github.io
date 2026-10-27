@@ -19,7 +19,7 @@ Hoy celebramos el Día del Programador porque corresponde al día 256 del año: 
 
 ¡Feliz día, programadores!
 
-e celebra el día 256 (2 elevado a la 8) de cada año.
+Se celebra el día 256 (2 elevado a la 8) de cada año.
 
 </div></details>
 <br />&nbsp;
