@@ -11,7 +11,7 @@ Aunque el vibecoding nos ayude a generar código, siempre debemos mantener el co
 
 Que funcione con un ejemplo no significa que funcione en todos los casos. Y que la IA te explique por qué funciona tampoco demuestra que su explicación sea correcta.
 
-![Antes de usar código que te dio una IA]({{ site.url }}/assets/2027-10-30-preguntas-vibecoding.png)
+![Antes de usar código que te dio una IA]({{ site.url }}/assets/2026-10-30-preguntas-vibecoding.png)
 
 {% include accesibilidad.html %}
 
