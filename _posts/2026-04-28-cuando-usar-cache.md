@@ -2,8 +2,8 @@
 layout: post
 title: Cuándo usar cache (y cuándo no)
 date: 2026-04-28 16:00:00
-categories: design
-tags: system_design cache arquitectura
+categories: arquitectura
+tags: diseño cache arquitectura
 published: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Datos binarios vs. texto
 date: 2023-03-12 20:00:00 -0300
-categories: otros
+categories: conceptos
 tags: binario ascii unicode
 published: true
 ---

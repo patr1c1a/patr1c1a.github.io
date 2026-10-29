@@ -2,7 +2,7 @@
 layout: post
 title: Microservicios vs. monolito
 date: 2022-10-24 22:00:00 -0300
-categories: conceptos
+categories: diseño
 tags: microservicios monolito
 published: true
 ---

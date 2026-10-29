@@ -2,7 +2,7 @@
 layout: post
 title: Cómo se compone un equipo de desarrollo
 date: 2020-01-28 21:00:00
-categories: otros
+categories: profesional
 tags: equipo desarrollo
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Inteligencia artificial, machine learning, ¿qué son?
 date: 2019-12-18 21:00:00
-categories: otros
+categories: ia
 tags: ia ai machine_learning
 published: true
 ---

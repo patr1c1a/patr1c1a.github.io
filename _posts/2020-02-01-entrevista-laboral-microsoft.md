@@ -2,7 +2,7 @@
 layout: post
 title: Preguntas de entrevista laboral en Microsoft
 date: 2020-02-01 21:00:00
-categories: otros
+categories: profesional
 tags: microsoft entrevistas trabajo
 published: true
 ---

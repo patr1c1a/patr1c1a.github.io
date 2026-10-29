@@ -2,7 +2,7 @@
 layout: post
 title: Front-end, back-end, full-stack
 date: 2020-02-26 21:00:00
-categories: otros
+categories: profesional
 tags: frontend backend fullstack
 published: true
 ---

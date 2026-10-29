@@ -2,7 +2,7 @@
 layout: post
 title: ¿Qué lenguaje de programación usar?
 date: 2019-11-01 21:00:00
-categories: otros
+categories: profesional
 tags: lenguajes
 published: true
 ---

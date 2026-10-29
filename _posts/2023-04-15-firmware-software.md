@@ -2,7 +2,7 @@
 layout: post
 title: Firmware vs. Software
 date: 2023-04-15 19:00:00 -0300
-categories: otros
+categories: conceptos
 tags: microchips electronica
 published: true
 ---

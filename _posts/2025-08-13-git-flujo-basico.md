@@ -2,7 +2,7 @@
 layout: post
 title: Lo que todo programador debe saber sobre git
 date: 2025-08-13 15:00:00 -0300
-categories: otros
+categories: profesional
 tags: git commit pull_request
 published: true
 ---
@@ -12,7 +12,6 @@ published: true
 Este es el flujo básico para que puedas clonar, crear ramas, hacer commits y subir cambios sin romper nada. Ideal si estás empezando con Git y necesitas dejar de temerle a los conflictos o al famoso "subí cambios directo a `main` y rompí todo" 😲.
 
 ![Lo que todo programador debe saber sobre git]({{ site.url }}/assets/2025-08-13-git-flujo-basico.png)
-
 
 &nbsp;
 

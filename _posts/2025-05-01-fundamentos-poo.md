@@ -2,7 +2,7 @@
 layout: post
 title: Fundamentos de programación orientada a objetos (POO)
 date: 2025-04-27 09:00:00 -0300
-categories: poo conceptos
+categories: poo
 tags: herencia encapsulamiento ocultamiento abstracción polimorfismo
 published: true
 ---

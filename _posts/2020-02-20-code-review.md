@@ -2,7 +2,7 @@
 layout: post
 title: El proceso de revisión de código, o code review
 date: 2020-02-20 21:00:00
-categories: otros
+categories: profesional
 tags: codereview
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Cómo prepararse para una entrevista en Google
 date: 2019-08-26 21:00:00
-categories: otros
+categories: profesional
 tags: entrevista trabajo google
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Buenas prácticas para nuestros condicionales
 date: 2019-09-22 21:00:00
-categories: otros conceptos
+categories: conceptos
 tags: buenas_practicas condicionales
 published: true
 ---

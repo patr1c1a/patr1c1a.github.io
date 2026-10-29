@@ -2,8 +2,8 @@
 layout: post
 title: Consistencia vs. Disponibilidad en "CAP"
 date: 2026-04-14 16:00:00
-categories: design
-tags: system_design teorema_cap consistencia disponibilidad
+categories: arquitectura
+tags: diseño teorema_cap consistencia disponibilidad
 published: true
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Consejos para ser un buen informático
 date: 2019-08-03 21:00:00
-categories: otros
+categories: profesional
 tags: trabajo
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Los lenguajes preferidos en el 2022
 date: 2022-12-31 20:00:00 -0300
-categories: otros
+categories: profesional
 tags: lenguajes
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Calendario de adviento 2025 - Todos los ejercicios de mi libro
 date: 2025-12-24 16:00:00
-categories: ejercicios desafios
+categories: desafios
 tags: algoritmos ejercicios entrevista
 published: true
 ---

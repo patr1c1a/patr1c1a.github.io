@@ -2,7 +2,7 @@
 layout: post
 title: Qué son las metodologías ágiles
 date: 2020-01-19 21:00:00
-categories: otros
+categories: profesional
 tags: agile scrum
 published: true
 ---

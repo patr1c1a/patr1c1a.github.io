@@ -2,7 +2,7 @@
 layout: post
 title: Guía para participar en un evento tech y aprovecharlo al máximo
 date: 2025-09-29 20:00:00 -0300
-categories: otros
+categories: profesional
 tags: eventos networking
 published: true
 ---

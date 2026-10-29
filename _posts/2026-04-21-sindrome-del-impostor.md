@@ -2,7 +2,7 @@
 layout: post
 title: Nunca vas a saber todo
 date: 2026-04-21 16:00:00
-categories: otros
+categories: profesional
 tags: impostor
 published: true
 ---

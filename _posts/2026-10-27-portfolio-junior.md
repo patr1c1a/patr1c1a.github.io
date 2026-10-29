@@ -2,7 +2,7 @@
 layout: post
 title: Qué suma y qué no en el portfolio de un programador junior
 date: 2026-10-27 20:00:00
-categories: otros
+categories: profesional
 tags: apis recursos
 published: true
 ---

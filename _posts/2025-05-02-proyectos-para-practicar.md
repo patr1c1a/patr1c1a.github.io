@@ -2,7 +2,7 @@
 layout: post
 title: ¿Qué proyectos hacer para practicar?
 date: 2025-05-02 09:00:00 -0300
-categories: otros
+categories: profesional
 tags: proyectos
 published: true
 ---

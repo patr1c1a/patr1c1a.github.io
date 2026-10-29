@@ -2,7 +2,7 @@
 layout: post
 title: ¿Sabías que Instagram empezó con Python?
 date: 2025-08-27 15:00:00 -0300
-categories: otros
+categories: arquitectura
 tags: instagram arquitectura
 published: true
 ---

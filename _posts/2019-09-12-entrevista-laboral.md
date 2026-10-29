@@ -2,7 +2,7 @@
 layout: post
 title: Preguntas de entrevista laboral (desarrollador)
 date: 2019-09-12 21:00:00
-categories: otros
+categories: profesional
 tags: entrevista trabajo
 published: true
 ---

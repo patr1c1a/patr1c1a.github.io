@@ -2,7 +2,7 @@
 layout: post
 title: Versionado del software
 date: 2024-03-27 21:00:00 -0300
-categories: conceptos otros
+categories: profesional
 tags: versionado major minor patch
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Usar recursividad no siempre es más elegante
 date: 2025-07-11 13:00:00 -0300
-categories: conceptos otros
+categories: conceptos
 tags: recursividad
 published: true
 ---

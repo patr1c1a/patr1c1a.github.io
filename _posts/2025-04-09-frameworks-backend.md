@@ -2,7 +2,7 @@
 layout: post
 title: En qué se parecen los frameworks de backend
 date: 2025-04-06 09:00:00 -0300
-categories: otros
+categories: arquitectura
 tags: backend frameworks
 published: true
 ---

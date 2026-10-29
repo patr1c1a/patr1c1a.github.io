@@ -2,7 +2,7 @@
 layout: post
 title: Ejercicio con strings
 date: 2019-09-03 21:00:00
-categories: ejercicios python java c++
+categories: ejercicios
 tags: entrevista trabajo
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 5 formas de practicar programación para avanzar
 date: 2026-06-16 16:00:00
-categories: otros
+categories: profesional
 tags: practicar proyectos
 published: true
 ---

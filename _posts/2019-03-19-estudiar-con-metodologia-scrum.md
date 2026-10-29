@@ -3,7 +3,7 @@ layout: post
 title: Cómo estudiar programación usando la metodología "Scrum"
 date: 2019-03-19
 categories: tutoriales
-tags: tutorial projectmanagement gestion
+tags: tutorial project_management gestion
 published: false
 ---
 

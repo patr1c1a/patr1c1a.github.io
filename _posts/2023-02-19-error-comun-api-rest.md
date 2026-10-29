@@ -2,7 +2,7 @@
 layout: post
 title: Un error común al crear una API REST
 date: 2023-02-19 20:00:00 -0300
-categories: otros
+categories: arquitectura
 tags: api rest backend flask python
 published: true
 ---
