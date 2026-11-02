@@ -2,7 +2,7 @@
 layout: post
 title: Música para entrenar a la IA
 date: 2026-06-18 16:00:00
-categories: ia
+categories: noticias
 tags: datasets música suno udio
 published: true
 ---

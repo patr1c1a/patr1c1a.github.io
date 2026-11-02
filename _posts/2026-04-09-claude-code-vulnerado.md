@@ -2,7 +2,7 @@
 layout: post
 title: ¡Claude Code vulnerado!
 date: 2026-04-09 16:00:00
-categories: ia
+categories: noticias
 tags: claude seguridad
 published: true
 ---

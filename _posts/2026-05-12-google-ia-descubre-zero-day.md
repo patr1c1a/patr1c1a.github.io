@@ -2,7 +2,7 @@
 layout: post
 title: ¿IA creando ataques nuevos?
 date: 2026-05-12 16:00:00
-categories: ia
+categories: noticias
 tags: google seguridad 
 published: true
 ---

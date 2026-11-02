@@ -2,7 +2,7 @@
 layout: post
 title: ¿Empresas automatizadas y usando blockchain?
 date: 2026-05-29 16:00:00
-categories: ia
+categories: noticias
 tags: empresas blockchain sociedades_automatizadas legales
 published: true
 ---

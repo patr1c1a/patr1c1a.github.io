@@ -2,7 +2,7 @@
 layout: post
 title: ¿Ahora también hay "vibe-hackers"?
 date: 2026-04-11 16:00:00
-categories: ia
+categories: noticias
 tags: chatgpt claude
 published: true
 ---

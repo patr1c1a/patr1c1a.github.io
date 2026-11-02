@@ -2,7 +2,7 @@
 layout: post
 title: La IA de Meta ayudó a robar cuentas de Instagram
 date: 2026-06-01 16:00:00
-categories: ia
+categories: noticias
 tags: meta instagram facebook ia seguridad
 published: true
 ---

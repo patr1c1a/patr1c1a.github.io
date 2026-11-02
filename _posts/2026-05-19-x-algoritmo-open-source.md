@@ -2,7 +2,7 @@
 layout: post
 title: X (Twitter) publicó su algoritmo
 date: 2026-05-19 16:00:00
-categories: otros
+categories: noticias
 tags: twitter open_source
 published: true
 ---

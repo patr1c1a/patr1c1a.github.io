@@ -2,7 +2,7 @@
 layout: post
 title: La IA ayudó a descubrir un bug en Linux desde 2017
 date: 2026-05-01 16:00:00
-categories: ia
+categories: noticias
 tags: ia linux bug
 published: true
 ---

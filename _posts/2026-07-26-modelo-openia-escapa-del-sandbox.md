@@ -2,7 +2,7 @@
 layout: post
 title: Una IA "escapó" y robó información... ¿Es así?
 date: 2026-07-26 16:00:00
-categories: ia
+categories: noticias
 tags: openai chatgpt huggingface
 published: true
 ---

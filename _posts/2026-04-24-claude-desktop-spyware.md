@@ -2,7 +2,7 @@
 layout: post
 title: El "spyware" de Claude Desktop para Mac
 date: 2026-04-24 16:00:00
-categories: ia
+categories: noticias
 tags: ia claude mac
 published: true
 ---

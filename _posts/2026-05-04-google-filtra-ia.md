@@ -2,7 +2,7 @@
 layout: post
 title: Google filtra accidentalmente su IA para Android
 date: 2026-05-04 16:00:00
-categories: ia
+categories: noticias
 tags: ia android google cosmo agente
 published: true
 ---
