@@ -2,7 +2,7 @@
 layout: post
 title: Linux cumple 35 años
 date: 2026-08-26 16:00:00
-categories: otros
+categories: noticias
 tags: linux
 published: true
 ---

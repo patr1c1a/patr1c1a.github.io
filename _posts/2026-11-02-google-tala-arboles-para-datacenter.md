@@ -2,7 +2,7 @@
 layout: post
 title: Google taló árboles para un data center
 date: 2026-11-02 20:00:00
-categories: ia
+categories: noticias
 tags: noticias
 published: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: 4 APIs gratis para crear proyectos reales
 date: 2026-05-22 16:00:00
-categories: otros
+categories: profesional
 tags: apis recursos
 published: true
 ---
