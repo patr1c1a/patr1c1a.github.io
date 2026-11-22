@@ -19,7 +19,7 @@ La Hipótesis de Riemann es uno de los "problemas del milenio": era tan difícil
 
 El matemático Andrew Sutherland (MIT) había dicho que "no querría conocer a la IA capaz de probar la Hipótesis de Riemann".
 
-En 2021 los pronósticos sobre cuándo sería resuelto este problema estimaban el año 2057. En 2026, antes del 20 de noviembre, había bajado a 2035, para desplomarse aún más después del anuncio reciente. Esta es la información que surge de [Metaculus](https://www.metaculus.com/questions/6494/when-will-the-r-hypothesis-be-resolved/), una plataforma que se basa en la precisión y reputación de los pronosticadores para dar predicciones probabilísticas sobre eventos futuros (especialmente en ciencia, tecnología, geopolítica y riesgos globales).
+En 2021 los pronósticos sobre cuándo sería resuelto este problema estimaban el año 2057. En 2026, antes del 20 de noviembre, había bajado a 2035, para desplomarse aún más después del anuncio reciente. Esta es la información que surge de [Metaculus](https://www.metaculus.com/questions/6494/when-will-the-r-hypothesis-be-resolved/){:target="_blank"}, una plataforma que se basa en la precisión y reputación de los pronosticadores para dar predicciones probabilísticas sobre eventos futuros (especialmente en ciencia, tecnología, geopolítica y riesgos globales).
 
 ({{ site.url }}/assets/2026-11-22-hipotesis-riemann-probada-con-IA-2.png)
 
