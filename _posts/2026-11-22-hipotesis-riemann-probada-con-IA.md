@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El mayor problema de la matemática, ¿resuelto por IA?
-date: 2026-11-22 20:00:00
+date: 2026-11-22 15:00:00
 categories: noticias
 tags: matemática riemann anthropic
 published: true
