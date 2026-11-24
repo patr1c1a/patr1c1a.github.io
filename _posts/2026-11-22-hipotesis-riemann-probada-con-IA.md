@@ -9,8 +9,6 @@ published: true
 
 ![El mayor problema de la matemática, ¿resuelto por IA?]({{ site.url }}/assets/2026-11-22-hipotesis-riemann-probada-con-IA-1.png){: width="40%" }
 
-## El mayor problema de la matemática, ¿resuelto por IA?
-
 160 años sin resolverse. 1 millón de dólares de premio. La Hipótesis de Riemann parece haber sido demostrada mediante IA.
 
 ## Cuál era la situación antes del 20 de noviembre
