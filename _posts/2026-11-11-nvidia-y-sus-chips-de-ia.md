@@ -9,8 +9,6 @@ published: true
 
 ![Chips, espionaje y millones en juego]({{ site.url }}/assets/2026-11-11-nvidia-y-sus-chips-de-ia.png){: width="40%" }
 
-## Chips, espionaje y millones en juego
-
 El CEO de Nvidia, Jensen Huang, protagoniza un escándalo que podría afectar a la industria de la IA, por su relación con una empresaria sospechada de espiar para China.
 
 Nvidia es uno de los principales proveedores de los chips que hacen posible el desarrollo de modelos de inteligencia artificial. Y Estados Unidos restringe la venta de esos chips a China.

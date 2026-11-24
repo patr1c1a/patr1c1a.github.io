@@ -9,8 +9,6 @@ published: true
 
 ![Google tala árboles para su data center en Finlandia]({{ site.url }}/assets/2026-11-02-google-tala-arboles-para-datacenter.png){: width="40%" }
 
-## Qué sucedió
-
 En Muhos, Finlandia, se despejaron unas 330 hectáreas de bosque (cerca de 250.000 árboles) para un data center de IA. Las autoridades ordenaron frenar las obras en dos sitios porque el estudio ambiental obligatorio no estaba terminado.
 
 Quien realmente taló los árboles fue la empresa representante de Google "Tuike Finland Oy", que es quien gestiona los centros de datos de Google en Finlandia. Pero, al parecer, los permisos necesarios no habían terminado de tramitarse. Algo desprolijo, para ser una inversión de 15.100 millones de dólares.

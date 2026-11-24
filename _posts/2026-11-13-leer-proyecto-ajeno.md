@@ -9,8 +9,6 @@ published: true
 
 ![20 minutos para aprender a leer código ajeno]({{ site.url }}/assets/2026-11-13-leer-proyecto-ajeno.png){: width="40%" }
 
-## 20 minutos para aprender a leer código ajeno en proyectos reales
-
 Muchas veces vas a tener que trabajar sobre proyectos que crearon otros, y es normal pasar un tiempo analizándolo hasta entender su código. No siempre vas a entender todo a la primera, y no hace falta.
 
 Aunque la IA pueda explicarte qué hace cada parte del código, entender cada pieza por separado no es lo mismo que entender cómo funciona el sistema en su conjunto.
