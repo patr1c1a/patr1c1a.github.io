@@ -1,12 +1,12 @@
 /* Dark theme colors */
 :root {
-  --dark-background: #1e1e1e;
+  --dark-background: #1a1a1a;
   --dark-text: #e8e8e8;
-  --dark-link: #009688;
+  --dark-link: #f28c38;
   --dark-code-bg: #2d2d2d;
   --dark-card-bg: #2c2c2c;
   --dark-border-color: #444444;
-  --teal-accent: #009688;
+  --teal-accent: #2f7f7f;
 }
 
 /* Main content area */
@@ -16,7 +16,7 @@ body {
 }
 
 .navbar, .navbar-default, header, .navbar-custom {
-  background-color: var(--dark-header-bg) !important;
+  background-color: var(--dark-background) !important;
 }
 
 .content, .post-content, .well, .panel, article, .container .white, .post, .home .content-wrapper {
@@ -118,9 +118,9 @@ table {
 .pager li > span:hover,
 .pagination > li > a:hover,
 .pagination > li > span:hover {
-  background-color: var(--dark-header-bg) !important;
+  background-color: var(--dark-background) !important;
   color: white !important;
-  border-color: var(--dark-header-bg) !important;
+  border-color: var(--dark-background) !important;
 }
 
 .pager .active > a,
@@ -143,7 +143,7 @@ table {
 }
 
 .search__results li:hover {
-  background-color: var(--dark-header-bg) !important;
+  background-color: var(--dark-background) !important;
   color: white !important;
 }
 
@@ -161,7 +161,7 @@ table {
 
 .typeahead .tt-suggestion:hover,
 .typeahead .tt-suggestion.tt-cursor {
-  background-color: var(--dark-header-bg) !important;
+  background-color: var(--dark-background) !important;
   color: white !important;
 }
 
