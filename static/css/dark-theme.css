@@ -181,6 +181,13 @@ table {
   line-height: 1 !important;
   padding: 5px !important;
   text-align: center !important;
+  text-decoration: none !important;
+}
+
+.header-panel .social-icons a.icon:hover,
+.header-panel .social-icons a.icon:focus,
+.header-panel .social-icons a.icon:active {
+  text-decoration: none !important;
 }
 
 .header-panel .social-icons a.icon i {
