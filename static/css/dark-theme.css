@@ -44,7 +44,11 @@ a, a:hover, a:focus {
 
 /* Override sidebar */
 .sidebar, .sidebar-content, nav {
-  background-color: var(--teal-accent) !important;
+}
+
+/* Sticky note icon on each blog entry */
+.list-group .list-group-item .row-action-primary i.fa-sticky-note {
+  color: var(--dark-gray-medium) !important;
 }
 
 /* Buttons */
