@@ -6,7 +6,9 @@
   --dark-code-bg: #2d2d2d;
   --dark-card-bg: #2c2c2c;
   --dark-border-color: #444444;
-  --teal-accent: #2f7f7f;
+  --dark-teal: #2f7f7f;
+  --dark-gray-medium: #787878;
+  --dark-beige: #eed1a2;
 }
 
 /* Main content area */
@@ -17,6 +19,18 @@ body {
 
 .navbar, .navbar-default, header, .navbar-custom {
   background-color: var(--dark-background) !important;
+}
+
+.menu ul li a:hover, .menu ul li a:focus, li.current-menu-item > a{
+    background: var(--dark-teal) !important;
+}
+
+li.current-menu-item:before {
+  background: var(--dark-beige) !important;
+}
+
+.header-panel.shadow-z-2 {
+    background-color: var(--dark-teal) !important;
 }
 
 .content, .post-content, .well, .panel, article, .container .white, .post, .home .content-wrapper {
@@ -44,6 +58,7 @@ a, a:hover, a:focus {
 
 /* Override sidebar */
 .sidebar, .sidebar-content, nav {
+  background-color: var(--dark-teal) !important;
 }
 
 /* Sticky note icon on each blog entry */
@@ -131,8 +146,8 @@ table {
 .pager .active > span,
 .pagination > .active > a,
 .pagination > .active > span {
-  background-color: var(--teal-accent) !important;
-  border-color: var(--teal-accent) !important;
+  background-color: var(--dark-teal) !important;
+  border-color: var(--dark-teal) !important;
   color: white !important;
 }
 
@@ -200,7 +215,7 @@ table {
 
 .header-panel .social-icons a.icon,
 .header-panel .social-icons a.icon i {
-  color: var(--teal-accent) !important;
+  color: var(--dark-teal) !important;
 }
 
 .header-panel .social-icons a.icon:hover,
@@ -212,7 +227,7 @@ table {
 
 .header-panel .social-icons a.icon:hover,
 .header-panel .social-icons a.icon:focus {
-  background-color: var(--teal-accent) !important;
+  background-color: var(--dark-teal) !important;
 }
 
 .sidebar-module.sidebar-social-icons a {
