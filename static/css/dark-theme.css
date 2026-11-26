@@ -173,6 +173,23 @@ table {
 }
 
 /* Social media icons */
+.header-panel .social-icons a.icon,
+.header-panel .social-icons a.icon i {
+  color: var(--teal-accent) !important;
+}
+
+.header-panel .social-icons a.icon:hover,
+.header-panel .social-icons a.icon:focus,
+.header-panel .social-icons a.icon:hover i,
+.header-panel .social-icons a.icon:focus i {
+  color: var(--dark-text) !important;
+}
+
+.header-panel .social-icons a.icon:hover,
+.header-panel .social-icons a.icon:focus {
+  background-color: var(--teal-accent) !important;
+}
+
 .sidebar-module.sidebar-social-icons a {
   background-color: rgba(0, 0, 0, 0.3) !important;
   border-radius: 50% !important;
