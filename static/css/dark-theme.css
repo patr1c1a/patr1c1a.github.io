@@ -173,6 +173,20 @@ table {
 }
 
 /* Social media icons */
+.header-panel .social-icons a.icon {
+  box-sizing: border-box !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  line-height: 1 !important;
+  padding: 5px !important;
+  text-align: center !important;
+}
+
+.header-panel .social-icons a.icon i {
+  line-height: 1 !important;
+}
+
 .header-panel .social-icons a.icon,
 .header-panel .social-icons a.icon i {
   color: var(--teal-accent) !important;
