@@ -7,7 +7,7 @@ tags: principiantes entrevistas
 published: true
 ---
 
-![3 señales de que comprendés tu código]({{ site.url }}/assets/2026-11-28-comprender-codigo.png){: width="40%" }
+[![3 señales de que comprendés tu código]({{ site.url }}/assets/2026-11-28-comprender-codigo.png){: width="40%" }]({{ site.url }}/assets/2026-11-28-comprender-codigo.png){: .thickbox title="3 señales de que comprendés tu código" }
 
 ## 3 señales de que comprendés tu código (y no solo lo copiaste)
 

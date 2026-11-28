@@ -7,7 +7,7 @@ tags: chatgpt claude
 published: true
 ---
 
-![Vibehackers contra el gobierno mexicano]({{ site.url }}/assets/2026-04-11-gobierno-mexicano-hackeado-ia.png){: width="40%" }
+[![Vibehackers contra el gobierno mexicano]({{ site.url }}/assets/2026-04-11-gobierno-mexicano-hackeado-ia.png){: width="40%" }]({{ site.url }}/assets/2026-04-11-gobierno-mexicano-hackeado-ia.png){: .thickbox title="Vibehackers contra el gobierno mexicano" }
 
 ¿Ahora además de "vibe-coders" hay "vibe-hackers"?
 

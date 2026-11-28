@@ -7,7 +7,7 @@ tags: empresas blockchain sociedades_automatizadas legales
 published: true
 ---
 
-![Empresas automatizadas y usando blockchain]({{ site.url }}/assets/2026-05-29-sociedades-argentina.png){: width="40%" }
+[![Empresas automatizadas y usando blockchain]({{ site.url }}/assets/2026-05-29-sociedades-argentina.png){: width="40%" }]({{ site.url }}/assets/2026-05-29-sociedades-argentina.png){: .thickbox title="Empresas automatizadas y usando blockchain" }
 
 ## Un proyecto de reforma de ley busca permitir "sociedades automatizadas" y DAOs en Argentina
 

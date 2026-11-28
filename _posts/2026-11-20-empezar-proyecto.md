@@ -7,7 +7,7 @@ tags: proyecto portfolio
 published: true
 ---
 
-![Cómo empezar tu proyecto de software]({{ site.url }}/assets/2026-11-20-empezar-proyecto.png){: width="40%" }
+[![Cómo empezar tu proyecto de software]({{ site.url }}/assets/2026-11-20-empezar-proyecto.png){: width="40%" }]({{ site.url }}/assets/2026-11-20-empezar-proyecto.png){: .thickbox title="Cómo empezar tu proyecto de software" }
 
 ## Paso 1: Definir qué vas a construir
 

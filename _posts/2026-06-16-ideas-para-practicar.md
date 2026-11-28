@@ -7,7 +7,7 @@ tags: practicar proyectos
 published: true
 ---
 
-![5 formas de practicar programación para avanzar]({{ site.url }}/assets/2026-06-16-ideas-para-practicar.png){: width="40%" }
+[![5 formas de practicar programación para avanzar]({{ site.url }}/assets/2026-06-16-ideas-para-practicar.png){: width="40%" }]({{ site.url }}/assets/2026-06-16-ideas-para-practicar.png){: .thickbox title="5 formas de practicar programación para avanzar" }
 
 Muchas veces nos estancamos porque no sabemos por dónde seguir y, en realidad, en esta industria es muy difícil tener certeza sobre cuál es el mejor camino. Así que, mientras lo descubrimos, ¿qué mejor que practicar?
 

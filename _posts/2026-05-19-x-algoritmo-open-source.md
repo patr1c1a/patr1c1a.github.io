@@ -7,7 +7,7 @@ tags: twitter open_source x
 published: true
 ---
 
-![X publicó su algoritmo]({{ site.url }}/assets/2026-05-19-x-algoritmo-open-source.png){: width="40%" }
+[![X publicó su algoritmo]({{ site.url }}/assets/2026-05-19-x-algoritmo-open-source.png){: width="40%" }]({{ site.url }}/assets/2026-05-19-x-algoritmo-open-source.png){: .thickbox title="X publicó su algoritmo" }
 
 ## Ya podemos ver el código fuente del "Para ti" de la red social X
 

@@ -7,7 +7,7 @@ tags: openai chatgpt huggingface
 published: true
 ---
 
-![Modelo de OpenAI escapa del sandbox]({{ site.url }}/assets/2026-07-26-modelo-openia-escapa-del-sandbox.png){: width="40%" }
+[![Modelo de OpenAI escapa del sandbox]({{ site.url }}/assets/2026-07-26-modelo-openia-escapa-del-sandbox.png){: width="40%" }]({{ site.url }}/assets/2026-07-26-modelo-openia-escapa-del-sandbox.png){: .thickbox title="Modelo de OpenAI escapa del sandbox" }
 
 ## Qué pasó en realidad
 

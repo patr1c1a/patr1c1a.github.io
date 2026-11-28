@@ -7,7 +7,7 @@ tags: ia linux bug
 published: true
 ---
 
-![Bug en Linux]({{ site.url }}/assets/2026-05-01-ia-bug-linux.png){: width="40%" }
+[![Bug en Linux]({{ site.url }}/assets/2026-05-01-ia-bug-linux.png){: width="40%" }]({{ site.url }}/assets/2026-05-01-ia-bug-linux.png){: .thickbox title="Bug en Linux" }
 
 ## Un error escondido por 9 años
 

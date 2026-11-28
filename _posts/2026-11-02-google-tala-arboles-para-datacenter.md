@@ -7,7 +7,7 @@ tags: noticias
 published: true
 ---
 
-![Google tala árboles para su data center en Finlandia]({{ site.url }}/assets/2026-11-02-google-tala-arboles-para-datacenter.png){: width="40%" }
+[![Google tala árboles para su data center en Finlandia]({{ site.url }}/assets/2026-11-02-google-tala-arboles-para-datacenter.png){: width="40%" }]({{ site.url }}/assets/2026-11-02-google-tala-arboles-para-datacenter.png){: .thickbox title="Google tala árboles para su data center en Finlandia" }
 
 En Muhos, Finlandia, se despejaron unas 330 hectáreas de bosque (cerca de 250.000 árboles) para un data center de IA. Las autoridades ordenaron frenar las obras en dos sitios porque el estudio ambiental obligatorio no estaba terminado.
 

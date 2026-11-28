@@ -7,7 +7,7 @@ tags: datasets música suno udio
 published: true
 ---
 
-![Música para entrenar a la IA]({{ site.url }}/assets/2026-06-18-musica-para-entrenar-ia.png){: width="40%" }
+[![Música para entrenar a la IA]({{ site.url }}/assets/2026-06-18-musica-para-entrenar-ia.png){: width="40%" }]({{ site.url }}/assets/2026-06-18-musica-para-entrenar-ia.png){: .thickbox title="Música para entrenar a la IA" }
 
 Desde 2024 algunas empresas como Warner, Universal y Sony comenzaron a demandar a las creadoras de herramientas de generación musical mediante IA. También algunos artistas independientes se unieron para reclamar por el uso indebido de sus obras.
 

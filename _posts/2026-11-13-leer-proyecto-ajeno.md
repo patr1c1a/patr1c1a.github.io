@@ -7,7 +7,7 @@ tags: proyectos
 published: true
 ---
 
-![20 minutos para aprender a leer código ajeno]({{ site.url }}/assets/2026-11-13-leer-proyecto-ajeno.png){: width="40%" }
+[![20 minutos para aprender a leer código ajeno]({{ site.url }}/assets/2026-11-13-leer-proyecto-ajeno.png){: width="40%" }]({{ site.url }}/assets/2026-11-13-leer-proyecto-ajeno.png){: .thickbox title="20 minutos para aprender a leer código ajeno" }
 
 Muchas veces vas a tener que trabajar sobre proyectos que crearon otros, y es normal pasar un tiempo analizándolo hasta entender su código. No siempre vas a entender todo a la primera, y no hace falta.
 

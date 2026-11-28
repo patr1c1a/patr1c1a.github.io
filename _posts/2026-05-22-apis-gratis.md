@@ -7,7 +7,7 @@ tags: apis recursos
 published: true
 ---
 
-![4 APIs gratis]({{ site.url }}/assets/2026-05-22-apis-gratis.png){: width="40%" }
+[![4 APIs gratis]({{ site.url }}/assets/2026-05-22-apis-gratis.png){: width="40%" }]({{ site.url }}/assets/2026-05-22-apis-gratis.png){: .thickbox title="4 APIs gratis" }
 
 ## Crear proyectos reales importa tanto como practicar algoritmia
 

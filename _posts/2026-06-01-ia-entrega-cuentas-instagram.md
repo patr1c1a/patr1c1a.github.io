@@ -7,7 +7,7 @@ tags: meta instagram facebook ia seguridad
 published: true
 ---
 
-![Convencieron a la IA de Instagram para que ayude a robar cuentas]({{ site.url }}/assets/2026-06-01-ia-entrega-cuentas-instagram.png){: width="40%" }
+[![Convencieron a la IA de Instagram para que ayude a robar cuentas]({{ site.url }}/assets/2026-06-01-ia-entrega-cuentas-instagram.png){: width="40%" }]({{ site.url }}/assets/2026-06-01-ia-entrega-cuentas-instagram.png){: .thickbox title="Convencieron a la IA de Instagram para que ayude a robar cuentas" }
 
 La IA de Meta para soporte de Instagram y Facebook terminó protagonizando uno de los incidentes de seguridad más comentados de los últimos días.
 

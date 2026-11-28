@@ -7,7 +7,7 @@ tags: google seguridad
 published: true
 ---
 
-![Zero Day creado por IA]({{ site.url }}/assets/2026-05-12-google-ia-descubre-zero-day.png){: width="40%" }
+[![Zero Day creado por IA]({{ site.url }}/assets/2026-05-12-google-ia-descubre-zero-day.png){: width="40%" }]({{ site.url }}/assets/2026-05-12-google-ia-descubre-zero-day.png){: .thickbox title="Zero Day creado por IA" }
 
 ## ¿La IA ya está ayudando a crear ataques cibernéticos de nueva generación?
 

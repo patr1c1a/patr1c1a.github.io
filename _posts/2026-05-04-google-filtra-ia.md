@@ -7,7 +7,7 @@ tags: ia android google cosmo agente
 published: true
 ---
 
-![Google filtra accidentalmente su IA para Android]({{ site.url }}/assets/2026-05-04-google-filtra-ia.png){: width="40%" }
+[![Google filtra accidentalmente su IA para Android]({{ site.url }}/assets/2026-05-04-google-filtra-ia.png){: width="40%" }]({{ site.url }}/assets/2026-05-04-google-filtra-ia.png){: .thickbox title="Google filtra accidentalmente su IA para Android" }
 
 ## Esto no era para que lo veas
 

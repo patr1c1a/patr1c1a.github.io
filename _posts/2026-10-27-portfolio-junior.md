@@ -7,7 +7,7 @@ tags: apis recursos
 published: true
 ---
 
-![Portfolio de un programador junior]({{ site.url }}/assets/2026-10-27-portfolio-junior.png){: width="40%" }
+[![Portfolio de un programador junior]({{ site.url }}/assets/2026-10-27-portfolio-junior.png){: width="40%" }]({{ site.url }}/assets/2026-10-27-portfolio-junior.png){: .thickbox title="Portfolio de un programador junior" }
 
 ## Portfolio de un programador junior
 
