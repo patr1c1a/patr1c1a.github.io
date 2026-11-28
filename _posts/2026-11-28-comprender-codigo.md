@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 3 señales de que comprendés tu código
-date: 2026-11-28 16:00:00
+date: 2026-11-28 15:00:00
 categories: profesional
-tags: principiantes entrevistas
+tags: vibecoding entrevistas
 published: true
 ---
 
 [![3 señales de que comprendés tu código]({{ site.url }}/assets/2026-11-28-comprender-codigo.png){: width="40%" }]({{ site.url }}/assets/2026-11-28-comprender-codigo.png){: .thickbox title="3 señales de que comprendés tu código" }
 
-## 3 señales de que comprendés tu código (y no solo lo copiaste)
+Estas son 3 señales de que comprendés tu código (y no solo lo copiaste):
 
 **1. Podrías explicar por qué funciona:** No solo qué hace cada línea, sino por qué se eligió ese algoritmo, estructura de datos o condición.
 
