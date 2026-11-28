@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 3 señales de que comprendés tu código
-date: 2026-11-27 16:00:00
+date: 2026-11-28 16:00:00
 categories: profesional
 tags: principiantes entrevistas
 published: true
 ---
 
-![3 señales de que comprendés tu código]({{ site.url }}/assets/2026-11-27-comprender-codigo.png){: width="40%" }
+![3 señales de que comprendés tu código]({{ site.url }}/assets/2026-11-28-comprender-codigo.png){: width="40%" }
 
 ## 3 señales de que comprendés tu código (y no solo lo copiaste)
 
